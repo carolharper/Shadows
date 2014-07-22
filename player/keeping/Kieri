@@ -1,0 +1,309 @@
+#PLAYER
+Name Kieri~
+Email carol.harper@gmail.com~
+Id   1387672193
+LogO 1388105003
+Vers 5
+Prom {R%h/%H {G%m/%M {C%x/%X {Y%gg {W%ss{x (%e) %p/%P ~
+Race andoran~
+Quest_Curr    0
+Quest_Accum  0
+Lastlog Thu Dec 26 19:34:33 2013
+~
+Lastsite c-50-170-106-62.hsd1.wa.comcast.net~
+Sex  2
+Cla  0
+Levl 90
+Bounty 0
+Sec  0
+Plyd 73095
+RolePlayed 0
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 3750
+HMV  4948 5117 2363 6454
+HLoc 1658 1241 814 2520 1673 1239
+Gold 7
+Silv 5754
+Gold_bank 0
+Silv_bank 0
+Exp  697
+Act  DEFILQTb
+AutoAct  ABC
+ChanFlag  AB
+AfBy f
+Comm NPQ
+Comm2 0
+Pos  8
+Trai 1500
+Alig  0
+ArrCnt  0
+Hit   53
+Dam   38
+ACs -242 -238 -239 -238
+Attr 15 21 18 15 19
+AMod 16 15 17 15 16
+CSphere  123 66 151 113 48
+Sphere 123 66 151 113 48
+Burnout 0
+MaxBurnout 20
+MSphere 2
+Holding 0
+Autoholding 100
+Merits DFI
+Pass Ki7v65T.LbCE2~
+Appearance A freckle-faced woman with red hair~
+Titl  Elaison~
+Pnts 10
+TSex 2
+LLev 17
+Home 0
+ICLocRecall 8
+HMVP 5107 6454
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 1386188007 General 0 Ideas 1379974142 Personal 0 Guild 1386324175 Stories 1387080703 Bugs 0 Permanent 1382152099 Admin 0 PK 0 Immortal 1380433521 Newplayers 1387672475 
+Sk 1 'blindness'
+Sk 1 'call lightning'
+Sk 1 'calm'
+Sk 90 'fireball'
+Sk 74 'harm'
+Sk 1 'identify'
+Sk 90 'dagger'
+Sk 33 'dodge'
+Sk 90 'enhanced damage'
+Sk 21 'parry'
+Sk 85 'second attack'
+Sk 16 'third attack'
+Sk 1 'fast healing'
+Sk 32 'haggle'
+Sk 20 'lore'
+Sk 1 'meditation'
+Sk 1 'sneak'
+Sk 90 'embrace'
+Sk 1 'tying'
+Sk 1 'shielding'
+Sk 63 'staff'
+Sk 1 'blast of air'
+Sk 1 'wrap'
+Sk 20 'critical strike'
+Sk 1 'awareness'
+Sk 1 'observation'
+Sk 1 'alertness'
+Sk 1 'wall of air'
+Sk 1 'link'
+Sk 1 'slice'
+Sk 1 'staffmaster'
+Sk 47 'flamevoid'
+Sk 1 'air dome'
+Sk 1 'arrows of fire'
+Sk 1 'tornado'
+Sk 1 'blast door'
+Sk 23 'flog'
+Affc 'flamevoid'   0  88   3  15  18 -2147483648 1387672193
+BMtime 1387943906
+Backup 1387929607
+World A
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 3718
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3736
+Nest 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 3730
+Nest 0
+Wear 14
+Cost 50
+End
+
+#O
+Vnum 9999
+Nest 0
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 3742
+Nest 0
+Wear 4
+Cost 50
+End
+
+#O
+Vnum 3742
+Nest 0
+Wear 3
+Cost 50
+End
+
+#O
+Vnum 3744
+Nest 0
+Wear 19
+Cost 20
+End
+
+#O
+Vnum 3734
+Nest 0
+Wear 6
+Cost 50
+End
+
+#O
+Vnum 3734
+Nest 0
+Wear 5
+Cost 50
+End
+
+#O
+Vnum 3738
+Nest 0
+Wear 15
+Cost 10
+End
+
+#O
+Vnum 3732
+Nest 0
+Cond 85
+Wear 25
+Cost 5
+End
+
+#O
+Vnum 3733
+Nest 0
+Wear 18
+Cost 5
+End
+
+#O
+Vnum 3733
+Nest 0
+Wear 17
+Cost 5
+End
+
+#O
+Vnum 3727
+Nest 0
+Cond 51
+Wear 12
+Cost 50
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 65005
+Nest 0
+Cond 85
+Wear 8
+Cost 10
+End
+
+#O
+Vnum 65004
+Nest 0
+Wear 11
+Cost 10
+End
+
+#O
+Vnum 65003
+Nest 0
+Wear 10
+Cost 10
+End
+
+#O
+Vnum 65002
+Nest 0
+Cond 76
+Wear 7
+Cost 10
+End
+
+#O
+Vnum 65001
+Nest 0
+Cond 62
+Wear 9
+Cost 10
+End
+
+#O
+Vnum 65009
+Nest 0
+Cond 17
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3731
+Nest 0
+Wear 0
+Cost 5
+Val  0 0 65 0 0
+End
+
+#O
+Vnum 3731
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 9932
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 65028
+Nest 0
+Wear -1
+Cost 90
+End
+
+#O
+Vnum 3791
+Nest 0
+Cond 93
+Wear 20
+Cost 0
+End
+
+#END

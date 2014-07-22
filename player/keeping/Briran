@@ -1,0 +1,379 @@
+#PLAYER
+Name Briran~
+Email T_Amelia123@yahoo.com~
+Id   1391218992
+LogO 1391231930
+Vers 5
+Prom [ %e ] %c {M%h{W//{R%H {Y%m{W//{y%M {W[{G%x{W][{C%X{W]{x ~
+Race kandori~
+Quest_Curr    0
+Quest_Accum  0
+Lastlog Fri Jan 31 23:43:04 2014
+~
+Lastsite adsl-98-66-200-38.asm.bellsouth.net~
+Sex  1
+Cla  1
+Levl 90
+Bounty 0
+Sec  0
+Plyd 12908
+RolePlayed 0
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 8
+HMV  5094 5094 1113 6299
+HLoc 1698 1273 849 2547 1698 1273
+Gold 101
+Silv 10784
+Gold_bank 0
+Silv_bank 0
+Exp  176
+Act  DEFGHLQTb
+AutoAct  ABC
+ChanFlag  AB
+Comm JNPQ
+Comm2 0
+Pos  8
+Trai 1721
+Alig  0
+ArrCnt  0
+Hit   11
+Dam   11
+ACs -163 -157 -161 -141
+Attr 18 18 16 18 18
+AMod 7 9 10 7 8
+CSphere  0 0 0 0 0
+Sphere 0 0 0 0 0
+Burnout 0
+MaxBurnout 20
+MSphere -1
+Holding 0
+Autoholding 0
+Merits FJ
+Talents L
+Pass Brm39pb6AZxI2~
+Appearance A lanky black-haired man~
+Titl  probably wants to change his title.~
+Pnts 8
+TSex 1
+LLev 3
+Home 0
+ICLocRecall 8
+HMVP 5084 6299
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 0 General 0 Ideas 0 Personal 0 Guild 0 Stories 0 Bugs 0 Permanent 0 Admin 0 PK 0 Immortal 0 Newplayers 0 
+Sk 62 'dagger'
+Sk 1 'hunt'
+Sk 1 'duelling'
+BMtime 1391253275
+Backup 1391226097
+World A
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3701
+Nest 0
+Wear 20
+Cost 10
+End
+
+#O
+Vnum 3704
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 28069
+Nest 0
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 28062
+Nest 0
+Wear 19
+Cost 100
+End
+
+#O
+Vnum 3729
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 3730
+Nest 0
+Wear 14
+Cost 50
+End
+
+#O
+Vnum 3743
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 3727
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3737
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3729
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 3730
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3743
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3727
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3742
+Nest 0
+Wear 4
+Cost 50
+End
+
+#O
+Vnum 3742
+Nest 0
+Wear 3
+Cost 50
+End
+
+#O
+Vnum 3731
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3728
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3740
+Nest 0
+Wear 24
+Cost 50
+End
+
+#O
+Vnum 3740
+Nest 0
+Wear 23
+Cost 50
+End
+
+#O
+Vnum 3734
+Nest 0
+Wear 6
+Cost 50
+End
+
+#O
+Vnum 3734
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3738
+Nest 0
+Wear 15
+Cost 10
+End
+
+#O
+Vnum 3059
+Nest 0
+Wear 2
+Cost 50
+End
+
+#O
+Vnum 4229
+Nest 0
+Wear 18
+Cost 55
+End
+
+#O
+Vnum 4229
+Nest 0
+Wear 17
+Cost 55
+End
+
+#O
+Vnum 65005
+Nest 0
+Wear 8
+Cost 10
+End
+
+#O
+Vnum 65004
+Nest 0
+Wear 11
+Cost 10
+End
+
+#O
+Vnum 65003
+Nest 0
+Wear 10
+Cost 10
+End
+
+#O
+Vnum 65002
+Nest 0
+Wear 7
+Cost 10
+End
+
+#O
+Vnum 65001
+Nest 0
+Wear 9
+Cost 10
+End
+
+#O
+Vnum 3736
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3732
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3058
+Nest 0
+Wear 1
+Cost 50
+End
+
+#O
+Vnum 3048
+Nest 0
+Wear 25
+Cost 300
+End
+
+#O
+Vnum 14402
+Nest 0
+Wear 5
+Cost 179
+End
+
+#O
+Vnum 14336
+Nest 0
+Wear 16
+Cost 40
+End
+
+#O
+Vnum 14400
+Nest 0
+Wear 12
+Cost 79
+End
+
+#O
+Vnum 14331
+Nest 0
+Wear 13
+Cost 40
+End
+
+#O
+Vnum 58031
+Nest 0
+Wear -1
+Cost 60
+End
+
+#O
+Vnum 854
+Nest 0
+Wear 0
+Cost 15000
+Val  0 0 -1 0 0
+End
+
+#END

@@ -1,0 +1,434 @@
+#HELPS
+-1 'RACE HELP' 'RACE' 'RACES'~
+TSW offer a wide range of races as found in the Wheel of Time.  Each race
+has it's unique base, as reflected in world of Robert Jordan.  
+
+Please see the help files for each race for detailed description of each
+races uniquness (i.e. 'help andoran').  
+
+Available races consist of: Andoran, Aiel, Altaran, Amadician, Arafellan,
+Cairheinin, Domani, Ghealdanin, Illianer, Kandori, Mayener, Malkieran,
+Murandian, Ogier Saldaean, Shienara, Tairen, and Taraboner
+
+Future races that will be available when the timeline presents them are the
+Seanchan, Seafolk, and Trollocs.  
+~
+
+-1 HUMAN HUMANS MAN~
+Humans are the most common race in the world, and make up the majority of
+adventurers.  Humans may also train their primary stat higher than any other
+race.
+~
+
+-1 'MENU CHOICE'~
+Choice (add,drop,list,help)?~
+
+-1 BASICS 'ROM BASICS'~
+The basic skills:
+
+Every character starts with two skill groups, one for their class and a default
+set that all characters receive.  The default skills are:
+
+recall  	essential escape skill (see help recall)
+scrolls		reading of scrolls and other magical volumes
+staves		use of magical staves
+wands		use of magical wands
+
+for class defaults, check the classes themselves.
+~
+
+-1 THIEF~
+Thieves are a marginal class.  They do few things better than any other
+class, but have the widest range of skills available.  Thieves are
+specialists at thievery and covert actions, being capable of entering areas
+undetected where more powerful adventurers would fear to tread.  They are
+better fighters than channelers, but lack the wide weapon selection of
+warriors.  
+
+~
+
+-1 WARRIOR~
+Warriors live for combat and the thrill of battle. They are the best fighters
+of all the classes, but lack the subtle skills of thieves and the magical
+talents of channelers.  Warriors are best for those who don't mind
+taking the direct approach, even when another method might be called for.
+
+~
+
+-1 WEAPONS WEAPON WEAPONSMASTER ARROW AXE DAGGER FLAIL LANCE MACE POLEARM SPEAR SWORD WHIP STAFF EXOTIC~
+Each weapon skill applies to a specific group of armaments, and determines how
+well a character fights with a particular weapon.  The weaponsmaster group
+provides talent in all weapons (save exotics), from chair legs to halberds.
+If the character has the parry skill as well, he can parry incoming attacks.
+The chance of parrying is best if the character in question is skilled at 
+both his weapon and his opponent's.
+
+The weapon skills consist of the following:
+
+weaponsmaster	skill group of all weapons listed below (save exotic weaponry)
+arrow               the use of bows and arrows
+axe                 the use of axes, ranging from hand to great
+dagger		the use of knives and daggers, and other stabbing weapons
+lance               the skill of using lances
+flail		skill in ball-and-chain type weapons
+mace		this skill includes clubs and hammers as well as maces
+polearm		the use of pole weapons (except spears), including halberds
+spear		this skill covers both spears and staves, but not polearms
+sword		the warrior's standby, from rapier to claymore
+whip		the use of whips, chains, and bullwhips
+staff               the skill which allows you to wield a staff
+exotic              the use of strange magical weapons
+
+The exotic skill cannot be purchased, and is dependent solely upon level.
+~
+
+-1 Unused~
+~
+
+-1 CREATION~
+The creation spell group is used to create objects, of temporary or permanent
+duration.  Skill creators can travel without food or drink, and use their 
+powers to create nourishment as required.  All classes may become learned in
+this group, which contains these spells:
+
+continual light	creates an eternal light source
+create food	produces a nourishing mushroom
+create rose	creates a beautiful red rose
+create spring	calls forth a small but pure spring from the ground
+create water	fills any available container with water
+floating disc	creates a floating disc of force perfect for hauling treasure
+~
+
+-1 WEATHER~
+These spells allow the caster to manipulate local weather conditions, as well
+as summon fog clouds, lightning, or even electrical glows.  This group is
+usable by all classes.
+
+call lightning	summons a huge bolt from the heavens, if the weather is right
+control weather	changes the weather in the manner desired by the caster
+faerie fire	surrounds the target in a glowing aura
+faerie fog	reveals all hidden creatures in the room
+lightning bolt	sends a bolt of electricity into the target
+
+(the weather command, unrelated to this group, shows local weather conditions)
+~
+
+0 MINE GEMMINE~
+Skill Type: Active
+Command: mine/gemmine
+
+The mine and gemmine skills are used to gather raw materials that can be
+used to craft armor and jewelry with the appropriate skills.  This can only
+be done in rooms where mining and gemmining are allowed, which are
+designated by having a '$$$$$$' sign in the room description.  Mountainous
+areas will provide silver/rubies, areas near water will provide
+copper/diamonds, and desert areas will provide gold and iron/emeralds.
+Training these skills increases the likelyhood of receiving better quality
+ores and gems, up to a quality of 'perfect'.
+ 
+It costs {Y50 gold{x to mine/gemmine.
+~
+
+0 HUNT~
+Skill Type: Active
+Command: hunt <target>
+
+The hunt skill is used to track down targets in the area you're in,
+giving a sense of the direction you need to go in order to find your target.
+Training this skill makes it more likely that your direction sense will be
+accurate.  
+
+The hunt skill can only be used if you are in the same area; you cannot be
+in Illian and attempt to hunt someone that is in Tear.  In addition, there
+must be a path that can be followed between your current location and your
+target.  Certain mobs are trained in stealth and hiding their trail and
+cannot be located with this skill.  
+~
+
+-1 BERSERK~
+Only powerful characters can master berserking, the ability to enter
+insane rage in combat.  Its effects are not altogether unlike the frenzy
+spell -- a huge surge of combat prowess, coupled with a disregard for
+personal safety.  Berserking characters are more resistant to the effects of
+weaves.  
+~
+
+-1 DIRT 'DIRT KICKING'~
+Consider by some to be a cowardly skill, dirt kicking gives the clever 
+combatant a chance to blind his opponent by casting dirt into his eyes.  The
+blindness does not last long, but can provide an edge in combat.  Dexterity
+helps in hitting or avoiding a dirt kick.  Only warriors and thieves may
+learn this skill.
+~
+
+0 PUSH~
+Skill Type: Active
+Command: push/drag <target> <direction>
+
+The push skill allows you to move players and mobs out of the room
+they're in, either to get them out of the way or to group them together for
+some purpose.  Training this skill makes it more likely to work.  
+
+You increase your chances of pushing someone by having a higher level,
+higher strength or larger size than them.  Some mobs cannot be pushed at
+all, and others who are strong enough to resist your attempts may try to
+push you instead.  Any exit you try to push someone through must be open, so
+you cannot push someone through a locked door.  Keep in mind that some targets
+may not appreciate being pushed and can attack you, so be careful!
+
+The push skill only works on targets that are standing; for those that are
+sitting or sleeping, use the drag command instead.  
+~
+
+0 ARMORCRAFT JEWELCRAFT~
+Skill Type: Active
+Command: armorcraft/jewelcraft <wear slot> <first ore> <second ore/first gem>
+
+The armorcraft and jewelcraft skills are used to create pieces or armor
+or jewelry out of the ores and gems gathered by the mine and gemmine skills.
+Armor can be created for the legs, hands, arms, body or head, and requires
+two ore of at least flawless quality.  Jewelry can be created for the neck,
+ears or finger and requires one ore and one gem of at least flawless
+quality.  In both cases, higher-quality ores and gems will make stronger
+pieces of equipment.  Training these skills makes creating armor and jewelry
+successfully more likely.  
+ 
+It costs {Y150 gold{x to armorcraft/jewelcraft.
+~
+
+0 NOTUSED1~
+~
+
+0 ENVENOM~
+Skill Type: Active
+Command: envenom <weapon>/<food object>
+
+The envenom skill allows thieves to apply poison either to their weapons
+or a food item in order to give them an edge in combat.  Envenomed weapons
+have a chance to poison your target, which saps their strength and deals a
+small amount of damage.  Envenoming food has the same chance, but obviously
+requires the target to eat the item in question.  The chaos of combat will
+quickly remove venom from weapons.  Training this skill makes it more likely
+to work.  
+
+One thing to note: If this skill is used ICly to poison targets (either
+through combat or with food), both characters must agree beforehand
+regarding the severity of the poison.  If someone attempts to use poisoned
+food ICly and then claim that someone is dead without a chance at healing
+when they eat it, there will be SEVERE consequences.  
+~
+
+-1 'HAND TO HAND'~
+Hand to hand combat is a rare skill in the lands of the Wheel of Time. 
+Learning this style of fighting gives the player a weapon even when disarmed
+-- bare hands.  Trained hand to hand experts are far more effective than
+many swordsmen.  Warriors are the best at this skill, although thieves and
+channelers may also learn it.  
+~
+
+0 KICK~
+Skill Type: Active, Attacking
+Command: kick <target>
+Initiates Combat: Yes
+Used In Combat: Yes
+
+The kick command is used to deal damage to your target.  It deals a small
+amount of damage, but can be done twice a round, and can also be used to
+force mobs or players to attack you.  Training this skill increases the
+likelihood of the kick working and the damage you deal with it.  
+~
+
+0 WEAPONSMITH~
+Skill Type: Active
+Command: weaponsmith axe/dagger/mace/spear/sword iron <second ore>
+
+The weaponsmith skill allows weapons to be forged and used by the player.
+It requires two iron ore and an additional ore (gathered by the mining
+skill), all of the same quality; better-quality ores mean a stronger weapon.
+The additional ore used will help in determining the additional stats of the
+weapon (hitroll, damroll, hp/end, etc.)  The skill can be used to make
+swords, axes, maces, spears and daggers.  Training the skill makes creating
+the weapons successfully more likely.  
+
+It costs {Y150 gold{x to weaponsmith.  
+~
+
+0 RESCUE~
+Skill Type: Active
+Command: rescue <grouped player>
+
+The rescue skill allows you to remove someone who is in your group from
+combat and gain the focus of their opponent in their place.  The target will
+no longer be in combat (though they can still be attacked again!)  And you
+will instead be fighting the opponent that was fighting them.  The
+possibility of this skill working is based on your skill level as well as
+your dexterity and level compared to the person you're rescuing.  
+~
+
+0 TRIP BASH~
+Skill Type: Active, Attacking
+Command: trip/bash <target>
+Initiates Combat: Yes
+Used In Combat: Yes
+
+The trip and bash skills both allow you to force a target you are
+fighting to the ground, though in different ways.  Targets that are tripped
+or bashed will find themselves dazed, which makes them unable to attack and
+makes many other combat skills more difficult or impossible to do.  Training
+these skills makes them more likely to work.  
+
+In both cases, being larger than your opponent will assist you both with
+tripping/bashing them and resisting their trip/bash attempts, and people
+with good reflexes have an easier time avoiding trip/bash attempts as well. 
+People or mobs affected by the levitate weave cannot be tripped, but cannot
+trip others in response, and those affected by the wrap weave cannot trip or
+bash.  Those with good concentration find it easier to act if they are
+tripped/bashed.  
+~
+
+0 'CRITICAL STRIKE'~
+Skill Type: Passive
+
+The critical strike skill gives you a chance to perform an attack for
+more damage with weapons and fists (not weaves).  Critical strikes from
+standard attacks will display '*C*' beside them.  Some active combat skills
+can also benefit from the critical strike skill as well.  Training this
+skill increases the likelihood of gaining critical strikes.  
+
+Keep in mind that mobs also have access to the critical strike skill, and
+they can and will use it on you!  
+~
+
+0 'ARMOR USE'~
+Skill Type: Passive
+
+The armor use skill reduces the amount of damage taken from attacks by
+weapons and fists (not weaves).  Training this skill reduces damage further.
+~
+
+0 HIDE SNEAK~
+Skill Type: Active
+Command: hide/sneak
+
+The hide and sneak skills are both related to being undetected.  Hiding
+gives you a chance to be not seen in a room by others as long as you don't
+move, and sneaking gives you a chance to move from room to room without
+others seeing you enter/leave.  Training these skills makes it more likely
+that you will be able to successfully hide/sneak and makes it less likely
+you will be noticed; these skills are opposed by the awareness skill (hide)
+and the alertness skill (sneak).  
+
+There are other, smaller benefits to hiding and sneaking; some attacks that
+are best started from the shadows are more likely to succeed while hiding,
+and aggressive mobs may not notice you sneaking around if you keep moving.  
+ 
+To stop hiding/sneaking, use the 'vis' command.
+~
+
+0 NOTUSED10~
+~
+
+0 LORE~
+Skill Type: Active
+Command: lore <object>
+
+The lore skill allows you to study an object in your inventory to
+determine its properties, such as damage for weapons, armor class for armor
+and other information.  Using the lore skill costs endurance equal to twice
+the level of the item being studied.  Training this skill makes it more
+likely to work on the first try.  
+~
+
+0 HAGGLE~
+Skill Type: Passive
+
+The haggle skill allows you to negotiate lowered prices from NPC vendors
+when buying items and higher prices when selling items.  Training this skill
+increases the likelihood of it triggering and the discount/bonus you can
+get.  
+~
+
+0 FLAMEVOID~
+Skill Type: Active, Buffing
+Command: flamevoid
+
+The flamevoid skill allows a person to become one with the Void, shutting
+out distractions and giving them a bonus to hit their target in combat with
+weapons and fists (not weaves).  Training this skill makes it more likely to
+work, increases the bonus received and the amount of time it lasts.  
+~
+
+0 'PICK LOCK'~
+Skill Type: Active
+Command: pick <direction/object>
+
+The pick lock skill is used to open doors and containers that are locked
+without the key, but it can only be used to unlock something, not lock it
+again.  Training this skill makes it more likely to work.  
+
+There are some locks that cannot be picked and will require the key to open;
+you will receive a message indicating that the lock is 'too complex' to be
+picked in this case.  
+~
+
+0 NOTUSED3~
+~
+
+0 'REMOVE RESIDUES'~
+Skill Type: Active (Residues Talent)
+Command: rremove <weave>
+
+The remove residues skill is available only to those who have a talent
+for seeing the residues of weaves that have been used recently, and it used
+to remove residues of your own weaves, both to conceal that they were used
+and to make it impossible for others with the ability from studying and
+learning your weave.  This skill can only be used on weaves you yourself
+have used.  Training this skill makes it more likely to work.  
+~
+
+-1 'PORTAL'~
+Level: 60
+
+Syntax: cast 'portal' <target>
+
+Composed of threads of {WAir{w, {yEarth{w, and {YSpirit{w, the portal weave is similar
+to gate, but creates a lasting one-way portal to the target creature,
+instead of transporting the caster.  Portals are entered using 'enter' or
+'go' command, as in 'go portal'.  Portals cannot be made to certain
+destinations, nor used to escape from gate-proof rooms.  Portal requires a
+special source of power to be used, unfortunately the secret of this
+material component has been lost...  
+~
+
+-1 SLOW~
+Syntax: cast 'slow' <target>
+
+Despite popular mythology, slow is not the opposite of haste, but is a spell
+with it's own unique set of effects.  When cast on an unfortunate victim,
+it slows its movements, making it easier to hit and reducing its rate
+of attack.  The effect of slow also double movement costs and halve healing
+rates, due to reduced metabolism.
+~
+
+-1 ALIAS UNALIAS~
+Syntax: alias
+	alias <word>
+	alias <word> <substitution>
+	unalias <word>
+
+The alias command allows limited shortening of command names.  At this time,
+aliases cannot call other aliases, and cannot generate more than one command.
+Alias by itself lists your current aliases, Alias <word> lists the alias with 
+that name (if such exist), and alias with both a word and and argument 
+produces a new alias.  You cannot alias either alias or unalias to a new
+command.  Examples of use:
+
+alias gc get all corpse --> typing gc will equal typing 'get all corpse'
+alias ff cast 'fireball' --> ff orc will equal 'cast 'fireball' orc'
+
+Only the first word on the line will be subsituted at this time.
+~
+
+-1 $~
+
+#$

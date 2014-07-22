@@ -1,0 +1,851 @@
+#PLAYER
+Name Keron~
+Email heronbm200@hotmail.com~
+Id   1376455910
+LogO 1389744510
+Vers 5
+Prom [{R%h{x/{R%H{xhp {G%m{x/{G%M{xen] ~
+Race shienaran~
+Quest_Curr    3777
+Quest_Accum  4777
+Lastlog Tue Jan 14 18:52:51 2014
+~
+Lastsite h117.233.186.173.dynamic.ip.windstream.net~
+Sex  1
+Cla  2
+Levl 90
+ELevl 83
+Bounty 0
+Sec  0
+Plyd 543531
+RolePlayed 0
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 8621
+HMV  5923 5923 6047 7719
+HLoc 1974 1480 987 2961 1974 1480
+Target 2
+Gold 6
+Silv 8350
+Gold_bank 0
+Silv_bank 73000
+Exp  1078
+Act  CDHILQTb
+AutoAct  ABCDG
+App  A
+ChanFlag  AB
+Comm PQ
+Comm2 0
+Pos  8
+Trai 233
+Alig  0
+ArrCnt  0
+Hit   110
+Dam   106
+ACs -711 -715 -720 -666
+Attr 21 15 15 19 18
+AMod 11 11 13 10 9
+CSphere  0 0 0 0 0
+Sphere 0 0 0 0 0
+Burnout 0
+MaxBurnout 20
+MSphere -1
+Holding 0
+Autoholding 0
+Merits BFIJ
+Flaws E
+Pass Ke94DXX0fWj1s~
+Appearance A short thickset man~
+HAppearance A short, swift-moving hooded figure~
+ICtitl with a topknot~
+Titl  probably wants to change his title.~
+Polls 1~
+Pnts 10
+TSex 1
+LLev 147
+Home 0
+ICLocRecall 8
+HMVP 5278 7258
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 1386188007 General 1380940868 Ideas 1384634766 Personal 1377809421 Guild 1378695375 Stories 1387080703 Bugs 1379733625 Permanent 1382152099 Admin 0 PK 0 Immortal 1376869190 Newplayers 0 
+Sk 95 'shield block'
+Sk 131 'sword'
+Sk 1 'bash'
+Sk 11 'bash door'
+Sk 95 'dirt kicking'
+Sk 104 'dodge'
+Sk 100 'dual wield'
+Sk 99 'enhanced damage'
+Sk 71 'blademaster'
+Sk 114 'hand to hand'
+Sk 104 'kick'
+Sk 105 'parry'
+Sk 95 'rescue'
+Sk 105 'trip'
+Sk 103 'throw'
+Sk 100 'second attack'
+Sk 105 'third attack'
+Sk 95 'fast healing'
+Sk 98 'hide'
+Sk 21 'herbs'
+Sk 67 'lore'
+Sk 95 'meditation'
+Sk 103 'pick lock'
+Sk 95 'sneak'
+Sk 98 'riding'
+Sk 95 'push'
+Sk 99 'critical strike'
+Sk 95 'armor use'
+Sk 95 'awareness'
+Sk 95 'observation'
+Sk 95 'alertness'
+Sk 99 'guard'
+Sk 95 'block'
+Sk 104 'fourth attack'
+Sk 95 'fifth attack'
+Sk 95 'flamevoid'
+Sk 95 'whirlwind'
+Sk 100 'concussion blow'
+Sk 95 'iron will'
+BMtime 1389766101
+Backup 1387494767
+World A
+Webvote 1387421216
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 8661
+Nest 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3421
+Nest 0
+Wear 6
+Cost 300
+End
+
+#O
+Vnum 3418
+Nest 0
+Name a large keyring~
+ShD  {Da l{wa{Drge {yke{Yy{yring{x{x~
+Desc {Da l{wa{Drge {yke{Yy{yring{x{x~
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 7515
+Nest 1
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 7517
+Nest 1
+Cond 58
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 144
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12475
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 884
+Nest 1
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 768
+Nest 1
+Wear -1
+Cost 8
+End
+
+#O
+Vnum 745
+Nest 1
+Wear -1
+Cost 8
+End
+
+#O
+Vnum 744
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 768
+Nest 1
+Wear -1
+Cost 8
+End
+
+#O
+Vnum 39649
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8627
+Nest 1
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 7511
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7513
+Nest 1
+ExtF 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12751
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 12690
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 12474
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 9707
+Nest 1
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 8440
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8441
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8470
+Nest 1
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 8489
+Nest 1
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 8479
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8478
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8465
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 28225
+Nest 1
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 28223
+Nest 1
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 3606
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21238
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9710
+Nest 1
+Wear -1
+Cost 60
+End
+
+#O
+Vnum 24134
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 14382
+Nest 1
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 14375
+Nest 1
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 14386
+Nest 1
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 14314
+Nest 1
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 14012
+Nest 1
+ExtF 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14375
+Nest 1
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 14378
+Nest 1
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 14383
+Nest 1
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 14376
+Nest 1
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 12081
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14468
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3421
+Nest 0
+Wear 5
+Cost 300
+End
+
+#O
+Vnum 6341
+Nest 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 883
+Nest 0
+Wear 3
+Cost 10000
+End
+
+#O
+Vnum 3415
+Nest 0
+Wear 24
+Cost 0
+End
+
+#O
+Vnum 883
+Nest 0
+Wear 4
+Cost 10000
+End
+
+#O
+Vnum 58424
+Nest 0
+Wear 18
+Cost 10
+End
+
+#O
+Vnum 8734
+Nest 0
+Wear 14
+Cost 150
+End
+
+#O
+Vnum 58423
+Nest 0
+Wear 11
+Cost 10
+End
+
+#O
+Vnum 5277
+Nest 0
+ExtF 0
+Cond 38
+Wear 12
+Cost 300
+End
+
+#O
+Vnum 58424
+Nest 0
+Wear 17
+Cost 10
+End
+
+#O
+Vnum 3418
+Nest 0
+Name a box made of sungwood~
+ShD  {Da {ybox {Dmade of {rs{yun{rg{ywoo{rd{x{x~
+Desc {Da {ybox {Dwith {Ds{gc{Dr{go{Dl{gl{Di{gn{Dg {Gv{gi{Gnes {Dmade of {rs{yun{rg{ywoo{rd{x{x~
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 6262
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cancellation'
+Spell 2 'cure poison'
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 6262
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cancellation'
+Spell 2 'cure poison'
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 1623
+Nest 0
+Cond 95
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 1620
+Nest 0
+Cond 65
+Wear 9
+Cost 85
+End
+
+#O
+Vnum 1623
+Nest 0
+Cond 97
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 1661
+Nest 0
+Cond 75
+Wear 8
+Cost 60
+End
+
+#O
+Vnum 1662
+Nest 0
+Wear 15
+Cost 60
+End
+
+#O
+Vnum 1665
+Nest 0
+Wear 0
+Cost 0
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 1683
+Nest 0
+Cond 76
+Wear 25
+Cost 45
+End
+
+#O
+Vnum 6262
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cancellation'
+Spell 2 'cure poison'
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 6262
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cancellation'
+Spell 2 'cure poison'
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 6262
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cancellation'
+Spell 2 'cure poison'
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 6262
+Nest 0
+Wear -1
+Cost 500
+Spell 1 'cancellation'
+Spell 2 'cure poison'
+Spell 3 'cure disease'
+End
+
+#O
+Vnum 39645
+Nest 0
+Wear 16
+Cost 50
+End
+
+#O
+Vnum 7516
+Nest 0
+Cond 50
+Wear 7
+Cost 300
+End
+
+#O
+Vnum 1688
+Nest 0
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 63616
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63618
+Nest 0
+Wear -1
+Cost 150
+Val  50 25 27 23 -1
+Spell 1 'cure disease'
+Spell 2 'cure poison'
+Spell 3 'cure blindness'
+End
+
+#O
+Vnum 63618
+Nest 0
+Wear -1
+Cost 150
+Val  50 25 27 23 -1
+Spell 1 'cure disease'
+Spell 2 'cure poison'
+Spell 3 'cure blindness'
+End
+
+#O
+Vnum 63618
+Nest 0
+Wear -1
+Cost 150
+Val  50 25 27 23 -1
+Spell 1 'cure disease'
+Spell 2 'cure poison'
+Spell 3 'cure blindness'
+End
+
+#O
+Vnum 63618
+Nest 0
+Wear -1
+Cost 150
+Val  50 25 27 23 -1
+Spell 1 'cure disease'
+Spell 2 'cure poison'
+Spell 3 'cure blindness'
+End
+
+#O
+Vnum 63618
+Nest 0
+Wear -1
+Cost 150
+Val  50 25 27 23 -1
+Spell 1 'cure disease'
+Spell 2 'cure poison'
+Spell 3 'cure blindness'
+End
+
+#O
+Vnum 1630
+Nest 0
+Wear 10
+Cost 100
+End
+
+#O
+Vnum 1664
+Nest 0
+Wear 23
+Cost 0
+End
+
+#O
+Vnum 24114
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 24114
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 24114
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 63616
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 12749
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 21239
+Nest 0
+ExtF 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9994
+Nest 0
+Wear -1
+Cost 0
+Spell 1 'bless'
+Spell 2 'stone skin'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 12749
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 8670
+Nest 0
+Cond 94
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 8671
+Nest 0
+Wear -1
+Cost 160
+End
+
+#O
+Vnum 8679
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9929
+Nest 0
+Wear -1
+Cost 250
+Val  50 54 83 27 0
+End
+
+#O
+Vnum 9930
+Nest 1
+Wear -1
+Cost 0
+End
+
+#END

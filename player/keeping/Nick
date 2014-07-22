@@ -1,0 +1,104 @@
+#PLAYER
+Name Nick~
+Email yyoulooking@me.com~
+Id   1377230997
+LogO 1377231064
+Vers 5
+Prom [{R%h{x/{R%H{xhp {G%m{x/{G%M{xen] ~
+Race domani~
+Quest_Curr    0
+Quest_Accum  0
+Lastlog Thu Aug 22 21:09:56 2013
+~
+Lastsite 162.sub-70-195-193.myvzw.com~
+Sex  1
+Cla  2
+Levl 1
+Bounty 0
+Sec  0
+Plyd 68
+RolePlayed 0
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 35501
+HMV  500 500 500 500
+HLoc 166 125 83 250 166 125
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Exp  0
+Act  DEFLQTV
+AutoAct  ABCG
+ChanFlag  AB
+Comm PQUVWX
+Comm2 0
+Pos  8
+Alig  0
+ArrCnt  0
+Dam   1
+ACs 97 99 100 100
+Attr 18 15 15 15 15
+AMod 0 0 0 0 0
+CSphere  0 0 0 0 0
+Sphere 0 0 0 0 0
+Burnout 0
+MaxBurnout 20
+MSphere -1
+Holding 0
+Autoholding 0
+Pass NiFsc0JtkbFeA~
+Appearance I'm a tester guy~
+Titl , spun out by the Pattern.~
+Pnts 10
+TSex 1
+LLev 0
+Home 0
+ICLocRecall 8
+HMVP 500 500
+Cnd  0 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 0 General 0 Ideas 0 Personal 0 Guild 0 Stories 0 Bugs 0 Permanent 0 Admin 0 PK 0 Immortal 0 Newplayers 0 
+Sk 40 'sword'
+World A
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 3716
+Nest 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3702
+Nest 0
+Wear 20
+Cost 10
+End
+
+#O
+Vnum 3704
+Nest 0
+Wear 13
+Cost 0
+End
+
+#END

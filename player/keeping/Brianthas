@@ -1,0 +1,412 @@
+#PLAYER
+Name Brianthas~
+Email none@none.com~
+Id   1377821199
+LogO 1383196183
+Vers 5
+Desc Standing tall before you is this broad-shouldered, ruggedly handsome
+man.  His hair is long, brushing his shoulders, and is a dark, {yoaken{x
+brown.  He has a handsome face, with a smoothly defined jaw and straight
+nose, although the nose seems a bit too big for his face and stubble lines
+mar his otherwise smooth jaw.  His {Cazure{x eyes wander the room with
+a raptor-like gaze, missing nothing.  His body is well proportioned, with
+long arms, legs, and a well muscled chest.  
+
+Weapons are on every part of this man, from the mace, whip, and waraxe
+hanging on his belt to the dual-swords on his back and crossbow with a full
+quiver of barbed bolts on his shoulder.  A brace of knives decorates his
+arms, and every weapon looks honed and ready for battle.  
+~
+Prom < {R%h/%H {G%m/%M {C%x/%X {Y%gg {W%ss{x (%e) ~
+Race andoran~
+Quest_Curr    1822
+Quest_Accum  3622
+QuestNext   2
+Lastlog Thu Oct 31 00:49:57 2013
+~
+Lastsite 71-93-64-114.dhcp.reno.nv.charter.com~
+Sex  1
+Cla  2
+Levl 90
+ELevl 886
+Bounty 0
+Sec  0
+Plyd 60993
+RolePlayed 0
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 5895
+HMV  6956 6956 1806 9970
+HLoc 2318 1739 1159 3478 2318 1739
+Target 2
+Gold 1681
+Silv 21729
+Gold_bank 0
+Silv_bank 0
+Exp  1611664
+Act  CDFGHILOQTbc
+AutoAct  ABCDEFGH
+ChanFlag  AB
+Comm DJPQ
+Comm2 0
+Inco 1
+Pos  8
+Trai 404
+Alig  0
+ArrCnt  0
+Hit   292
+Dam   285
+ACs -777 -777 -777 -733
+Attr 23 15 15 15 20
+AMod 15 2 2 9 8
+CSphere  0 0 0 0 0
+Sphere 0 0 0 0 0
+Burnout 0
+MaxBurnout 20
+MSphere -1
+Holding 0
+Autoholding 0
+Merits BFJ
+Pass BrhdgB.SsmXEM~
+Appearance A tall, handsome man~
+HAppearance A tall, hooded figure~
+ICtitl wearing an assortment of weapons~
+Titl  Innoculi~
+Pnts 10
+TSex 1
+LLev 14
+Home 0
+ICLocRecall 8
+HMVP 6531 9614
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+SheatWName <sheathed on back>  ~
+SheatWName <sheathed on back>  ~
+Boards       12 Announce 1380499136 General 1379537558 Ideas 1380046497 Personal 1379984957 Guild 1379725263 Stories 1379995879 Bugs 1379733625 Permanent 1379386728 Admin 0 PK 1379688643 Immortal 1379719987 Newplayers 1380047115 
+Sk 118 'arrow'
+Sk 106 'axe'
+Sk 114 'bow'
+Sk 109 'dagger'
+Sk 110 'flail'
+Sk 128 'mace'
+Sk 95 'spear'
+Sk 302 'sword'
+Sk 107 'whip'
+Sk 113 'bash door'
+Sk 104 'berserk'
+Sk 108 'dirt kicking'
+Sk 302 'dodge'
+Sk 102 'dual wield'
+Sk 302 'enhanced damage'
+Sk 165 'blademaster'
+Sk 137 'hand to hand'
+Sk 300 'parry'
+Sk 98 'rescue'
+Sk 102 'trip'
+Sk 202 'second attack'
+Sk 215 'third attack'
+Sk 97 'fast healing'
+Sk 145 'hide'
+Sk 95 'lore'
+Sk 125 'meditation'
+Sk 95 'peek'
+Sk 140 'sneak'
+Sk 97 'riding'
+Sk 107 'push'
+Sk 99 'staff'
+Sk 302 'critical strike'
+Sk 127 'armor use'
+Sk 140 'awareness'
+Sk 140 'observation'
+Sk 148 'alertness'
+Sk 95 'guard'
+Sk 140 'block'
+Sk 95 'bind'
+Sk 220 'fourth attack'
+Sk 214 'fifth attack'
+Sk 100 'flamevoid'
+Sk 105 'whirlwind'
+Sk 95 'concussion blow'
+Sk 99 'iron will'
+BMtime 1379236620
+Backup 1381893376
+World A
+Webvote 1383202447
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 58072
+Nest 0
+Name intimidating aura float~
+ShD  an {Dint{Wi{wmi{Wdat{Ding{x aura{x~
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 6341
+Nest 0
+Name thick ropelike scar tattoo~
+ShD  a thick, ropelike scar on his back{x~
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 40065
+Nest 0
+Name sharp metal stud ear~
+ShD  a sharp {Dme{Wt{Dal{x stud{x~
+Desc an {gem{Ger{ga{Gl{gd{x seven-stone {Yg{yol{Yd{yen{x earring lies here.~
+WeaF 1048577
+Cond 100
+Owner Brianthas~
+Wear 24
+Cost 100
+Affc 'jewelcraft'   1  90  -1  26  18          0
+Affc 'jewelcraft'   1  90  -1  19  19          0
+End
+
+#O
+Vnum 40065
+Nest 0
+Name sharp metal stud ear~
+ShD  a sharp {Dme{Wt{Dal{x stud{x~
+Desc an {gem{Ger{ga{Gl{gd{x seven-stone {Yg{yol{Yd{yen{x earring lies here.~
+WeaF 1048577
+Cond 100
+Owner Brianthas~
+Wear 23
+Cost 100
+Affc 'jewelcraft'   1  90  -1  24  18          0
+Affc 'jewelcraft'   1  90  -1  21  19          0
+End
+
+#O
+Vnum 40065
+Nest 0
+Name nothing head~
+ShD  {Dnothing{x{x~
+Desc a helmet with braided {Ws{Di{Wl{Dv{We{Dr{x and {Yg{yol{Yd{yen{x adornments lies here~
+WeaF 17
+Cond 100
+Owner Brianthas~
+Wear 8
+Cost 100
+Affc 'armorcraft'   1  90  -1  20  18          0
+Affc 'armorcraft'   1  90  -1  18  19          0
+End
+
+#O
+Vnum 14881
+Nest 0
+Name ring sapphire silver~
+ShD  a {Ds{Wilve{Dr{x ring set with a {Bsa{bpphi{Bre{x{x~
+Desc A ring lies on the ground here.{x~
+Wear 3
+Cost 200
+End
+
+#O
+Vnum 14881
+Nest 0
+Name nothing ring~
+ShD  {Dnothing{x{x~
+Desc A ring lies on the ground here.{x~
+Wear 4
+Cost 200
+End
+
+#O
+Vnum 3421
+Nest 0
+Name pendant hidden neck~
+ShD  a pendant hidden beneath his {Dc{wha{Wins{whi{Drt{x{x~
+Wear 6
+Cost 300
+End
+
+#O
+Vnum 3421
+Nest 0
+Name thick silver necklace neck~
+ShD  a thick, {Dsi{Wlv{Der{x necklace{x~
+Wear 5
+Cost 300
+End
+
+#O
+Vnum 7777
+Nest 0
+Name dark leather dual sheath back~
+ShD  a {Dda{yrk leath{Der{x dual sword sheath{x~
+Wear 14
+Cost 300
+End
+
+#O
+Vnum 16033
+Nest 0
+Name belt~
+ShD  a {Db{yel{Dt{x from which hangs a {Dm{Wac{De{x, {yw{Dhi{yp{x, and {Dw{War{wa{Wx{De{x~
+Wear 16
+Cost 75
+End
+
+#O
+Vnum 58424
+Nest 0
+Wear 18
+Cost 10
+End
+
+#O
+Vnum 1607
+Nest 0
+Name piercing raptor gaze face~
+ShD  a piercing, raptor-like gaze{x~
+Cond 14
+Wear 25
+Cost 300
+End
+
+#O
+Vnum 40065
+Nest 0
+Name thick steel chain shirt body~
+ShD  a thick {Dst{We{Del{x {Dc{Wha{wins{Whi{Drt{x{x~
+Desc a pure {Yg{yol{Yd{yen{x chain armor lies here~
+WeaF 9
+Cond 100
+Owner Brianthas~
+Wear 7
+Cost 100
+Affc 'armorcraft'   1  90  -1  38  19          0
+End
+
+#O
+Vnum 1665
+Nest 0
+Name bright lantern light~
+ShD  a bright {Yla{Rn{Wt{Re{Yrn{x{x~
+Wear 0
+Cost 0
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 1662
+Nest 0
+Name cloak black leather water~
+ShD  a {Db{Wlac{Dk{x, water-proofed leather cloak{x~
+Wear 15
+Cost 60
+End
+
+#O
+Vnum 41
+Nest 0
+Name mine sword single edged steel~
+ShD  a single-edged {Dda{Wrk {ws{Wte{Del{x sword marked with a heron{x~
+Wear 21
+Cost 1000
+End
+
+#O
+Vnum 41
+Nest 0
+Name mine sword single edged steel~
+ShD  a single-edged {Dda{Wrk {ws{Wte{Del{x sword marked with a heron{x~
+Wear 20
+Cost 1000
+End
+
+#O
+Vnum 40065
+Nest 0
+Name thick steel chainmail leggings leg legs~
+ShD  a pair of thick {Dst{We{Del{x {Dc{Wha{win{Wma{Dil{x leggings{x~
+Desc a pair of leggings made of pure {Ws{Di{Wl{Dv{We{Dr{x lies here~
+WeaF 33
+Cond 100
+Wear 9
+Cost 100
+Affc 'armorcraft'   1  90  -1  35  18          0
+End
+
+#O
+Vnum 40065
+Nest 0
+Name thick steel chainmail gloves hands~
+ShD  a pair of thick {Dst{We{Del{x {Dc{Wha{win{Wma{Dil{x gloves{x~
+Desc a pure {Yg{yol{Yd{yen{x pair of gloves lies here~
+WeaF 129
+Cond 100
+Wear 11
+Cost 100
+Affc 'armorcraft'   1  90  -1  36  19          0
+End
+
+#O
+Vnum 16068
+Nest 0
+Name black leather boots feet~
+ShD  a pair of {Dblack leather{x boots{x~
+Wear 10
+Cost 150
+End
+
+#O
+Vnum 58424
+Nest 0
+Wear 17
+Cost 10
+End
+
+#O
+Vnum 40065
+Nest 0
+Name brace steel knives arms arm~
+ShD  a brace of {Dst{We{Del{x {Dkn{Wiv{Des{x{x~
+Desc a set of armbands made of pure {Ws{Di{Wl{Dv{We{Dr{x lies here~
+WeaF 257
+Cond 24
+Wear 12
+Cost 100
+Affc 'armorcraft'   1  90  -1  37  18          0
+End
+
+#O
+Vnum 65100
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 27454
+Nest 0
+Name dark steel lance~
+ShD  a {Dda{Wrk {ws{Wte{Del{x lance{x~
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#END

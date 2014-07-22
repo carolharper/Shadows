@@ -1,0 +1,417 @@
+#PLAYER
+Name Jeorge~
+Email none~
+Id   1377730792
+LogO 1377915453
+Vers 5
+Prom [ %e ] %c {M%h{W//{R%H {Y%m{W//{y%M {C%p{W//{B%P {W[{G%x{W][{C%X{W]{x ~
+Race kandori~
+Quest_Curr    0
+Quest_Accum  0
+Lastlog Fri Aug 30 18:51:18 2013
+~
+Lastsite adsl-98-66-169-98.asm.bellsouth.net~
+Sex  1
+Cla  0
+Levl 90
+Bounty 0
+Sec  0
+Plyd 26145
+RolePlayed 0
+Scro 98
+PKCount 0
+PKDiedCount 0
+Room 8452
+HMV  4807 4807 5832 5846
+HLoc 1602 1201 801 2403 1602 1201
+Gold 58
+Silv 3591
+Gold_bank 0
+Silv_bank 0
+Exp  249
+Act  DEFGHLQTb
+AutoAct  ABCG
+ChanFlag  AB
+Comm JNPQ
+Comm2 0
+Pos  8
+Trai 1897
+Alig  0
+ArrCnt  0
+Hit   27
+Dam   25
+ACs -210 -179 -227 -151
+Attr 17 20 17 17 17
+AMod 6 0 9 7 8
+CSphere  65 65 207 67 64
+Sphere 65 65 207 67 64
+Burnout 0
+MaxBurnout 20
+MSphere 2
+Holding 0
+Autoholding 0
+Merits BF
+Talents L
+Pass Jei/7ZP/mhNfk~
+Appearance A brown-eyed man~
+Titl  probably wants to change his title.~
+Pnts 8
+TSex 1
+LLev 6
+Home 0
+ICLocRecall 8
+HMVP 4647 5746
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 0 General 0 Ideas 0 Personal 0 Guild 0 Stories 0 Bugs 0 Permanent 1362452713 Admin 0 PK 0 Immortal 0 Newplayers 1377735742 
+Sk 10 'shield block'
+Sk 90 'sword'
+Sk 80 'enhanced damage'
+Sk 18 'second attack'
+Sk 20 'fast healing'
+Sk 1 'hunt'
+Sk 16 'meditation'
+Sk 78 'seize'
+Sk 90 'awareness'
+Sk 90 'observation'
+Sk 1 'alertness'
+Backup 1377737195
+World A
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 3730
+Nest 0
+Wear 14
+Cost 50
+End
+
+#O
+Vnum 3727
+Nest 0
+Wear 12
+Cost 50
+End
+
+#O
+Vnum 3742
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3740
+Nest 0
+Wear 24
+Cost 50
+End
+
+#O
+Vnum 3740
+Nest 0
+Wear 23
+Cost 50
+End
+
+#O
+Vnum 3734
+Nest 0
+Wear 6
+Cost 50
+End
+
+#O
+Vnum 3732
+Nest 0
+Wear 25
+Cost 5
+End
+
+#O
+Vnum 3715
+Nest 0
+Wear -1
+Cost 10
+Val  200 1 0 200 50
+End
+
+#O
+Vnum 3731
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3731
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 58406
+Nest 1
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 58406
+Nest 1
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 8465
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8478
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8440
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8441
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3741
+Nest 0
+Wear 16
+Cost 50
+End
+
+#O
+Vnum 3734
+Nest 0
+Wear 5
+Cost 50
+End
+
+#O
+Vnum 3739
+Nest 0
+Wear 13
+Cost 50
+End
+
+#O
+Vnum 3736
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 65005
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 65004
+Nest 0
+Wear 11
+Cost 10
+End
+
+#O
+Vnum 65003
+Nest 0
+Wear 10
+Cost 10
+End
+
+#O
+Vnum 65002
+Nest 0
+Wear 7
+Cost 10
+End
+
+#O
+Vnum 65001
+Nest 0
+Wear 9
+Cost 10
+End
+
+#O
+Vnum 65006
+Nest 0
+Wear 20
+Cost 10
+End
+
+#O
+Vnum 4229
+Nest 0
+Wear 17
+Cost 55
+End
+
+#O
+Vnum 4229
+Nest 0
+Wear 18
+Cost 55
+End
+
+#O
+Vnum 115
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 8476
+Nest 0
+Wear -1
+Cost 70
+End
+
+#O
+Vnum 39641
+Nest 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 7514
+Nest 0
+Cond 80
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3403
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3403
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 64173
+Nest 0
+Wear 15
+Cost 60
+End
+
+#O
+Vnum 3414
+Nest 0
+Cond 77
+Wear 8
+Cost 200
+End
+
+#O
+Vnum 854
+Nest 0
+Wear 0
+Cost 15000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 1684
+Nest 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 39638
+Nest 0
+Wear 4
+Cost 250
+End
+
+#O
+Vnum 39638
+Nest 0
+Wear 3
+Cost 250
+End
+
+#O
+Vnum 8479
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8550
+Nest 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 8549
+Nest 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 8548
+Nest 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 8547
+Nest 0
+Wear -1
+Cost 150
+End
+
+#END

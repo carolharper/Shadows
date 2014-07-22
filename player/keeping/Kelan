@@ -1,0 +1,176 @@
+#PLAYER
+Name Kelan~
+Email sorry@nomail.com~
+Id   1382655685
+LogO 1382662759
+Vers 5
+Prom [{R%h{x/{R%H{xhp {G%m{x/{G%M{xen {W%p{x/{W%P{xop] ~
+Race tarvaloner~
+Quest_Curr    0
+Quest_Accum  0
+Lastlog Thu Oct 24 16:01:24 2013
+~
+Lastsite c-76-120-121-207.hsd1.co.comcast.net~
+Sex  2
+Cla  0
+Levl 13
+Bounty 0
+Sec  0
+Plyd 7075
+RolePlayed 0
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 3756
+HMV  361 379 412 746
+HLoc 122 91 59 187 122 90
+Gold 50
+Silv 383
+Gold_bank 0
+Silv_bank 0
+Exp  234
+Act  DEFLQT
+AutoAct  ABC
+ChanFlag  AB
+AfBy b
+Comm PQb
+Comm2 0
+Pos  8
+Trai 23
+Alig  0
+ArrCnt  0
+Hit   5
+Dam   1
+ACs 97 99 100 100
+Attr 13 26 21 15 13
+AMod 0 0 0 0 0
+CSphere  107 63 66 43 38
+Sphere 27 36 43 37 38
+Burnout 0
+MaxBurnout 20
+MSphere -1
+Holding 59
+Autoholding 35
+Merits DEF
+Flaws EH
+Talents BM
+Pass KeCGsn1IpjNuo~
+Appearance A short arrogant woman~
+Titl  changed her title?~
+Pnts 8
+TSex 2
+LLev 1
+Home 0
+ICLocRecall 8
+HMVP 529 746
+Cnd  0 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 0 General 0 Ideas 0 Personal 0 Guild 0 Stories 0 Bugs 0 Permanent 0 Admin 0 PK 0 Immortal 0 Newplayers 0 
+Sk 15 'create spring'
+Sk 28 'refresh'
+Sk 66 'dagger'
+Sk 2 'shield block'
+Sk 1 'haggle'
+Sk 1 'lore'
+Sk 30 'meditation'
+Sk 62 'embrace'
+Sk 20 'tying'
+Sk 35 'grow berries'
+Sk 30 'create flame'
+Sk 62 'bar of fire'
+Sk 1 'flying rocks'
+Sk 33 'blast of air'
+Sk 1 'stream of water'
+Sk 1 'awareness'
+Sk 1 'observation'
+Backup 1382661058
+World A
+Webvote 1382668593
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 99
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3701
+Nest 0
+Wear 20
+Cost 10
+End
+
+#O
+Vnum 3715
+Nest 0
+Wear -1
+Cost 10
+Val  200 1 0 200 50
+End
+
+#O
+Vnum 3746
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3726
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3747
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3791
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3716
+Nest 1
+Wear -1
+Cost 0
+Val  0 0 158 0 0
+End
+
+#O
+Vnum 21
+Nest 0
+Wear 0
+Lev  12
+Time 11
+Cost 0
+Val  0 0 -1 0 0
+End
+
+#END

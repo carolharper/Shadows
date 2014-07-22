@@ -1,0 +1,477 @@
+#PLAYER
+Name Jamil~
+Email brashaud@ymail.com~
+Id   1382648590
+LogO 1383155245
+Vers 5
+Prom [{R%h{x/{R%H{xhp {G%m{x/{G%M{xen] ~
+Race andoran~
+Quest_Curr    0
+Quest_Accum  0
+Lastlog Wed Oct 30 13:11:07 2013
+~
+Lastsite dcccdpat12.dcccd.edu~
+Sex  1
+Cla  2
+Levl 90
+ELevl 5
+Bounty 0
+Sec  0
+Plyd 86936
+RolePlayed 0
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 30005
+HMV  2775 4812 2619 5155
+HLoc 1137 1143 789 2138 1490 912
+Gold 37
+Silv 1512
+Gold_bank 100
+Silv_bank 300
+Exp  142
+Act  DEFLQTb
+AutoAct  ABC
+ChanFlag  AB
+Comm JOPQ
+Comm2 0
+Pos  8
+Trai 12
+Alig  0
+ArrCnt  0
+Hit   55
+Dam   63
+ACs -471 -435 -512 -437
+Wimp  200
+Attr 23 15 15 20 15
+AMod 8 4 8 12 9
+CSphere  0 0 0 0 0
+Sphere 0 0 0 0 0
+Burnout 0
+MaxBurnout 20
+MSphere -1
+Holding 0
+Autoholding 0
+Merits FJK
+Pass JaVRYhox3RWfM~
+Appearance A tall lean handsome young man~
+Titl  the lethal one~
+Pnts 10
+TSex 1
+LLev 24
+Home 0
+ICLocRecall 8
+HMVP 4422 4909
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 1383061132 General 0 Ideas 0 Personal 0 Guild 0 Stories 0 Bugs 0 Permanent 1380493563 Admin 0 PK 0 Immortal 0 Newplayers 0 
+Sk 1 'dagger'
+Sk 1 'lance'
+Sk 42 'shield block'
+Sk 90 'sword'
+Sk 75 'bash'
+Sk 53 'berserk'
+Sk 62 'dirt kicking'
+Sk 51 'disarm'
+Sk 90 'dodge'
+Sk 90 'dual wield'
+Sk 90 'enhanced damage'
+Sk 1 'blademaster'
+Sk 90 'kick'
+Sk 88 'parry'
+Sk 79 'trip'
+Sk 83 'throw'
+Sk 90 'second attack'
+Sk 90 'third attack'
+Sk 90 'fast healing'
+Sk 31 'herbs'
+Sk 71 'lore'
+Sk 75 'meditation'
+Sk 1 'steal'
+Sk 57 'push'
+Sk 68 'critical strike'
+Sk 84 'armor use'
+Sk 43 'awareness'
+Sk 61 'observation'
+Sk 51 'guard'
+Sk 21 'block'
+Sk 31 'overwhelm'
+Sk 85 'fourth attack'
+Sk 90 'fifth attack'
+Sk 64 'flamevoid'
+Sk 70 'whirlwind'
+Sk 57 'iron will'
+BMtime 1382922849
+Backup 1383003875
+World A
+Webvote 1383153700
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 62358
+Nest 0
+Wear 15
+Cost 60
+End
+
+#O
+Vnum 65043
+Nest 0
+Wear 11
+Cost 90
+End
+
+#O
+Vnum 65042
+Nest 0
+Wear 10
+Cost 90
+End
+
+#O
+Vnum 65040
+Nest 0
+Cond 89
+Wear 9
+Cost 90
+End
+
+#O
+Vnum 65045
+Nest 0
+Cond 92
+Wear 26
+Cost 90
+End
+
+#O
+Vnum 65045
+Nest 0
+Cond 97
+Wear 27
+Cost 90
+End
+
+#O
+Vnum 3715
+Nest 0
+Wear -1
+Cost 10
+Val  200 1 0 200 50
+End
+
+#O
+Vnum 62304
+Nest 1
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 62311
+Nest 1
+Wear -1
+Cost 85
+End
+
+#O
+Vnum 62312
+Nest 1
+Wear -1
+Cost 85
+End
+
+#O
+Vnum 62305
+Nest 1
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 62359
+Nest 1
+Wear -1
+Cost 175
+End
+
+#O
+Vnum 3747
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 39644
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 141
+End
+
+#O
+Vnum 883
+Nest 0
+Wear 3
+Cost 10000
+End
+
+#O
+Vnum 3421
+Nest 0
+Wear 5
+Cost 300
+End
+
+#O
+Vnum 3421
+Nest 0
+Wear 6
+Cost 300
+End
+
+#O
+Vnum 39644
+Nest 0
+Wear 24
+Cost 150
+End
+
+#O
+Vnum 39645
+Nest 0
+Wear 16
+Cost 50
+End
+
+#O
+Vnum 39656
+Nest 0
+Cond 90
+Wear 12
+Cost 100
+End
+
+#O
+Vnum 39655
+Nest 0
+Wear 14
+Cost 100
+End
+
+#O
+Vnum 1608
+Nest 0
+Wear 18
+Cost 100
+End
+
+#O
+Vnum 1608
+Nest 0
+Wear 17
+Cost 100
+End
+
+#O
+Vnum 3409
+Nest 0
+Cond 97
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 854
+Nest 0
+Wear 0
+Cost 15000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 3414
+Nest 0
+Cond 93
+Wear 8
+Cost 200
+End
+
+#O
+Vnum 39638
+Nest 0
+Wear 4
+Cost 250
+End
+
+#O
+Vnum 3417
+Nest 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 39643
+Nest 0
+Cond 91
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 3415
+Nest 0
+Wear 23
+Cost 0
+End
+
+#O
+Vnum 64173
+Nest 0
+Wear -1
+Cost 60
+End
+
+#O
+Vnum 28076
+Nest 0
+Cond 99
+Wear -1
+Cost 2
+End
+
+#O
+Vnum 28188
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 28087
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 16910
+Nest 0
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 16912
+Nest 0
+Cond 99
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 16911
+Nest 0
+Wear -1
+Cost 60
+End
+
+#O
+Vnum 16909
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 16907
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 17082
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 39603
+Nest 0
+Cond 99
+Wear -1
+Cost 80
+End
+
+#O
+Vnum 39651
+Nest 0
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 3403
+Nest 0
+Cond 94
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 39641
+Nest 0
+Wear 20
+Cost 250
+End
+
+#O
+Vnum 64042
+Nest 0
+Cond 99
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 4225
+Nest 0
+Cond 99
+Wear -1
+Cost 85
+End
+
+#O
+Vnum 4226
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 4227
+Nest 0
+Wear -1
+Cost 45
+End
+
+#END

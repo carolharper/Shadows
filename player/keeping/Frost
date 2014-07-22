@@ -1,0 +1,440 @@
+#PLAYER
+Name Frost~
+Email jprocdoc@gmail.com~
+Id   1362806219
+LogO 1392404800
+Vers 5
+ShD  {CF{crost{x~
+Prom {R%h{w/{R%H{whp {G%m{w/{G%M{wmv %X %s> ~
+Race andoran~
+Quest_Curr    0
+Quest_Accum  0
+Lastlog Fri Feb 14 00:30:30 2014
+~
+Lastsite c-24-91-9-138.hsd1.nh.comcast.net~
+Sex  1
+Cla  2
+Levl 99
+BondedSex 1~
+BondCount 1~
+Bounty 0
+Sec  10
+Plyd 10252662
+RolePlayed 38
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 67001
+HMV  3601 3601 3921 3921
+HLoc 1200 900 600 1800 1200 900
+Gold 1
+Silv 714
+Gold_bank 0
+Silv_bank 0
+Exp  0
+Act  CDEFLNQTb
+AutoAct  ABCDG
+ChanFlag  AB
+Comm JPQ
+Comm2 0
+Invi 99
+Pos  8
+Trai 1470
+Alig  0
+ArrCnt  0
+Hit   11
+Dam   11
+ACs -5 -15 -15 -25
+Attr 18 15 15 15 15
+AMod 0 1 0 1 1
+CSphere  0 0 0 0 0
+Sphere 0 0 0 0 0
+Burnout 0
+MaxBurnout 20
+MSphere -1
+Holding 0
+Autoholding 0
+Talents F
+Pass JaM9Wprp.H4e6~
+Bin  {CF{crost{w taps you on the shoulder.{x~
+Bout {CF{crost{w points to the room description.{x~
+Appearance a brooding man with dark hair~
+Titl  {x~
+ImmInfo {CB{cuilder{x~
+Pnts 10
+TSex 1
+LLev 1711
+Home 0
+ICLocRecall 8
+HMVP 3551 3871
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 1383252745 General 1391463274 Ideas 1381794511 Personal 1382828095 Guild 1382317347 Stories 1382144591 Bugs 1379733625 Permanent 1382152099 Admin 0 PK 1383233704 Immortal 1382972200 Newplayers 1383618074 
+Sk 301 'reserved'
+Sk 301 'arrow'
+Sk 301 'axe'
+Sk 301 'bow'
+Sk 301 'dagger'
+Sk 301 'flail'
+Sk 301 'lance'
+Sk 301 'mace'
+Sk 301 'polearm'
+Sk 301 'shield block'
+Sk 301 'spear'
+Sk 301 'sword'
+Sk 301 'whip'
+Sk 301 'backstab'
+Sk 301 'bash'
+Sk 301 'bash door'
+Sk 301 'berserk'
+Sk 301 'dirt kicking'
+Sk 301 'disarm'
+Sk 301 'dodge'
+Sk 301 'dual wield'
+Sk 301 'enhanced damage'
+Sk 301 'blademaster'
+Sk 301 'hand to hand'
+Sk 301 'kick'
+Sk 301 'parry'
+Sk 301 'rescue'
+Sk 301 'trip'
+Sk 301 'throw'
+Sk 301 'second attack'
+Sk 301 'third attack'
+Sk 301 'fast healing'
+Sk 301 'haggle'
+Sk 301 'hide'
+Sk 301 'herbs'
+Sk 301 'lore'
+Sk 301 'meditation'
+Sk 301 'peek'
+Sk 301 'pick lock'
+Sk 301 'sneak'
+Sk 301 'steal'
+Sk 301 'recall'
+Sk 301 'riding'
+Sk 301 'sharpen'
+Sk 301 'sap'
+Sk 301 'push'
+Sk 301 'staff'
+Sk 301 'critical strike'
+Sk 301 'armor use'
+Sk 301 'awareness'
+Sk 301 'observation'
+Sk 301 'alertness'
+Sk 301 'dreaming'
+Sk 301 'wolfdream'
+Sk 301 'speardancer'
+Sk 301 'charge'
+Sk 301 'guard'
+Sk 301 'block'
+Sk 301 'duelling'
+Sk 301 'overwhelm'
+Sk 301 'bind'
+Sk 301 'escape'
+Sk 301 'plant'
+Sk 301 'fourth attack'
+Sk 301 'fifth attack'
+Sk 301 'mining'
+Sk 301 'gemmine'
+Sk 301 'mine'
+Sk 301 'smelt'
+Sk 301 'gemcut'
+Sk 301 'armorcraft'
+Sk 301 'jewelcraft'
+Sk 301 'axemaster'
+Sk 301 'staffmaster'
+Sk 301 'whipmaster'
+Sk 301 'flailmaster'
+Sk 301 'flamevoid'
+Sk 301 'whirlwind'
+Sk 301 'iron will'
+Sk 301 'martial arts'
+Backup 1383184749
+World A
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 40048
+Nest 0
+Wear -1
+Cost 7000
+End
+
+#O
+Vnum 62225
+Nest 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 12795
+Nest 0
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 3419
+Nest 0
+Wear -1
+Cost 3
+End
+
+#O
+Vnum 3419
+Nest 0
+Wear -1
+Cost 3
+End
+
+#O
+Vnum 16083
+Nest 0
+Wear -1
+Cost 125
+End
+
+#O
+Vnum 65015
+Nest 0
+Wear -1
+Cost 6
+End
+
+#O
+Vnum 65015
+Nest 0
+Wear -1
+Cost 7
+End
+
+#O
+Vnum 538
+Nest 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 3730
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3729
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 3729
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 16820
+Nest 0
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 1069
+Nest 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 1068
+Nest 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 1067
+Nest 0
+Wear -1
+Cost 85
+End
+
+#O
+Vnum 1066
+Nest 0
+Cond 99
+Wear -1
+Cost 60
+End
+
+#O
+Vnum 1065
+Nest 0
+Wear -1
+Cost 60
+End
+
+#O
+Vnum 1064
+Nest 0
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 16083
+Nest 0
+Wear -1
+Cost 125
+End
+
+#O
+Vnum 3021
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 62221
+Nest 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3704
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3702
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 40045
+Nest 0
+Wear 15
+Cost 5000
+End
+
+#O
+Vnum 12278
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 22119
+Nest 0
+Wear 16
+Cost 100
+Val  28 3 5 0 0
+End
+
+#O
+Vnum 6269
+Nest 0
+Wear 20
+Cost 150
+End
+
+#O
+Vnum 128
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 32
+Nest 0
+Wear -1
+Lev  10
+Cost 0
+Val  10 3 5 2 32
+End
+
+#O
+Vnum 128
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 128
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 128
+Nest 0
+Cond 98
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 128
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 32
+Nest 0
+Wear -1
+Lev  10
+Cost 0
+Val  10 3 5 2 32
+End
+
+#O
+Vnum 9910
+Nest 0
+Wear -1
+Cost 0
+Val  999999 17 17 0 0
+End
+
+#END

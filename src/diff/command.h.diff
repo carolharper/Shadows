@@ -1,0 +1,9 @@
+524a525
+> COMMAND(  do_unweave )
+599,604d599
+< COMMAND( do_mine        )
+< COMMAND( do_gemmine     )
+< COMMAND( do_armorcraft  )
+< COMMAND( do_jewelcraft  )
+< COMMAND( do_smelt       )
+< COMMAND( do_gemcut       )

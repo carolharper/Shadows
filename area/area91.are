@@ -1,0 +1,1925 @@
+#AREADATA
+Name A Mining Town~
+Builders Mocari~
+VNUMs 25400 25599
+Credits Mocari~
+Security 1
+Low 30
+High 60
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#25400
+glass water~
+a {Wglass{x of {cwater{x~
+A small glass sits here.~
+glass~
+drink 0 AO
+3 3 'water' 0 0
+1 0 25 100
+#25401
+mug mulled wine~
+a {ymug{x of {mm{Ru{mll{Re{md {Rw{min{Re{x~
+A cracked mug lies here.~
+clay~
+drink 0 AO
+5 5 'red wine' 0 0
+1 0 30 100
+#25402
+pitcher spiced wine~
+a {DPi{wt{Dc{wh{Der{x of {msp{ric{me{md w{rin{me{x~
+A dented pewter pitcher lies here.~
+pewter~
+drink 0 AO
+15 15 'benedictine wine' 0 0
+1 2 75 100
+#25403
+shot local~
+a {Wshot{x of {ylocal{x~
+A small shotglass lies here.~
+glass~
+drink 0 AO
+1 1 'local specialty' 0 0
+1 0 25 100
+#25404
+roasted rabbittype food~
+{Dr{ro{Da{rs{Dt{re{Dd {Dr{ra{Dbb{ri{Dt{x~
+A smoking hunk of roasted meat lies here.~
+meat~
+food 0 AO
+15 25 0 0 0
+1 1 75 100
+#25437
+iron key~
+a small {Di{wro{Dn k{we{Dy{x~
+A small {Di{wro{Dn k{we{Dy{x lies here.~
+iron~
+room_key 0 A
+0 0 0 0 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#25400
+A {gR{Du{yg{Dg{ge{Dd {gT{Dr{ya{Di{gl{x~
+Little more than a pathway, this recently traveled trail is dotted with
+the tracks of overburdened pack animals walking to and from the road.  Wheel
+ruts mark the sides of the trail and are beginning to take a permanent form
+in the muddy ground.  Tree branches reach out towards the trail; their cut
+and blunted tips bear witness of the traffic this path has seen of late.  
+~
+0
+C 3
+D3
+~
+~
+0 0
+0 0 25401
+S
+#25401
+A {gS{yl{Dig{yh{gt {gI{yn{Dc{gl{Di{yn{ge{x~
+This path inclines while opening up to the west, while narrowing to the
+east.  Deep wheel ruts have carved a swath in the soft muddy soil and
+threaten permanence should the weather change.  The bushes on either side of
+this path haven't begun to encroach and reclaim it to the forest.  
+ 
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 25400
+D3
+~
+~
+0 0
+0 0 25402
+S
+#25402
+A {gG{yr{Da{gd{Du{ya{gl {gI{yn{Dc{gl{Di{yn{ge{x~
+The incline increases as the path narrows slightly, while expanding to
+the east.  Deep wheel ruts have carved a swath in the soft muddy soil and
+threaten permanence should the weather change.  The bushes on either side of
+this path haven't begun to encroach and reclaim it to the forest.  
+~
+0
+0 4
+D1
+~
+~
+0 0
+0 0 25401
+D4
+~
+~
+0 0
+0 0 25403
+S
+#25403
+A {gS{yt{De{ye{gp I{yn{Dc{gl{Di{yn{ge{x~
+The incline increases sharply as the path continues up the mountainous
+terrain.  Deep wheel ruts have carved a swath in the soft muddy soil though
+obvious signs of heavy loads going off the tracks are present.  Many
+branches of the thick forest have been broken haphazardly while others bear
+cuts and saw marks in attempts to keep this portion passable.  
+~
+0
+0 4
+D3
+~
+~
+0 0
+0 0 25404
+D5
+~
+~
+0 0
+0 0 25402
+S
+#25404
+A {gS{yt{De{ye{gp I{yn{Dc{gl{Di{yn{ge{x~
+The incline increases sharply as the path continues up the mountainous
+terrain.  Deep wheel ruts have carved a swath in the soft muddy soil though
+obvious signs of heavy loads going off the tracks are present.  Many
+branches of the thick forest have been broken haphazardly while others bear
+cuts and saw marks in attempts to keep this portion passable.  
+~
+0
+0 5
+D1
+~
+~
+0 0
+0 0 25403
+D4
+~
+~
+0 0
+0 0 25405
+S
+#25405
+A {gS{yt{De{ye{gp I{yn{Dc{gl{Di{yn{ge{x~
+Many branches of the thick forest have been broken haphazardly while
+others bear cuts and saw marks in attempts to keep this portion passable. 
+The incline increases sharply as the path continues up the mountainous
+terrain.  Deep wheel ruts have carved a swath in the soft muddy soil though
+obvious signs of heavy loads going off the tracks are present.  
+~
+0
+0 5
+D3
+~
+~
+0 0
+0 0 25406
+D5
+~
+~
+0 0
+0 0 25404
+S
+#25406
+A {yPl{Da{yte{Da{yu{x~
+The ground is fairly level here and covered in scrub.  Deep wheel ruts
+have carved a swath in the soft muddy soil and crushed foilage.  Wafting
+softly on the wind are the sounds of habitation and the distinct ringing of
+hammer on anvil.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 25407
+D1
+~
+~
+0 0
+0 0 25405
+S
+#25407
+On A {yPl{Da{yte{Da{yu{x~
+The ground is fairly level here and covered in scrub.  Deep wheel ruts
+have carved a swath in the soft muddy soil and crushed foilage.  Wafting
+softly on the wind are the sounds of habitation and the distinct ringing of
+hammer on anvil.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 25408
+D2
+~
+~
+0 0
+0 0 25406
+S
+#25408
+On A {yPl{Da{yte{Da{yu{x~
+The ground is fairly level here and covered in scrub, though in the near
+distance the forest rises up before you.  Deep wheel ruts have carved a
+swath in the soft muddy soil and crushed foilage.  Wafting softly on the
+wind are the sounds of habitation and the distinct ringing of hammer on
+anvil.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 25409
+D2
+~
+~
+0 0
+0 0 25407
+S
+#25409
+road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 25422
+D2
+~
+~
+0 0
+0 0 25408
+D3
+~
+~
+0 0
+0 0 25410
+S
+#25410
+road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 25409
+D3
+~
+~
+0 0
+0 0 25411
+S
+#25411
+road~
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 25441
+D1
+~
+~
+0 0
+0 0 25410
+D3
+~
+~
+0 0
+0 0 25412
+S
+#25412
+road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 25417
+D1
+~
+~
+0 0
+0 0 25411
+D2
+~
+~
+0 0
+0 0 25413
+S
+#25413
+road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 25412
+D1
+~
+~
+7 7
+2 0 25437
+D2
+~
+~
+0 0
+0 0 25414
+D3
+~
+~
+3 3
+1 0 25436
+S
+#25414
+road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 25413
+D2
+~
+~
+0 0
+0 0 25415
+D3
+~
+~
+0 0
+0 0 25416
+S
+#25415
+road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 25414
+D2
+~
+~
+0 0
+0 0 25432
+S
+#25416
+road~
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 25435
+D1
+~
+~
+0 0
+0 0 25414
+D2
+~
+~
+3 3
+1 0 25434
+S
+#25417
+road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 25418
+D2
+~
+~
+0 0
+0 0 25412
+D3
+~
+~
+3 3
+1 0 25438
+S
+#25418
+road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 25419
+D1
+~
+gate~
+3 3
+1 0 25442
+D2
+~
+~
+0 0
+0 0 25417
+S
+#25419
+road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 25420
+D2
+~
+~
+0 0
+0 0 25418
+D3
+~
+~
+3 3
+1 0 25439
+S
+#25420
+road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 25421
+D2
+~
+~
+0 0
+0 0 25419
+S
+#25421
+road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 25440
+D2
+~
+~
+0 0
+0 0 25420
+S
+#25422
+road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 25423
+D3
+~
+~
+0 0
+0 0 25409
+S
+#25423
+road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 25424
+D3
+~
+~
+0 0
+0 0 25422
+S
+#25424
+road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 25425
+D2
+~
+~
+0 0
+0 0 25428
+D3
+~
+~
+0 0
+0 0 25423
+S
+#25425
+road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 25426
+D1
+~
+~
+3 3
+1 0 25458
+D2
+~
+~
+0 0
+0 0 25424
+S
+#25426
+road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 25427
+D2
+~
+~
+0 0
+0 0 25425
+D3
+~
+~
+3 3
+1 0 25449
+S
+#25427
+road~
+~
+0
+0 1
+D1
+~
+~
+3 3
+1 0 25455
+D2
+~
+~
+0 0
+0 0 25426
+S
+#25428
+road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 25424
+D2
+~
+~
+0 0
+0 0 25429
+D3
+~
+~
+3 3
+1 0 25464
+S
+#25429
+road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 25428
+D1
+~
+~
+0 0
+0 0 25431
+D2
+~
+~
+0 0
+0 0 25430
+S
+#25430
+road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 25429
+D3
+~
+~
+3 3
+1 0 25465
+S
+#25431
+road~
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 25462
+D1
+~
+~
+0 0
+0 0 25470
+D2
+~
+~
+3 3
+1 0 25463
+D3
+~
+~
+0 0
+0 0 25429
+S
+#25432
+A {DC{we{Wm{De{Dt{We{wr{Dy{x ~
+The scent of fresh soil, mud and decomposing flesh lays heavily in the
+air.  Dirt removed from a freshly dug pit is beginning to turn to mud from
+the frequent rains.  Man-sized mounds and dips from subsidence are the only
+remnant that the men buried beneath once walked the earth.  No tombstones or
+markers lay claim to a man's greatness or weaknesses.  Only those who were
+here to bury them know that they are gone.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 25415
+D1
+~
+~
+0 0
+0 0 25433
+S
+#25433
+A {DC{we{Wm{De{Dt{We{wr{Dy{x ~
+The scent of fresh soil, mud and decomposing flesh lays heavily in the
+air.  Dirt removed from a freshly dug pit is beginning to turn to mud from
+the frequent rains.  Man-sized mounds and dips from subsidence are the only
+remnant that the men buried beneath once walked the earth.  No tombstones or
+markers lay claim to a man's greatness or weaknesses.  Only those who were
+here to bury them know that they are gone.  
+~
+0
+0 2
+D3
+~
+~
+0 0
+0 0 25432
+S
+#25434
+{yT{Ra{yn Y{Rou{yr H{Ri{yd{Re{ys{x~
+Sheets of dried hides hang from the ceiling waiting use fill this shop
+with the soft scent of leather.  A few shelves hold finished and
+semi-finished product, awaiting final fittings or pickups.  A long workbench
+takes up much of the back wall.  Scattered across the bench are various
+sized pieces of leather, different sized and shaped awls, sinew, and knives.
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 25416
+S
+#25435
+The {yBu{rtch{yer Sh{rop{ype{x~
+Rabbit and chicken carcasses hang from hooks in the ceiling, while the
+remains of a recently slaughtered sheep lie packaged on the counter.  The
+room is heavy with the scent of blood, and aging meat.  Opposite the door,
+in the far corner are racks of dried and smoked meat.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 25416
+S
+#25436
+The {YM{ye{Wr{yc{Yan{yt{Wi{yl{Ye{x~
+Prices are much higher than one would expect by looking at this
+ramshackle building.  A sign behind the counter states approximately when
+the next shipment of supplies are due.  The few items remaining in stock
+barely cover the makeshift shelves.  Wind whips through a broken window and
+the large space beneath the door.  Other than the tracks of mud on the
+floor, the shop on the whole is fairly clean.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 25413
+S
+#25437
+A {yC{Da{yb{Di{yn{x~
+Though it appears someone has tried hard to keep the place clean, faint
+tracks of mud indicate where all the miners who live here habitually walk. 
+A couple of sturdy cots are covered with thick woolen blankets.  Heating the
+entire hut, a heavy iron stove rests in the far corner.  Wooden packing
+crates are neatly placed around the room, substituting for tables while
+providing additional storage.  Several chairs line the walls taking up much
+of the remaining space.  
+~
+0
+0 0
+D3
+~
+~
+7 7
+2 0 25413
+S
+#25438
+A {DJ{wai{Dl{x~
+Little more than a large room, this building has become a receptacle for
+those foolish enough to pass out from drink to be dragged to, to sleep it
+off.  Alcohol tainted sweat, blood, and other bodily fluids have seeped into
+the floor and walls creating a permanent stench.  With the exception of a
+couple of pairs of shackles bolted into the floor in the corners there is
+nothing of interest or value here.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 25417
+M 80 H 80
+S
+#25439
+The {DR{woc{Dk H{wo{Du{ws{De{x~
+A few lanterns placed around this large room offer paltry illumination. 
+Dust swirls in the corners with each gust of wind which whips through a
+broken window creating a mournful howl which most of the patrons seem to no
+longer notice as they nurse their drinks.  Most tables are little more than
+wooden planks set upon crates.  None of the chairs or benches are even,
+their legs often mismatched in attempts to salvage and repair them after the
+once frequent fights.  Made of stone and wood, the bar itself seems to offer
+the only sense of permanence in this dilapidated building.  
+ 
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 25419
+S
+#25440
+{DM{wi{Dne{wr{Ds {ySh{ra{yck{x~
+Little more than a tool shed, this shack is used by the miners as a
+meeting place and to store their tools.  A series of nails are hammered into
+the eastern wall.  A small copper coin is placed on each nail.  Each coin
+bears a number or a name and is used to tell who is still in the mine in the
+event of a collapse.  A few stools and chairs are scattered around the small
+room, but there is little other indication that anyone might linger here.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 25421
+S
+#25441
+The {YGo{Wld{Yen Pa{Wla{Yce Co{Wmm{Yon R{Woo{Ym{x~
+Though hardly living up to its name this inn offers a respite from the
+elements, a warm meal, and a dry bed.  As part of one of the few permanent
+structures, this common room is bustling with activity at all hours.  The
+door to the north leads to the only stable in this shantytown, while a
+rickety stairway leads up to the rooms for rent.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 25442
+D1
+~
+~
+0 0
+0 0 25450
+D2
+~
+~
+3 3
+1 0 25411
+D4
+~
+~
+0 0
+0 0 25443
+S
+#25442
+The {yStables{x~
+Mud, hay and dung piles clutter the ground making walking across the
+corral an adventure.  Rickety stalls line the surprisingly sturdy fence,
+offering paltry shelter from the weather.  Given the rundown state of the
+stable, it may be surprising that the trough in the center of the corral
+contains fresh clear water.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 25448
+D2
+~
+~
+3 3
+1 0 25441
+D3
+~
+gate~
+3 3
+1 0 25418
+S
+#25443
+A {YLa{Wn{Yd{Wi{Yng{x~
+A rickety stairway opens up in the middle of the floor leading down to
+the common room.  The floor and walls have warped from rain and snow leaking
+from the thatched roof.  Despite the smoke coming from the lantern this
+landing is surprisingly well lit.  Closed doors in each of the cardinal
+directions lead to the various rooms to let at this inn.  Deep fresh grooves
+in the floor indicate something heavy has recently been drug across it.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 25444
+D1
+~
+~
+3 3
+1 0 25446
+D2
+~
+~
+3 3
+1 0 25445
+D3
+~
+~
+3 3
+1 0 25447
+D5
+~
+~
+0 0
+0 0 25441
+S
+#25444
+The {GEm{ge{Gr{ga{Gld R{goo{Gm{x~
+Rows of beds line the walls of this room.  The mattresses have been
+stuffed with straw which is no longer fresh.  A narrow pathway separates the
+beds, which all have a small nightstand beside them.  Beneath a few of the
+beds personal belongings have been tucked away while the man who sleeps
+there is busy working in the mine.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 25443
+S
+#25445
+The {RR{rub{Ry R{roo{Rm{x~
+Two beds are set against the outside wall of this large room.  The
+mattresses have been stuffed with fresh straw.  A large chest of drawers
+rests across from the beds, balancing the room.  Tucked away in the corner
+across from the door is a small table with a pitcher of water and a bowl for
+quick bathing or freshening up.  Deep fresh grooves in the floor indicate
+that there was something very heavy slid across it.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 25443
+S
+#25446
+The {YG{yol{Yd R{yoo{Ym{x~
+Beds have been jammed into this room, barely leaving a narrow pathway
+from one end of the room to the other.  The mattresses have been stuffed
+with straw, most of which is no longer fresh.  Beneath a few of the beds
+personal belongings have been tucked away while the man who sleeps there is
+busy at work in the mine.  Deep fresh grooves in the floor have left tracks
+where extra beds from somewhere have been slid across it.  
+
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 25443
+S
+#25447
+The {CDi{Wa{Cm{Wo{Cnd R{Woo{Cm{x~
+Though a large room, only one bed rests on the outer wall.  The mattress
+has been stuffed with fresh straw.  Sitting in the far corner is a writing
+desk and two slat-backed chairs; a large chest of drawers rests across from
+the beds and balances the room.  Tucked away in the corner across from the
+door is a small table with a pitcher of water and a bowl for quick bathing
+or freshening up.  Several pegs have been hammered into the wall allowing
+the patron to hang his cloak or sheath from.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 25443
+S
+#25448
+The {yC{Do{yrr{Da{yl{x~
+Mud, hay and dung piles clutter the ground making walking across the
+corral an adventure.  Rickety stalls line the surprisingly sturdy fence,
+offering paltry shelter from the weather.  Given the rundown state of the
+stable, it may be surprising that the trough in the center of the corral
+contains fresh clear water.  
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 25442
+S
+#25449
+{CCa{cs{Wto{cf{Cfs{Y a{yn{Yd {RS{re{Wc{Ro{Wn{rd{Rs{x~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 25426
+S
+#25450
+The {YGo{Wld{Yen Pa{Wla{Yce Co{Wmm{Yon R{Woo{Ym{x~
+Though hardly living up to its name this inn offers a respite from the
+elements, a warm meal, and a dry bed.  As part of one of the few permanent
+structures, this common room is bustling with activity at all hours.  The
+sounds and smells of a busy kitchen waft in from the swinging doors to the
+east.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 25451
+D3
+~
+~
+0 0
+0 0 25441
+S
+#25451
+A {YBu{Wstli{Yng {yKi{wtch{yen{x~
+Under the stern gaze of the proprietor, the children working here seem
+intent on their tasks and assigned stations.  Stone and brick ovens are
+built into the long north stone wall.  Deep cuts and scratches on the floor
+near the east wall indicate where they recently expanded the size of the
+room.  Along the western wall are several small cast-iron stoves.  Taking up
+much of the center of the kitchen are a series of tables lashed together
+forming one long one.  Here the preparation, mixing and plating occurs.  The
+open doorway to the east leads to a makeshift larder.  
+~
+0
+0 0
+D0
+~
+~
+4099 4099
+1 0 25452
+D1
+~
+~
+0 0
+0 0 25453
+D3
+~
+~
+0 0
+0 0 25450
+S
+#25452
+A {YPr{Wi{wv{Wa{Yte Me{We{wt{Wi{Yng R{Woo{Ym{x~
+Lacking a window or any adequate ventilation this wood and stone room
+swelters from the heat coming from the kitchen.  Nothing adorns the walls or
+door to distract from the business that goes on here.  A large sturdy wooden
+table surrounded by benches dwarfs this room giving a sense of
+claustrophobia .  A pewter pitcher and several matching tankards are set in
+the middle of the table.  
+~
+0
+0 0
+D2
+~
+~
+4099 4099
+1 0 25451
+S
+#25453
+The {YL{Wa{Yrd{We{Yr{x ~
+Hanging from the ceiling are several hunks of meat and some identifiable
+animal carcasses.  Shelving lines the walls, sectioned into fruits,
+vegetables, fresh, preserved, dried and grains.  Near the opening leading
+back to the kitchen is a small table covered with clean dishes.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 25454
+D3
+~
+~
+0 0
+0 0 25451
+S
+#25454
+The {YIn{Wnk{Yee{Wp{We{Yr's {YR{Woo{Ym{x~
+This surprisingly large room is made to feel small and cramped with all
+the belongings crammed into it.  The interior wall is lined with straw
+stuffed mattresses lying on the floor.  The far wall is dominated by a large
+bed, a rocking chair and a cradle.  The outer wall has a series of chest of
+drawers lining it.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 25453
+S
+#25455
+the great room~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 25456
+D3
+~
+~
+3 3
+1 0 25427
+S
+#25456
+kitchen~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 25457
+D2
+~
+~
+0 0
+0 0 25455
+S
+#25457
+bedroom~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 25456
+S
+#25458
+home~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 25459
+D3
+~
+~
+3 3
+1 0 25425
+S
+#25459
+sleep~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 25458
+S
+#25462
+forge~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 25471
+D2
+~
+~
+3 3
+1 0 25431
+S
+#25463
+smelter~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 25431
+D2
+~
+~
+3 3
+1 0 25478
+S
+#25464
+home~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 25428
+S
+#25465
+Lucky Strike Inn~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 25467
+D1
+~
+~
+3 3
+1 0 25430
+D2
+~
+~
+3 3
+1 0 25468
+D3
+~
+~
+3 3
+1 0 25466
+S
+#25466
+sleep~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 25465
+S
+#25467
+food~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 25465
+D3
+~
+~
+3 3
+1 0 25469
+S
+#25468
+sleep~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 25465
+S
+#25469
+sleep~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 25467
+S
+#25470
+lumber~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 25471
+D3
+~
+~
+0 0
+0 0 25431
+S
+#25471
+forest trail~
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 25479
+D1
+~
+~
+0 0
+0 0 25472
+D2
+~
+~
+3 3
+1 0 25470
+D3
+~
+~
+3 3
+1 0 25462
+S
+#25472
+forest trail~
+~
+0
+0 2
+D2
+~
+~
+0 0
+0 0 25473
+D3
+~
+~
+0 0
+0 0 25471
+S
+#25473
+forest trail~
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 25472
+D1
+~
+~
+0 0
+0 0 25474
+D2
+~
+~
+0 0
+0 0 25475
+S
+#25474
+forest trail~
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 25484
+D2
+~
+~
+0 0
+0 0 25483
+D3
+~
+~
+0 0
+0 0 25473
+S
+#25475
+forest trail~
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 25473
+D2
+~
+~
+0 0
+0 0 25476
+S
+#25476
+forest trail~
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 25475
+D3
+~
+~
+0 0
+0 0 25477
+S
+#25477
+forest trail~
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 25476
+D3
+~
+~
+0 0
+0 0 25478
+S
+#25478
+forest trail~
+~
+0
+0 2
+D0
+~
+~
+3 3
+1 0 25463
+D1
+~
+~
+0 0
+0 0 25477
+S
+#25479
+forest trail~
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 25480
+D2
+~
+~
+0 0
+0 0 25471
+S
+#25480
+forest trail~
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 25481
+D2
+~
+~
+0 0
+0 0 25479
+S
+#25481
+forest trail~
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 25482
+D2
+~
+~
+0 0
+0 0 25480
+S
+#25482
+forest trail~
+~
+0
+0 2
+D2
+~
+~
+0 0
+0 0 25481
+S
+#25483
+shack~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 25474
+S
+#25484
+Adit~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 25474
+D4
+~
+~
+0 0
+0 0 25485
+S
+#25485
+mine shaft~
+~
+0
+A 0
+D0
+~
+~
+0 0
+0 0 25490
+D1
+~
+~
+0 0
+0 0 25486
+D5
+~
+~
+0 0
+0 0 25484
+S
+#25486
+mine shaft~
+~
+0
+A 0
+D1
+~
+~
+0 0
+0 0 25487
+D3
+~
+~
+0 0
+0 0 25485
+S
+#25487
+mine shaft~
+~
+0
+A 0
+D3
+~
+~
+0 0
+0 0 25486
+D4
+~
+~
+0 0
+0 0 25488
+S
+#25488
+mine shaft~
+~
+0
+A 0
+D2
+~
+~
+0 0
+0 0 25489
+D5
+~
+~
+0 0
+0 0 25487
+S
+#25489
+mine shaft~
+~
+0
+A 0
+D0
+~
+~
+0 0
+0 0 25488
+S
+#25490
+mine shaft~
+~
+0
+A 0
+D0
+~
+~
+0 0
+0 0 25491
+D2
+~
+~
+0 0
+0 0 25485
+S
+#25491
+mine shaft~
+~
+0
+A 0
+D1
+~
+~
+0 0
+0 0 25492
+D2
+~
+~
+0 0
+0 0 25490
+S
+#25492
+mine shaft~
+~
+0
+A 0
+D3
+~
+~
+0 0
+0 0 25491
+D5
+~
+~
+4096 4096
+0 0 25493
+S
+#25493
+a collapse ~
+~
+0
+A 0
+D1
+~
+~
+0 0
+0 0 25494
+D4
+~
+~
+4096 4096
+0 0 25492
+S
+#25494
+mine shaft~
+~
+0
+A 0
+D1
+~
+~
+0 0
+0 0 25495
+D3
+~
+~
+0 0
+0 0 25493
+S
+#25495
+mine shaft~
+~
+0
+A 0
+D0
+~
+~
+0 0
+0 0 25496
+D2
+~
+~
+0 0
+0 0 25497
+D3
+~
+~
+0 0
+0 0 25494
+S
+#25496
+mine shaft~
+~
+0
+A 0
+D1
+~
+~
+0 0
+0 0 25499
+D2
+~
+~
+0 0
+0 0 25495
+S
+#25497
+mine shaft~
+~
+0
+A 0
+D0
+~
+~
+0 0
+0 0 25495
+D1
+~
+~
+0 0
+0 0 25498
+S
+#25498
+a collapse ~
+~
+0
+A 0
+D3
+~
+~
+0 0
+0 0 25497
+S
+#25499
+mine shaft~
+~
+0
+A 0
+D0
+~
+~
+0 0
+0 0 25500
+D3
+~
+~
+0 0
+0 0 25496
+S
+#25500
+a collapse ~
+~
+0
+A 0
+D2
+~
+~
+0 0
+0 0 25499
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 25411 0 1
+D 0 25413 1 2
+D 0 25413 3 1
+D 0 25416 0 1
+D 0 25416 2 1
+D 0 25417 3 1
+D 0 25418 1 1
+D 0 25419 3 1
+D 0 25425 1 1
+D 0 25426 3 1
+D 0 25427 1 1
+D 0 25428 3 1
+D 0 25430 3 1
+D 0 25431 0 1
+D 0 25431 2 1
+D 0 25434 0 1
+D 0 25435 2 1
+D 0 25436 1 1
+D 0 25437 3 2
+D 0 25438 1 1
+D 0 25439 1 1
+D 0 25441 0 1
+D 0 25441 2 1
+D 0 25442 2 1
+D 0 25442 3 1
+D 0 25443 0 1
+D 0 25443 1 1
+D 0 25443 2 1
+D 0 25443 3 1
+D 0 25444 2 1
+D 0 25445 0 1
+D 0 25446 3 1
+D 0 25447 1 1
+D 0 25449 1 1
+D 0 25451 0 1
+D 0 25452 2 1
+D 0 25453 0 1
+D 0 25454 2 1
+D 0 25455 3 1
+D 0 25458 3 1
+D 0 25462 1 1
+D 0 25462 2 1
+D 0 25463 0 1
+D 0 25463 2 1
+D 0 25464 1 1
+D 0 25465 1 1
+D 0 25465 2 1
+D 0 25465 3 1
+D 0 25466 1 1
+D 0 25467 3 1
+D 0 25468 0 1
+D 0 25469 1 1
+D 0 25470 0 1
+D 0 25471 2 1
+D 0 25471 3 1
+D 0 25478 0 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

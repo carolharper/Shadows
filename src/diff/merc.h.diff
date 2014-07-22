@@ -1,0 +1,64 @@
+38c38
+< #define CURRENTLOG  LOG_BUILDER
+---
+> #define CURRENTLOG  LOG_PLAYER
+947,948c947,948
+<   sh_int         type;
+<   sh_int         type_learned;
+---
+>   sh_int       type;
+>   sh_int       type_learned;
+1049d1048
+< #define gg	    2147483648
+1241d1239
+< #define RES_MINING              (aa)
+1447d1444
+< #define AFF_MINING	      (gg)
+1553,1557d1549
+< #define OBJ_VNUM_CRAFTING_ORE      40063
+< #define OBJ_VNUM_CRAFTING_GEM      40064 
+< #define OBJ_VNUM_CRAFTING_ARMOR    40065
+< #define OBJ_VNUM_CRAFTING_JEWEL    40066
+< 
+1600,1602d1591
+< //the following two flags are used for mining
+< #define ITEM_ORE              41
+< #define ITEM_GEMSTONE         42
+1800c1789
+< #define ROOM_VNUM_RECALL_CAEMLYN 602
+---
+> #define ROOM_VNUM_RECALL_CAEMLYN 62308
+1818,1823d1806
+< //Mining flags
+< #define ROOM_MINING_GOLD            (F)
+< #define ROOM_MINING_SILVER          (G)
+< #define ROOM_MINING_COPPER          (H)
+< #define ROOM_MINING_EMERALD         (I)
+< 
+1839,1858d1821
+< #define ROOM_MINING_RUBY      (Y)
+< #define ROOM_MINING_DIAMOND   (Z)
+< 
+< 
+< /*
+<  * Mining flags for quality and type
+<  */
+< #define MINING_QUALITY_FLAWED    (A)
+< #define MINING_QUALITY_FLAWLESS  (B)
+< #define MINING_QUALITY_EXCELLENT (C)
+< #define MINING_QUALITY_PERFECT   (D)
+< 
+< #define MINING_ORE_COPPER        (A)
+< #define MINING_ORE_SILVER        (B)
+< #define MINING_ORE_GOLD          (C)
+< 
+< #define MINING_GEM_RUBY          (A)
+< #define MINING_GEM_DIAMOND       (B)
+< #define MINING_GEM_EMERALD       (C)
+< 
+2714,2715d2676
+<   time_t next_mine;               /* When the character can next mine */
+< 
+3809,3810d3769
+< OBJ_DATA * create_ore   args( (int nType, int nQuality) );
+< OBJ_DATA * create_gem   args( (int nType, int nQuality) );

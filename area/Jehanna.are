@@ -1,0 +1,1827 @@
+#AREADATA
+Name Jehanna~
+Builders James~
+VNUMs 67000 67999
+Credits James~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#67000
+Jehannah Area~
+VNUMs and Notes will be listed here.
+~
+0
+C 0
+S
+#67001
+The South Gates of Jehannah~
+Before you are the gates of the great city of Jehannah, capital of the
+fine nation of Ghealdan.  While not the richest of nations, Ghealdan is
+clearly not the poorest either.  A vibrant economy surrounding their exports
+seems to have treated their populace well.  The roadway leads north, farther
+into the city proper.  The road is not cobbled this far from the city, but
+ahead, one can see where they begin.  To the south, a well-worn dirt roadway
+leads to Amador.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67002
+S
+#67002
+Within the Gates of Jehannah~
+Just north of the City gates, and the crowds are dispersing slightly. 
+Many are rushing off to their business.  An equal number seem to be headed
+south, to the gates and further on to Amador, as are headed north into the
+city proper.  The cobbled stones of the roadway are finally taking root,
+providing some rigidity for those who may have endured the long muddy roads.
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67003
+D2
+~
+~
+0 0
+0 0 67001
+S
+#67003
+Kigarin Way~
+This is the beginning of a more well-kept roadway.  The road has been
+reinforced with cobblestones, though they bear the distinct look of wear
+from heavy wagon traffic.  To the north, the road continues to the city
+proper, to the south, the Gates of Jehannah can be seen.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67004
+D2
+~
+~
+0 0
+0 0 67002
+S
+#67004
+Kigarin Way~
+The roadway continues here, northwards to the City and southwards to the
+Gates and Amador beyond.  Here, more densely populated housing can be seen,
+spawling upwards.  Though not the main market, smaller shops with vendors
+standing outside and greeting everyone, can be seen in pittance.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67005
+D2
+~
+~
+0 0
+0 0 67003
+S
+#67005
+Kigarin Way~
+Cobblestones line the roadway as it passes both north and south
+cardinally.  Flanked on both sides, are houses and smaller shops, though
+most have seen better days.  The City proper lies to the north, while south
+to the gates of the city.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67006
+D2
+~
+~
+0 0
+0 0 67004
+S
+#67006
+Intersection of Kigarin Way and The Gilded Road~
+The roadway here splits, north, west, and south to various destinations. 
+Northward, takes you to the city, while south takes you to the city limits,
+and the gates thereof.  To the west, only a select few are headed, as only
+the wealthiest of citizens have business, or residence, along the Gilded
+way.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67007
+D2
+~
+~
+0 0
+0 0 67005
+S
+#67007
+Meeting of Kigarin and Ashmar Ways~
+The roadway here curves off both south and east.  Made of well polished
+cobblestones, and even seperated walking spaces, great care has been taken
+of the road here.  To the east, the Jedha Palace can be seen at a distance,
+as well as the city proper.  To the South, the Wealthy section of the city
+as well as the Southern gate can be seen.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67008
+D2
+~
+~
+0 0
+0 0 67006
+S
+#67008
+Ashmar Way~
+Named for the famous ruler who once tended this great nation,
+Ashmar way extends east and west.  Numerous citizens of the city mill about,
+some headed back to their homes, perhaps after a long day while others
+appear to be up to no good.  Houses line the southern side of the road, much
+nicer than one might find farther out of time.  The careful observer might
+even see that it is minor nobility that live there.  Even still, few tarry
+long with business to be about.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67009
+D3
+~
+~
+0 0
+0 0 67007
+S
+#67009
+Ashmar Way~
+A low wall extends along the northern edge of the road way, seperating a
+walkway full of people from the grounds of the palace northeast of here. 
+Wagons and teams or horses amble slowly, shouting as they move.  West from
+here, a bend in the road can be seen while east, the full breadth of the
+city opens up.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67010
+D3
+~
+~
+0 0
+0 0 67008
+S
+#67010
+Intersection of Ashmar Way and Merchants Road~
+The low wall running along the northern side of the roadway continues
+here.  The crowd here seems almost confused, with a trio of options to
+choose from, people are moving about in almost every direction.  The cobbles
+stones are polished to a near shine due to the heavy traffic crossing over
+them.  South leads to the Merchant district, while Ashmar Way continues east
+to the Palace and west back to the Gates.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67011
+D2
+~
+~
+0 0
+0 0 67061
+D3
+~
+~
+0 0
+0 0 67009
+S
+#67011
+Before the Palace Entrance~
+Before you is the entrance to the Jedha Palace.  Two large columns extend
+up, seperated by a pair of large, wooden gates.  These gates are currently
+open, allowing sparce traffic in and out.  A number of, visible, guards can
+be seen scanning the foot traffic and occassional wagon for signs of
+trouble.  Ashmar Way continues both east and west here.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67012
+D3
+~
+~
+0 0
+0 0 67010
+S
+#67012
+Intersection of Ashmar and Traders Ways~
+The cobbled stone roadway continues here, with a larger variety of people
+visible.  Just south of here is Traders way, a section of the city devoted
+to foreign traders.  Visitors to the city are more likely to find items of
+their nationality here.  Wagons of all shapes and sizes bustle about,
+splitting the crowd of people frequently, and shouting curses.  The road
+here continues east and west along Ashmar way, while south leads to Traders
+Way.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67013
+D2
+~
+~
+0 0
+0 0 67083
+D3
+~
+~
+0 0
+0 0 67011
+S
+#67013
+Ashmar Way~
+The northern wall, seperating foot traffic from the Jheda Palace, appears
+taller and more recently rebuilt here.  Whether from some sort of
+disturbance or natural flow of rebuild and repair is uncertain.  The
+roadway, still cobbled thus far, continues east and west.  The number of
+people here is somewhat less than might be found due west, in the city
+proper, but more so than due east, towards the outskirts of the city.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67014
+D3
+~
+~
+0 0
+0 0 67012
+S
+#67014
+Ashmar Way~
+Continuing East and west here, Ashmar way guides travelers either
+farther into the City proper or farther from it.  The Jedha Palace can be
+seen west, and north of here while the poor section, just over the nearest
+hill, can be see to the east.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67015
+D3
+~
+~
+0 0
+0 0 67013
+S
+#67015
+Ashmar Way~
+As one begins to leave the city proper, the smell of the docks to the
+north and east starts to linger.  While not sour by any means, one could
+gleen that it might be overpowering.  Ashmar Way continues east towards the
+city's poor district and docks, or west to the City proper.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67016
+D3
+~
+~
+0 0
+0 0 67014
+S
+#67016
+Ashmar Way~
+Ashmar way, named for the famous noble family of Jehannah, runs east and
+west from this point.  West leads back to the city proper, while east leads
+out of town, towards the Parade grounds and Fisherman's Quarter. 
+Cobblestones are laid in a precise pattern to make a roadway, which has been
+smoothed through years of use and rutted through seasons of weather.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67017
+D3
+~
+~
+0 0
+0 0 67015
+S
+#67017
+Intersection of Ashmar Way and Talvaen Road~
+Meeting at this point, two roadways intersect.  The cobblestone roadway
+of Ashmar Way leads west, into the city proper.  South from here, one can
+follow Talvean road, named for the prosperous family that once resided in
+this fine city.  Heading south, then east, will lead one to the eastern
+border of the city.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 67018
+D3
+~
+~
+0 0
+0 0 67016
+S
+#67018
+Talvaen Road~
+Though still in decent repair, the road here is made in the majority of
+dirt.  While turning to mud in the wet seasons, the roadway is still somehow
+maintained to keep the ruts of wagon trains to a minimum.  People walk
+casually towards the city proper, north and west from here.  A few of the
+poorer folk seem to be headed to the Docks and Fisherman's quarter to the
+east.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67017
+D2
+~
+~
+0 0
+0 0 67019
+S
+#67019
+Talvaen Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67018
+D2
+~
+~
+0 0
+0 0 67020
+S
+#67020
+Talvaen Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67019
+D2
+~
+~
+0 0
+0 0 67021
+S
+#67021
+Intersection of Talvaen and Jehannah Roads~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67020
+D1
+~
+~
+0 0
+0 0 67022
+S
+#67022
+Jehannah Road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67024
+D2
+~
+~
+0 0
+0 0 67023
+D3
+~
+~
+0 0
+0 0 67021
+S
+#67023
+Before the Legion Parade Grounds~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67022
+S
+#67024
+Jehannah Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67025
+D1
+~
+~
+0 0
+0 0 67026
+D3
+~
+~
+0 0
+0 0 67022
+S
+#67025
+North Of Jehannah Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67028
+D2
+~
+~
+0 0
+0 0 67024
+S
+#67026
+Jehannah Road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67027
+D3
+~
+~
+0 0
+0 0 67024
+S
+#67027
+Jehannah Road~
+Exit from Jehannah
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 67026
+S
+#67028
+Entering the Laborers Village~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67029
+D2
+~
+~
+0 0
+0 0 67025
+S
+#67029
+Road Through The Laborer's Village~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67032
+D1
+~
+~
+0 0
+0 0 67030
+D2
+~
+~
+0 0
+0 0 67028
+S
+#67030
+Side Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67031
+D3
+~
+~
+0 0
+0 0 67029
+S
+#67031
+Side Road~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 67030
+D3
+~
+~
+0 0
+0 0 67032
+S
+#67032
+Road Through The Laborer's Village~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67033
+D1
+~
+~
+0 0
+0 0 67031
+D2
+~
+~
+0 0
+0 0 67029
+S
+#67033
+Road Through The Laborer's Village~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67040
+D2
+~
+~
+0 0
+0 0 67032
+D3
+~
+~
+0 0
+0 0 67034
+S
+#67034
+Laborers Village~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67035
+D1
+~
+~
+0 0
+0 0 67033
+D3
+~
+~
+0 0
+0 0 67039
+S
+#67035
+A Side Street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67036
+D2
+~
+~
+0 0
+0 0 67034
+S
+#67036
+Laborers Village~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67041
+D2
+~
+~
+0 0
+0 0 67035
+D3
+~
+~
+0 0
+0 0 67037
+S
+#67037
+Laborers Village~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67036
+D2
+~
+~
+0 0
+0 0 67038
+S
+#67038
+Laborers Village~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67037
+D2
+~
+~
+0 0
+0 0 67039
+S
+#67039
+Laborers Village~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67038
+D1
+~
+~
+0 0
+0 0 67034
+S
+#67040
+Road Through The Laborer's Village~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67041
+D1
+~
+~
+0 0
+0 0 67054
+D2
+~
+~
+0 0
+0 0 67033
+S
+#67041
+Road Through The Laborer's Village~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67055
+D1
+~
+~
+0 0
+0 0 67042
+D2
+~
+~
+0 0
+0 0 67040
+D3
+~
+~
+0 0
+0 0 67036
+S
+#67042
+Laborers Village~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67043
+D3
+~
+~
+0 0
+0 0 67041
+S
+#67043
+Laborers Village~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67044
+D2
+~
+~
+0 0
+0 0 67053
+D3
+~
+~
+0 0
+0 0 67042
+S
+#67044
+Laborers Village~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67045
+D2
+~
+~
+0 0
+0 0 67052
+D3
+~
+~
+0 0
+0 0 67043
+S
+#67045
+Laborers Village~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 67046
+D3
+~
+~
+0 0
+0 0 67044
+S
+#67046
+Laborers Village~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67045
+D2
+~
+~
+0 0
+0 0 67047
+D3
+~
+~
+0 0
+0 0 67052
+S
+#67047
+Laborers Village~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67046
+D2
+~
+~
+0 0
+0 0 67048
+S
+#67048
+Laborers Village~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67047
+D3
+~
+~
+0 0
+0 0 67049
+S
+#67049
+Laborers Village~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67050
+D1
+~
+~
+0 0
+0 0 67048
+S
+#67050
+Laborers Village~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67052
+D2
+~
+~
+0 0
+0 0 67049
+D3
+~
+~
+0 0
+0 0 67051
+S
+#67051
+Laborers Village~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67053
+D1
+~
+~
+0 0
+0 0 67050
+S
+#67052
+Laborers Village~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67044
+D1
+~
+~
+0 0
+0 0 67046
+D2
+~
+~
+0 0
+0 0 67050
+D3
+~
+~
+0 0
+0 0 67053
+S
+#67053
+Laborers Village~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67043
+D1
+~
+~
+0 0
+0 0 67052
+D2
+~
+~
+0 0
+0 0 67051
+D3
+~
+~
+0 0
+0 0 67054
+S
+#67054
+Laborers Village~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67053
+D3
+~
+~
+0 0
+0 0 67040
+S
+#67055
+Road Through The Laborer's Village~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67058
+D1
+~
+~
+0 0
+0 0 67056
+D2
+~
+~
+0 0
+0 0 67041
+S
+#67056
+Well Maintained Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67057
+D3
+~
+~
+0 0
+0 0 67055
+S
+#67057
+Jheda Imports~
+Add entrance to building here
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 67056
+S
+#67058
+Before the Jehannah Docks~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67060
+D2
+~
+~
+0 0
+0 0 67055
+D3
+~
+~
+0 0
+0 0 67059
+S
+#67059
+Dock Masters~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67058
+S
+#67060
+Jehannah Docks~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 67058
+S
+#67061
+Merchants Road~
+Running north to south, the Merchant Road is meant for the permamnet
+businesses to have an established location from which to operate.  Lined
+with Cobblestones and smoothed to a fine polish from years of traffic, the
+roadway appears well taken care of.  The Elite of the City are frequently
+een shopping within the merchant shops here.  Not as many temporary stalls
+can be seen, which gives further credscene to the idea of the more
+established and prominent merchants having shops upon this street.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67010
+D2
+~
+~
+0 0
+0 0 67062
+S
+#67062
+Merchants and Inn Roads Crossing~
+Here, the two roads, Merchants and Inn, meet.  While almost as well taken
+care of, to the west runs the roadway where the finer Inns are located.  To
+the North and South, the road way extends for the benefit of the shoppers
+looking for the finer goods the city has to offer.  A variety of colors,
+enticing scents, and pleasurable sounds can be heard.  At the corner, a
+troubador stands, lightly struming a musical instrument.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67061
+D2
+~
+~
+0 0
+0 0 67065
+D3
+~
+~
+0 0
+0 0 67063
+S
+#67063
+Inn Road~
+Flanked on both sides by inns, nearly 3 stories tall, the road here runs
+west and east.  The din here is somewhat more subdued than one might expect,
+though some noise and laughter can be occasionally heard.  The Road is made
+of smaller cobblestones and appears artificatally smoothed, as though
+traffic were not what one might expect.  Light can be seen filtering down
+from each story, as every window and room appears to be well lit.  A greeter
+stands at each door, politely hawking the rooms, without being obnoxious
+about it.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67062
+D3
+~
+~
+0 0
+0 0 67064
+S
+#67064
+Inn Road~
+The end of the Inn road comes to a stop with an inn on both the North and
+South sides.  Taller than most buildings around, save the palace, great
+opulence appears to be placed upon these buildings.  Equally, and
+competitively, fine carvings adorn both the door and the walkway upto and
+into the buildings respectively.  What differences may exist are hard to
+tell from the outside, but it is clear that the wealthy elite that travel,
+stay at one of these two Inns.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67063
+S
+#67065
+Merchants Road~
+The Merchants road is flanked on both sides by shops of various
+specialties.  With a roadway made of cobblestone, and ample room provided
+for a sidewalk, the feeling of wealth permeates this area.  Well-to-do
+people of various nationalities stroll leisurely about the area, pointing
+and sending servants to purchase goods for them.  Occassionally, the crowd
+parts as someone of greater rank than those immediately around passes
+through, their bodyguards and manservants clearing the walking way for them.
+The wagons passing by only contain people, as though all product which moves
+about is only done when none of the wealthy will be about.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67062
+D2
+~
+~
+0 0
+0 0 67066
+S
+#67066
+Merchants Road~
+Moderately tall buildings, generally made of stone flank both sides of
+the north and south roadway known as Merchants Road.  Here, established
+bsuinesses are run, or those with the right connections.  Thought political
+in some sense, the merchant elite use this section of the city to service
+the wealthy elite, Ghealdanin Nobility, or visiting Nobility almost
+exclusively.  Some businesses can be seen with a greeter outside, though it
+is understood these are merely ushering away unwanted clientele.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67065
+D2
+~
+~
+0 0
+0 0 67068
+D3
+~
+~
+0 0
+0 0 67067
+S
+#67067
+A Dark Alley~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67066
+S
+#67068
+Merchants Road~
+Looking to the east, one can see the entrance to the public park within
+the confines of the Capital city.  To the south, along the finely maintained
+roadway of Merchants Road, the end can be seen.  Stores run along the
+western side of the street, the eastern left unpopulated to allow for the
+open beauty of the park to be seen.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67066
+D1
+~
+~
+0 0
+0 0 67071
+D2
+~
+~
+0 0
+0 0 67069
+S
+#67069
+Merchants Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67068
+S
+#67070
+Park~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67071
+D1
+~
+~
+0 0
+0 0 67075
+D2
+~
+~
+0 0
+0 0 67077
+S
+#67071
+Park Entrance~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67072
+D1
+~
+~
+0 0
+0 0 67074
+D2
+~
+~
+0 0
+0 0 67070
+D3
+~
+~
+0 0
+0 0 67068
+S
+#67072
+A Small Bridge~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67073
+D2
+~
+~
+0 0
+0 0 67071
+S
+#67073
+Trader Way~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67081
+D1
+~
+~
+0 0
+0 0 67088
+D3
+~
+~
+0 0
+0 0 67072
+S
+#67074
+park~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67080
+D2
+~
+~
+0 0
+0 0 67075
+D3
+~
+~
+0 0
+0 0 67071
+S
+#67075
+Lake~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67074
+D1
+~
+~
+0 0
+0 0 67079
+D2
+~
+~
+0 0
+0 0 67076
+D3
+~
+~
+0 0
+0 0 67070
+S
+#67076
+Lake~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67075
+D1
+~
+~
+0 0
+0 0 67078
+D3
+~
+~
+0 0
+0 0 67077
+S
+#67077
+Park~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67070
+D1
+~
+~
+0 0
+0 0 67076
+S
+#67078
+Lake~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67079
+D3
+~
+~
+0 0
+0 0 67076
+S
+#67079
+Lake~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67080
+D2
+~
+~
+0 0
+0 0 67078
+D3
+~
+~
+0 0
+0 0 67075
+S
+#67080
+Park~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 67079
+D3
+~
+~
+0 0
+0 0 67074
+S
+#67081
+Traders Way~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67082
+D2
+~
+~
+0 0
+0 0 67073
+S
+#67082
+Traders Way~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67083
+D1
+~
+~
+0 0
+0 0 67084
+D2
+~
+~
+0 0
+0 0 67081
+S
+#67083
+Traders Way~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67012
+D2
+~
+~
+0 0
+0 0 67082
+S
+#67084
+Trader Way Sidestreet~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67085
+D3
+~
+~
+0 0
+0 0 67082
+S
+#67085
+Trader Way Sidestreet~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 67086
+D3
+~
+~
+0 0
+0 0 67084
+S
+#67086
+Trader Way Sidestreet~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67085
+D1
+~
+~
+0 0
+0 0 67089
+D2
+~
+~
+0 0
+0 0 67087
+S
+#67087
+Trader Way Sidestreet~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67086
+D3
+~
+~
+0 0
+0 0 67088
+S
+#67088
+Trader Way Sidestreet~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 67087
+D3
+~
+~
+0 0
+0 0 67073
+S
+#67089
+Backstreet~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67092
+D2
+~
+~
+0 0
+0 0 67090
+D3
+~
+~
+0 0
+0 0 67086
+S
+#67090
+Backstreet~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67089
+D2
+~
+~
+0 0
+0 0 67091
+S
+#67091
+Backstreet~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67090
+S
+#67092
+Backstreet~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 67093
+D2
+~
+~
+0 0
+0 0 67089
+S
+#67093
+Backstreet~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 67092
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#HELPS
+0 The Mischan Hall Of Fame~
+{w[{CChat{w]{W: {rF{Riresong {w'{Cyou kidding me?  My wife wint do that :({w'{x 
+
+
+{w[{CChat{w]{W: {DMo{wr{Wri{wga{Dn {w'{CI needed extra hp if I want to be able to dance the
+sa'sara later{w'{x 
+ 
+~
+
+-1 $~
+
+#$

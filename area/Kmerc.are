@@ -1,0 +1,1179 @@
+#AREADATA
+Name Kandori Merchants Guild~
+Builders James~
+VNUMs 65000 65999
+Credits James~
+Security 1
+Low 10
+High 70
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#65001
+kandori merchant man~
+Kandori Merchant~
+A Kandori Man is seated here.
+~
+~
+kandori~
+ABE 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+F for M
+#65002
+kandori merchant woman~
+a Kandori Woman~
+A Kandori Woman rests comfortably here.
+~
+~
+kandori~
+ABE 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand female 0
+0 0 medium 'unknown'
+F for M
+#65003
+merchant kandori man~
+a Kandori Man~
+A Kandori Man smiles at everyone who enters.
+~
+~
+kandori~
+AB 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+F for M
+#65004
+merchant kandor woman~
+a Kandori Woman~
+A Kandori Woman sashays around the shop.
+~
+~
+unique~
+AB 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#65005
+woman kandori merchant~
+a Kandori Woman~
+A Kandori Woman smiles broadly at you.
+~
+~
+kandori~
+AB 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand female 0
+0 0 medium 'unknown'
+#65006
+merchant kandori man~
+a Kandori Man~
+A Kandori man is here, polishing a suit of armor.
+~
+~
+kandori~
+AB 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+F for M
+#65007
+man begger salesman~
+an old beggar~
+An old begger is asleep on the ground.
+~
+~
+kandori~
+AB 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+F for M
+#65008
+domani woman customer~
+a Domani Woman~
+A woman casually strolls through the shops.
+~
+~
+domani~
+AG 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand female 25
+0 0 medium 'unknown'
+#65009
+man customer taraboner~
+a Taraboner man~
+A Taraboner Man is doing a little shopping.
+~
+~
+taraboner~
+A 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand male 50
+0 0 medium 'unknown'
+#65010
+young child~
+a young child~
+A young child runs around screaming gleefully.
+~
+~
+amadician~
+A 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand male 20
+0 0 small 'unknown'
+#0
+
+
+
+#OBJECTS
+#65001
+pants woolen stiff~
+a pair of stiff {yw{Yoo{yl{Ye{yn {yp{Ya{yn{Yt{ys{x~
+a pair of wool pants have been discared here.~
+cloth~
+armor 0 AF
+20 20 20 20 0
+10 1 10 100
+A
+19 1
+A
+18 1
+A
+2 5
+#65002
+shirt cotton sturdy~
+a sturdy {Cc{Co{ct{Ct{co{Cn {Cs{ch{Ci{crt{x~
+a cotton shirt has been left on the floor.~
+cloth~
+armor 0 AD
+20 20 20 20 0
+10 1 10 100
+A
+19 1
+A
+18 1
+A
+4 5
+#65003
+boots leather worn~
+a pair of well worn {Yl{De{Ya{Dt{Yh{De{Yr {Yb{Do{Yo{Dt{Ys{x~
+a pair of leather boots are lined up here.~
+cloth~
+armor 0 AG
+20 20 20 20 0
+10 1 10 100
+A
+19 1
+A
+18 1
+A
+5 5
+#65004
+glove gloves itchy wool~
+gloves made of {ri{Dt{rc{Wh{ry {Ww{Ro{ro{Dl{x~
+a pair of warm looking gloves have been left here.~
+cloth~
+armor 0 AH
+20 20 20 20 0
+10 1 10 100
+A
+19 1
+A
+18 1
+A
+1 5
+#65005
+simple cap~
+a {Ws{Di{Wm{Dp{Wl{De {Wc{Da{Wp{x~
+a simple cap has been placed here.~
+cloth~
+armor 0 AE
+20 20 20 20 0
+10 1 10 100
+A
+19 1
+A
+18 1
+A
+3 5
+#65006
+rusty sword~
+a {Rr{Yu{Rs{Yt{Ry {wsword{x~
+a rusty sword has been left here.~
+metal~
+weapon 0 AN
+sword 5 7 'slash' 0
+10 1 10 100
+A
+18 1
+A
+19 1
+#65007
+worn spear~
+a {yworn {rs{Dp{re{Da{rr{x~
+a worn spear has been carelessly left here.~
+metal~
+weapon 0 AN
+spear 5 7 'pierce' 0
+10 1 10 100
+A
+18 1
+A
+19 1
+#65008
+bent staff~
+a {yb{Ye{yn{Yt {Wstaff{x~
+a bent staff leans against a wall.~
+wood~
+weapon 0 AN
+staff 5 7 'pound' 0
+10 1 10 100
+A
+18 1
+A
+19 1
+#65009
+dented dagger~
+a {Ddented {Wda{Dg{Wg{De{Wr{x~
+a little dagger is on the floor.~
+metal~
+weapon 0 AN
+dagger 5 7 'pierce' 0
+10 1 10 100
+A
+18 1
+A
+19 1
+#65010
+chipped mace~
+a {Cc{Wh{Ci{Wp{Cp{We{Cd {Wmace{x~
+a well-used mace has been left here.~
+iron~
+weapon 0 AN
+mace 5 7 'crush' 0
+10 1 10 100
+A
+18 1
+A
+19 1
+#65011
+cracked whip~
+a {yc{Yr{ya{Yc{Yk{ye{yd {Wwhip{x~
+an used whip is coiled here.~
+leather~
+weapon 0 AN
+whip 5 7 'whip' 0
+10 1 10 100
+A
+18 1
+A
+19 1
+#65012
+dented flail~
+a {ydented {Wf{Dl{Wa{Di{Wl{x~
+a flail of suspect condition has been left here.~
+iron~
+weapon 0 AN
+flail 5 7 'pound' 0
+10 1 10 100
+A
+18 1
+A
+19 1
+#65013
+tarnished lance~
+a {Rt{Ya{Rr{Yn{Ri{Ys{Rh{Ye{Rd {Wlance{x~
+a used lance leans against the wall here.~
+iron~
+weapon 0 AN
+lance 5 7 'stab' 0
+10 1 10 100
+A
+18 1
+A
+19 1
+#65014
+rusted voulge~
+a {Rr{Yu{Rs{Yt{Re{Yd {Wvoulge{x~
+a large polearm leans against a wall.~
+metal~
+weapon 0 AN
+polearm 5 7 'slash' 0
+10 1 10 100
+A
+18 1
+A
+19 1
+#65015
+gauntlet glove gloves knuckles reinforced~
+a {Rg{wl{Ro{wv{Re{x with reinforced {Yk{wn{yuc{Yk{wl{Ye{ws{x~
+a pair of heavy duty gloves have been left here.~
+leather~
+weapon 0 AN
+exotic 5 7 'punch' 0
+10 1 10 100
+A
+19 4
+#65016
+brass knuckles~
+a pair of metallic items meant for your hands are here.~
+none~
+brass~
+weapon 0 AN
+exotic 5 7 'none' 0
+10 1 10 100
+A
+19 4
+#65020
+silk trousers~
+a {cp{wa{ci{wr {co{wf {cs{wi{cl{wk {ct{wr{co{wu{cs{we{cr{ws{x~
+a pair of silk trousers are carefully folded here.~
+silk~
+armor 0 AF
+30 30 30 30 0
+30 1 90 100
+A
+19 2
+A
+18 2
+A
+2 5
+#65021
+breastplate polished shoulder~
+a {cp{wo{cl{wi{cs{wh{ce{wd {cb{wr{ce{wa{cs{wt{cp{wl{ca{wt{ce {cw{wi{ct{wh {cl{wa{cy{we{cr{we{cd {cs{wh{co{wu{cl{wd{ce{wr {cp{wl{ca{wt{ce{ws{x~
+none~
+steel~
+armor 0 AD
+30 30 30 30 0
+30 1 90 100
+A
+19 2
+A
+18 2
+A
+4 5
+#65022
+gleaming sabaton shin~
+a {cp{wa{ci{wr {co{wf {cg{wl{ce{wa{cm{wi{cn{wg {cs{wa{cb{wa{ct{wo{cn{ws {cw{wi{ct{wh {cs{wh{ci{wn {cp{wl{ca{wt{ce{ws{x ~
+a pair of sabatons have been carefully set aside.~
+steel~
+armor 0 AG
+30 30 30 30 0
+30 1 90 100
+A
+19 2
+A
+18 2
+A
+5 5
+#65023
+gauntlets gloves~
+a {cp{wa{ci{wr {co{wf {cl{wa{cy{we{cr{we{cd {cs{wt{ce{we{cl {cp{wl{ca{wt{ce {cg{wa{cu{wn{ct{wl{ce{wt{cs{x~
+a set of steel gauntlets have been dropped here.~
+steel~
+armor 0 AH
+30 30 30 30 0
+30 1 90 100
+A
+19 2
+A
+18 2
+A
+1 5
+#65024
+helmet bell rounded nose~
+a {cr{wo{cu{wn{cd{we{cd {cb{we{cl{wl {ch{we{cl{wm{ce{wt {cw{wi{ct{wh {cn{wo{cs{we {cg{wu{ca{wr{cd{x~
+a rounded helmet has been left here.~
+steel~
+armor 0 AE
+30 30 30 30 0
+30 1 90 100
+A
+19 2
+A
+18 2
+A
+3 5
+#65025
+longsword single edge sword~
+a {ys{wi{yn{wg{yl{we-{ye{wd{yg{we{yd {yl{wo{yn{wg{ys{ww{yo{wr{yd{x~
+a longsword is here gathering dust.~
+steel~
+weapon 0 AN
+sword 5 9 'slash' 0
+30 1 90 100
+A
+18 2
+A
+19 2
+#65026
+spear wooden hafted~
+a {yw{wo{yo{wd{ye{wn-{yh{wa{yf{wt{ye{wd {ys{wp{ye{wa{yr{x~
+none~
+wood~
+weapon 0 AN
+spear 5 9 'pierce' 0
+30 1 90 100
+A
+18 2
+A
+19 2
+#65027
+staff lacquered etched~
+a {cl{wa{cc{wq{cu{we{cr{we{cd{w, {ce{wt{cc{wh{ce{wd {cs{wt{ca{wf{cf{x~
+a finely made staff has been leaned against the wall.~
+wood~
+weapon 0 AN
+staff 5 9 'pound' 0
+30 1 90 100
+A
+19 4
+#65028
+knife gilded steel~
+a {Yg{wi{Yl{wd{Ye{wd, {Ys{wt{Ye{we{Yl {Yk{wn{Yi{wf{Ye{x~
+an expensive looking dagger has been unceremoniously left here.~
+steel~
+weapon 0 AN
+dagger 5 9 'pierce' 0
+30 1 90 100
+A
+18 2
+A
+19 2
+#65029
+hammer warhammer feather~
+a {yw{wa{yr{wh{ya{wm{ym{we{yr {yw{wi{yt{wh {mf{we{ma{wt{mh{we{mr {ya{wt{yt{wa{yc{wh{ye{wd{x~
+a long hammer with a feather has been left here.~
+metal~
+weapon 0 AN
+mace 5 9 'pound' 0
+30 1 90 100
+A
+18 2
+A
+19 2
+#65030
+oiled whip~
+a {yw{we{yl{wl-{yo{wi{yl{we{yd {yw{wh{yi{wp{x~
+a servicable whip has been coiled here.~
+leather~
+weapon 0 AN
+whip 5 9 'whip' 0
+30 1 90 100
+A
+18 2
+A
+19 2
+#65031
+flail three headed~
+a {mt{wh{mr{we{me{w-{yh{we{ya{wd{ye{wd {yf{wl{ya{wi{yl{x~
+a flail has been carefully wrapped and placed here.~
+metal~
+weapon 0 AN
+flail 5 9 'pound' 0
+30 1 90 100
+A
+18 2
+A
+19 2
+#65032
+lance polished streamers~
+a {yp{wo{yl{wi{ys{wh{ye{wd {yl{wa{yn{wc{ye {yw{wi{yt{wh {ms{wt{mr{we{ma{wm{me{wr{ms{x~
+a finely-crafted lance leans against a wall here.~
+steel~
+weapon 0 0
+lance 5 9 'thrust' 0
+30 1 90 100
+A
+18 2
+A
+19 2
+#65033
+halberd gleaming steel~
+a {yg{wl{ye{wa{ym{wi{yn{wg, {ys{wt{ye{we{yl {yh{wa{yl{wb{ye{wr{yd{x~
+a fine looking halberd rests on the ground.~
+steel~
+weapon 0 AN
+polearm 5 9 'slash' 0
+30 1 90 100
+A
+18 2
+A
+19 2
+#65040
+plates leather trousers lamellar~
+{Dl{ra{Dm{re{wl{Dl{ra{Dr {Dp{rl{Da{Wt{De{rs {Dc{ro{Dv{re{wr{Di{rn{Dg {Ds{ri{wl{Dk {Dt{rr{Do{ru{Ds{re{Dr{rs{x~
+a set of armored pants have been left here.~
+steel~
+armor 0 AF
+40 40 40 40 0
+50 1 90 100
+A
+2 5
+A
+19 3
+A
+18 3
+#65041
+suit plated gilded etch work~
+a {Ds{ru{Di{rt {Do{rf {Dp{wl{ra{Dt{re{Dd {Da{rr{Dm{wo{rr {Dw{ri{Dt{rh {Dg{wi{Dl{rd{we{Dd {De{rt{Dc{rh {Dw{wo{Dr{rk{x~
+a fine suit of armor has been carelessly left here.~
+armor~
+armor 0 AD
+40 40 40 40 0
+50 1 90 100
+A
+4 5
+A
+19 3
+A
+18 3
+#65042
+solid plate boots~
+a {Dp{ra{Di{rr {wo{Df {rs{Do{rl{wi{Dd {rp{Dl{ra{Dt{we {Db{ro{Wo{Dt{rs{x~
+a set of fine crafted boots is placed here.~
+steel~
+armor 0 AG
+40 40 40 40 0
+50 1 90 100
+A
+5 5
+A
+19 3
+A
+18 3
+#65043
+plated gauntlet lamellar~
+a {Dp{ra{Di{rr {Do{rf {wl{Da{rm{De{wl{rl{wa{Dr {Dp{rl{Da{wt{re{Dd {Dg{ra{Du{rn{Dt{rl{De{rt{Ds{x~
+a pair of gauntlets look far too expensive to be left out like this.~
+steel~
+armor 0 AH
+40 40 40 40 0
+50 1 90 100
+A
+1 5
+A
+19 3
+A
+18 3
+#65044
+helmet crescent moon plated lamellar~
+a {Dl{ra{Dm{re{Dl{rl{Da{rr {Dp{rl{Da{rt{we{Dd {Dh{re{Dl{rm{De{rt {Dw{wi{Dt{rh {ra {wc{Wr{we{Ws{wc{We{wn{Wt {Wm{wo{wo{wn {Da{rt{Do{rp{x~
+an exceptional helmet has been left here.~
+steel~
+armor 0 AE
+40 40 40 40 0
+50 1 90 100
+A
+3 5
+A
+19 3
+A
+18 3
+#65045
+talwar sword gleaming leather wrapped~
+a {rg{Dl{rea{Dm{wi{Rn{wg {Dt{ra{Dl{rw{Da{rr {Dw{ri{Dt{Rh {Dl{re{Da{wt{rh{De{rr{w-{Dw{rr{Da{Rp{rp{De{rd {Dh{ri{Dl{rt{x~
+a finely crafted sword should not be here, collecting dust.~
+steel~
+weapon 0 AN
+sword 8 11 'slash' 0
+50 1 90 100
+A
+18 3
+A
+19 3
+#65046
+yari massive strange inscription~
+a {Dm{ra{Ds{rs{wi{Wv{re {Dy{ra{wr{Ri {Dw{ri{Dt{wh {rs{Dt{rr{wa{Wn{rg{De {Di{rn{Ds{rc{wr{Di{rp{Wt{Di{ro{Rn{ws{x~
+a strange looking spear has been left here.~
+metal~
+weapon 0 AN
+spear 8 11 'pierce' 0
+50 1 90 100
+A
+18 3
+A
+19 3
+#65047
+long thin black staff cylinder curved~
+a {Dl{ro{Dn{rg{w, {Dt{wh{Di{rn {Dblack {rc{Dy{wl{Di{rn{Rd{De{wr {Dw{ri{Dt{Rh {Dc{ru{Dr{Wv{we{Dd {rb{Dl{ra{Dd{re{x~
+a thin piece of wood has been left here.~
+Unknown~
+weapon 0 AN
+staff 8 11 'pound' 0
+50 1 90 100
+A
+18 3
+A
+19 3
+#65048
+kris steel curving light~
+a {Dc{ru{Dr{Rv{wi{Dn{rg {Ds{rt{De{re{Rl {rk{Dr{ri{ws {Dt{rh{Ra{Dt {Db{re{Dn{rd{Ds {Dl{ri{Dg{rh{Wt {Da{rr{Do{wu{Dn{rd {Di{rt{x~
+a special knife has been left on the ground.~
+stel~
+weapon 0 AN
+dagger 8 11 'pierce' 0
+50 1 90 100
+A
+19 3
+A
+18 3
+#65049
+mace flanged jeweled~
+a {Df{rl{Da{Wn{Dg{re{Wd {Dm{ra{Dc{re {Dw{ri{Rt{wh {Dj{re{Dw{re{Dl{re{Dd {Dh{ri{Dl{rt{x~
+an ornate mace has been left on the ground.~
+metal~
+weapon 0 AN
+mace 8 11 'crush' 0
+50 1 90 100
+A
+19 3
+A
+18 3
+#65050
+qilinbian hook tri whip~
+a {Dq{ri{Dl{wi{Dn{rb{Di{ra{wn {Dw{ri{Dt{wh {Dt{rr{Di{w-{Dh{ro{Do{wk {Dt{ri{Dp{x~
+a series of chain links are coiled here.~
+steel~
+weapon 0 AN
+whip 8 11 'whip' 0
+50 1 90 100
+A
+19 3
+A
+18 3
+#65051
+flail massive jagged metallic~
+a {wm{We{wt{Wa{wl{Wl{wi{Wc {Df{rl{Da{wi{Dl {Dw{ri{Dt{rh {ra {Dm{ra{Ds{ws{ri{Dv{re{w, {Dj{wa{rg{Dg{we{rd {Df{rl{Da{wi{rl{w-{Dh{re{Da{rd{x~
+a very large ball attached to a wooden shaft is here.~
+steel~
+weapon 0 AN
+flail 8 11 'smash' 0
+50 1 90 100
+A
+18 3
+A
+19 3
+#65052
+lance stainless black shaft~
+a {Dl{ra{Dn{rc{we {Dw{ri{Dt{rh {Ws{Dt{ra{Di{rn{wl{De{rs{Ds {Dblack {rs{Dh{wa{Df{rt{x~
+an odd looking lance has been left here.~
+steel~
+weapon 0 AN
+lance 8 11 'pierce' 0
+50 1 90 100
+A
+18 3
+A
+19 3
+#65053
+pertuisane etched strange inscription~
+a {Dp{re{Dr{wt{Du{ri{Ds{Wa{Dn{re {De{rt{Dc{wh{De{rd {Dw{ri{Dt{rh {ra {Ds{rt{Dr{ra{Wn{wg{De {ri{Dn{ws{Wc{wr{ri{wp{Dt{ri{Do{rn{x~
+a large polearm leans against a wall here.~
+metal~
+weapon 0 AN
+polearm 8 11 'stab' 0
+50 1 90 100
+A
+18 3
+A
+19 3
+#65060
+fate world~
+{DT{rh{De {rFa{Dt{re {Do{rf {RT{rh{De {RW{Do{rr{Dl{Rd{x~
+The fate of the world rests here on the ground.~
+cuendillar~
+treasure Yb AOQ
+0 0 0 0 0
+90 1 1000000 100
+A
+19 8
+A
+18 8
+A
+1 5
+A
+12 250
+A
+13 250
+A
+17 -40
+#65100
+floaty noodle~
+a {Gbright green{x pool noodle~
+A long, {Gbright green{x piece of plastic lies here.~
+floaty stuff~
+boat Yb A
+0 0 0 0 0
+0 0 100 100
+#0
+
+
+
+#ROOMS
+#65000
+Kandori Merchants Guild~
+NPC Vnums:
+65001 and 65002 - Level 10 merchants
+65003 and 65004 - Level 30 merchants
+65005 and 65006 - level 50 merchants
+65007           - level 90 Shifty Salesman
+65008 -   65010 - Customers
+ 
+Room vnums:
+65001 and 65002 - Level 10 Shop
+65003 and 65004 - Level 30 shops
+65005 and 65006 - Level 50 shops
+65007 and 65011 - Kandori Outpost Hallways
+ 
+Object Vnums:
+65001 - 65005 level 10 armor
+65006 - 65014 level 10 weapons
+65020 - 65024 Level 30 armor
+65025 - 65033 level 30 weapons
+65040 - 65044 level 50 armor
+65045 - 65053 level 50 weapons
+65060         level 90 held item
+ 
+ 
+*spaces left in objects in case lights, shields or other are needed
+ 
+ 
+~
+0
+C 0
+S
+#65001
+{rK{Ga{gn{Rd{ror{Ri {GM{ge{Grc{Rh{ra{Rn{rt's {gG{rui{Gl{rd - {cL{Co{cw {cL{ce{cv{Ce{cl {cA{Crm{cor{Ce{cr{x~
+Wooden tables and wooden shelves line the room.  A number of candles are
+light, early evening through early morning, giving off a pale light.  These
+are strategically placed to keep the stock intact, but also ward off any
+areas where a shadow may creep in.  A number of stands can be seen which
+have a set of armor adorning each.  A single man sits behind one of the
+tables, a grim look to his eyes.  
+~
+0
+K 0
+D1
+~
+~
+0 0
+0 0 65002
+D3
+~
+~
+0 0
+0 0 8
+S
+#65002
+{rK{Ga{gn{Rd{ror{Ri {GM{ge{Grc{Rh{ra{Rn{rt's {gG{rui{Gl{rd - {cL{Co{cw {cL{ce{cv{Ce{cl {cW{Cea{cpo{Cn{cs{x~
+A small shop by many standards, but filled to the brim.  Numerous bays
+can be seen lining three of the four walls of this shop.  Each has various
+types of armaments contained within, lined up squarely for the eye to get a
+good view of.  Swords, lances, and even more exotic weaponry is on display
+for the self-defense oriented individual.  A single woman sits behind the
+counter, keeping a stern gaze on all who enter her shop.  The smell of lit
+or recently extinguished fireplace on the southern wall wafts, giving a
+slight haze to the air.  
+~
+0
+K 0
+D3
+~
+~
+0 0
+0 0 65001
+S
+#65003
+{rK{Ga{gn{Rd{ror{Ri {GM{ge{Grc{Rh{ra{Rn{rt's {gG{rui{Gl{rd - {mM{Mi{md {mL{me{mv{Me{ml {mW{Mea{mpo{Mn{ms{x~
+Freshly dusted, and polished, this store is immaculate by all measures. 
+Carefully placed and precisely laid out tables display the smaller hand-held
+weaponry that is offered.  Racks with well cared for and sparkling weaponry
+dot the room, in a fixed, expected manner.  Numerous nobles from across the
+continent can be seen browsing the wares, and approaching the store owner. 
+A wide smile can be seen by the man who wanders, greeting all of the guests.
+The jingle of bells can be heard as the man offers a laugh in exchange for
+witty words, or praise for acknowledgement of the fine crafts displayed.  
+~
+0
+0 0
+D1
+~
+~
+1 1
+1 0 65007
+D2
+~
+~
+1 1
+1 0 65008
+S
+#65004
+{rK{Ga{gn{Rd{ror{Ri {GM{ge{Grc{Rh{ra{Rn{rt's {gG{rui{Gl{rd - {mM{Mi{md {mL{Me{mv{Me{ml {mAr{Mm{mo{Mre{mr{x~
+Finely crafted tables, clothed in the latest Domani and Taraboner
+fabrics, are laid out in a precise manner.  Atop each rests a number of
+clothing choices.  A number of racks, touching each wall display various
+piece of armour for the warfare connoisseur in us all.  A variety of
+nobility from as far away as the great city of Cairhien can be seen
+discussing and inspecting each piece.  The woman, gracefully strolling
+about, greeting each customer in turn with a smile, laughs politely, making
+everyone feel welcome.  
+~
+0
+DK 0
+D2
+~
+~
+1 1
+1 0 65010
+D3
+~
+~
+1 1
+1 0 65007
+S
+#65005
+{rK{Ga{gn{Rd{ror{Ri {GM{ge{Grc{Rh{ra{Rn{rt's {gG{rui{Gl{rd - {GH{gi{Gg{gh {gL{Ge{gv{Ge{gl {GW{gea{Gpo{gn{Gs{x~
+The smell of freshly cleaned countertops pervades the area.  Smooth
+counter tops, of lacquered wood with simple drapery of a fine fabric,
+dominate the space.  Along the walls, various racks contain a host of arms
+and armament.  Gleaming, steel swords of the finest quality and long pole
+arms that nearly touch the ceiling can be seen sitting within expertly
+crafted slits upon the rack.  A elderly woman, smiling warmly, ambles near
+the edge of the room.  Her movements with weapons suggest she has some past
+experience, and if pressed, perhaps she would even give a demonstration.  A
+dummy, with numerous chips and dings sits in the southwest corner, silently
+confirming this truth.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 65008
+D1
+~
+~
+1 1
+1 0 65011
+S
+#65006
+{rK{Ga{gn{Rd{ror{Ri {GM{ge{Grc{Rh{ra{Rn{rt's {gG{rui{Gl{rd - {GH{gi{Gg{gh {GL{ge{gv{Ge{gl {gAr{Gm{go{Gre{gr{x~
+This room, more so than the previous, shows more wear and tear upon the
+floors.  Made of wood, they show that great traffic has been through the
+doorways to the north and west.  A pair of candles, within sconces on
+adjoining walls to the south and east, cast quite a bit of light, enough to
+push back all shadows within the room.  Within the central area, a number of
+tables have been placed, with an array of the finest Kandori quality crafts
+laid upon them.  A man sits the farthest corner from the doors, occasionally
+looking up, but intently focused on polishing the armor within his hands
+otherwise.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 65010
+D3
+~
+~
+1 1
+1 0 65011
+S
+#65007
+Northern Hallway~
+This is the northern end of the hallways leading to the shops located
+wtihin this building.  The wear patterns on the floor suggest that both
+shops, the weapons to the west, and armorer to the east, are equaly visited
+by patrons.  Further south, is what looks to be the central meeting area of
+this building.  
+~
+0
+0 0
+D1
+~
+~
+1 1
+1 0 65004
+D2
+~
+~
+0 0
+0 0 65009
+D3
+~
+~
+1 1
+1 0 65003
+S
+#65008
+Western Hallway~
+This is the western end of the hallways connecting the shops accessible
+in this building.  To the north and south are two weapons shops, the
+southern appearing to have wealthier clientelle.  The warn wood floors
+beneath you point to the years of heavy traffic through this area, though in
+one direction it seems.  Presumably, those browsing to the south, but
+purchasing to the north.  To the east, appears to be the central meeting
+area of this building. West, leads back to the city of Falme.
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 65003
+D1
+~
+~
+0 0
+0 0 65009
+D2
+~
+~
+1 1
+1 0 65005
+D3
+~
+~
+3 3
+1 0 8404
+S
+#65009
+Central Hallway~
+This is the central area connecting the four shops within this building.
+A few benches are placed in opposing corners of northwest and southeast,
+allowing for active customers to have a seat.  A number of hawkers can be
+heard in the area, attempting to shout above the voices of the people
+passing in and through here.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 65007
+D1
+~
+~
+0 0
+0 0 65010
+D2
+~
+~
+0 0
+0 0 65011
+D3
+~
+~
+0 0
+0 0 65008
+D5
+~
+~
+4096 4096
+0 0 65012
+S
+#65010
+Eastern Hallway~
+The eastern hallway of the Kandori Merchant's outpost seems the most
+devoid of decoration.  Where others may have scattered paintings or
+furnishings, this hallway has none.  Perhaps it is the pragmaticism of the
+eastern hallway shops.  To the north is the middle class Armorer, to the
+South the upper class.  To the west, the central meeting area of this
+building.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 65004
+D2
+~
+~
+1 1
+1 0 65006
+D3
+~
+~
+0 0
+0 0 65009
+S
+#65011
+Southern Hallway~
+The southern hallway, looking quite well travelled, appears to be the
+wealthier end of this building.  The boards beneath appear to have been
+replaced more often, benches and other furnishing are present.  To the east
+is an armorer of great renown, equally, to the west, a woman garners much
+respect for the weaponry she carries.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 65009
+D1
+~
+~
+1 1
+1 0 65006
+D3
+~
+~
+1 1
+1 0 65005
+S
+#65012
+{DBeneath The Stores{x~
+The dirt and filth that exists here is nearly overwhelming to all but
+the most hearty of adventurers.  Trash from above has been careless thrown
+down here, collecting an unknown number of diseases along with it.  Only the
+most foolish or most destitute would consider being in this place for any
+length of time.  
+~
+0
+0 0
+D4
+~
+~
+4096 4096
+0 0 65009
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 65008 3 1
+M 0 65001 1 65001 1
+G 0 65001 0
+G 0 65002 0
+G 0 65003 0
+G 0 65004 0
+G 0 65005 0
+G 0 16976 0
+G 0 65100 0
+M 0 65002 1 65002 1
+G 0 65006 0
+G 0 65007 0
+G 0 65008 0
+G 0 65009 0
+G 0 65010 0
+G 0 65011 0
+G 0 65012 0
+G 0 65013 0
+G 0 65014 0
+M 0 65003 1 65003 1
+G 0 65025 0
+G 0 65026 0
+G 0 65027 0
+G 0 65028 0
+G 0 65029 0
+G 0 65030 0
+G 0 65031 0
+G 0 65032 0
+G 0 65033 0
+M 0 65004 1 65004 1
+G 0 65020 0
+G 0 65021 0
+G 0 65022 0
+G 0 65023 0
+G 0 65024 0
+M 0 65005 1 65005 1
+G 0 65045 0
+G 0 65046 0
+G 0 65047 0
+G 0 65048 0
+G 0 65049 0
+G 0 65050 0
+G 0 65051 0
+G 0 65052 0
+G 0 65053 0
+M 0 65006 1 65006 1
+G 0 65040 0
+G 0 65041 0
+G 0 65042 0
+G 0 65043 0
+G 0 65044 0
+M 0 65008 1 65009 1
+M 0 65009 1 65009 1
+M 0 65010 1 65009 1
+M 0 65007 1 65012 1
+G 0 65060 0
+S
+
+
+
+#SHOPS
+65001 9 22 0 0 0 100 50 1 23
+65002 5 0 0 0 0 100 50 1 23
+65003 0 0 0 0 0 100 50 1 23
+65004 0 0 0 0 0 100 50 1 23
+65005 0 0 0 0 0 100 50 1 23
+65006 0 0 0 0 0 100 50 1 23
+65007 0 0 0 0 0 100 50 0 23
+0
+
+
+
+#$

@@ -1,0 +1,500 @@
+#PLAYER
+Name Tritone~
+Email joseph.bruggeman@gmail.com~
+Id   1362449619
+LogO 1382716914
+Vers 5
+ShD  {bT{Bwiton{be{x~
+Desc .
+
+
+~
+Prom [{R%h{x/{R%H{xhp {G%m{x/{G%M{xen {W%p{x/{W%P{xop] ~
+Race trolloc~
+Clan ShadowSpawn~
+Rank 8
+Gtitle {RM{r'H{Da{re{Rl{x~
+Ginvis 1
+Srank 8
+Quest_Curr    3000
+Quest_Accum  32000
+Lastlog Fri Oct 25 04:42:01 2013
+~
+Lastsite 192.149.93.63~
+Sex  1
+Cla  0
+Levl 100
+Bounty 0
+Sec  10
+Plyd 3744092
+RolePlayed 553
+Scro 73
+PKCount 0
+PKDiedCount 0
+Room 9993
+HMV  10100 10100 10100 10100
+HLoc 3366 2525 1683 5050 3366 2525
+Gold 57756
+Silv 60
+Gold_bank 0
+Silv_bank 0
+Exp  0
+Act  DEFILMNQTb
+Act2  B
+AutoAct  ABCDG
+ChanFlag  AB
+AfBy FP
+Comm JNPQ
+Comm2 0
+Wizn ACDEFHIJLMNOPQRSTUVWXYZ
+Pos  8
+Trai 1545
+Alig  -590
+ArrCnt  0
+Hit   77
+Dam   77
+ACs -85 -85 -85 -85
+Attr 25 25 25 25 25
+AMod 18 2 2 2 3
+CSphere  5000 5000 5000 5000 5000
+Sphere 10200 10200 10200 10200 10200
+Burnout 0
+MaxBurnout 20
+MSphere 2
+Holding 0
+Autoholding 99
+Merits BJ
+Talents AGM
+Pass JoeGkA.gkYk.Q~
+Bin  The very fabric of the world screams as it is torn and {BT{briton{Be{x steps out.~
+Appearance An envoy of the shadow~
+Titl  paces.~
+ImmInfo {bA{Bdmin R{bP{x~
+Pnts 6
+TSex 1
+LLev 783
+Home 0
+ICLocRecall 8
+HMVP 10000 10000
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+GateKey rot peculiar~
+GateKey cted_State Login@~
+GateKey madlen small~
+GateKey leather and~
+GateKey simple {Wwh{wi{Wte~
+GateKey his 9381eae00fb761b6~
+Boards       12 Announce 1381270697 General 1381551478 Ideas 1381794511 Personal 1379127110 Guild 1382317347 Stories 1382144591 Bugs 1379733625 Permanent 1382152099 Admin 0 PK 1382333160 Immortal 1381697328 Newplayers 1382668687 
+Sk 301 'reserved'
+Sk 301 'blindness'
+Sk 301 'call lightning'
+Sk 301 'calm'
+Sk 301 'create spring'
+Sk 1 'cure poison'
+Sk 301 'demonfire'
+Sk 301 'earthquake'
+Sk 301 'enchant armor'
+Sk 301 'enchant weapon'
+Sk 301 'reveal'
+Sk 301 'fireball'
+Sk 301 'fireproof'
+Sk 301 'levitate'
+Sk 301 'gate'
+Sk 301 'giant strength'
+Sk 301 'harm'
+Sk 301 'haste'
+Sk 301 'heal'
+Sk 301 'heat metal'
+Sk 301 'identify'
+Sk 301 'lightning bolt'
+Sk 301 'mass invis'
+Sk 301 'refresh'
+Sk 301 'sanctuary'
+Sk 301 'sleep'
+Sk 301 'slow'
+Sk 301 'stone skin'
+Sk 301 'weaken'
+Sk 301 'arrow'
+Sk 301 'axe'
+Sk 301 'bow'
+Sk 301 'dagger'
+Sk 301 'flail'
+Sk 301 'lance'
+Sk 301 'mace'
+Sk 301 'polearm'
+Sk 301 'shield block'
+Sk 301 'spear'
+Sk 301 'sword'
+Sk 301 'whip'
+Sk 300 'assassinate'
+Sk 300 'backstab'
+Sk 300 'circle'
+Sk 301 'bash'
+Sk 301 'bash door'
+Sk 301 'berserk'
+Sk 301 'dirt kicking'
+Sk 301 'disarm'
+Sk 301 'dodge'
+Sk 301 'dual wield'
+Sk 301 'enhanced damage'
+Sk 301 'blademaster'
+Sk 301 'trollocwarfare'
+Sk 300 'envenom'
+Sk 301 'hand to hand'
+Sk 301 'kick'
+Sk 301 'parry'
+Sk 301 'rescue'
+Sk 301 'trip'
+Sk 301 'throw'
+Sk 301 'second attack'
+Sk 301 'third attack'
+Sk 1 'fade'
+Sk 301 'fast healing'
+Sk 301 'haggle'
+Sk 301 'hide'
+Sk 301 'herbs'
+Sk 301 'lore'
+Sk 301 'meditation'
+Sk 301 'peek'
+Sk 301 'pick lock'
+Sk 301 'sneak'
+Sk 301 'steal'
+Sk 301 'recall'
+Sk 301 'riding'
+Sk 301 'sharpen'
+Sk 301 'sap'
+Sk 301 'push'
+Sk 301 'seize'
+Sk 301 'embrace'
+Sk 301 'tying'
+Sk 301 'shielding'
+Sk 301 'staff'
+Sk 301 'token'
+Sk 301 'blade of flame'
+Sk 301 'grow berries'
+Sk 301 'create flame'
+Sk 301 'bar of fire'
+Sk 301 'inferno'
+Sk 301 'rolling ring'
+Sk 301 'flying rocks'
+Sk 301 'blast of air'
+Sk 301 'stream of water'
+Sk 301 'waterball'
+Sk 301 'blizzard'
+Sk 301 'wrap'
+Sk 301 'pinch'
+Sk 1 'shadowtravel'
+Sk 301 'minor heal'
+Sk 301 'major heal'
+Sk 301 'critical strike'
+Sk 301 'armor use'
+Sk 301 'awareness'
+Sk 301 'observation'
+Sk 301 'alertness'
+Sk 301 'dreaming'
+Sk 301 'delve'
+Sk 301 'gag'
+Sk 301 'wolfdream'
+Sk 301 'speardancer'
+Sk 301 'wall of fire'
+Sk 301 'wall of air'
+Sk 301 'disguise'
+Sk 301 'gust of wind'
+Sk 301 'thunderclap'
+Sk 301 'create rain'
+Sk 301 'charge'
+Sk 301 'link'
+Sk 301 'slice'
+Sk 301 'guard'
+Sk 301 'invert weave'
+Sk 301 'dream ward'
+Sk 301 'remove residues'
+Sk 301 'shadowspawn ward'
+Sk 301 'eavesdrop'
+Sk 301 'eavesdrop ward'
+Sk 301 'suffocate'
+Sk 301 'giant size'
+Sk 301 'block'
+Sk 301 'duelling'
+Sk 301 'overwhelm'
+Sk 301 'bind'
+Sk 301 'escape'
+Sk 301 'plant'
+Sk 301 'fourth attack'
+Sk 301 'light ward'
+Sk 301 'fifth attack'
+Sk 301 'mining'
+Sk 301 'gemmine'
+Sk 301 'mine'
+Sk 301 'smelt'
+Sk 301 'gemcut'
+Sk 301 'armorcraft'
+Sk 301 'jewelcraft'
+Sk 301 'axemaster'
+Sk 301 'staffmaster'
+Sk 301 'whipmaster'
+Sk 301 'flailmaster'
+Sk 301 'flamevoid'
+Sk 301 'whirlwind'
+Sk 301 'concussion blow'
+Sk 301 'iron will'
+Sk 301 'martial arts'
+Sk 301 'spinning earthfire'
+Sk 301 'hurricane'
+Sk 301 'debilitate'
+Sk 301 'air dome'
+Sk 301 'mind crush'
+Sk 301 'arrows of fire'
+Sk 301 'tornado'
+Sk 301 'tidal wave'
+Sk 301 'earthen grasp'
+Sk 301 'macemaster'
+Sk 301 'align matrix'
+Sk 150 'weaponsmith'
+Backup 1381780147
+World A
+RPTimer 0
+RPBonus 0
+TR_ClanKill 0
+TR_PCKill 0
+End
+
+#O
+Vnum 40030
+Nest 0
+Cond 98
+Owner Tritone~
+Wear 25
+Cost 4000
+End
+
+#O
+Vnum 40065
+Enchanted
+Nest 0
+Name jewelcrafted emerald silver necklace~
+ShD  a {Ws{Di{Wl{Dv{We{Dr{x necklace with an {gem{Ger{ga{Gl{gd{x solitaire~
+Desc a {Ws{Di{Wl{Dv{We{Dr{x necklace with an {gem{Ger{ga{Gl{gd{x solitaire lies here.~
+ExtF 1493172224
+WeaF 5
+Owner Tritone~
+Wear 5
+Cost 100
+Affc 'jewelcraft'   1  90  -1  16  28          0
+Affc 'jewelcraft'   1  90  -1  17  27          0
+Affc 'align matrix'   1 100  -1 -15  17          0
+End
+
+#O
+Vnum 40065
+Enchanted
+Nest 0
+Name jewelcrafted emerald silver earring~
+ShD  a {Ws{Di{Wl{Dv{We{Dr{x earring with an {gem{Ger{ga{Gl{gd{x solitaire~
+Desc a {Ws{Di{Wl{Dv{We{Dr{x earring with an {gem{Ger{ga{Gl{gd{x solitaire lies here.~
+ExtF 1493172224
+WeaF 1048577
+Owner Tritone~
+Wear 24
+Cost 100
+Affc 'jewelcraft'   1  90  -1  15  28          0
+Affc 'jewelcraft'   1  90  -1  15  27          0
+Affc 'align matrix'   1 100  -1 -15  17          0
+End
+
+#O
+Vnum 40065
+Enchanted
+Nest 0
+Name jewelcrafted emerald silver earring~
+ShD  a {Ws{Di{Wl{Dv{We{Dr{x earring with an {gem{Ger{ga{Gl{gd{x solitaire~
+Desc a {Ws{Di{Wl{Dv{We{Dr{x earring with an {gem{Ger{ga{Gl{gd{x solitaire lies here.~
+ExtF 1493172224
+WeaF 1048577
+Owner Tritone~
+Wear 23
+Cost 100
+Affc 'jewelcraft'   1  90  -1  13  28          0
+Affc 'jewelcraft'   1  90  -1  12  27          0
+Affc 'align matrix'   1 100  -1 -20  17          0
+End
+
+#O
+Vnum 9997
+Nest 0
+Wear 20
+Cost 1000
+End
+
+#O
+Vnum 9922
+Nest 0
+Wear 21
+Cost 1000000
+End
+
+#O
+Vnum 12748
+Nest 0
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper perfect~
+ShD  a lump of copper ore of perfect quality~
+Desc A lump of copper ore of perfect quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 8 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper perfect~
+ShD  a lump of copper ore of perfect quality~
+Desc A lump of copper ore of perfect quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 8 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper perfect~
+ShD  a lump of copper ore of perfect quality~
+Desc A lump of copper ore of perfect quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 8 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore silver perfect~
+ShD  a lump of silver ore of perfect quality~
+Desc A lump of silver ore of perfect quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 8 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore silver perfect~
+ShD  a lump of silver ore of perfect quality~
+Desc A lump of silver ore of perfect quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 8 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore silver perfect~
+ShD  a lump of silver ore of perfect quality~
+Desc A lump of silver ore of perfect quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 8 0 0 0
+End
+
+#O
+Vnum 40067
+Nest 0
+Name crafted weapon sword~
+ShD  a {Cmastercrafted{x {Di{wro{Dn{x sword with inlaid {Ws{Di{Wl{Dv{We{Dr{x vines~
+Desc a {Cmastercrafted{x {Di{wro{Dn{x sword with inlaid {Ws{Di{Wl{Dv{We{Dr{x vines lies here.~
+Owner Tritone~
+Wear -1
+Cost 0
+Val  1 15 15 3 8
+Affc 'weaponsmith'   1  90  -1  15  19          0
+Affc 'weaponsmith'   1  90  -1  51  18          0
+End
+
+#O
+Vnum 40067
+Nest 0
+Name crafted weapon sword~
+ShD  a {Cmastercrafted{x {Di{wro{Dn{x sword with inlaid {Ws{Di{Wl{Dv{We{Dr{x vines~
+Desc a {Cmastercrafted{x {Di{wro{Dn{x sword with inlaid {Ws{Di{Wl{Dv{We{Dr{x vines lies here.~
+Owner Tritone~
+Wear -1
+Cost 0
+Val  1 15 15 3 8
+Affc 'weaponsmith'   1  90  -1  18  19          0
+Affc 'weaponsmith'   1  90  -1  32  18          0
+End
+
+#O
+Vnum 40067
+Nest 0
+Name crafted weapon dag~
+ShD  a {Cmastercrafted{x {Di{wro{Dn{x dagger with inlaid {Ws{Di{Wl{Dv{We{Dr{x vines~
+Desc a {Cmastercrafted{x {Di{wro{Dn{x dagger with inlaid {Ws{Di{Wl{Dv{We{Dr{x vines lies here.~
+Owner Tritone~
+Wear -1
+Cost 0
+Val  2 15 15 2 8
+Affc 'weaponsmith'   1  90  -1  17  19          0
+Affc 'weaponsmith'   1  90  -1  19  18          0
+End
+
+#O
+Vnum 40067
+Nest 0
+Name crafted weapon dag~
+ShD  a {Cmastercrafted{x {Di{wro{Dn{x dagger with inlaid {Ws{Di{Wl{Dv{We{Dr{x vines~
+Desc a {Cmastercrafted{x {Di{wro{Dn{x dagger with inlaid {Ws{Di{Wl{Dv{We{Dr{x vines lies here.~
+Owner Tritone~
+Wear -1
+Cost 0
+Val  2 15 15 2 8
+Affc 'weaponsmith'   1  90  -1  16  19          0
+Affc 'weaponsmith'   1  90  -1  15  18          0
+End
+
+#O
+Vnum 40067
+Nest 0
+Name crafted weapon dag~
+ShD  a {Cmastercrafted{x {Di{wro{Dn{x dagger with inlaid {Ws{Di{Wl{Dv{We{Dr{x vines~
+Desc a {Cmastercrafted{x {Di{wro{Dn{x dagger with inlaid {Ws{Di{Wl{Dv{We{Dr{x vines lies here.~
+Owner Tritone~
+Wear -1
+Cost 0
+Val  2 15 15 2 8
+Affc 'weaponsmith'   1  90  -1  16  19          0
+Affc 'weaponsmith'   1  90  -1  38  18          0
+End
+
+#O
+Vnum 40067
+Nest 0
+Name crafted weapon dag~
+ShD  a {Cmastercrafted{x {Di{wro{Dn{x dagger with inlaid {Ws{Di{Wl{Dv{We{Dr{x vines~
+Desc a {Cmastercrafted{x {Di{wro{Dn{x dagger with inlaid {Ws{Di{Wl{Dv{We{Dr{x vines lies here.~
+Owner Tritone~
+Wear -1
+Cost 0
+Val  2 15 15 2 8
+Affc 'weaponsmith'   1  90  -1  18  19          0
+Affc 'weaponsmith'   1  90  -1  34  18          0
+End
+
+#END

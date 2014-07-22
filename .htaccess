@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Darkwind1990!"
+AuthUserFile "/home/ageofill/.htpasswds/wheel/passwd"
+require valid-user

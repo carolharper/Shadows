@@ -1,0 +1,400 @@
+#PLAYER
+Name Lazlo~
+Email T_Amelia123@yahoo.com~
+Id   1392227458
+LogO 1392565243
+Vers 5
+Desc A tall angular man with a ripple of muscles along his arms and 
+shoulders. His hair is black, eyes dark brown with a small scar 
+undere the left eye. His longish black hair nearly covers his 
+ears but it can be seen that the left ear has no lobe and the 
+right ear bears a dangling red jeweled earring. His hands are 
+large and capable with the left showing stiffness in the small 
+finger and no rings on either hand.
+ 
+~
+Prom [ %e ] %c {M%h{W//{R%H {Y%m{W//{y%M {W[{G%x{W][{C%X{W]{x ~
+Race altaran~
+Clan WhiteTower~
+Rank 8
+Sguild Towerguard~
+Srank 8
+Quest_Curr    15545
+Quest_Accum  15545
+Lastlog Sun Feb 16 10:17:38 2014
+~
+Lastsite adsl-74-176-235-196.asm.bellsouth.net~
+Sex  1
+Cla  2
+Levl 90
+Bounty 0
+Sec  0
+Plyd 152632
+RolePlayed 2447
+Scro 98
+PKCount 0
+PKDiedCount 0
+Room 26015
+HMV  7116 7116 4998 7263
+HLoc 2372 1779 1186 3558 2372 1779
+Gold 29
+Silv 31835
+Gold_bank 1220
+Silv_bank 0
+Exp  232381
+Act  DEFGLOQTb
+AutoAct  ABCD
+App  A
+ChanFlag  AB
+Comm NPQ
+Comm2 0
+Pos  8
+Trai 1734
+Alig  0
+ArrCnt  0
+Hit   136
+Dam   144
+ACs -722 -724 -710 -476
+Attr 19 18 15 18 18
+AMod 11 8 12 11 10
+CSphere  0 0 0 0 0
+Sphere 0 0 0 0 0
+Burnout 0
+MaxBurnout 20
+MSphere -1
+Holding 0
+Autoholding 0
+Merits FJL
+Pass Lao.9grUcVUgY~
+Appearance A tall olive-skin man~
+Titl  Satile~
+Pnts 10
+TSex 1
+LLev 4
+Home 0
+ICLocRecall 8
+HMVP 6011 6230
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 1383252745 General 1391136960 Ideas 0 Personal 1391820266 Guild 0 Stories 1392429295 Bugs 0 Permanent 1382152099 Admin 0 PK 0 Immortal 0 Newplayers 0 
+Sk 74 'sword'
+Sk 21 'blademaster'
+Know 1380026793 'Caliam'
+BMtime 1392586836
+Backup 1392526632
+World A
+Webvote 1392261645
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 65004
+Nest 0
+Wear 11
+Cost 10
+End
+
+#O
+Vnum 65003
+Nest 0
+Wear 10
+Cost 10
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 3715
+Nest 0
+Wear -1
+Cost 10
+Val  200 1 0 200 50
+End
+
+#O
+Vnum 17072
+Nest 1
+Wear -1
+Cost 1500
+End
+
+#O
+Vnum 3170
+Nest 1
+Wear -1
+Cost 60
+End
+
+#O
+Vnum 5864
+Nest 0
+Wear -1
+Cost 150
+Val  20 1 0 25 -1
+End
+
+#O
+Vnum 8440
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8441
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8679
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17071
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 21206
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17003
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 21238
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8492
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 903
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21239
+Nest 1
+ExtF 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 39649
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 854
+Nest 0
+Wear 0
+Cost 15000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 40044
+Nest 0
+Owner Lazlo~
+Wear 14
+Cost 6000
+End
+
+#O
+Vnum 40043
+Nest 0
+Owner Lazlo~
+Wear 13
+Cost 6000
+End
+
+#O
+Vnum 3170
+Nest 0
+Wear 6
+Cost 60
+End
+
+#O
+Vnum 3421
+Nest 0
+Wear 5
+Cost 300
+End
+
+#O
+Vnum 6341
+Nest 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 3159
+Nest 0
+Wear 18
+Cost 100
+End
+
+#O
+Vnum 39643
+Nest 0
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 14881
+Nest 0
+Wear 4
+Cost 200
+End
+
+#O
+Vnum 14881
+Nest 0
+Wear 3
+Cost 200
+End
+
+#O
+Vnum 3156
+Nest 0
+Cond 99
+Wear 9
+Cost 100
+End
+
+#O
+Vnum 63485
+Nest 0
+Wear 16
+Cost 85
+End
+
+#O
+Vnum 39568
+Nest 0
+Wear 24
+Cost 100
+End
+
+#O
+Vnum 39568
+Nest 0
+Wear 23
+Cost 100
+End
+
+#O
+Vnum 1661
+Nest 0
+Wear 8
+Cost 60
+End
+
+#O
+Vnum 3159
+Nest 0
+Wear 17
+Cost 100
+End
+
+#O
+Vnum 64173
+Nest 0
+Wear 15
+Cost 60
+End
+
+#O
+Vnum 58072
+Nest 0
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 58103
+Nest 0
+Wear 12
+Cost 45
+End
+
+#O
+Vnum 40048
+Nest 0
+Owner Lazlo~
+Wear 19
+Cost 7000
+End
+
+#O
+Vnum 8499
+Nest 0
+Wear 20
+Cost 200
+End
+
+#O
+Vnum 58131
+Nest 0
+Wear 7
+Cost 45
+End
+
+#O
+Vnum 65100
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 24822
+Nest 0
+Wear -1
+Cost 0
+End
+
+#END

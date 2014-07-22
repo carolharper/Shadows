@@ -1,0 +1,107 @@
+
+Last Command: bathing male aiel in room[26040]: emote goes back to listening..
+Last Command: herd goats in room[26008]: emote looks at you with mild interest before returning to eating..
+Last Command: herd cattle in room[26007]: emote shifts slightly, some of them mooing..
+Last Command: bathing male aiel in room[26040]: emote goes back to listening..
+Last Command: herd cattle in room[26007]: emote shifts slightly, some of them mooing..
+Last Command: herd goats in room[26008]: emote looks at you with mild interest before returning to eating..
+Last Command: herd cattle in room[26007]: emote shifts slightly, some of them mooing..
+Last Command: herd cattle in room[26007]: emote shifts slightly, some of them mooing..
+Last Command: Morrigan in room[9996]: help2web.
+Last Command: Morrigan in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: herd goats in room[26008]: emote looks at you with mild interest before returning to eating..
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: Aldea in room[9996]: help2web.
+Last Command: bathing male aiel in room[26040]: emote goes back to listening..
+Last Command: Aldea in room[9996]: swap.
+Last Command: Aldea in room[9996]: swap.
+Last Command: herd goats in room[26008]: emote looks at you with mild interest before returning to eating..
+Last Command: bathing female aiel in room[26040]: emote cleans themself quietly with a set of {ystaera{w..
+Last Command: herd goats in room[26008]: emote looks at you with mild interest before returning to eating..
+Last Command: bathing male aiel in room[26040]: emote goes back to listening..
+Last Command: herd cattle in room[26007]: emote shifts slightly, some of them mooing..
+Last Command: herd cattle in room[26007]: emote shifts slightly, some of them mooing..
+Last Command: herd goats in room[26008]: emote looks at you with mild interest before returning to eating..
+Last Command: bathing male aiel in room[26040]: emote cleans themself quietly with a set of {ystaera{w..
+Last Command: herd cattle in room[26007]: emote shifts slightly, some of them mooing..
+Last Command: herd goats in room[26008]: emote looks at you with mild interest before returning to eating..
+Last Command: herd cattle in room[26007]: emote shifts slightly, some of them mooing..
+Last Command: herd cattle in room[26007]: emote shifts slightly, some of them mooing..
+Last Command: bathing male aiel in room[26040]: emote cleans themself quietly with a set of {ystaera{w..
+Last Command: herd cattle in room[26007]: emote shifts slightly, some of them mooing..
+Last Command: herd cattle in room[26007]: emote shifts slightly, some of them mooing..
+Last Command: herd goats in room[26008]: emote looks at you with mild interest before returning to eating..
+Last Command: herd cattle in room[26007]: emote shifts slightly, some of them mooing..
+Last Command: herd cattle in room[26007]: emote shifts slightly, some of them mooing..
+Last Command: herd goats in room[26008]: emote looks at you with mild interest before returning to eating..
+Last Command: herd goats in room[26008]: emote looks at you with mild interest before returning to eating..

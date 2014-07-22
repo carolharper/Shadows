@@ -1,0 +1,401 @@
+#PLAYER
+Name Vira~
+Email bryan.hamann@gmail.com~
+Id   1378351697
+LogO 1386464667
+Vers 5
+Desc Before you is an ivory skinned, bright-eyed woman.  Her straight, lush
+blonde hair falls down to her mid back, thick as a lions mane.  Her face is
+well shaped; long and oval, with high cheekbones with a hint of a pink
+blush.  Her deep, ageless eyes are a dark {Mam{me{Mth{my{Mst{x, and complement her skin
+tone and hair color.  She stands tall at five feet nine inches, with long,
+slim legs and arms, and an above-average bosom for a woman of her height and
+size.  She carries herself with grace, her body making no more movements
+than necessary.  
+~
+Prom < {R%h/%H {G%m/%M {C%x/%X {Y%gg {W%ss{x (%e) %p/%P ~
+Race andoran~
+Clan WhiteTower~
+Rank 3
+Gtitle {BA{be{Bs S{be{Bd{ba{Bi{x~
+Sguild AesSedai~
+Srank 8
+Quest_Curr    16065
+Quest_Accum  19815
+Lastlog Sat Dec  7 15:46:15 2013
+~
+Lastsite 66-215-10-42.static.mtpk.ca.charter.com~
+Sex  2
+Cla  0
+Levl 90
+ELevl 1519
+Bounty 0
+Sec  0
+Plyd 242031
+RolePlayed 160508
+Scro 88
+PKCount 0
+PKDiedCount 0
+Room 30394
+HMV  6837 6837 10441 10441
+HLoc 2279 1709 1139 3418 2279 1709
+Gold 44
+Silv 70
+Gold_bank 1574
+Silv_bank 317
+Exp  12501
+Act  DFILOQb
+AutoAct  ABC
+App  A
+ChanFlag  AB
+Comm GJPQ
+Comm2 0
+Pos  8
+Trai 698
+Alig  0
+ArrCnt  0
+Hit   210
+Dam   174
+ACs -846 -846 -856 -822
+Attr 15 23 20 15 15
+AMod 14 2 5 11 9
+CSphere  97 45 43 241 102
+Sphere 151 90 88 301 170
+Burnout 0
+MaxBurnout 20
+MSphere 3
+Holding 0
+Autoholding 100
+Merits FNP
+Talents BJ
+Pass ViHOGti/9PymU~
+Appearance A tall, curvaceous blonde woman~
+ICtitl wearing a {Dblack{x dress~
+Titl  "Thinking is a choice." {M({CRP{M){x~
+Pnts 10
+TSex 2
+LLev 14
+Home 0
+ICLocRecall 30394
+HMVP 5547 9501
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 1386188007 General 1381551478 Ideas 1384634766 Personal 1381006748 Guild 1386324175 Stories 1384797803 Bugs 1379733625 Permanent 1382152099 Admin 0 PK 1383233704 Immortal 1383967473 Newplayers 1386279371 
+Sk 95 'blindness'
+Sk 95 'control weather'
+Sk 95 'sleep'
+Sk 102 'dagger'
+Sk 104 'shield block'
+Sk 95 'sword'
+Sk 302 'dodge'
+Sk 100 'enhanced damage'
+Sk 302 'parry'
+Sk 151 'second attack'
+Sk 151 'third attack'
+Sk 95 'fast healing'
+Sk 95 'hide'
+Sk 95 'lore'
+Sk 95 'meditation'
+Sk 100 'pick lock'
+Sk 95 'sneak'
+Sk 95 'bond'
+Sk 103 'embrace'
+Sk 302 'tying'
+Sk 302 'shielding'
+Sk 302 'staff'
+Sk 95 'wrap'
+Sk 95 'critical strike'
+Sk 95 'study residue'
+Sk 98 'awareness'
+Sk 95 'observation'
+Sk 95 'alertness'
+Sk 95 'delve'
+Sk 151 'wall of air'
+Sk 95 'create rain'
+Sk 95 'link'
+Sk 302 'slice'
+Sk 109 'invert weave'
+Sk 108 'dream ward'
+Sk 95 'remove residues'
+Sk 95 'eavesdrop'
+Sk 95 'eavesdrop ward'
+Sk 111 'light ward'
+Sk 160 'staffmaster'
+Sk 302 'hurricane'
+Sk 300 'air dome'
+Sk 302 'mind crush'
+Sk 95 'blast door'
+Know 1380026793 'Caliam'
+Know 1377400617 'Lizbet'
+Know 1376449448 'Iero'
+Know 1381640094 'Raechell'
+BMtime 1380008652
+Backup 1384835891
+World A
+Webvote 1384828120
+RewMult 60
+RewTime 1383501288
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 65060
+Nest 0
+Name beginnings weave held questv~
+ShD  the beginnings of a {Ww{ye{Ra{Yv{Ce{x{x~
+Wear 19
+Cost 1000000
+End
+
+#O
+Vnum 40065
+Nest 0
+Name ear stud questv~
+ShD  a small, {Wdia{wm{Wond{x stud~
+Desc a {Ws{Di{Wl{Dv{We{Dr{x earring with a {rr{Rub{ry{x solitaire lies here.~
+WeaF 1048577
+Owner Arietta~
+Wear 24
+Cost 100
+Affc 'jewelcraft'   1  90  -1  24  26          0
+End
+
+#O
+Vnum 40065
+Nest 0
+Name ear stud questv~
+ShD  a small, {Wdia{wm{Wond{x stud~
+Desc a {Ws{Di{Wl{Dv{We{Dr{x earring with a {rr{Rub{ry{x solitaire lies here.~
+WeaF 1048577
+Owner Arietta~
+Wear 23
+Cost 100
+Affc 'jewelcraft'   1  90  -1  23  30          0
+End
+
+#O
+Vnum 40030
+Nest 0
+Name stunning amethyst eyes face questv~
+ShD  a pair of stunning, {Mam{me{Mth{my{Mst{x eyes{x~
+Owner Vira~
+Wear 25
+Cost 4000
+End
+
+#O
+Vnum 7515
+Nest 0
+Name pristine dress back~
+ShD  the back of her {Dpristine{x dress{x~
+Wear 14
+Cost 300
+End
+
+#O
+Vnum 40065
+Nest 0
+Name milky white legs~
+ShD  {Dnothing{x{x~
+Desc a pair of leggings made of pure {Ws{Di{Wl{Dv{We{Dr{x lies here~
+WeaF 33
+Owner Vira~
+Wear 9
+Cost 100
+Affc 'armorcraft'   1  90  -1  35  18          0
+End
+
+#O
+Vnum 40065
+Nest 0
+Name hands gloves~
+ShD  {Dnothing{x{x~
+Desc a pure {Yg{yol{Yd{yen{x pair of gloves lies here~
+WeaF 129
+Owner Vira~
+Wear 11
+Cost 100
+Affc 'armorcraft'   1  90  -1  36  19          0
+End
+
+#O
+Vnum 16068
+Nest 0
+Name shoes dark leather feet~
+ShD  a pair of tooled, {Ddark leather{x shoes, made for walking{x~
+Wear 10
+Cost 150
+End
+
+#O
+Vnum 40065
+Nest 0
+Name sleeves dress questv arm~
+ShD  the flawless skin of her arms{x~
+Desc a set of armbands made of pure {Ws{Di{Wl{Dv{We{Dr{x lies here~
+WeaF 257
+Owner Vira~
+Wear 12
+Cost 100
+Affc 'armorcraft'   1  90  -1  37  18          0
+End
+
+#O
+Vnum 1635
+Nest 0
+Name tight bodice body dress~
+ShD  the tight bodice of her {Dpristine{x, sleeveless dress{x~
+Wear 7
+Cost 250
+End
+
+#O
+Vnum 1661
+Nest 0
+Name head kesiera chain blue~
+ShD  a thin, {Wsi{wlv{Wer{x chain with a {bblue{x stone{x~
+Wear 8
+Cost 60
+End
+
+#O
+Vnum 1662
+Nest 0
+Name black water resistant cloak~
+ShD  a cloak made of {Dbl{Wa{Dck{x, water-resistant wool{x~
+Wear 15
+Cost 60
+End
+
+#O
+Vnum 1665
+Nest 0
+Name weave air fire light~
+ShD  a weave of {WA{wi{Wr{x and {RF{rir{Re{x{x~
+Wear 0
+Cost 0
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 1684
+Nest 0
+Name nothing tattoo~
+ShD  {Dnothing{x{x~
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 1688
+Nest 0
+Name aura confidence float~
+ShD  an aura of {Bco{Dnf{bid{Den{Bce{x{x~
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 14881
+Nest 0
+Name thin platinum band angreal~
+ShD  a slim, {Wpla{wti{Wnum{x band{x~
+Wear 4
+Cost 200
+End
+
+#O
+Vnum 44
+Nest 0
+Name nothing neck~
+ShD  {Dnothing{x{x~
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 44
+Nest 0
+Name nothing neck angreal~
+ShD  {Dnothing{x{x~
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 9996
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 65100
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 40047
+Nest 0
+Name chain wrist questv sapphire~
+ShD  a delicate {Wp{wla{Wti{wnu{Wm{x chain, from which hangs a heart-shaped {Bs{bapphir{Be{x{x~
+Owner Vira~
+Wear 18
+Cost 2500
+End
+
+#O
+Vnum 40046
+Nest 0
+Name waist belt questv~
+ShD  {Dnothing{x{x~
+Owner Vira~
+Wear 16
+Cost 4000
+End
+
+#O
+Vnum 40047
+Nest 0
+Name wrist questv nothing~
+ShD  {Dnothing{x{x~
+Owner Vira~
+Wear 17
+Cost 2500
+End
+
+#O
+Vnum 14999
+Nest 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 48
+Nest 0
+Name flick air mine~
+ShD  a flick of {CA{Wi{Cr{x{x~
+Desc A solid piece of air lies here.{x~
+Wear 20
+Cost 1000
+End
+
+#END

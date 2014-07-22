@@ -1,0 +1,4 @@
+139,141d138
+< extern	const	struct	flag_type	ore_types[];
+< extern	const	struct	flag_type	gem_types[];
+< extern	const	struct	flag_type	mining_quality[];

@@ -1,0 +1,344 @@
+#PLAYER
+Name Calia~
+Email sapphirerose217@gmail.com~
+Id   1387046752
+LogO 1387061216
+Vers 5
+Prom [{R%h{x/{R%H{xhp {G%m{x/{G%M{xen {W%p{x/{W%P{xop] ~
+Race andoran~
+Quest_Curr    0
+Quest_Accum  0
+Lastlog Sat Dec 14 13:45:51 2013
+~
+Lastsite 65.103.138.238~
+Sex  2
+Cla  0
+Levl 14
+Bounty 0
+Sec  0
+Plyd 14465
+RolePlayed 0
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 3757
+HMV  739 762 1012 1082
+HLoc 252 190 126 381 254 185
+Gold 0
+Silv 1239
+Gold_bank 0
+Silv_bank 0
+Exp  293
+Act  DEFLQT
+AutoAct  ABC
+ChanFlag  AB
+AfBy b
+Comm PQ
+Comm2 0
+Pos  8
+Trai 125
+Alig  0
+ArrCnt  0
+Hit   3
+Dam   3
+ACs 37 39 43 41
+Wimp  50
+Attr 15 21 17 20 15
+AMod 5 1 2 1 1
+CSphere  110 45 64 94 58
+Sphere 41 39 48 39 28
+Burnout 2
+MaxBurnout 20
+MSphere 3
+Holding 188
+Autoholding 0
+Merits EF
+Flaws H
+Talents CM
+Pass CaD3Kh7ZQJruk~
+Appearance A short, thin woman~
+Titl  probably wants to change her title.~
+Pnts 10
+TSex 2
+LLev 4
+Home 0
+ICLocRecall 8
+HMVP 892 1062
+Cnd  0 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 0 General 0 Ideas 0 Personal 0 Guild 0 Stories 0 Bugs 0 Permanent 0 Admin 0 PK 0 Immortal 0 Newplayers 0 
+Sk 1 'create spring'
+Sk 21 'refresh'
+Sk 64 'dagger'
+Sk 1 'sword'
+Sk 7 'whip'
+Sk 13 'enhanced damage'
+Sk 11 'lore'
+Sk 11 'meditation'
+Sk 25 'embrace'
+Sk 1 'tying'
+Sk 1 'grow berries'
+Sk 31 'create flame'
+Sk 1 'bar of fire'
+Sk 1 'flying rocks'
+Sk 49 'blast of air'
+Sk 1 'stream of water'
+Sk 1 'awareness'
+Sk 1 'observation'
+Affc 'stone skin'   0  83  42 -40  17          0 1387046752
+Affc 'giant strength'   0  83  42   4   1          0 1387046752
+Backup 1387059884
+World A
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 3716
+Nest 0
+Wear -1
+Cost 0
+Val  0 0 152 0 0
+End
+
+#O
+Vnum 3701
+Nest 0
+Cond 88
+Wear 20
+Cost 10
+End
+
+#O
+Vnum 3704
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3796
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9999
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Wear 8
+Cost 25
+End
+
+#O
+Vnum 3730
+Nest 0
+Wear 14
+Cost 50
+End
+
+#O
+Vnum 3742
+Nest 0
+Wear 4
+Cost 50
+End
+
+#O
+Vnum 3742
+Nest 0
+Wear 3
+Cost 50
+End
+
+#O
+Vnum 3731
+Nest 0
+Wear 0
+Cost 5
+Val  0 0 457 0 0
+End
+
+#O
+Vnum 3745
+Nest 0
+Wear 9
+Cost 50
+End
+
+#O
+Vnum 3744
+Nest 0
+Wear 19
+Cost 20
+End
+
+#O
+Vnum 3728
+Nest 0
+Wear 11
+Cost 50
+End
+
+#O
+Vnum 3741
+Nest 0
+Wear 16
+Cost 50
+End
+
+#O
+Vnum 3732
+Nest 0
+Wear 25
+Cost 5
+End
+
+#O
+Vnum 3734
+Nest 0
+Wear 6
+Cost 50
+End
+
+#O
+Vnum 3734
+Nest 0
+Wear 5
+Cost 50
+End
+
+#O
+Vnum 3738
+Nest 0
+Wear 15
+Cost 10
+End
+
+#O
+Vnum 3735
+Nest 0
+Wear 10
+Cost 50
+End
+
+#O
+Vnum 3739
+Nest 0
+Wear 13
+Cost 50
+End
+
+#O
+Vnum 3740
+Nest 0
+Wear 24
+Cost 50
+End
+
+#O
+Vnum 3740
+Nest 0
+Wear 23
+Cost 50
+End
+
+#O
+Vnum 3733
+Nest 0
+Wear 18
+Cost 5
+End
+
+#O
+Vnum 3733
+Nest 0
+Wear 17
+Cost 5
+End
+
+#O
+Vnum 3736
+Nest 0
+Wear 2
+Cost 50
+End
+
+#O
+Vnum 3743
+Nest 0
+Wear 7
+Cost 50
+End
+
+#O
+Vnum 3727
+Nest 0
+Wear 12
+Cost 50
+End
+
+#O
+Vnum 3737
+Nest 0
+Wear 1
+Cost 50
+End
+
+#O
+Vnum 3728
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3741
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3735
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3735
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3740
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3740
+Nest 0
+Wear -1
+Cost 50
+End
+
+#END

@@ -1,0 +1,281 @@
+Sender  Arlie~
+Date    Sat Aug 24 12:10:18 2013~
+Stamp   1377371470
+Expire  1379963418
+To      Imms Valen~
+Subject Grid wide rp idea~
+Text
+Valen pushed me to explore my idea of a large
+bounty/reward to find someone. So here is the
+brain fart I've come up with.
+>
+One of the countries has a dying ruler. Even
+the most talented Yellow Sedai can't help to
+keep this ruler (male/female) alive and since
+this Ruler has no surving heirs a search has
+been made. Advisors and Rolyal Arcivest have
+found two names of possible candidates. But
+have no idea where they are. Only the race &
+age and sex of that person.
+>
+And now after their own people failing in the
+search, they have sent out runners with news
+of a reward... or maybe that just leaked out
+and has spread across the WoT world to other
+countries so that there is now a mad scramble
+to find these two people.
+ 
+and as always there well be those that are only
+pretenders, some that actually think they are
+the right heir but arn't and the two that are
+the real Heirs. 
+>
+Finally if it comes to the actuall finding of
+the real Heirs (there should be Imm hints from
+time to time) Which Heir gets the throne. Will
+the country split on that decision, will one
+have the backing of the court and the other one
+challengess it with a rebel folllowing...??
+>
+hople you like this.
+Aster/Arlie
+ 
+~
+
+Sender  Tritone~
+Date    Tue Sep 17 12:14:17 2013~
+Stamp   1379445383
+Expire  1382037257
+To      imm morrigan firesong~
+Subject healing herbs~
+Text
+The healing herbs don't heal...  Despite having a level 90 heal listed
+for them.  
+
+If you get a chance to look into why this stopped working, that would be
+sweet.  
+
+Thanks!
+Tritone
+~
+
+Sender  Morrigan~
+Date    Tue Sep 17 17:06:21 2013~
+Stamp   1379462806
+Expire  1382054781
+To      Tritone imm morrigan firesong~
+Subject Re: healing herbs~
+Text
+Fixed.
+~
+
+Sender  Vira~
+Date    Thu Sep 19 18:23:45 2013~
+Stamp   1379640309
+Expire  1382232225
+To      all immortal~
+Subject Looking for RP flag?~
+Text
+Could we have a flag to the right of our name or to the left where the PK
+flag sits that is something like {M(RP){x so others know we are looking for rp? 
+~
+
+Sender  Keron~
+Date    Tue Sep 24 11:09:25 2013~
+Stamp   1380046497
+Expire  1382638165
+To      all~
+Subject An Old Skill~
+Text
+I was just thinking (Yes, I live dangerously like that) and old skill
+that was pretty fun to use waaaay back in the day was shadow.  For those
+that don't remember it was the super-secret way of "following" someone
+without them being aware of it.  Granted with the newer setup now, I think
+their level of awareness of you shadowing them would play on your sneak and
+shadow abilities, and their observation and awareness.  Annnnnnnyway just
+throwing that out for some consideration.  
+~
+
+Sender  Valen~
+Date    Tue Oct  1 22:26:42 2013~
+Stamp   1380692639
+Expire  1383283602
+To      Morrigan~
+Subject Easy one~
+Text
+Ok this one is easy, possibly even fixable by Frost the builder, with a
+couple of mobprogs but its something that was the point of a few discussions
+over mudconnect, when I was trying to bring in new characters to the last
+incarnation.  
+
+I'm speaking of..  Hp and Endur.  As it stands, we're accustomed to it but
+if say no one is on or they were idle there were many of times that new
+players would get pissed and usually not come back, when they figured out...
+They didn't train up their HP and Endur, EARLY.  Its one of those easy over
+sites that people usually forget about but can be extremely aggregating to
+new people, in what i've seen and opinion.  Easy fix would be the mobprogs,
+telling every new character..  To train to your max hp and endur, as soon as
+possible.  Or..  Well, adjusting the code would of course be the hard way. 
+
+
+
+This of course entirely depends on if you guys were wanting to bring in a
+bunch of new blood :) but yea.  (For our neigherhood builder, the new to
+mudding texts...  Needs updated and yea perhaps some friendly reminders
+added to the school, like the Hp thing)
+
+Figured Id start small.  Code stuff..  I'll get later, need to test a couple
+of things 
+~
+
+Sender  Valen~
+Date    Tue Oct  1 22:52:30 2013~
+Stamp   1380694552
+Expire  1383285150
+To      Morrigan~
+Subject Lot harder one~
+Text
+Fire said..  He wanted to make sure the classes were balanced and fair
+for everyone.  I thought they were...  First let me address, the end all
+*required* skill..  Ambidextrous.  I even recreated to take the skill and if
+I do that, thats bad.  Lol.  Its just that I HAD to because everyone else
+took it.  Ambi isn't TOO dangerous in the hands of a channie.  Puts them on
+par with the power potential with theif's now (since thiefs...  Used to not
+hit that hard...  Until someone added a stupid, Vampiric dagger..  That does
+more damage that the mastery weapon..  Why??  I'll get to this in a sec) But
+an Ambi warrior, with 130 or so in second-fifth attack and 100+
+blademaster..  Is devastating.  
+
+Now of course, most of this applies to PC combat.  If you want to pull away
+from that..  Well a mud might be a little off..  Perhaps mush?  Lol, we
+still have to back things up with code so.  Anyway.  With ambi on a
+warrior..  You can average 8 attacks per round..  With high blademaster that
+can go to 16 to 20 plus attacks per round easily...  And old channeler with
+harm at 300, couldn't compete with the character class that is designed to
+destroy in physical combat (and the tendency of everyone to set HIGH str on
+warriors) 
+
+In most games I've ever played..  Pen and paper, mud, online rpg..  Ect. 
+Every game that has had this ability *massive sword work with two blades*
+they usually balanced it..  In one of three ways (and I don't think I really
+see that with this one, which is why the note, maybe you can see it in the
+code) 1.  You have less defense and thus sacrifice taking more damage, for
+being able to deal more.  2.  Its harder to consistently hit with all your
+attacks and easier to parry while wearing a sword and shield.  Or 3.  You
+didn't gain more hits..  You just gained increased damage, equal to half the
+damage potential of your off-hand weapon.  
+
+While prehaps the most logical..  A few of those.  There, I suppose would
+also be the thing of..  Warriors don't need enurance, they don't really use
+it.  If they are going to expel (or any class I suppose, would suck for
+extreamly strong channies..  Lol) large amounts of strength into their
+swings, that would use ALOT of endurance;) And well, if you were swinging
+two swords (how you could be a double blademaster still bugs me but hey, its
+a game) it would seem like it would be terribly taxing.  Meaning you got
+enough for 1 REAL GOOD fight, if it lasted say..  30 rounds or more. 
+*shrug* no clue what to do about it actually.  Let you use a shield.. 
+Without ambi, and still fire master forms?  *shrug* 
+~
+
+Sender  Valen~
+Date    Tue Oct  1 23:16:10 2013~
+Stamp   1380695411
+Expire  1383286570
+To      morrigan~
+Subject Quick one~
+Text
+Ok, I'll stop for the night after this one.  On balance issue again.. 
+Its cool their stronger weaves..  But if a thief or warrior hits a channeler
+first, channeler is dead..  Almost guarentee (would need a thief to test
+that with but warriors I know.)  I know there is a way to counter this
+skill..  But.  Taking a Thief.  Always thought there were designed to dash
+around, flee, assissinate and backstab things.  Quick, silent and deadly. 
+Channelers, have to set up their target.  Got to see them first and hit them
+with wrap, levitate, blind..  Ect..  Ect (alot of typing involved in being a
+channie or thief..)  
+
+But how do you stop either one?  Be a warrior, with the attacks and ambi.. 
+Sneak in, trip once and then use throw.  Throw still keeps the target from
+using ANY commands while its active.  For like 8 seconds.  3 rounds.  It
+stays in active for anyone..  For like 6 or 7 seconds.  I'm meaning, if I
+hit you with throw, I can hit you with another..  Before you can recover. 
+The delay in commands, stops you from fleeing, channeling, tripping.. 
+ANYTHING.  You can not enter Any commands.  Leaving it a complelty physical
+fight and 90% of the time, warrior wins (if he took the time to build his
+character) 
+
+This should be..  Looked at maybe?  Lol.  Anyway..  I'll stop for now. 
+There are a lot of these things..  Little niche's in the code.  If I had my
+compatriot Keron here, I could probley form all of them together better. 
+Anyway..  It just struck me..  As off when whirl and circle and other skills
+were tossed back in.  There was a reason, I thought, Zandor pulled them for
+a reason.  It just struck me as balance and been lost..  BADLY.  I'm sure
+I'll write more..  Next week?  Lol *shrug* o/ 
+~
+
+Sender  Tritone~
+Date    Mon Oct 14 16:47:29 2013~
+Stamp   1381794511
+Expire  1384386449
+To      Imm~
+Subject Iron Will prompt reminder~
+Text
+Like flamevoid, sneak, etc... It would be handy to have the reminder.
+
+{BT{briton{Be{x
+~
+
+Sender  Arlie~
+Date    Sat Aug 24 16:17:37 2013~
+Stamp   1377386340
+Expire  1386026291
+To      to Imms~
+Subject re/idea for grid wide rp~
+Text
+Just a P.S. here.
+I do -not- want to run that thing.
+it's just an idea for you guys to take over.
+~
+
+Sender  Candra~
+Date    Mon Aug 26 15:37:16 2013~
+Stamp   1377556737
+Expire  1386196645
+To      imms all~
+Subject Channelling assistance~
+Text
+would really like it if the Channelling assistance
+showed up in areas too, like the Weapons Trainer.
+ 
+thank you
+Candra
+ 
+~
+
+Sender  Aster~
+Date    Mon Sep 23 15:03:51 2013~
+Stamp   1379974142
+Expire  1388613889
+To      Raesan Tritone imms~
+Subject RP Rumors~
+Text
+Raesan and I have been rp'ing when we can and on our last rp we came up 
+with a rumor that an npc Male Channie had been taken by Red Sedai and
+is now locked up in the Tower. The rumor goes that 12 Sedai along with
+a number of Gaiden were seen disembarking a boat with the men/gaiden
+carrying a coffin from the peir toward the Tower. Is this ok to be put
+on the Rumor mill?
+ 
+Thanks
+~
+
+Sender  Vira~
+Date    Sat Nov 16 15:45:00 2013~
+Stamp   1384634766
+Expire  1387226700
+To      all immortal~
+Subject Ajah Weaves?~
+Text
+Can we make Ajah specific weaves? The blues have the bug bite weave, and the fear weave, ect...
+~
+

@@ -1,0 +1,468 @@
+#PLAYER
+Name Loneron~
+Email prestidigitators@yahoo.ca~
+Id   1376503629
+LogO 1387425746
+Vers 5
+Desc The man before you stands at just under six feet, though his usual slouch
+makes him seem shorter.  His hair is a glossy black that is kept
+close-cropped, as is his mustache and beard, which serves to hide much of
+his face.  Dark green eyes sit above a crooked nose, apparently broken at
+some point in the past.  
+
+With clothing that is plain but well-constructed and the sun-marked shade of
+his skin, it seems likely that the man makes his living out-of-doors.  A
+plain tunic of a dark green hue and leather trousers tucked into dark boots
+would make it easily to blend into forested land.  A pair of daggers are
+very much in evidence at his waist, and his hands themselves are rough and
+crossed with thin scars.  One odd thing is that he wears a pair of dull
+steel vambraces, in good condition despite their age.  
+
+He seems to notice you studying him but does not appear interested in doing
+anything about it, preferring to keep his attention on his own matters.  
+~
+HDesc The figure before you stands at just under six feet, though a pronounced
+slouch makes them seem shorter.  They are wearing a cloak of a forest green
+color and dark boots in a military style, both of which have been oiled to
+keep out the elements.  
+
+The figure seems to notice your attention but does not appear interested in
+doing anything about it, preferring to keep their attention on other
+matters.  
+~
+Prom < {g%h/%H {G%m/%M {C%x/%X{x (%e) ~
+Race murandian~
+Quest_Curr    5222
+Quest_Accum  15222
+Lastlog Wed Dec 18 21:01:38 2013
+~
+Lastsite d75-158-164-105.abhsia.telus.net~
+Sex  1
+Cla  1
+Levl 90
+ELevl 766
+Bounty 0
+Sec  0
+Plyd 224898
+RolePlayed 104967
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 1549
+HMV  6927 6927 10460 10460
+HLoc 2309 1731 1154 3463 2309 1731
+Target 2
+Defend 2
+Gold 519
+Silv 28876
+Gold_bank 0
+Silv_bank 0
+Exp  31939
+Act  CDEFGHLOQTb
+AutoAct  CD
+ChanFlag  AB
+Comm JMPQ
+Comm2 0
+Pos  8
+Trai 1634
+Alig  -45
+ArrCnt  0
+Hit   181
+Dam   182
+ACs -646 -645 -675 -623
+Wimp  750
+Attr 17 18 18 18 17
+AMod 16 6 9 12 14
+CSphere  0 0 0 0 0
+Sphere 0 0 0 0 0
+Burnout 0
+MaxBurnout 20
+MSphere -1
+Holding 0
+Autoholding 0
+Merits BFJ
+Pass LoYKTQEiVDZuw~
+Appearance A raven-haired, long-limbed man~
+HAppearance A hooded figure of medium height~
+Titl  is The Lon Ranger.~
+Pnts 10
+TSex 1
+LLev 27
+Home 0
+ICLocRecall 1549
+HMVP 6447 10124
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 011 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+SheatWName <sheathed at hip>   ~
+SheatWName <sheathed at hip>   ~
+Boards       12 Announce 1386188007 General 1381551478 Ideas 1379974142 Personal 1382962424 Guild 1386324175 Stories 1387080703 Bugs 1379445695 Permanent 1382152099 Admin 0 PK 1383233704 Immortal 1380433521 Newplayers 1387309815 
+Sk 302 'dagger'
+Sk 95 'spear'
+Sk 95 'sword'
+Sk 200 'assassinate'
+Sk 1 'backstab'
+Sk 95 'circle'
+Sk 302 'dodge'
+Sk 95 'dual wield'
+Sk 95 'enhanced damage'
+Sk 95 'hand to hand'
+Sk 302 'parry'
+Sk 151 'second attack'
+Sk 148 'third attack'
+Sk 61 'fast healing'
+Sk 95 'haggle'
+Sk 95 'hide'
+Sk 95 'lore'
+Sk 57 'meditation'
+Sk 95 'pick lock'
+Sk 95 'sneak'
+Sk 90 'riding'
+Sk 1 'push'
+Sk 95 'staff'
+Sk 95 'critical strike'
+Sk 165 'armor use'
+Sk 95 'awareness'
+Sk 95 'observation'
+Sk 95 'alertness'
+Sk 1 'guard'
+Sk 148 'duelling'
+Sk 1 'escape'
+Sk 95 'fourth attack'
+Sk 95 'flamevoid'
+Sk 95 'iron will'
+Sk 136 'martial arts'
+Know 1376848347 'Meyun'
+Know 1376450892 'Solara'
+BMtime 1379416453
+Backup 1385786225
+World A
+Webvote 1387421211
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 40062
+Nest 0
+Name scars~
+ShD  numerous thin {Wwh{wi{Wte{x scars{x~
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 1665
+Nest 0
+Name lantern~
+ShD  a simple {ybr{Ya{yss{x bullseye lantern{x~
+Wear 0
+Cost 0
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 58424
+Nest 0
+Name tattoo wrist~
+ShD  {Dblack{x bands tattooed under the skin{x~
+Wear 18
+Cost 10
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 1661
+Nest 0
+Name hair~
+ShD  close-cropped, {Dglossy black{x hair{x~
+Wear 8
+Cost 60
+End
+
+#O
+Vnum 1683
+Nest 0
+Name beard~
+ShD  a close-cropped {Dblack beard{x{x~
+Wear 25
+Cost 45
+End
+
+#O
+Vnum 1662
+Nest 0
+ShD  an oiled, hooded cloak of a {gf{Go{gre{Gs{gt h{Gu{ge{x{x~
+Wear 15
+Cost 60
+End
+
+#O
+Vnum 1684
+Nest 0
+Name tattoo~
+ShD  a {rr{Re{rd b{Rul{rl{x at the nape of the neck{x~
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 1688
+Nest 0
+Name nothing float~
+ShD  {Dnothing{x{x~
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 14881
+Nest 0
+Name nothing ring~
+ShD  {Dnothing{x{x~
+Wear 4
+Cost 200
+End
+
+#O
+Vnum 14881
+Nest 0
+Name nothing ring~
+ShD  {Dnothing{x{x~
+Wear 3
+Cost 200
+End
+
+#O
+Vnum 58424
+Nest 0
+Name tattoo wrist~
+ShD  {Dblack{x bands tattooed under the skin{x~
+Wear 17
+Cost 10
+End
+
+#O
+Vnum 7518
+Nest 0
+ShD  a pair of worn, dull {Dst{we{Del{x vambraces{x~
+Wear 12
+Cost 300
+End
+
+#O
+Vnum 7515
+Nest 0
+Name nothing back~
+ShD  {Dnothing{x{x~
+Wear 14
+Cost 300
+End
+
+#O
+Vnum 5322
+Nest 0
+Name trousers~
+ShD  plain, worn {Dl{yea{Dt{yhe{Dr{x trousers{x~
+Wear 9
+Cost 300
+End
+
+#O
+Vnum 28020
+Nest 0
+Name tunic~
+ShD  a plain, worn {gf{Go{gre{Gs{gt g{Gr{ge{Ge{gn{x tunic{x~
+Wear 7
+Cost 1000
+End
+
+#O
+Vnum 1645
+Nest 0
+Wear 24
+Cost 250
+End
+
+#O
+Vnum 1645
+Nest 0
+Wear 23
+Cost 250
+End
+
+#O
+Vnum 3418
+Nest 0
+Name backpack~
+ShD  a plain {Dl{yea{Dt{yhe{Dr{x backpack{x~
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 6497
+Nest 1
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 6497
+Nest 1
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3701
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 58406
+Nest 1
+ShD  a simple, wide-bladed dagger with a dull {Dst{we{Del{x hilt{x~
+Wear -1
+Cost 1500
+Val  2 13 10 2 8
+End
+
+#O
+Vnum 58406
+Nest 1
+ShD  a simple, wide-bladed dagger with a dull {Dst{we{Del{x hilt{x~
+Wear -1
+Cost 1500
+Val  2 13 10 2 8
+End
+
+#O
+Vnum 64200
+Nest 1
+Name book~
+ShD  a small {Dl{yea{Dt{yhe{Dr{x-bound book with no title{x~
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 39645
+Nest 0
+Wear 16
+Cost 50
+End
+
+#O
+Vnum 12595
+Nest 0
+ShD  {Dblack leather{x boots with dull {Dst{we{Del{x tips{x~
+Wear 10
+Cost 50
+End
+
+#O
+Vnum 3421
+Nest 0
+Name pendant eagle~
+ShD  a small {Ds{wi{Wlv{we{Dr{x pendant of an eagle in flight{x~
+Wear 6
+Cost 300
+End
+
+#O
+Vnum 3421
+Nest 0
+Name chain~
+ShD  a simple {Ds{wi{Wlv{we{Dr{x box-chain necklace{x~
+Wear 5
+Cost 300
+End
+
+#O
+Vnum 46
+Nest 0
+Name mastdag~
+ShD  a sharp blade colored a {Ddull black{x with a knuckle-duster hilt{x~
+Wear 20
+Cost 1000
+End
+
+#O
+Vnum 40067
+Nest 0
+Name crafted weapon dagger~
+ShD  a pure {Di{wro{Dn{x dagger~
+Desc a pure {Di{wro{Dn{x dagger lies here.~
+Owner Caliam~
+Wear -1
+Cost 0
+Val  2 12 15 2 8
+Affc 'weaponsmith'   1  90  -1  25  19          0
+End
+
+#O
+Vnum 5878
+Nest 0
+Owner Loneron~
+Wear 21
+Cost 4000
+End
+
+#O
+Vnum 1554
+Nest 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 1555
+Nest 0
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 1555
+Nest 0
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 1557
+Nest 0
+Wear -1
+Cost 60
+End
+
+#O
+Vnum 1558
+Nest 0
+Wear -1
+Cost 60
+End
+
+#O
+Vnum 1559
+Nest 0
+Wear -1
+Cost 60
+End
+
+#END

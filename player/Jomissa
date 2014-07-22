@@ -1,0 +1,3008 @@
+#PLAYER
+Name Jomissa~
+Email carol.harper@gmail.com~
+Id   1376416729
+LogO 1387068207
+Vers 5
+Desc The youth before you is slight of build and fairly small in stature. 
+Short-cut, gingery hair with ragged ends peeks out from beneath a cap that
+is pulled low enough to obscure a view of the face beneath it.  What
+features that are visible are soft, but covered with freckles as only one
+with ginger hair can be.  
+
+The clothing is plainly made and not overly well constructed.  An unadorned
+white shirt with ties at the neck and a heavy coat that is several sizes too
+large and made of some dark fabric give a bulk where none may be. 
+Low-heeled boots show both age and wear, as do the dark trousers that are
+ragged and rolled up at the ankles.  Though no weapons are visible, there
+are a number of odd bulges in the cloak and the coat is baggy enough to
+conceal any number of small weapons.  
+~
+Prom {R%h/%H {G%m/%M {C%x/%X {Y%gg {W%ss{x (%e) ~
+Race altaran~
+Minion 1376416729
+Mname Jomissa's minion~
+Mrank 0
+Quest_Curr    737
+Quest_Accum  95737
+Lastlog Sat Dec 14 18:40:46 2013
+~
+Lastsite c-50-170-106-62.hsd1.wa.comcast.net~
+Sex  2
+Cla  1
+Levl 90
+ELevl 1314
+Bounty 0
+Sec  0
+Plyd 2337858
+RolePlayed 6210
+Scro 0
+PKCount 0
+PKDiedCount 0
+Room 8
+HMV  6762 6762 10768 10768
+HLoc 2254 1690 1127 3381 2254 1690
+Target 2
+Gold 3477
+Silv 6478
+Gold_bank 31400
+Silv_bank 0
+Exp  8868
+Act  CDEFGHILOQTb
+AutoAct  ABCD
+ChanFlag  AB
+Comm JMNPQ
+Comm2 0
+Pos  8
+Trai 844
+Alig  -1000
+ArrCnt  0
+Hit   178
+Dam   192
+ACs -1415 -1421 -1442 -1364
+Wimp  1043
+Attr 15 19 19 20 15
+AMod 11 12 11 12 15
+CSphere  0 0 0 0 0
+Sphere 0 0 0 0 0
+Burnout 0
+MaxBurnout 20
+MSphere -1
+Holding 0
+Autoholding 0
+Merits BFJ
+Pass JokX/jID/Rwus~
+Appearance A slight youth with reddish hair~
+Titl  is workin' in a coal mine~
+Pnts 10
+TSex 2
+LLev 467
+Home 0
+ICLocRecall 8
+HMVP 4912 8818
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 014
+Colourb     005 006 012 011 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 012
+Coloure     003 011 016 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 1383252745 General 1380940868 Ideas 1380695411 Personal 1381006748 Guild 1381020101 Stories 1382144591 Bugs 1379733625 Permanent 1382152099 Admin 0 PK 1380750872 Immortal 1380691162 Newplayers 1381105255 
+Sk 1 'arrow'
+Sk 48 'bow'
+Sk 300 'dagger'
+Sk 207 'assassinate'
+Sk 112 'backstab'
+Sk 141 'circle'
+Sk 20 'bash'
+Sk 20 'dirt kicking'
+Sk 300 'dodge'
+Sk 101 'dual wield'
+Sk 201 'enhanced damage'
+Sk 38 'kick'
+Sk 300 'parry'
+Sk 1 'rescue'
+Sk 201 'second attack'
+Sk 152 'third attack'
+Sk 99 'fast healing'
+Sk 95 'haggle'
+Sk 102 'hide'
+Sk 95 'lore'
+Sk 97 'meditation'
+Sk 112 'peek'
+Sk 32 'pick lock'
+Sk 95 'sneak'
+Sk 150 'critical strike'
+Sk 161 'armor use'
+Sk 99 'awareness'
+Sk 95 'observation'
+Sk 99 'alertness'
+Sk 138 'duelling'
+Sk 95 'overwhelm'
+Sk 151 'fourth attack'
+Sk 274 'gemmine'
+Sk 300 'mine'
+Sk 167 'smelt'
+Sk 162 'gemcut'
+Sk 95 'armorcraft'
+Sk 95 'jewelcraft'
+Sk 109 'flamevoid'
+Sk 103 'iron will'
+Know 1380026793 'Caliam'
+BMtime 1379217528
+Backup 1384583251
+World A
+Webvote 1383330121
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 40038
+Nest 0
+Name hair~
+ShD  roughly cut <color #E56717>ginger hair</color>{x~
+Cond 56
+Owner Jomissa~
+Wear 8
+Cost 5000
+End
+
+#O
+Vnum 40030
+Nest 0
+ShD  a furtive and <color #edc9af>half-frightened</color> expression{x~
+Cond 56
+Owner Jomissa~
+Wear 25
+Cost 4000
+End
+
+#O
+Vnum 9701
+Nest 0
+Name metal key chain~
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3606
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8672
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 144
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8679
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 452
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3137
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3122
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8679
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3123
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8478
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8465
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 7513
+Nest 1
+ExtF 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8627
+Nest 1
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 8669
+Nest 1
+ExtF 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8547
+Nest 1
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 8548
+Nest 1
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 8549
+Nest 1
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 8550
+Nest 1
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3137
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3122
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 26020
+Nest 1
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 17011
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 17018
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 12081
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9709
+Nest 1
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 26020
+Nest 1
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 8479
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8440
+Nest 1
+Wear -1
+Cost 74
+End
+
+#O
+Vnum 8441
+Nest 1
+Wear -1
+Cost 87
+End
+
+#O
+Vnum 903
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8752
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8672
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9708
+Nest 1
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 9707
+Nest 1
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 8470
+Nest 1
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 8489
+Nest 1
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 8492
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 21210
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17011
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 452
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 64171
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 12751
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 12475
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 408
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 403
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 403
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 403
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 403
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 403
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 403
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 403
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 403
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 403
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 403
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 403
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 40031
+Nest 0
+Name ear~
+ShD  <color #edc9af>nothing</color>{x~
+Owner Jomissa~
+Wear 24
+Cost 3000
+End
+
+#O
+Vnum 40047
+Nest 0
+Name cuff~
+ShD  <color #483c32>a wide cuff</color>{x~
+Owner Jomissa~
+Wear 18
+Cost 2500
+End
+
+#O
+Vnum 9996
+Nest 0
+Name blackwind pouch leather canadian canuck maple leaf~
+ShD  a {Dd{war{Dk{x leather pouch, bearing a {Rm{Wapl{Re{x leaf motif{x~
+Desc A pouch from Canuckistan lies here.{x~
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  40 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  40 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  40 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  40 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  40 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  40 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  40 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  40 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 1601
+Nest 1
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 40046
+Nest 0
+ShD  an age-frayed strip of {yl{De{ya{Dt{yh{De{yr{x{x~
+Owner Jomissa~
+Wear 16
+Cost 4000
+End
+
+#O
+Vnum 40034
+Nest 0
+ShD  crudely drawn letters{x~
+Owner Jomissa~
+Wear 2
+Cost 4000
+End
+
+#O
+Vnum 3418
+Nest 0
+Name pocket~
+ShD  her pocket{x~
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 9994
+Nest 1
+Wear -1
+Cost 0
+Spell 1 'bless'
+Spell 2 'stone skin'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 40042
+Nest 0
+ShD  too-long <color #483c32>sleeves</color> with wide cuffs{x~
+Cond 41
+Owner Jomissa~
+Wear 12
+Cost 5000
+End
+
+#O
+Vnum 40033
+Nest 0
+Name floater aura~
+ShD  an air of {rwatchful{x caution{x~
+Owner Jomissa~
+Wear 1
+Cost 4000
+End
+
+#O
+Vnum 40031
+Nest 0
+Name ear~
+ShD  <color #edc9af>nothing</color>{x~
+Owner Jomissa~
+Wear 23
+Cost 3000
+End
+
+#O
+Vnum 40047
+Nest 0
+Name cuff~
+ShD  <color #483c32>a wide cuff</color>{x~
+Owner Jomissa~
+Wear 17
+Cost 2500
+End
+
+#O
+Vnum 40035
+Nest 0
+ShD  {Dnothing{x{x~
+Owner Jomissa~
+Wear 3
+Cost 3000
+End
+
+#O
+Vnum 40037
+Nest 0
+Name shirt~
+ShD  a baggy {Wlinen{x shirt with {ywooden{x buttons{x~
+Cond 84
+Owner Jomissa~
+Wear 7
+Cost 6000
+End
+
+#O
+Vnum 40044
+Nest 0
+Name coat~
+ShD  a <color #483c32>dark coat</color> that is at least two sizes too large{x~
+Owner Jomissa~
+Wear 14
+Cost 6000
+End
+
+#O
+Vnum 40045
+Nest 0
+ShD  a heavy {Dblack cloak{x{x~
+Owner Jomissa~
+Wear 15
+Cost 5000
+End
+
+#O
+Vnum 40039
+Nest 0
+ShD  <color #254117>dark, baggy breeches</color>{x~
+Cond 51
+Owner Jomissa~
+Wear 9
+Cost 5000
+End
+
+#O
+Vnum 40040
+Nest 0
+ShD  <color #666362>scuffed boots that look age-worn</color>{x~
+Owner Jomissa~
+Wear 10
+Cost 4000
+End
+
+#O
+Vnum 40041
+Nest 0
+Name hands~
+ShD  <color #edc9af>nothing</color>{x~
+Owner Jomissa~
+Wear 11
+Cost 4000
+End
+
+#O
+Vnum 40035
+Nest 0
+ShD  {Dnothing{x{x~
+Owner Jomissa~
+Wear 4
+Cost 3000
+End
+
+#O
+Vnum 40036
+Nest 0
+Name neck scarf~
+ShD  a scarf, tied in a wide knot and tucked into the shirt{x~
+Owner Jomissa~
+Wear 5
+Cost 4000
+End
+
+#O
+Vnum 40036
+Nest 0
+Name cord~
+ShD  a {yleather{x cord, half-hidden under the collar{x~
+Owner Jomissa~
+Wear 6
+Cost 4000
+End
+
+#O
+Vnum 40032
+Nest 0
+Owner Jomissa~
+Wear 0
+Cost 4000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 46
+Nest 0
+ShD  a {ybo{wn{ye{x handled dagger with a short {Dbl{wa{Dde{x{x~
+Wear 20
+Cost 1000
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 8661
+Nest 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 24
+Nest 0
+Name quest crown~
+ShD  the Crown of Wisdom~
+Desc {G(Quest obj){x The Crown of Wisdom is lieing here, waiting to be returned to its owner.~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 407
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5878
+Nest 0
+Cond 97
+Owner Jomissa~
+Wear 21
+Cost 4000
+End
+
+#O
+Vnum 3418
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore gold excellent~
+ShD  a lump of gold ore of excellent quality~
+Desc A lump of gold ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore copper excellent~
+ShD  a lump of copper ore of excellent quality~
+Desc A lump of copper ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore copper excellent~
+ShD  a lump of copper ore of excellent quality~
+Desc A lump of copper ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore copper excellent~
+ShD  a lump of copper ore of excellent quality~
+Desc A lump of copper ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore copper excellent~
+ShD  a lump of copper ore of excellent quality~
+Desc A lump of copper ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore silver excellent~
+ShD  a lump of silver ore of excellent quality~
+Desc A lump of silver ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore copper excellent~
+ShD  a lump of copper ore of excellent quality~
+Desc A lump of copper ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore copper excellent~
+ShD  a lump of copper ore of excellent quality~
+Desc A lump of copper ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore copper excellent~
+ShD  a lump of copper ore of excellent quality~
+Desc A lump of copper ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore silver excellent~
+ShD  a lump of silver ore of excellent quality~
+Desc A lump of silver ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore silver excellent~
+ShD  a lump of silver ore of excellent quality~
+Desc A lump of silver ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore copper excellent~
+ShD  a lump of copper ore of excellent quality~
+Desc A lump of copper ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore copper excellent~
+ShD  a lump of copper ore of excellent quality~
+Desc A lump of copper ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore silver excellent~
+ShD  a lump of silver ore of excellent quality~
+Desc A lump of silver ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore silver excellent~
+ShD  a lump of silver ore of excellent quality~
+Desc A lump of silver ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore copper excellent~
+ShD  a lump of copper ore of excellent quality~
+Desc A lump of copper ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore copper excellent~
+ShD  a lump of copper ore of excellent quality~
+Desc A lump of copper ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore silver excellent~
+ShD  a lump of silver ore of excellent quality~
+Desc A lump of silver ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore copper excellent~
+ShD  a lump of copper ore of excellent quality~
+Desc A lump of copper ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore gold excellent~
+ShD  a lump of gold ore of excellent quality~
+Desc A lump of gold ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore gold excellent~
+ShD  a lump of gold ore of excellent quality~
+Desc A lump of gold ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore gold excellent~
+ShD  a lump of gold ore of excellent quality~
+Desc A lump of gold ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore gold excellent~
+ShD  a lump of gold ore of excellent quality~
+Desc A lump of gold ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore gold excellent~
+ShD  a lump of gold ore of excellent quality~
+Desc A lump of gold ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore gold excellent~
+ShD  a lump of gold ore of excellent quality~
+Desc A lump of gold ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem emerald excellent~
+ShD  a emerald gem of excellent quality~
+Desc A emerald gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem ruby excellent~
+ShD  a ruby gem of excellent quality~
+Desc A ruby gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem ruby excellent~
+ShD  a ruby gem of excellent quality~
+Desc A ruby gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem emerald excellent~
+ShD  a emerald gem of excellent quality~
+Desc A emerald gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem emerald excellent~
+ShD  a emerald gem of excellent quality~
+Desc A emerald gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem ruby excellent~
+ShD  a ruby gem of excellent quality~
+Desc A ruby gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem emerald excellent~
+ShD  a emerald gem of excellent quality~
+Desc A emerald gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem ruby excellent~
+ShD  a ruby gem of excellent quality~
+Desc A ruby gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem ruby excellent~
+ShD  a ruby gem of excellent quality~
+Desc A ruby gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem ruby excellent~
+ShD  a ruby gem of excellent quality~
+Desc A ruby gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore silver excellent~
+ShD  a lump of silver ore of excellent quality~
+Desc A lump of silver ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore copper excellent~
+ShD  a lump of copper ore of excellent quality~
+Desc A lump of copper ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore silver excellent~
+ShD  a lump of silver ore of excellent quality~
+Desc A lump of silver ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem emerald excellent~
+ShD  a emerald gem of excellent quality~
+Desc A emerald gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore silver excellent~
+ShD  a lump of silver ore of excellent quality~
+Desc A lump of silver ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore silver excellent~
+ShD  a lump of silver ore of excellent quality~
+Desc A lump of silver ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore silver excellent~
+ShD  a lump of silver ore of excellent quality~
+Desc A lump of silver ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore copper excellent~
+ShD  a lump of copper ore of excellent quality~
+Desc A lump of copper ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem emerald excellent~
+ShD  a emerald gem of excellent quality~
+Desc A emerald gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore gold excellent~
+ShD  a lump of gold ore of excellent quality~
+Desc A lump of gold ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem emerald excellent~
+ShD  a emerald gem of excellent quality~
+Desc A emerald gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem emerald excellent~
+ShD  a emerald gem of excellent quality~
+Desc A emerald gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem emerald excellent~
+ShD  a emerald gem of excellent quality~
+Desc A emerald gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem emerald excellent~
+ShD  a emerald gem of excellent quality~
+Desc A emerald gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore silver excellent~
+ShD  a lump of silver ore of excellent quality~
+Desc A lump of silver ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore silver excellent~
+ShD  a lump of silver ore of excellent quality~
+Desc A lump of silver ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore silver excellent~
+ShD  a lump of silver ore of excellent quality~
+Desc A lump of silver ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem emerald excellent~
+ShD  a emerald gem of excellent quality~
+Desc A emerald gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore silver excellent~
+ShD  a lump of silver ore of excellent quality~
+Desc A lump of silver ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore silver excellent~
+ShD  a lump of silver ore of excellent quality~
+Desc A lump of silver ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem ruby excellent~
+ShD  a ruby gem of excellent quality~
+Desc A ruby gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore gold excellent~
+ShD  a lump of gold ore of excellent quality~
+Desc A lump of gold ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore copper excellent~
+ShD  a lump of copper ore of excellent quality~
+Desc A lump of copper ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem ruby excellent~
+ShD  a ruby gem of excellent quality~
+Desc A ruby gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem emerald excellent~
+ShD  a emerald gem of excellent quality~
+Desc A emerald gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem ruby excellent~
+ShD  a ruby gem of excellent quality~
+Desc A ruby gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore gold excellent~
+ShD  a lump of gold ore of excellent quality~
+Desc A lump of gold ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem ruby excellent~
+ShD  a ruby gem of excellent quality~
+Desc A ruby gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore copper excellent~
+ShD  a lump of copper ore of excellent quality~
+Desc A lump of copper ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem diamond excellent~
+ShD  a diamond gem of excellent quality~
+Desc A diamond gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore silver excellent~
+ShD  a lump of silver ore of excellent quality~
+Desc A lump of silver ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem diamond excellent~
+ShD  a diamond gem of excellent quality~
+Desc A diamond gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore copper excellent~
+ShD  a lump of copper ore of excellent quality~
+Desc A lump of copper ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem emerald perfect~
+ShD  a emerald gem of perfect quality~
+Desc A emerald gem of perfect quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 8 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem ruby excellent~
+ShD  a ruby gem of excellent quality~
+Desc A ruby gem of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore iron flawless~
+ShD  a lump of iron ore of flawless quality~
+Desc A lump of iron ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore iron flawless~
+ShD  a lump of iron ore of flawless quality~
+Desc A lump of iron ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore iron flawless~
+ShD  a lump of iron ore of flawless quality~
+Desc A lump of iron ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore iron flawless~
+ShD  a lump of iron ore of flawless quality~
+Desc A lump of iron ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore iron flawless~
+ShD  a lump of iron ore of flawless quality~
+Desc A lump of iron ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore iron flawless~
+ShD  a lump of iron ore of flawless quality~
+Desc A lump of iron ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore iron flawless~
+ShD  a lump of iron ore of flawless quality~
+Desc A lump of iron ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore iron flawless~
+ShD  a lump of iron ore of flawless quality~
+Desc A lump of iron ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore iron flawless~
+ShD  a lump of iron ore of flawless quality~
+Desc A lump of iron ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore iron flawless~
+ShD  a lump of iron ore of flawless quality~
+Desc A lump of iron ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore iron flawless~
+ShD  a lump of iron ore of flawless quality~
+Desc A lump of iron ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore iron flawless~
+ShD  a lump of iron ore of flawless quality~
+Desc A lump of iron ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore iron flawless~
+ShD  a lump of iron ore of flawless quality~
+Desc A lump of iron ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore iron flawless~
+ShD  a lump of iron ore of flawless quality~
+Desc A lump of iron ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore iron flawless~
+ShD  a lump of iron ore of flawless quality~
+Desc A lump of iron ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore iron flawless~
+ShD  a lump of iron ore of flawless quality~
+Desc A lump of iron ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore iron flawless~
+ShD  a lump of iron ore of flawless quality~
+Desc A lump of iron ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore iron flawless~
+ShD  a lump of iron ore of flawless quality~
+Desc A lump of iron ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore iron flawless~
+ShD  a lump of iron ore of flawless quality~
+Desc A lump of iron ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore iron flawless~
+ShD  a lump of iron ore of flawless quality~
+Desc A lump of iron ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore silver flawless~
+ShD  a lump of silver ore of flawless quality~
+Desc A lump of silver ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper flawless~
+ShD  a lump of copper ore of flawless quality~
+Desc A lump of copper ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper flawless~
+ShD  a lump of copper ore of flawless quality~
+Desc A lump of copper ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem diamond flawless~
+ShD  a diamond gem of flawless quality~
+Desc A diamond gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem emerald flawless~
+ShD  a emerald gem of flawless quality~
+Desc A emerald gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem emerald flawless~
+ShD  a emerald gem of flawless quality~
+Desc A emerald gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper flawless~
+ShD  a lump of copper ore of flawless quality~
+Desc A lump of copper ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper flawless~
+ShD  a lump of copper ore of flawless quality~
+Desc A lump of copper ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper flawless~
+ShD  a lump of copper ore of flawless quality~
+Desc A lump of copper ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper flawless~
+ShD  a lump of copper ore of flawless quality~
+Desc A lump of copper ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper flawless~
+ShD  a lump of copper ore of flawless quality~
+Desc A lump of copper ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper flawless~
+ShD  a lump of copper ore of flawless quality~
+Desc A lump of copper ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper flawless~
+ShD  a lump of copper ore of flawless quality~
+Desc A lump of copper ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper flawless~
+ShD  a lump of copper ore of flawless quality~
+Desc A lump of copper ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore gold flawless~
+ShD  a lump of gold ore of flawless quality~
+Desc A lump of gold ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem emerald flawless~
+ShD  a emerald gem of flawless quality~
+Desc A emerald gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore gold flawless~
+ShD  a lump of gold ore of flawless quality~
+Desc A lump of gold ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem emerald flawless~
+ShD  a emerald gem of flawless quality~
+Desc A emerald gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem emerald flawless~
+ShD  a emerald gem of flawless quality~
+Desc A emerald gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper flawless~
+ShD  a lump of copper ore of flawless quality~
+Desc A lump of copper ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper flawless~
+ShD  a lump of copper ore of flawless quality~
+Desc A lump of copper ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper flawless~
+ShD  a lump of copper ore of flawless quality~
+Desc A lump of copper ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem emerald flawless~
+ShD  a emerald gem of flawless quality~
+Desc A emerald gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem diamond flawless~
+ShD  a diamond gem of flawless quality~
+Desc A diamond gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem diamond flawless~
+ShD  a diamond gem of flawless quality~
+Desc A diamond gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem emerald flawless~
+ShD  a emerald gem of flawless quality~
+Desc A emerald gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore silver flawless~
+ShD  a lump of silver ore of flawless quality~
+Desc A lump of silver ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore gold flawless~
+ShD  a lump of gold ore of flawless quality~
+Desc A lump of gold ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem emerald flawless~
+ShD  a emerald gem of flawless quality~
+Desc A emerald gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper flawless~
+ShD  a lump of copper ore of flawless quality~
+Desc A lump of copper ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper flawless~
+ShD  a lump of copper ore of flawless quality~
+Desc A lump of copper ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem diamond flawed~
+ShD  a diamond gem of flawed quality~
+Desc A diamond gem of flawed quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 1 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore gold flawless~
+ShD  a lump of gold ore of flawless quality~
+Desc A lump of gold ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem emerald flawless~
+ShD  a emerald gem of flawless quality~
+Desc A emerald gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper flawless~
+ShD  a lump of copper ore of flawless quality~
+Desc A lump of copper ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper flawless~
+ShD  a lump of copper ore of flawless quality~
+Desc A lump of copper ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper flawless~
+ShD  a lump of copper ore of flawless quality~
+Desc A lump of copper ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore gold flawless~
+ShD  a lump of gold ore of flawless quality~
+Desc A lump of gold ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawless~
+ShD  a ruby gem of flawless quality~
+Desc A ruby gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper flawed~
+ShD  a lump of copper ore of flawed quality~
+Desc A lump of copper ore of flawed quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 1 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem emerald flawed~
+ShD  a emerald gem of flawed quality~
+Desc A emerald gem of flawed quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 1 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper flawless~
+ShD  a lump of copper ore of flawless quality~
+Desc A lump of copper ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 2 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem emerald flawless~
+ShD  a emerald gem of flawless quality~
+Desc A emerald gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore gold flawed~
+ShD  a lump of gold ore of flawed quality~
+Desc A lump of gold ore of flawed quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 1 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore gold flawless~
+ShD  a lump of gold ore of flawless quality~
+Desc A lump of gold ore of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 2 0 0 0
+End
+
+#END

@@ -1,0 +1,187 @@
+#PLAYER
+Name Draice~
+Email patrick.hemmah@outlook.com~
+Id   1385986585
+LogO 1385988503
+Vers 5
+Prom [{R%h{x/{R%H{xhp {G%m{x/{G%M{xen] ~
+Race ogier~
+Quest_Curr    0
+Quest_Accum  0
+Lastlog Mon Dec  2 07:16:24 2013
+~
+Lastsite gdhu-hct-bb.66.44.129.18.sleepyeyetel.net~
+Sex  1
+Cla  2
+Levl 5
+Bounty 0
+Sec  0
+Plyd 1919
+RolePlayed 0
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 3750
+HMV  502 526 132 480
+HLoc 169 126 81 261 168 126
+Gold 0
+Silv 240
+Gold_bank 0
+Silv_bank 0
+Exp  1439
+Act  DEFGLQTV
+AutoAct  ABCE
+ChanFlag  AB
+Comm NPQUVWX
+Comm2 0
+Pos  8
+Trai 74
+Alig  0
+ArrCnt  0
+Hit   1
+Dam   2
+ACs 95 97 99 100
+Attr 21 19 16 15 19
+AMod 0 1 2 1 0
+CSphere  0 0 0 0 0
+Sphere 0 0 0 0 0
+Burnout 0
+MaxBurnout 20
+MSphere -1
+Holding 0
+Autoholding 0
+Merits AG
+Talents N
+Pass DrqssSVtIKjs.~
+Appearance A huge broad face ogier~
+ICtitl has wanderlust~
+Titl , spun out by the Pattern.~
+Pnts 10
+TSex 1
+LLev 0
+Home 0
+ICLocRecall 8
+HMVP 526 480
+Cnd  0 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 0 General 0 Ideas 0 Personal 0 Guild 0 Stories 0 Bugs 0 Permanent 0 Admin 0 PK 0 Immortal 0 Newplayers 0 
+Sk 1 'shield block'
+Sk 1 'enhanced damage'
+Sk 1 'fast healing'
+Sk 48 'staff'
+Backup 1385987946
+World A
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 3716
+Nest 0
+Wear -1
+Cost 0
+Val  0 0 183 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3718
+Nest 0
+Cond 99
+Wear 20
+Cost 10
+End
+
+#O
+Vnum 3736
+Nest 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Cond 99
+Wear 8
+Cost 25
+End
+
+#O
+Vnum 3715
+Nest 0
+Wear 14
+Cost 10
+End
+
+#O
+Vnum 3746
+Nest 0
+Wear 19
+Cost 10
+End
+
+#O
+Vnum 3730
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3743
+Nest 0
+Wear 7
+Cost 50
+End
+
+#O
+Vnum 3742
+Nest 0
+Wear 4
+Cost 50
+End
+
+#O
+Vnum 3742
+Nest 0
+Wear 3
+Cost 50
+End
+
+#O
+Vnum 3731
+Nest 0
+Wear 0
+Cost 5
+Val  0 0 492 0 0
+End
+
+#O
+Vnum 3747
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3728
+Nest 0
+Wear 11
+Cost 50
+End
+
+#END

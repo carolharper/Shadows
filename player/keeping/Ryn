@@ -1,0 +1,693 @@
+#PLAYER
+Name Ryn~
+Email jprocdoc@gmail.com~
+Id   1376720162
+LogO 1392404800
+Vers 5
+Desc Before you stands an Andoran man of above average height, and a well
+defined set of muscles through years of apparent labor.  Tousled, black
+hair, that which would be akin to a raven's maw, adorns his head,
+lengthening itself just shy of his shoulders.  When away from his face,
+brooding, almost sad, eyes stare back at the world.  While hazel in color,
+in most lights they almost look grey.  Full lips, rosey but palor in a way,
+are level and even, neither frowning nor providing a sign of cheer.  His
+skin is tanned, as though he has seen the elements a season or too, but not
+as though not as dark as some of the more western nations, but far darker
+than the Cairhienin.  He bears a rounded jawline, chisled with little excess
+to be found.  A solid few weeks worth of growth maybe found here, in
+general, though sometimes more grown closer to a beard.  
+
+His waist is about what one might expect, neither over plump nor apparently
+emaciated.  This moves upwards, extending out into a broadshouldered, but
+trim man.  His arms are clearly well defined, and show great use through
+years of laborious effort.  When not hidden, a puckered scar can be seen in
+the middle left section of his abdomen, partially faded, perhaps indicating
+a length of time having passed.  His legs could be well defined, though
+usually hidden behind a pair of servicable cotton trousers.  He would
+generally be regarded as having a light gait, for his height, though not so
+light as to be compared to a trained soldier of any nature.  
+~
+Prom {R%h{w/{R%H{whp {G%m{w/{G%M{wmv %X %s>{x ~
+Race andoran~
+Quest_Curr    3691
+Quest_Accum  24691
+Lastlog Fri Feb 14 08:42:46 2014
+~
+Lastsite c-24-91-9-138.hsd1.nh.comcast.net~
+Sex  1
+Cla  2
+Levl 90
+ELevl 1319
+Bounty 0
+Sec  0
+Plyd 2435311
+RolePlayed 0
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 44906
+HMV  5919 5919 9436 9436
+HLoc 1973 1479 986 2959 1973 1479
+Gold 0
+Silv 11796
+Gold_bank 73844
+Silv_bank 0
+Exp  42482
+Act  CDEFGHLOQTb
+AutoAct  ABCDEFGH
+App  A
+ChanFlag  AB
+Comm JNPQ
+Comm2 0
+Pos  8
+Trai 5
+Alig  0
+ArrCnt  0
+Hit   170
+Dam   169
+ACs -663 -662 -662 -635
+Wimp  500
+Attr 20 17 17 17 17
+AMod 15 1 4 18 11
+CSphere  0 0 0 0 0
+Sphere 0 0 0 0 0
+Burnout 0
+MaxBurnout 20
+MSphere -1
+Holding 0
+Autoholding 0
+Merits ABJ
+Flaws F
+Talents L
+Pass Ryyu65pU4ld02~
+Appearance A well-built andoran man~
+HAppearance a hooded figure~
+Titl  likes this title the best.~
+Polls 1|2~
+Pnts 10
+TSex 1
+LLev 21
+Home 0
+ICLocRecall 8
+HMVP 5534 9120
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 1383252745 General 1380940868 Ideas 1380046497 Personal 1379194259 Guild 1378695375 Stories 1379385058 Bugs 0 Permanent 1364229276 Admin 0 PK 0 Immortal 1376869190 Newplayers 0 
+Sk 11 'arrow'
+Sk 80 'axe'
+Sk 43 'bow'
+Sk 80 'dagger'
+Sk 50 'flail'
+Sk 68 'lance'
+Sk 80 'mace'
+Sk 70 'polearm'
+Sk 11 'shield block'
+Sk 80 'spear'
+Sk 107 'sword'
+Sk 21 'whip'
+Sk 1 'bash'
+Sk 95 'bash door'
+Sk 101 'berserk'
+Sk 11 'dirt kicking'
+Sk 1 'disarm'
+Sk 200 'dodge'
+Sk 102 'dual wield'
+Sk 300 'enhanced damage'
+Sk 100 'blademaster'
+Sk 80 'hand to hand'
+Sk 1 'kick'
+Sk 207 'parry'
+Sk 1 'rescue'
+Sk 1 'trip'
+Sk 100 'throw'
+Sk 300 'second attack'
+Sk 238 'third attack'
+Sk 95 'fast healing'
+Sk 95 'haggle'
+Sk 27 'hide'
+Sk 3 'herbs'
+Sk 95 'hunt'
+Sk 95 'lore'
+Sk 95 'meditation'
+Sk 1 'peek'
+Sk 32 'sneak'
+Sk 95 'riding'
+Sk 1 'sharpen'
+Sk 95 'push'
+Sk 61 'staff'
+Sk 300 'critical strike'
+Sk 100 'armor use'
+Sk 95 'awareness'
+Sk 95 'observation'
+Sk 95 'alertness'
+Sk 51 'speardancer'
+Sk 1 'charge'
+Sk 95 'guard'
+Sk 1 'block'
+Sk 2 'duelling'
+Sk 1 'overwhelm'
+Sk 1 'bind'
+Sk 1 'escape'
+Sk 200 'fourth attack'
+Sk 200 'fifth attack'
+Sk 7 'axemaster'
+Sk 2 'staffmaster'
+Sk 1 'whipmaster'
+Sk 2 'flailmaster'
+Sk 106 'flamevoid'
+Sk 100 'whirlwind'
+Sk 102 'concussion blow'
+Sk 101 'iron will'
+Sk 1 'martial arts'
+BMtime 1392414602
+Backup 1390476992
+World A
+Webvote 1392261646
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 65043
+Nest 0
+Wear 11
+Cost 90
+End
+
+#O
+Vnum 65042
+Nest 0
+Wear 10
+Cost 90
+End
+
+#O
+Vnum 65040
+Nest 0
+Cond 3
+Wear 9
+Cost 90
+End
+
+#O
+Vnum 64173
+Nest 0
+Wear 15
+Cost 60
+End
+
+#O
+Vnum 3421
+Nest 0
+Wear 6
+Cost 300
+End
+
+#O
+Vnum 3421
+Nest 0
+Wear 5
+Cost 300
+End
+
+#O
+Vnum 3418
+Nest 0
+Wear 14
+Cost 500
+End
+
+#O
+Vnum 16083
+Nest 1
+Wear -1
+Cost 125
+End
+
+#O
+Vnum 16083
+Nest 1
+Cond 85
+Wear -1
+Cost 125
+End
+
+#O
+Vnum 3403
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3403
+Nest 1
+Cond 96
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1637
+Nest 1
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 854
+Nest 1
+Wear -1
+Cost 15000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 1683
+Nest 1
+Cond 97
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 39578
+Nest 1
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1661
+Nest 1
+Cond 99
+Wear -1
+Cost 60
+End
+
+#O
+Vnum 1688
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6569
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1684
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 39644
+Nest 1
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 39641
+Nest 1
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 39660
+Nest 1
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 1660
+Nest 1
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 39659
+Nest 1
+Cond 89
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 39638
+Nest 1
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 39638
+Nest 1
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 58072
+Nest 0
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 8533
+Nest 0
+Wear -1
+Cost 2535
+End
+
+#O
+Vnum 1665
+Nest 0
+Wear 0
+Cost 0
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 1661
+Nest 0
+Cond 58
+Wear 8
+Cost 60
+End
+
+#O
+Vnum 1683
+Nest 0
+Cond 60
+Wear 25
+Cost 45
+End
+
+#O
+Vnum 58424
+Nest 0
+Wear 18
+Cost 10
+End
+
+#O
+Vnum 58424
+Nest 0
+Wear 17
+Cost 10
+End
+
+#O
+Vnum 6341
+Nest 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 39645
+Nest 0
+Wear 16
+Cost 50
+End
+
+#O
+Vnum 39644
+Nest 0
+Wear 24
+Cost 150
+End
+
+#O
+Vnum 39644
+Nest 0
+Wear 23
+Cost 150
+End
+
+#O
+Vnum 1635
+Nest 0
+Cond 82
+Wear 7
+Cost 250
+End
+
+#O
+Vnum 1636
+Nest 0
+Cond 56
+Wear 12
+Cost 250
+End
+
+#O
+Vnum 5864
+Nest 0
+Wear -1
+Cost 150
+Val  20 1 0 25 -1
+End
+
+#O
+Vnum 8494
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 39645
+Nest 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 39642
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 65050
+Nest 0
+Wear -1
+Cost 83
+End
+
+#O
+Vnum 65051
+Nest 0
+Wear -1
+Cost 80
+End
+
+#O
+Vnum 65052
+Nest 0
+Wear -1
+Cost 73
+End
+
+#O
+Vnum 65053
+Nest 0
+Wear -1
+Cost 85
+End
+
+#O
+Vnum 65049
+Nest 0
+Cond 95
+Wear -1
+Cost 90
+End
+
+#O
+Vnum 20737
+Nest 0
+Wear -1
+Cost 15
+Val  5 0 12 0 0
+End
+
+#O
+Vnum 14468
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 41
+Nest 0
+Wear 20
+Cost 1000
+End
+
+#O
+Vnum 10842
+Nest 0
+Wear 21
+Cost 250
+End
+
+#O
+Vnum 14881
+Nest 0
+Wear 4
+Cost 200
+End
+
+#O
+Vnum 14881
+Nest 0
+Wear 3
+Cost 200
+End
+
+#O
+Vnum 6335
+Nest 0
+Cond 95
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 9700
+Nest 0
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 9941
+Nest 0
+Desc A face hidden within a {Rf{rl{Ya{rm{Re{x.~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17027
+Nest 0
+Cond 98
+Wear -1
+Cost 55
+End
+
+#O
+Vnum 130
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 8721
+Nest 0
+Wear -1
+Cost 80
+End
+
+#O
+Vnum 12081
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12052
+Nest 0
+Wear -1
+Cost 140
+End
+
+#O
+Vnum 9701
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 520
+Nest 0
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 521
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 520
+Nest 0
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 65049
+Nest 0
+Wear -1
+Cost 84
+End
+
+#O
+Vnum 3107
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 26018
+Nest 0
+Cond 93
+Wear -1
+Cost 22500
+End
+
+#O
+Vnum 27454
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#END

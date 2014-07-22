@@ -1,0 +1,493 @@
+Tue Feb 18 16:33:31 2014 :: Creating table of skills of length 261, tama~no 16704
+Tue Feb 18 16:33:31 2014 :: Creating race_table of length 51, tama~no 5916
+Tue Feb 18 16:33:31 2014 :: Table of races loaded.
+Tue Feb 18 16:33:31 2014 :: Creating cmd_table of length 635, tama~no 10160
+Tue Feb 18 16:33:31 2014 :: Table of commands loaded.
+Tue Feb 18 16:33:31 2014 :: creating social_table of length 296, tama~no 10656
+Tue Feb 18 16:33:31 2014 :: Table of socials loaded.
+Tue Feb 18 16:33:31 2014 :: Loading guild data file ../data/guild.dat
+Tue Feb 18 16:33:31 2014 :: Loaded 8 guilds successfully.
+Tue Feb 18 16:33:31 2014 :: Loading SGuild data file ../data/sguild.dat
+Tue Feb 18 16:33:31 2014 :: Loaded 4 SGuilds successfully.
+Tue Feb 18 16:33:31 2014 :: Loading SSGuild data file ../data/ssguild.dat
+Tue Feb 18 16:33:31 2014 :: Loaded 2 SSGuilds successfully.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Read: (null)
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Read: 0
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Read: 0
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4122:0 -> 4124:2 -> 4127.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4122:1 -> 4125:3 -> 4125.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4124:1 -> 4129:3 -> 4127.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4124:2 -> 4127:0 -> 4125.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4124:3 -> 4128:1 -> 4121.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4125:3 -> 4125:1 -> 4121.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4126:0 -> 4127:2 -> 4127.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4126:1 -> 4124:3 -> 4128.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4126:3 -> 4129:1 -> 4122.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4127:1 -> 4122:3 -> 4130.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4127:2 -> 4127:0 -> 4125.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4127:3 -> 4121:1 -> 4123.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4128:0 -> 4128:2 -> 4123.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4128:1 -> 4121:3 -> 4125.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4129:1 -> 4122:3 -> 4130.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4129:2 -> 4127:0 -> 4125.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4129:3 -> 4127:1 -> 4122.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4130:0 -> 4130:2 -> 4131.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4130:3 -> 4130:1 -> 4122.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 57:0 -> 91:2 -> 92.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 57:1 -> 92:3 -> 91.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 57:3 -> 92:1 -> 91.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 58:1 -> 92:3 -> 91.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 59:3 -> 92:1 -> 91.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 64:0 -> 92:2 -> 91.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 65:1 -> 91:3 -> 92.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 65:3 -> 92:1 -> 91.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 66:3 -> 91:1 -> 92.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 84:2 -> 84:0 -> 85.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 84:3 -> 84:1 -> 83.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 90:0 -> 91:2 -> 92.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 90:1 -> 92:3 -> 91.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 90:3 -> 91:1 -> 92.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 93:1 -> 91:3 -> 92.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 93:2 -> 92:0 -> 91.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 93:3 -> 91:1 -> 92.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 94:0 -> 91:2 -> 92.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 94:1 -> 92:3 -> 91.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 94:2 -> 91:0 -> 92.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 95:0 -> 92:2 -> 91.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 95:1 -> 91:3 -> 92.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 95:2 -> 92:0 -> 91.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 96:1 -> 91:3 -> 92.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 96:2 -> 91:0 -> 92.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 96:3 -> 92:1 -> 91.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 97:0 -> 91:2 -> 92.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 97:1 -> 92:3 -> 91.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 97:2 -> 91:0 -> 92.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 31004:0 -> 9947:2 -> 9904.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 31013:1 -> 31012:3 -> 31010.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 31013:3 -> 31011:1 -> 31010.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 489:1 -> 490:3 -> 491.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 490:3 -> 491:1 -> 492.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 491:1 -> 492:3 -> 493.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 491:3 -> 456:1 -> 489.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 492:3 -> 493:1 -> 494.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 492:5 -> 495:4 -> 490.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 493:1 -> 494:3 -> 489.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 493:3 -> 456:1 -> 489.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 494:3 -> 489:1 -> 490.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 29169:1 -> 29183:3 -> 29184.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 27511:5 -> 40464:4 -> 57503.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 37776:2 -> 14516:0 -> 14515.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 37997:1 -> 55982:3 -> 55981.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 5450:3 -> 5450:1 -> 5462.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 5454:3 -> 5454:1 -> 5457.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 5460:1 -> 5460:3 -> 5459.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 5460:2 -> 5460:0 -> 5461.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 28241:1 -> 28242:3 -> 28242.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 28241:3 -> 28242:1 -> 28242.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 28253:0 -> 28182:2 -> 28181.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 30432:5 -> 30439:4 -> 30336.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 18156:3 -> 18152:1 -> 18154.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 18164:2 -> 18153:0 -> 18151.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 18166:3 -> 18165:1 -> 18153.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 3831:5 -> 3837:4 -> 3839.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 3839:4 -> 3831:5 -> 3837.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 5894:1 -> 5895:3 -> 5827.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 5895:1 -> 5850:3 -> 5870.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 5895:2 -> 5833:0 -> 5825.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 5895:3 -> 5827:1 -> 5826.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4083:0 -> 4084:2 -> 4085.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4084:2 -> 4085:0 -> 4086.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4085:0 -> 4086:2 -> 4087.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4085:2 -> 4082:0 -> 4083.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4086:2 -> 4087:0 -> 4088.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_exits: 4087:2 -> 4082:0 -> 4083.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_mobprogs: code vnum 40200 not found.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Fix_mobprogs: code vnum 40201 not found.
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Equip_char: already equipped (5).
+Tue Feb 18 16:33:31 2014 :: Err: obj {DA {Rleader {Bsword{x (3798) -- 1, mob a training dummy (3768) -- 90
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Equip_char: already equipped (19).
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Equip_char: already equipped (19).
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Equip_char: already equipped (20).
+Tue Feb 18 16:33:31 2014 :: [*****] BUG: Equip_char: already equipped (5).
+Tue Feb 18 16:33:31 2014 :: Err: obj a {Ys{yi{Wgn{ye{Yt r{yin{Yg{x (39574) -- 50, mob a hawker (39520) -- 40
+Tue Feb 18 16:33:31 2014 :: Err: obj a {Ys{yi{Wgn{ye{Yt r{yin{Yg{x (39574) -- 50, mob a hawker (39520) -- 40
+Tue Feb 18 16:33:31 2014 :: Err: obj a {Gp{Ba{Rt{gc{ch{re{md {yc{Wl{Mo{Ya{Ck{x (39571) -- 90, mob a {gg{Bl{ce{ye{cm{Ba{gn{x (39517) -- 69
+Tue Feb 18 16:33:31 2014 :: Err: obj soft {yl{re{ya{rt{yh{re{yr {Db{wo{Do{wt{Ds{x (39572) -- 90, mob a {gg{Bl{ce{ye{cm{Ba{gn{x (39517) -- 69
+Tue Feb 18 16:33:31 2014 :: Err: obj a {yhamm{Der{x (39582) -- 50, mob a construction worker (39518) -- 45
+Tue Feb 18 16:33:31 2014 :: Err: obj a {Dnail{x (39583) -- 50, mob a construction worker (39518) -- 45
+Tue Feb 18 16:33:31 2014 :: Err: obj a {ytoy sword{x (39579) -- 15, mob a child (39555) -- 10
+Tue Feb 18 16:33:31 2014 :: Err: obj a {ytoy sword{x (39579) -- 15, mob a child (39555) -- 10
+Tue Feb 18 16:33:31 2014 :: Err: obj a {ytoy sword{x (39579) -- 15, mob a child (39555) -- 10
+Tue Feb 18 16:33:31 2014 :: Err: obj a {yhamm{Der{x (39582) -- 50, mob a construction worker (39518) -- 45
+Tue Feb 18 16:33:31 2014 :: Err: obj a {Dnail{x (39583) -- 50, mob a construction worker (39518) -- 45
+Tue Feb 18 16:33:31 2014 :: Err: obj a {yhamm{Der{x (39582) -- 50, mob a construction worker (39518) -- 45
+Tue Feb 18 16:33:31 2014 :: Err: obj a {Dnail{x (39583) -- 50, mob a construction worker (39518) -- 45
+Tue Feb 18 16:33:31 2014 :: Err: obj a {Csilk dress{x (39565) -- 70, mob a domani merchant (39508) -- 55
+Tue Feb 18 16:33:31 2014 :: Err: obj a {gd{yu{Df{Wf{yl{ge b{ya{gg{x (39581) -- 40, mob a traveler (39534) -- 35
+Tue Feb 18 16:33:31 2014 :: Err: obj a {gd{yu{Df{Wf{yl{ge b{ya{gg{x (39581) -- 40, mob a traveler (39534) -- 35
+Tue Feb 18 16:33:31 2014 :: Err: obj a {Csilk dress{x (39565) -- 70, mob a domani merchant (39508) -- 55
+Tue Feb 18 16:33:31 2014 :: Err: obj a {gd{yu{Df{Wf{yl{ge b{ya{gg{x (39581) -- 40, mob a traveler (39534) -- 35
+Tue Feb 18 16:33:31 2014 :: Err: obj a {Wc{wo{Wtt{wo{Wn a{yp{wr{yo{Wn{x (39567) -- 40, mob mistress of the house (39514) -- 30
+Tue Feb 18 16:33:31 2014 :: Err: obj a {Wc{wo{Wtt{wo{Wn a{yp{wr{yo{Wn{x (39567) -- 40, mob mistress of the house (39514) -- 30
+Tue Feb 18 16:33:31 2014 :: Err: obj a {cb{Cl{Wu{we{c s{Ct{We{wel{x {ch{Ce{Wl{wmet{x (63505) -- 90, mob a helpful {Wse{Cr{cv{Ca{Wnt{x (63504) -- 85
+Tue Feb 18 16:33:31 2014 :: Loading board ../notes/Announce
+Tue Feb 18 16:33:31 2014 :: Loading board ../notes/General
+Tue Feb 18 16:33:31 2014 :: Loading board ../notes/Ideas
+Tue Feb 18 16:33:31 2014 :: Loading board ../notes/Personal
+Tue Feb 18 16:33:31 2014 :: Loading board ../notes/Guild
+Tue Feb 18 16:33:31 2014 :: Loading board ../notes/Stories
+Tue Feb 18 16:33:31 2014 :: Loading board ../notes/Bugs
+Tue Feb 18 16:33:31 2014 :: Loading board ../notes/Permanent
+Tue Feb 18 16:33:31 2014 :: Loading board ../notes/Admin
+Tue Feb 18 16:33:31 2014 :: Loading board ../notes/PK
+Tue Feb 18 16:33:31 2014 :: Loading board ../notes/Immortal
+Tue Feb 18 16:33:31 2014 :: Loading board ../notes/Newplayers
+Tue Feb 18 16:33:31 2014 :: Loaded 12 boards sucessfully.
+Tue Feb 18 16:33:31 2014 :: Looking for Keepers
+Tue Feb 18 16:33:31 2014 :: Error loading Keepers: No Keepers found
+Tue Feb 18 16:33:31 2014 :: Looking for Vehicles
+Tue Feb 18 16:33:31 2014 :: Error loading Vehicles: No Vehicles found
+Tue Feb 18 16:33:31 2014 :: AoI is ready to rock on port 1060.
+Tue Feb 18 16:33:33 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 16:33:33 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y00{xm:{y02{xs] this startup.<BR>
+Tue Feb 18 16:35:34 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 16:35:34 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y02{xm:{y03{xs] this startup.<BR>
+Tue Feb 18 16:37:34 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 16:37:34 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y04{xm:{y03{xs] this startup.<BR>
+Tue Feb 18 16:39:34 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 16:39:34 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y06{xm:{y03{xs] this startup.<BR>
+Tue Feb 18 16:41:34 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 16:41:34 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y08{xm:{y03{xs] this startup.<BR>
+Tue Feb 18 16:43:34 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 16:43:34 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y10{xm:{y03{xs] this startup.<BR>
+Tue Feb 18 16:45:34 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 16:45:34 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y12{xm:{y03{xs] this startup.<BR>
+Tue Feb 18 16:47:34 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 16:47:34 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y14{xm:{y03{xs] this startup.<BR>
+Tue Feb 18 16:49:34 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 16:49:34 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y16{xm:{y03{xs] this startup.<BR>
+Tue Feb 18 16:51:34 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 16:51:34 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y18{xm:{y03{xs] this startup.<BR>
+Tue Feb 18 16:53:35 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 16:53:35 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y20{xm:{y04{xs] this startup.<BR>
+Tue Feb 18 16:55:35 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 16:55:35 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y22{xm:{y04{xs] this startup.<BR>
+Tue Feb 18 16:57:35 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 16:57:35 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y24{xm:{y04{xs] this startup.<BR>
+Tue Feb 18 16:59:35 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 16:59:35 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y26{xm:{y04{xs] this startup.<BR>
+Tue Feb 18 17:01:35 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:01:35 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y28{xm:{y04{xs] this startup.<BR>
+Tue Feb 18 17:03:35 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:03:35 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y30{xm:{y04{xs] this startup.<BR>
+Tue Feb 18 17:05:35 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:05:35 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y32{xm:{y04{xs] this startup.<BR>
+Tue Feb 18 17:07:35 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:07:35 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y34{xm:{y04{xs] this startup.<BR>
+Tue Feb 18 17:09:36 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:09:36 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y36{xm:{y05{xs] this startup.<BR>
+Tue Feb 18 17:09:36 2014 :: [*****] BUG: Equip_char: already equipped (19).
+Tue Feb 18 17:11:36 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:11:36 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y38{xm:{y05{xs] this startup.<BR>
+Tue Feb 18 17:11:36 2014 :: [*****] BUG: Reset_room: 'E' or 'G': null mob for vnum 39649.
+Tue Feb 18 17:13:36 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:13:36 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y40{xm:{y05{xs] this startup.<BR>
+Tue Feb 18 17:15:36 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:15:36 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y42{xm:{y05{xs] this startup.<BR>
+Tue Feb 18 17:17:36 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:17:36 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y44{xm:{y05{xs] this startup.<BR>
+Tue Feb 18 17:19:36 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:19:36 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y46{xm:{y05{xs] this startup.<BR>
+Tue Feb 18 17:21:36 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:21:36 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y48{xm:{y05{xs] this startup.<BR>
+Tue Feb 18 17:23:36 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:23:36 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y50{xm:{y05{xs] this startup.<BR>
+Tue Feb 18 17:25:37 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:25:37 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y52{xm:{y06{xs] this startup.<BR>
+Tue Feb 18 17:27:37 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:27:37 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y54{xm:{y06{xs] this startup.<BR>
+Tue Feb 18 17:29:37 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:29:37 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y56{xm:{y06{xs] this startup.<BR>
+Tue Feb 18 17:31:37 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:31:37 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y00{xh:{y58{xm:{y06{xs] this startup.<BR>
+Tue Feb 18 17:33:37 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:33:37 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y00{xm:{y06{xs] this startup.<BR>
+Tue Feb 18 17:35:37 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:35:37 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y02{xm:{y06{xs] this startup.<BR>
+Tue Feb 18 17:37:37 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:37:37 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y04{xm:{y06{xs] this startup.<BR>
+Tue Feb 18 17:39:37 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:39:37 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y06{xm:{y06{xs] this startup.<BR>
+Tue Feb 18 17:41:37 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:41:37 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y08{xm:{y06{xs] this startup.<BR>
+Tue Feb 18 17:43:38 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:43:38 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y10{xm:{y07{xs] this startup.<BR>
+Tue Feb 18 17:45:38 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:45:38 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y12{xm:{y07{xs] this startup.<BR>
+Tue Feb 18 17:45:38 2014 :: [*****] BUG: Reset_room: 'E' or 'G': null mob for vnum 39649.
+Tue Feb 18 17:47:38 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:47:38 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y14{xm:{y07{xs] this startup.<BR>
+Tue Feb 18 17:49:38 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:49:38 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y16{xm:{y07{xs] this startup.<BR>
+Tue Feb 18 17:51:38 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:51:38 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y18{xm:{y07{xs] this startup.<BR>
+Tue Feb 18 17:53:38 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:53:38 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y20{xm:{y07{xs] this startup.<BR>
+Tue Feb 18 17:55:38 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:55:38 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y22{xm:{y07{xs] this startup.<BR>
+Tue Feb 18 17:57:38 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:57:38 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y24{xm:{y07{xs] this startup.<BR>
+Tue Feb 18 17:59:39 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 17:59:39 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y26{xm:{y08{xs] this startup.<BR>
+Tue Feb 18 18:01:39 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:01:39 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y28{xm:{y08{xs] this startup.<BR>
+Tue Feb 18 18:03:39 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:03:39 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y30{xm:{y08{xs] this startup.<BR>
+Tue Feb 18 18:05:39 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:05:39 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y32{xm:{y08{xs] this startup.<BR>
+Tue Feb 18 18:07:39 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:07:39 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y34{xm:{y08{xs] this startup.<BR>
+Tue Feb 18 18:09:39 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:09:39 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y36{xm:{y08{xs] this startup.<BR>
+Tue Feb 18 18:11:39 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:11:39 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y38{xm:{y08{xs] this startup.<BR>
+Tue Feb 18 18:13:39 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:13:39 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y40{xm:{y08{xs] this startup.<BR>
+Tue Feb 18 18:15:39 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:15:39 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y42{xm:{y08{xs] this startup.<BR>
+Tue Feb 18 18:17:40 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:17:40 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y44{xm:{y09{xs] this startup.<BR>
+Tue Feb 18 18:19:40 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:19:40 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y46{xm:{y09{xs] this startup.<BR>
+Tue Feb 18 18:19:40 2014 :: [*****] BUG: Reset_room: 'E' or 'G': null mob for vnum 39649.
+Tue Feb 18 18:21:40 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:21:40 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y48{xm:{y09{xs] this startup.<BR>
+Tue Feb 18 18:23:40 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:23:40 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y50{xm:{y09{xs] this startup.<BR>
+Tue Feb 18 18:25:40 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:25:40 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y52{xm:{y09{xs] this startup.<BR>
+Tue Feb 18 18:27:40 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:27:40 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y54{xm:{y09{xs] this startup.<BR>
+Tue Feb 18 18:29:40 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:29:40 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y56{xm:{y09{xs] this startup.<BR>
+Tue Feb 18 18:31:40 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:31:40 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y01{xh:{y58{xm:{y09{xs] this startup.<BR>
+Tue Feb 18 18:33:41 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:33:41 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y00{xm:{y10{xs] this startup.<BR>
+Tue Feb 18 18:35:41 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:35:41 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y02{xm:{y10{xs] this startup.<BR>
+Tue Feb 18 18:37:41 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:37:41 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y04{xm:{y10{xs] this startup.<BR>
+Tue Feb 18 18:39:41 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:39:41 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y06{xm:{y10{xs] this startup.<BR>
+Tue Feb 18 18:41:41 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:41:41 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y08{xm:{y10{xs] this startup.<BR>
+Tue Feb 18 18:43:41 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:43:41 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y10{xm:{y10{xs] this startup.<BR>
+Tue Feb 18 18:45:41 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:45:41 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y12{xm:{y10{xs] this startup.<BR>
+Tue Feb 18 18:47:41 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:47:41 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y14{xm:{y10{xs] this startup.<BR>
+Tue Feb 18 18:49:42 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:49:42 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y16{xm:{y11{xs] this startup.<BR>
+Tue Feb 18 18:51:42 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:51:42 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y18{xm:{y11{xs] this startup.<BR>
+Tue Feb 18 18:53:42 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:53:42 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y20{xm:{y11{xs] this startup.<BR>
+Tue Feb 18 18:55:42 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:55:42 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y22{xm:{y11{xs] this startup.<BR>
+Tue Feb 18 18:57:42 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:57:42 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y24{xm:{y11{xs] this startup.<BR>
+Tue Feb 18 18:59:42 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 18:59:42 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y26{xm:{y11{xs] this startup.<BR>
+Tue Feb 18 18:59:42 2014 :: [*****] BUG: Reset_room: 'E' or 'G': null mob for vnum 39649.
+Tue Feb 18 19:01:42 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:01:42 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y28{xm:{y11{xs] this startup.<BR>
+Tue Feb 18 19:03:42 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:03:42 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y30{xm:{y11{xs] this startup.<BR>
+Tue Feb 18 19:05:42 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:05:42 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y32{xm:{y11{xs] this startup.<BR>
+Tue Feb 18 19:07:43 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:07:43 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y34{xm:{y12{xs] this startup.<BR>
+Tue Feb 18 19:09:43 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:09:43 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y36{xm:{y12{xs] this startup.<BR>
+Tue Feb 18 19:11:43 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:11:43 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y38{xm:{y12{xs] this startup.<BR>
+Tue Feb 18 19:13:43 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:13:43 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y40{xm:{y12{xs] this startup.<BR>
+Tue Feb 18 19:15:43 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:15:43 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y42{xm:{y12{xs] this startup.<BR>
+Tue Feb 18 19:17:43 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:17:43 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y44{xm:{y12{xs] this startup.<BR>
+Tue Feb 18 19:19:43 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:19:43 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y46{xm:{y12{xs] this startup.<BR>
+Tue Feb 18 19:21:43 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:21:43 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y48{xm:{y12{xs] this startup.<BR>
+Tue Feb 18 19:23:44 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:23:44 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y50{xm:{y13{xs] this startup.<BR>
+Tue Feb 18 19:25:44 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:25:44 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y52{xm:{y13{xs] this startup.<BR>
+Tue Feb 18 19:27:44 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:27:44 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y54{xm:{y13{xs] this startup.<BR>
+Tue Feb 18 19:29:44 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:29:44 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y56{xm:{y13{xs] this startup.<BR>
+Tue Feb 18 19:31:44 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:31:44 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y02{xh:{y58{xm:{y13{xs] this startup.<BR>
+Tue Feb 18 19:33:44 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:33:44 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y00{xm:{y13{xs] this startup.<BR>
+Tue Feb 18 19:35:44 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:35:44 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y02{xm:{y13{xs] this startup.<BR>
+Tue Feb 18 19:35:44 2014 :: [*****] BUG: Reset_room: 'E' or 'G': null mob for vnum 39649.
+Tue Feb 18 19:37:44 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:37:44 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y04{xm:{y13{xs] this startup.<BR>
+Tue Feb 18 19:39:44 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:39:44 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y06{xm:{y13{xs] this startup.<BR>
+Tue Feb 18 19:41:45 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:41:45 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y08{xm:{y14{xs] this startup.<BR>
+Tue Feb 18 19:43:45 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:43:45 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y10{xm:{y14{xs] this startup.<BR>
+Tue Feb 18 19:45:45 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:45:45 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y12{xm:{y14{xs] this startup.<BR>
+Tue Feb 18 19:47:45 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:47:45 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y14{xm:{y14{xs] this startup.<BR>
+Tue Feb 18 19:49:45 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:49:45 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y16{xm:{y14{xs] this startup.<BR>
+Tue Feb 18 19:51:45 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:51:45 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y18{xm:{y14{xs] this startup.<BR>
+Tue Feb 18 19:53:45 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:53:45 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y20{xm:{y14{xs] this startup.<BR>
+Tue Feb 18 19:55:45 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:55:45 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y22{xm:{y14{xs] this startup.<BR>
+Tue Feb 18 19:57:45 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:57:45 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y24{xm:{y14{xs] this startup.<BR>
+Tue Feb 18 19:59:46 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 19:59:46 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y26{xm:{y15{xs] this startup.<BR>
+Tue Feb 18 20:01:46 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 20:01:46 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y28{xm:{y15{xs] this startup.<BR>
+Tue Feb 18 20:03:46 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 20:03:46 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y30{xm:{y15{xs] this startup.<BR>
+Tue Feb 18 20:05:46 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 20:05:46 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y32{xm:{y15{xs] this startup.<BR>
+Tue Feb 18 20:07:46 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 20:07:46 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y34{xm:{y15{xs] this startup.<BR>
+Tue Feb 18 20:09:46 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 20:09:46 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y36{xm:{y15{xs] this startup.<BR>
+Tue Feb 18 20:11:46 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 20:11:46 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y38{xm:{y15{xs] this startup.<BR>
+Tue Feb 18 20:13:46 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 20:13:46 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y40{xm:{y15{xs] this startup.<BR>
+Tue Feb 18 20:13:46 2014 :: [*****] BUG: Reset_room: 'E' or 'G': null mob for vnum 39649.
+Tue Feb 18 20:15:47 2014 :: [*****] BUG: Attempt to recyle invalid memory of size 169.
+Tue Feb 18 20:15:47 2014 :: [*****] BUG: 
+{xPlayers found: {y0{x.  Best count this startup: {y0{x.  Ever: {y25{x.<BR>{WAge of Illusion{x has been running for [{y00{xd:{y03{xh:{y42{xm:{y16{xs] this startup.<BR>

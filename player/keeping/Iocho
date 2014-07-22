@@ -1,0 +1,943 @@
+#PLAYER
+Name Iocho~
+Email joseph.bruggeman@gmail.com~
+Id   1376479149
+LogO 1381780238
+Vers 5
+Desc A sullen man hides behinds a low pulled hood.  His face is mostly
+obscured, save the silver hair that outlines his jaw.  His cloak is plain,
+flat black.  Pouches dot his waist.  A pair of dagger hilts set quietly, out
+of place at his hip.  He carries himself as though a great load sets upon
+his shoulders.  
+~
+Prom [{R%h{x/{R%H{xhp {G%m{x/{G%M{xen] ~
+Race andoran~
+Quest_Curr    90
+Quest_Accum  11090
+Lastlog Mon Oct 14 11:16:22 2013
+~
+Lastsite c-69-251-85-158.hsd1.md.comcast.net~
+Sex  1
+Cla  1
+Levl 90
+ELevl 1820
+Bounty 0
+Sec  0
+Plyd 865786
+RolePlayed 3705
+Scro 73
+PKCount 0
+PKDiedCount 0
+Room 44906
+HMV  5976 5976 9273 9273
+HLoc 1992 1494 996 2988 1992 1494
+Gold 199
+Silv 21910
+Gold_bank 1250
+Silv_bank 1195000
+Exp  807
+Act  CDEFGHILQTbc
+AutoAct  ABCDG
+App  A
+ChanFlag  AB
+AfBy f
+Comm NPQ
+Comm2 0
+Pos  8
+Trai 6
+Alig  -93
+ArrCnt  -44
+Hit   400
+Dam   222
+ACs -684 -683 -683 -682
+Attr 17 15 18 23 15
+AMod 11 10 10 8 9
+CSphere  0 0 0 0 0
+Sphere 0 0 0 0 0
+Burnout 0
+MaxBurnout 20
+MSphere -1
+Holding 0
+Autoholding 0
+Merits BDFJ
+Flaws E
+Pass Io9D7ttUU0Ruk~
+Appearance A lithe man with silver tresses~
+Titl .~
+Pnts 10
+TSex 1
+LLev 26
+Home 0
+ICLocRecall 365
+HMVP 5461 8877
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 1379733212 General 1379479163 Ideas 1379640309 Personal 1379012613 Guild 1378695375 Stories 1377635316 Bugs 0 Permanent 1364229276 Admin 0 PK 0 Immortal 1380337170 Newplayers 0 
+Sk 95 'arrow'
+Sk 90 'axe'
+Sk 95 'bow'
+Sk 302 'dagger'
+Sk 90 'flail'
+Sk 90 'lance'
+Sk 90 'mace'
+Sk 81 'polearm'
+Sk 1 'shield block'
+Sk 90 'spear'
+Sk 90 'sword'
+Sk 90 'whip'
+Sk 200 'assassinate'
+Sk 302 'backstab'
+Sk 302 'circle'
+Sk 90 'bash'
+Sk 90 'bash door'
+Sk 90 'dirt kicking'
+Sk 90 'disarm'
+Sk 302 'dodge'
+Sk 300 'dual wield'
+Sk 302 'enhanced damage'
+Sk 90 'envenom'
+Sk 90 'hand to hand'
+Sk 2 'kick'
+Sk 265 'parry'
+Sk 1 'trip'
+Sk 120 'throw'
+Sk 225 'second attack'
+Sk 225 'third attack'
+Sk 81 'fast healing'
+Sk 95 'haggle'
+Sk 39 'hide'
+Sk 78 'lore'
+Sk 90 'meditation'
+Sk 90 'peek'
+Sk 64 'pick lock'
+Sk 74 'sneak'
+Sk 90 'steal'
+Sk 90 'riding'
+Sk 1 'sharpen'
+Sk 95 'sap'
+Sk 90 'push'
+Sk 90 'staff'
+Sk 302 'critical strike'
+Sk 201 'armor use'
+Sk 98 'awareness'
+Sk 94 'observation'
+Sk 104 'alertness'
+Sk 1 'guard'
+Sk 1 'block'
+Sk 150 'duelling'
+Sk 90 'overwhelm'
+Sk 90 'bind'
+Sk 90 'escape'
+Sk 225 'fourth attack'
+Sk 302 'flamevoid'
+Sk 200 'iron will'
+Sk 8 'martial arts'
+Affc 'flamevoid'   0  75  19 100  18 -2147483648 1376479149
+Know 1381095319 'Saurison'
+Know 1376416143 'Sylvin'
+Know 1377261278 'Altahr'
+Know 1376417348 'Arlie'
+BMtime 1377542994
+Backup 1381780147
+World A
+Webvote 1378229438
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 3418
+Nest 0
+Wear 14
+Cost 500
+End
+
+#O
+Vnum 3415
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3795
+Nest 1
+Cond 95
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3798
+Nest 1
+WeaF 8193
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 883
+Nest 1
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 883
+Nest 1
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 17088
+Nest 1
+Cond 99
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 39644
+Nest 1
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 39644
+Nest 1
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 65048
+Nest 1
+Wear -1
+Cost 72
+End
+
+#O
+Vnum 3789
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3789
+Nest 1
+Cond 96
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 65052
+Nest 1
+Cond 98
+Wear -1
+Cost 90
+End
+
+#O
+Vnum 65052
+Nest 1
+Wear -1
+Cost 73
+End
+
+#O
+Vnum 65049
+Nest 1
+Wear -1
+Cost 90
+End
+
+#O
+Vnum 65050
+Nest 1
+Cond 96
+Wear -1
+Cost 90
+End
+
+#O
+Vnum 65050
+Nest 1
+Wear -1
+Cost 49
+End
+
+#O
+Vnum 65051
+Nest 1
+Cond 62
+Wear -1
+Cost 90
+End
+
+#O
+Vnum 65045
+Nest 1
+Cond 83
+Wear -1
+Cost 61
+End
+
+#O
+Vnum 65045
+Nest 1
+Wear -1
+Cost 70
+End
+
+#O
+Vnum 65049
+Nest 1
+Wear -1
+Cost 90
+End
+
+#O
+Vnum 65051
+Nest 1
+Cond 95
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 65053
+Nest 1
+Wear -1
+Cost 53
+End
+
+#O
+Vnum 27445
+Nest 1
+Wear -1
+Cost 10
+Spell 1 'heal'
+Spell 2 'refresh'
+End
+
+#O
+Vnum 8524
+Nest 1
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 9701
+Nest 0
+Name metal key chain~
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 884
+Nest 1
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 768
+Nest 1
+Wear -1
+Cost 8
+End
+
+#O
+Vnum 6337
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9709
+Nest 1
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 8672
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3606
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 144
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12475
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 12756
+Nest 1
+ExtF 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12751
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 62559
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8627
+Nest 1
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 8752
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7511
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7513
+Nest 1
+ExtF 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8479
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8492
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8479
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8560
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8465
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8478
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 452
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 39649
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12081
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8547
+Nest 1
+Wear -1
+Cost 136
+End
+
+#O
+Vnum 8548
+Nest 1
+Wear -1
+Cost 126
+End
+
+#O
+Vnum 8549
+Nest 1
+Wear -1
+Cost 233
+End
+
+#O
+Vnum 8550
+Nest 1
+Wear -1
+Cost 245
+End
+
+#O
+Vnum 9948
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 46
+Nest 0
+Wear 20
+Cost 1000
+End
+
+#O
+Vnum 58072
+Nest 0
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 6341
+Nest 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 3410
+Nest 0
+Cond 71
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 58423
+Nest 0
+Wear 11
+Cost 10
+End
+
+#O
+Vnum 58424
+Nest 0
+Wear 18
+Cost 10
+End
+
+#O
+Vnum 3421
+Nest 0
+Wear 6
+Cost 300
+End
+
+#O
+Vnum 3421
+Nest 0
+Wear 5
+Cost 300
+End
+
+#O
+Vnum 1662
+Nest 0
+Wear 15
+Cost 60
+End
+
+#O
+Vnum 1630
+Nest 0
+Wear 10
+Cost 100
+End
+
+#O
+Vnum 1665
+Nest 0
+Wear 0
+Cost 0
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 1683
+Nest 0
+Cond 90
+Wear 25
+Cost 45
+End
+
+#O
+Vnum 1635
+Nest 0
+Cond 90
+Wear 7
+Cost 250
+End
+
+#O
+Vnum 14881
+Nest 0
+Wear 4
+Cost 200
+End
+
+#O
+Vnum 14881
+Nest 0
+Wear 3
+Cost 200
+End
+
+#O
+Vnum 39645
+Nest 0
+Wear 16
+Cost 50
+End
+
+#O
+Vnum 58424
+Nest 0
+Wear 17
+Cost 10
+End
+
+#O
+Vnum 40065
+Nest 0
+Name crafted armor head helmet~
+ShD  a {Yg{yol{Yd{yen{x helmet with inlaid {Ws{Di{Wl{Dv{We{Dr{x vines~
+Desc a {Yg{yol{Yd{yen{x helmet with inlaid {Ws{Di{Wl{Dv{We{Dr{x vines lies here~
+WeaF 17
+Owner Altahr~
+Wear 8
+Cost 100
+Affc 'armorcraft'   1  90  -1  16  18          0
+Affc 'armorcraft'   1  90  -1  19  19          0
+End
+
+#O
+Vnum 40065
+Nest 0
+Name crafted armor leg pair of leggings~
+ShD  a {Yg{yol{Yd{yen{x pair of leggings with inlaid {Ws{Di{Wl{Dv{We{Dr{x vines~
+Desc a {Yg{yol{Yd{yen{x pair of leggings with inlaid {Ws{Di{Wl{Dv{We{Dr{x vines lies here~
+WeaF 33
+Owner Altahr~
+Wear 9
+Cost 100
+Affc 'armorcraft'   1  90  -1  15  18          0
+Affc 'armorcraft'   1  90  -1  17  19          0
+End
+
+#O
+Vnum 40065
+Nest 0
+Name jewelcrafted ruby gold earring~
+ShD  a {rr{Rub{ry{x seven-stone {Yg{yol{Yd{yen{x earring~
+Desc a {rr{Rub{ry{x seven-stone {Yg{yol{Yd{yen{x earring lies here.~
+WeaF 1048577
+Owner Altahr~
+Wear 24
+Cost 100
+Affc 'jewelcraft'   1  90  -1  40  18          0
+End
+
+#O
+Vnum 40065
+Nest 0
+Name jewelcrafted ruby gold earring~
+ShD  a {rr{Rub{ry{x seven-stone {Yg{yol{Yd{yen{x earring~
+Desc a {rr{Rub{ry{x seven-stone {Yg{yol{Yd{yen{x earring lies here.~
+WeaF 1048577
+Owner Altahr~
+Wear 23
+Cost 100
+Affc 'jewelcraft'   1  90  -1  41  18          0
+End
+
+#O
+Vnum 39640
+Nest 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 63617
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63616
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63619
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 63619
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 63619
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 63619
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 63616
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63619
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 63616
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63619
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 63619
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 63619
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 63616
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 58406
+Nest 0
+Wear -1
+Cost 1500
+Val  2 15 10 2 8
+End
+
+#O
+Vnum 24114
+Enchanted
+Nest 0
+ExtF 1207959552
+Wear 21
+Cost 500
+Affc 'align matrix'   1 950  -1  22  19          0
+Affc 'align matrix'   1 950  -1  22  18          0
+End
+
+#END

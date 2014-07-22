@@ -1,0 +1,463 @@
+#PLAYER
+Name Zsearin~
+Email zmccallen@yahoo.com~
+Id   1384506385
+LogO 1385067747
+Vers 5
+Prom [{R%h{x/{R%H{xhp {G%m{x/{G%M{xen {W%p{x/{W%P{xop] ~
+Race shienaran~
+Quest_Curr    0
+Quest_Accum  0
+Lastlog Thu Nov 21 15:24:43 2013
+~
+Lastsite 172.56.17.20~
+Sex  1
+Cla  0
+Levl 81
+Bounty 0
+Sec  0
+Plyd 180546
+RolePlayed 33
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 8428
+HMV  5061 6090 4567 5864
+HLoc 1560 1522 1009 2885 1960 1406
+Gold 14
+Silv 4246
+Gold_bank 0
+Silv_bank 4000
+Exp  667
+Act  DEFLQTb
+AutoAct  ABC
+ChanFlag  AB
+AfBy bf
+Comm JPQ
+Comm2 0
+Pos  8
+Trai 125
+Alig  0
+ArrCnt  0
+Hit   67
+Dam   51
+ACs -429 -429 -429 -423
+Wimp  1212
+Attr 16 20 18 18 16
+AMod 15 15 15 15 15
+CSphere  91 63 59 131 54
+Sphere 91 63 59 131 54
+Burnout 0
+MaxBurnout 20
+MSphere 3
+Holding 318
+Autoholding 40
+Merits CL
+Flaws E
+Talents EM
+Pass ZsdFJjbXiUddM~
+Appearance A short man with a topknot~
+Titl  is recovering in Caemlyn.~
+Pnts 10
+TSex 1
+LLev 50
+Home 0
+ICLocRecall 8
+HMVP 6090 5864
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 1383252745 General 0 Ideas 1384634766 Personal 0 Guild 0 Stories 1384797803 Bugs 0 Permanent 1382152099 Admin 0 PK 0 Immortal 0 Newplayers 0 
+Sk 85 'blindness'
+Sk 69 'calm'
+Sk 10 'create spring'
+Sk 32 'reveal'
+Sk 85 'fireball'
+Sk 41 'levitate'
+Sk 51 'gate'
+Sk 85 'harm'
+Sk 48 'heal'
+Sk 66 'heat metal'
+Sk 42 'identify'
+Sk 80 'lightning bolt'
+Sk 53 'refresh'
+Sk 68 'sleep'
+Sk 85 'slow'
+Sk 21 'arrow'
+Sk 54 'bow'
+Sk 95 'dagger'
+Sk 70 'lance'
+Sk 31 'shield block'
+Sk 95 'spear'
+Sk 65 'sword'
+Sk 32 'disarm'
+Sk 71 'dodge'
+Sk 85 'dual wield'
+Sk 85 'enhanced damage'
+Sk 64 'hand to hand'
+Sk 79 'parry'
+Sk 21 'rescue'
+Sk 85 'throw'
+Sk 85 'second attack'
+Sk 83 'third attack'
+Sk 82 'fast healing'
+Sk 11 'lore'
+Sk 30 'meditation'
+Sk 41 'riding'
+Sk 1 'sharpen'
+Sk 81 'seize'
+Sk 68 'tying'
+Sk 70 'shielding'
+Sk 10 'token'
+Sk 14 'grow berries'
+Sk 42 'create flame'
+Sk 64 'bar of fire'
+Sk 30 'inferno'
+Sk 79 'rolling ring'
+Sk 68 'flying rocks'
+Sk 75 'blast of air'
+Sk 67 'stream of water'
+Sk 68 'waterball'
+Sk 81 'wrap'
+Sk 1 'pinch'
+Sk 67 'minor heal'
+Sk 31 'awareness'
+Sk 31 'observation'
+Sk 38 'alertness'
+Sk 32 'dreamgate'
+Sk 61 'dreaming'
+Sk 64 'delve'
+Sk 22 'gag'
+Sk 50 'link'
+Sk 65 'slice'
+Sk 1 'skimming'
+Sk 41 'escape'
+Sk 28 'light ward'
+Sk 66 'flamevoid'
+Sk 55 'air dome'
+Sk 31 'blast door'
+Affc 'flamevoid'   0  80  13  11  18 -2147483648 1384506385
+Backup 1385066916
+World A
+Wvnum 3750
+Webvote 1385065999
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 9999
+Nest 0
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Wear -1
+Cost 10
+Val  200 1 0 200 50
+End
+
+#O
+Vnum 3726
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3747
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 62323
+Nest 0
+Wear 5
+Cost 150
+End
+
+#O
+Vnum 3790
+Nest 0
+Cond 92
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 62327
+Nest 0
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 62327
+Nest 0
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 8553
+Nest 0
+Wear -1
+Cost 60
+End
+
+#O
+Vnum 65041
+Nest 0
+Cond 86
+Wear 7
+Cost 90
+End
+
+#O
+Vnum 65042
+Nest 0
+Wear 10
+Cost 90
+End
+
+#O
+Vnum 65040
+Nest 0
+Cond 74
+Wear 9
+Cost 90
+End
+
+#O
+Vnum 65052
+Nest 0
+Wear -1
+Cost 90
+End
+
+#O
+Vnum 65044
+Nest 0
+Cond 86
+Wear 8
+Cost 90
+End
+
+#O
+Vnum 65043
+Nest 0
+Wear 11
+Cost 90
+End
+
+#O
+Vnum 62358
+Nest 0
+Wear 15
+Cost 60
+End
+
+#O
+Vnum 62371
+Nest 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3746
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 65045
+Nest 0
+Cond 96
+Wear -1
+Cost 90
+End
+
+#O
+Vnum 65045
+Nest 0
+Wear -1
+Cost 90
+End
+
+#O
+Vnum 65048
+Nest 0
+Wear 21
+Cost 90
+End
+
+#O
+Vnum 65046
+Nest 0
+Cond 97
+Wear -1
+Cost 90
+End
+
+#O
+Vnum 65048
+Nest 0
+Cond 88
+Wear 20
+Cost 90
+End
+
+#O
+Vnum 24812
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 24812
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 24812
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 24813
+Nest 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 24813
+Nest 0
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 24813
+Nest 0
+Wear -1
+Cost 15
+Val  1 0 1 0 0
+End
+
+#O
+Vnum 8476
+Nest 0
+Wear -1
+Cost 70
+End
+
+#O
+Vnum 8476
+Nest 0
+Wear -1
+Cost 70
+End
+
+#O
+Vnum 8476
+Nest 0
+Wear -1
+Cost 70
+End
+
+#O
+Vnum 8476
+Nest 0
+Wear -1
+Cost 70
+End
+
+#O
+Vnum 8476
+Nest 0
+Wear -1
+Cost 70
+End
+
+#O
+Vnum 8476
+Nest 0
+Wear -1
+Cost 70
+End
+
+#O
+Vnum 8476
+Nest 0
+Wear -1
+Cost 70
+End
+
+#O
+Vnum 8476
+Nest 0
+Wear -1
+Cost 70
+End
+
+#O
+Vnum 8476
+Nest 0
+Wear -1
+Cost 70
+End
+
+#O
+Vnum 8476
+Nest 0
+Wear -1
+Cost 70
+End
+
+#O
+Vnum 9994
+Nest 0
+Wear -1
+Cost 0
+Spell 1 'bless'
+Spell 2 'stone skin'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 21
+Nest 0
+Wear 0
+Lev  80
+Time 36
+Cost 0
+Val  0 0 -1 0 0
+End
+
+#END

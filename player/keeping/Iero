@@ -1,0 +1,651 @@
+#PLAYER
+Name Iero~
+Email prestidigitators@yahoo.ca~
+Id   1376449448
+LogO 1392442355
+Vers 5
+Desc Barely clearing five feet, this woman does not strike a particularly imposing
+figure. A mane of vibrant red hair surrounds her face in a tousled,
+windswept manner, occasionally hiding her shoulders or her smoky grey eyes.
+A splash of freckles adorn her nose and cheeks, set above an expression that
+is serious but still knows how to smile.
+
+Her clothing is well-appointed, consisting of a forest green dress with a
+modest neckline but no sleeves, leaving her arms bare. A wide grey belt of
+the same hue as her eyes and doeskin half-boots round out her ensemble. A
+flash of green can occasionally be noticed through her hair in her ears, and
+she wears a ring on each hand, one an ornate gold ring and the other a
+smaller golden ring set with an emerald.
+
+Her manner can best be described as calm, though there is evidence that she
+is more lively than she lets on. Her movements have an untrained grace to
+them, neither hurrying nor hanging back.
+~
+Prom < {g%h/%H {G%m/%M {C%x/%X{x (%e) %p/%P ~
+Race andoran~
+Clan WhiteTower~
+Rank 3
+Gtitle {YAes Sedai{x~
+Sguild AesSedai~
+Srank 7
+Stitle {BA{Ge{Ws {yS{De{Yd{Ra{Bi{x~
+Quest_Curr    8323
+Quest_Accum  22823
+Lastlog Fri Feb 14 23:24:48 2014
+~
+Lastsite d75-158-161-44.abhsia.telus.net~
+Sex  2
+Cla  0
+Levl 90
+ELevl 821
+Bounty 0
+Sec  0
+Plyd 456983
+RolePlayed 212037
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 14154
+HMV  6459 6459 10147 10147
+HLoc 2153 1614 1076 3229 2153 1614
+Target 2
+Defend 2
+Gold 17
+Silv 42222
+Gold_bank 4700
+Silv_bank 177500
+Exp  2446
+Act  DFGHLOQTb
+AutoAct  CD
+ChanFlag  AB
+Comm JMPQ
+Comm2 0
+Pos  8
+Trai 847
+Alig  0
+ArrCnt  0
+Hit   138
+Dam   138
+ACs -688 -693 -728 -583
+Attr 17 19 19 15 18
+AMod 16 9 8 13 8
+CSphere  62 60 66 269 46
+Sphere 92 105 111 328 91
+Burnout 0
+MaxBurnout 20
+MSphere 3
+Holding 0
+Autoholding 100
+Merits DFJNO
+Flaws E
+Talents G
+Pass Ie3HojxbiEFSY~
+Appearance A gamine young woman with red hair~
+Titl  "Look at the stars..look how they shine for you.." {Y[RP]{x~
+Pnts 10
+TSex 2
+LLev 54
+Home 0
+ICLocRecall 14154
+HMVP 5439 9402
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 011 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 017 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+GateKey his startup.
+~
+Boards       12 Announce 1389225428 General 1391463274 Ideas 1384634766 Personal 1391820266 Guild 1386324175 Stories 1392162873 Bugs 1390527735 Permanent 1382152099 Admin 0 PK 1389584660 Immortal 1383967473 Newplayers 1392229433 
+Sk 95 'blindness'
+Sk 95 'calm'
+Sk 95 'cure poison'
+Sk 95 'reveal'
+Sk 95 'giant strength'
+Sk 75 'haste'
+Sk 95 'heat metal'
+Sk 95 'identify'
+Sk 95 'refresh'
+Sk 95 'sleep'
+Sk 95 'slow'
+Sk 95 'dagger'
+Sk 200 'shield block'
+Sk 95 'spear'
+Sk 95 'sword'
+Sk 200 'dodge'
+Sk 95 'dual wield'
+Sk 95 'enhanced damage'
+Sk 200 'parry'
+Sk 95 'second attack'
+Sk 95 'third attack'
+Sk 95 'fast healing'
+Sk 95 'hide'
+Sk 95 'meditation'
+Sk 95 'sneak'
+Sk 90 'riding'
+Sk 95 'bond'
+Sk 103 'embrace'
+Sk 95 'tying'
+Sk 95 'shielding'
+Sk 302 'staff'
+Sk 95 'wrap'
+Sk 95 'major heal'
+Sk 161 'critical strike'
+Sk 95 'awareness'
+Sk 95 'observation'
+Sk 95 'alertness'
+Sk 95 'delve'
+Sk 95 'wall of air'
+Sk 95 'gust of wind'
+Sk 1 'link'
+Sk 204 'slice'
+Sk 1 'dream ward'
+Sk 1 'shadowspawn ward'
+Sk 1 'eavesdrop ward'
+Sk 1 'escape'
+Sk 1 'light ward'
+Sk 129 'staffmaster'
+Sk 95 'spinning earthfire'
+Sk 95 'debilitate'
+Sk 200 'air dome'
+Sk 302 'mind crush'
+Sk 20 'blast door'
+Know 1378351697 'Vira'
+Know 1377400617 'Lizbet'
+Know 1376600847 'Raesan'
+Know 1376413146 'Aster'
+Know 1379375513 'Cerine'
+Know 1380026793 'Caliam'
+Know 1391138108 'Maelle'
+BMtime 1379360008
+Backup 1392270678
+World A
+Webvote 1384828110
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 8734
+Nest 0
+Name hair ends~
+ShD  the ends of her {Rvi{rb{Rr{ra{Rnt r{re{Rd{x hair{x~
+Wear 14
+Cost 150
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 58424
+Nest 0
+Name bracer nothing~
+ShD  {Dnothing{x{x~
+Wear 18
+Cost 10
+End
+
+#O
+Vnum 58424
+Nest 0
+Name bracer nothing~
+ShD  {Dnothing{x{x~
+Wear 17
+Cost 10
+End
+
+#O
+Vnum 58423
+Nest 0
+Name hands nothing~
+ShD  {Dnothing{x{x~
+Wear 11
+Cost 10
+End
+
+#O
+Vnum 65060
+Nest 0
+Name fate held feather~
+ShD  a feather of a {Dblack, glossy{x hue{x~
+Wear 19
+Cost 1000000
+End
+
+#O
+Vnum 854
+Nest 0
+ShD  a simple {ybrass{x oil lamp{x~
+Wear 0
+Cost 15000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 64173
+Nest 0
+Name cloak~
+ShD  a {gf{yo{gre{ys{gt g{yr{ge{ye{gn{x cloak with a deep hood{x~
+Wear 15
+Cost 60
+End
+
+#O
+Vnum 8661
+Nest 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 3418
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3606
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 144
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3418
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 471
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3701
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 7518
+Nest 1
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 471
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 39639
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1641
+Nest 1
+ShD  a {Ddark oaken{x staff engraved with {yl{geave{ys{x{x~
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 14881
+Nest 0
+ShD  a thin {yg{Yolde{yn{x ring set with an {Ge{gm{Gera{gl{Gd{x{x~
+Wear 4
+Cost 200
+End
+
+#O
+Vnum 1667
+Nest 0
+Name shield~
+ShD  a deft twist of her {Dstaff{x{x~
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 16033
+Nest 0
+ShD  a wide {Dg{wre{Dy{x belt with several pouches{x~
+Wear 16
+Cost 75
+End
+
+#O
+Vnum 6341
+Nest 0
+Name tattoo nothing~
+ShD  {Dnothing{x{x~
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 28020
+Nest 0
+Name dress~
+ShD  a sleeveless {gf{yo{gre{ys{gt g{yr{ge{ye{gn{x dress with a modest neckline{x~
+Cond 78
+Wear 7
+Cost 1000
+End
+
+#O
+Vnum 16060
+Nest 0
+Name skirts~
+ShD  skirts of a {gf{yo{gre{ys{gt g{yr{ge{ye{gn{x hue that fall to the ankle{x~
+Cond 60
+Wear 9
+Cost 60
+End
+
+#O
+Vnum 16068
+Nest 0
+ShD  well-worn, doeskin {yl{ge{yath{ge{yr{x half-boots{x~
+Wear 10
+Cost 150
+End
+
+#O
+Vnum 1607
+Nest 0
+Name freckles~
+ShD  a smattering of {yfreckles{x on her nose{x~
+Cond 76
+Wear 25
+Cost 300
+End
+
+#O
+Vnum 64103
+Nest 0
+Name skin~
+ShD  tanned skin spotted with {yfreckles{x and {Wburn{x marks{x~
+Cond 43
+Wear 12
+Cost 250
+End
+
+#O
+Vnum 5328
+Nest 0
+Name hair~
+ShD  an unruly mass of {Rvi{rb{Rr{ra{Rnt r{re{Rd{x hair{x~
+Cond 76
+Wear 8
+Cost 300
+End
+
+#O
+Vnum 1645
+Nest 0
+ShD  a small {Gem{ge{Gr{ga{Gld{x stud earring{x~
+Wear 24
+Cost 250
+End
+
+#O
+Vnum 1645
+Nest 0
+ShD  a small {Gem{ge{Gr{ga{Gld{x stud earring{x~
+Wear 23
+Cost 250
+End
+
+#O
+Vnum 58072
+Nest 0
+Name scent~
+ShD  a faint scent of {bwi{mld{Mf{ml{Mo{mwe{brs{x{x~
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 44
+Nest 0
+ShD  {Dnothing{x{x~
+Owner Iero~
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Name quest crown~
+ShD  the Crown of Wisdom~
+Desc {G(Quest obj){x The Crown of Wisdom is lieing here, waiting to be returned to its owner.~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Name quest sceptre~
+ShD  the Sceptre of Courage~
+Desc {G(Quest obj){x The Sceptre of Courage is lieing here, waiting to be returned to its owner.~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 44
+Nest 0
+ShD  {Dnothing{x{x~
+Owner Iero~
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 48
+Nest 0
+ShD  a tall {gs{yun{ggw{yoo{gd{x staff with intricate carvings{x~
+Wear 20
+Cost 1000
+End
+
+#O
+Vnum 14999
+Nest 0
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 3795
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3791
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3794
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 40065
+Nest 0
+Name jewelcrafted ruby silver earring~
+ShD  a {Ws{Di{Wl{Dv{We{Dr{x earring with a {rr{Rub{ry{x solitaire~
+Desc a {Ws{Di{Wl{Dv{We{Dr{x earring with a {rr{Rub{ry{x solitaire lies here.~
+WeaF 1048577
+Owner Caliam~
+Wear -1
+Cost 100
+Affc 'jewelcraft'   1  90  -1  17  28          0
+End
+
+#END

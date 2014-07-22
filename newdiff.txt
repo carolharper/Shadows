@@ -1,0 +1,26 @@
+Common subdirectories: ../building/area and /home/shadows/working/area
+diff ../building/checkmud /home/shadows/working/checkmud
+2c2
+< muddir="/home/shadows/buiilding/area"
+---
+> muddir="/home/shadows/working/area"
+Common subdirectories: ../building/data and /home/shadows/working/data
+Common subdirectories: ../building/disguise and /home/shadows/working/disguise
+Common subdirectories: ../building/doc and /home/shadows/working/doc
+Common subdirectories: ../building/gods and /home/shadows/working/gods
+diff ../building/last_command.txt /home/shadows/working/last_command.txt
+7a8
+> Last Command: herd cattle in room[26007]: emote shifts slightly, some of them mooing..
+Common subdirectories: ../building/log and /home/shadows/working/log
+Common subdirectories: ../building/logged_rp and /home/shadows/working/logged_rp
+Only in /home/shadows/working/: newdiff.txt
+diff ../building/nohup.out /home/shadows/working/nohup.out
+0a1,4
+> Fri Feb 21 12:47:29 2014 :: Internal error: Error opening log file <../log/20140221.log> [No such file or directory]
+> Fri Feb 21 12:48:09 2014 :: Internal error: Error opening log file <../log/20140221.log> [No such file or directory]
+> Fri Feb 21 13:02:35 2014 :: Internal error: Error opening log file <../log/20140221.log> [No such file or directory]
+> Fri Feb 21 15:11:34 2014 :: Internal error: Error opening log file <../log/20140221.log> [No such file or directory]
+Common subdirectories: ../building/notes and /home/shadows/working/notes
+Common subdirectories: ../building/player and /home/shadows/working/player
+Common subdirectories: ../building/src and /home/shadows/working/src
+Only in /home/shadows/working/: web

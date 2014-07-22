@@ -1,0 +1,15 @@
+#!/bin/sh
+muddir="/home/carol/shadows/working/area"
+binname="shadows"
+cd $muddir
+process=`ps auxwww | grep shadows | grep 4000 | grep -v grep | awk '{print $11}'`
+if [ -z "$process" ]; then
+
+
+  nohup ../src/shadows 4000 &
+  exit
+else
+  echo Server is already up
+  exit
+fi
+

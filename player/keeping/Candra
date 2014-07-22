@@ -1,0 +1,294 @@
+#PLAYER
+Name Candra~
+Email none~
+Id   1377400617
+LogO 1379212247
+Vers 5
+Prom [ %e ] %c {M%h{W//{R%H {Y%m{W//{y%M {C%p{W//{B%P {W[{G%x{W][{C%X{W]{x ~
+Race tarvaloner~
+Clan WhiteTower~
+Rank 7
+Gtitle {WNovice{w~
+Quest_Curr    42
+Quest_Accum  7042
+QuestNext   2
+Lastlog Sat Sep 14 19:30:38 2013
+~
+Lastsite adsl-74-176-247-229.asm.bellsouth.net~
+Sex  2
+Cla  0
+Levl 90
+ELevl 149
+Bounty 0
+Sec  0
+Plyd 150499
+RolePlayed 4074
+Scro 98
+PKCount 0
+PKDiedCount 0
+Room 62620
+HMV  5670 5670 4035 9456
+HLoc 1890 1417 945 2835 1890 1417
+Gold 7
+Silv 38630
+Gold_bank 1240
+Silv_bank 0
+Exp  1893
+Act  DEFGHLQTb
+AutoAct  ABCG
+ChanFlag  AB
+Comm JNPQ
+Comm2 0
+Pos  8
+Trai 2600
+Alig  0
+ArrCnt  0
+Hit   93
+Dam   94
+ACs -385 -388 -389 -321
+Attr 16 21 17 17 17
+AMod 7 7 9 9 7
+CSphere  64 64 64 204 56
+Sphere 94 94 94 234 86
+Burnout 0
+MaxBurnout 20
+MSphere 3
+Holding 0
+Autoholding 0
+Merits EFJ
+Flaws DE
+Talents GS
+Pass CaGx6ov96t5DY~
+Appearance A small, one-armed young woman~
+Titl  is a {WNovice{x~
+Pnts 8
+TSex 2
+LLev 29
+Home 0
+ICLocRecall 8
+HMVP 5450 9233
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 1378217887 General 1379109034 Ideas 1377556737 Personal 1379127110 Guild 1378695375 Stories 1379127011 Bugs 0 Permanent 1364229276 Admin 0 PK 0 Immortal 1376869190 Newplayers 1377400957 
+Sk 65 'whip'
+Sk 96 'embrace'
+Sk 125 'create angreal'
+Sk 14 'whipmaster'
+Sk 118 'mind crush'
+Know 1376449448 'Iero'
+BMtime 1379208945
+Backup 1377620282
+World A
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 3730
+Nest 0
+Wear 14
+Cost 50
+End
+
+#O
+Vnum 3727
+Nest 0
+Cond 99
+Wear 12
+Cost 50
+End
+
+#O
+Vnum 3740
+Nest 0
+Wear 24
+Cost 50
+End
+
+#O
+Vnum 3736
+Nest 0
+Wear 2
+Cost 50
+End
+
+#O
+Vnum 28062
+Nest 0
+Wear 19
+Cost 100
+End
+
+#O
+Vnum 65005
+Nest 0
+Cond 99
+Wear 8
+Cost 10
+End
+
+#O
+Vnum 65003
+Nest 0
+Wear 10
+Cost 10
+End
+
+#O
+Vnum 65002
+Nest 0
+Cond 97
+Wear 7
+Cost 10
+End
+
+#O
+Vnum 65001
+Nest 0
+Cond 95
+Wear 9
+Cost 10
+End
+
+#O
+Vnum 3051
+Nest 0
+Cond 100
+Wear -1
+Cost 750
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 39643
+Nest 0
+Cond 99
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 39568
+Nest 0
+Wear 23
+Lev  78
+Cost 100
+End
+
+#O
+Vnum 854
+Nest 0
+Wear 0
+Cost 15000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 64173
+Nest 0
+Wear 15
+Cost 60
+End
+
+#O
+Vnum 39660
+Nest 0
+Wear 18
+Cost 250
+End
+
+#O
+Vnum 39660
+Nest 0
+Wear 17
+Cost 250
+End
+
+#O
+Vnum 63485
+Nest 0
+Wear 16
+Cost 85
+End
+
+#O
+Vnum 3715
+Nest 0
+Wear -1
+Cost 10
+Val  200 1 0 200 50
+End
+
+#O
+Vnum 12081
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3421
+Nest 0
+Wear 6
+Cost 300
+End
+
+#O
+Vnum 3421
+Nest 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 65043
+Nest 0
+Wear 11
+Cost 90
+End
+
+#O
+Vnum 14881
+Nest 0
+ShD  {wa {yg{Yo{wl{Yd{yen {ys{Re{yrp{re{ynt {wring{x~
+Wear 4
+Cost 200
+End
+
+#O
+Vnum 8012
+Nest 0
+Wear 20
+Cost 300
+End
+
+#O
+Vnum 14881
+Nest 0
+ShD  {wa {yg{Yo{wl{Yd{yen s{re{yrp{Re{ynt {wring{x{x~
+Wear 3
+Cost 200
+End
+
+#O
+Vnum 44
+Nest 0
+Owner Candra~
+Wear 5
+Cost 0
+End
+
+#END

@@ -1,0 +1,747 @@
+#PLAYER
+Name Saurison~
+Email joseph.bruggeman@gmail.com~
+Id   1381095319
+LogO 1381780227
+Vers 5
+Desc Almond eyes are common to those from Saldaea.  This man's are no
+different.  His jet black hair, slightly longer than shoulder length, is
+pulled back and held with a single leather strap.  His shoulders are broad
+and exude strength.  His dress is simple, but finely crafted; black trousers
+and shirt, black shoes and overcoat to match.  He is handsome but cold.  His
+face offers a shallow smile, but no welcome.  
+~
+Prom [{R%h{x/{R%H{xhp {G%m{x/{G%M{xen {W%p{x/{W%P{xop] ~
+Race saldaean~
+Minion 1381095319
+Mname Saurison's minion~
+Mrank 0
+Mtitle Shan a'Cor~
+Quest_Curr    2036
+Quest_Accum  22836
+Lastlog Mon Oct 14 04:24:39 2013
+~
+Lastsite c-69-251-85-158.hsd1.md.comcast.net~
+Sex  1
+Cla  0
+Levl 90
+ELevl 240
+Bounty 0
+Sec  0
+Plyd 263193
+RolePlayed 17093
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 44906
+HMV  6858 6858 10698 10698
+HLoc 2286 1714 1143 3429 2286 1714
+Gold 68
+Silv 10847
+Gold_bank 1000
+Silv_bank 675000
+Exp  7507
+Act  DEFGHILOQTbc
+AutoAct  ABCDFGH
+App  A
+ChanFlag  AB
+Comm NPQ
+Comm2 0
+Insanity 14
+Pos  8
+Trai 147
+Alig  0
+ArrCnt  0
+Hit   193
+Dam   241
+ACs -1208 -1178 -1188 -1130
+Wimp  250
+Attr 12 24 22 15 15
+AMod 11 11 9 12 7
+CSphere  80 67 209 77 69
+Sphere 120 134 279 117 109
+Burnout 2
+MaxBurnout 20
+MSphere 2
+Holding 0
+Autoholding 90
+Merits FI
+Flaws E
+Talents HM
+ForceInsanity 1
+Pass SaaMjgnmVHfOQ~
+Appearance A tall man with black hair~
+Titl .~
+Pnts 10
+TSex 1
+LLev 52
+Home 0
+ICLocRecall 8
+HMVP 5433 9008
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+GateKey gold 158c0fa520fcc551~
+GateKey cqm 86ebe4982d754e14~
+GateKey lug f80e4048c6ae2ca0~
+GateKey band cef7d197b77ed593~
+GateKey taien cd2d27a2be527904~
+GateKey 4kqm 767fe13a14af5632~
+GateKey tarv 3af411e3db45e59e~
+GateKey shaido 36241e3dc8484d02~
+GateKey cair 65d25083265db0e7~
+GateKey malk 0e0d110fb66c0cf8~
+GateKey blight 4ff88024a1f8a4f1~
+GateKey fald ba08a8c77dab1519~
+GateKey falm 1fb32f12f8e90678~
+GateKey mara 0ada13b70e242d68~
+GateKey whiteb 06580fc9a7896d7a~
+GateKey tm 0c3cc0eb63c58bf7~
+GateKey av efe1036472e89dd5~
+GateKey whitec 60c445b4aaa5af8e~
+GateKey baer 33bc60ff78045488~
+GateKey falme fab6ac488f725e03~
+GateKey mayene 9760addcdc86966a~
+GateKey cold b9fc4ba2e497fc52~
+GateKey psw a03fda91094f899e~
+GateKey mald 3854b2a9041a96dd~
+GateKey shol c03dc20767cc6db0~
+GateKey chach d537193123abea63~
+GateKey bv fcd28be48ec3a824~
+GateKey arin 887725ec651f563e~
+GateKey stedding 28355f8f02478972~
+GateKey shayol af10874dd5094877~
+Boards       12 Announce 1379733212 General 1381551478 Ideas 1380046497 Personal 0 Guild 1378695375 Stories 1381434650 Bugs 0 Permanent 1380493563 Admin 0 PK 0 Immortal 0 Newplayers 0 
+Sk 120 'blindness'
+Sk 95 'reveal'
+Sk 56 'levitate'
+Sk 106 'gate'
+Sk 62 'haste'
+Sk 40 'heal'
+Sk 54 'identify'
+Sk 68 'invisibility'
+Sk 50 'mass invis'
+Sk 128 'sleep'
+Sk 95 'slow'
+Sk 102 'shield block'
+Sk 116 'sword'
+Sk 100 'dodge'
+Sk 104 'enhanced damage'
+Sk 17 'blademaster'
+Sk 83 'hand to hand'
+Sk 102 'parry'
+Sk 90 'trip'
+Sk 100 'second attack'
+Sk 103 'third attack'
+Sk 90 'fast healing'
+Sk 10 'haggle'
+Sk 11 'lore'
+Sk 90 'meditation'
+Sk 90 'peek'
+Sk 94 'pick lock'
+Sk 100 'sneak'
+Sk 103 'riding'
+Sk 100 'seize'
+Sk 101 'tying'
+Sk 113 'shielding'
+Sk 21 'token'
+Sk 95 'blade of flame'
+Sk 117 'wrap'
+Sk 100 'critical strike'
+Sk 95 'awareness'
+Sk 100 'observation'
+Sk 98 'alertness'
+Sk 41 'dreamgate'
+Sk 21 'wall of fire'
+Sk 20 'wall of air'
+Sk 10 'link'
+Sk 108 'slice'
+Sk 20 'dream ward'
+Sk 20 'shadowspawn ward'
+Sk 20 'eavesdrop'
+Sk 20 'eavesdrop ward'
+Sk 46 'mirror of mists'
+Sk 65 'giant size'
+Sk 69 'skimming'
+Sk 10 'bind'
+Sk 10 'escape'
+Sk 20 'light ward'
+Sk 95 'flamevoid'
+Sk 95 'spinning earthfire'
+Sk 95 'air dome'
+Sk 210 'arrows of fire'
+Sk 42 'blast door'
+Know 1376413146 'Aster'
+Know 1376479149 'Iocho'
+BMtime 1381793440
+Backup 1381780147
+World A
+Webvote 1381541534
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 65100
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 14881
+Nest 0
+Wear 4
+Cost 200
+End
+
+#O
+Vnum 14881
+Nest 0
+Wear 3
+Cost 200
+End
+
+#O
+Vnum 1667
+Nest 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 6323
+Nest 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 8465
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8494
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8478
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8479
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8440
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 44
+Nest 0
+Owner Saurison~
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 8441
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 65040
+Enchanted
+Nest 0
+ExtF 1073741824
+Cond 75
+Wear 9
+Cost 90
+Affc 'align matrix'   1 945  -1 -10  17          0
+Affc 'reserved'   1  50  -1   5   2          0
+Affc 'reserved'   1  50  -1   3  19          0
+Affc 'reserved'   1  50  -1   3  18          0
+End
+
+#O
+Vnum 58423
+Enchanted
+Nest 0
+ExtF 1073741824
+Wear 11
+Cost 10
+Affc 'align matrix'   1 945  -1 -10  17          0
+Affc 'reserved'   1  80  -1   5  18          0
+Affc 'reserved'   1  80  -1   5  19          0
+Affc 'reserved'   1  80  -1   5   4          0
+Affc 'reserved'   1  80  -1   5   3          0
+Affc 'reserved'   1  80  -1  25  13          0
+Affc 'reserved'   1  80  -1  25  12          0
+End
+
+#O
+Vnum 3410
+Enchanted
+Nest 0
+ExtF 1090520064
+Cond 71
+Wear 12
+Cost 0
+Affc 'align matrix'   1 945  -1 -10  17          0
+Affc 'reserved'   1  90  -1  15  12          0
+Affc 'reserved'   1  90  -1  25  13          0
+Affc 'reserved'   1  90  -1   2   4          0
+Affc 'reserved'   1  90  -1   2   3          0
+Affc 'reserved'   1  90  -1   8  19          0
+Affc 'reserved'   1  90  -1   8  18          0
+End
+
+#O
+Vnum 58424
+Enchanted
+Nest 0
+ExtF 1073741824
+Wear 17
+Cost 10
+Affc 'align matrix'   1 950  -1 -10  17          0
+Affc 'reserved'   1  90  -1   2   1          0
+Affc 'reserved'   1  90  -1   7  18          0
+Affc 'reserved'   1  90  -1   7  19          0
+End
+
+#O
+Vnum 58424
+Enchanted
+Nest 0
+ExtF 1073741824
+Wear 18
+Cost 10
+Affc 'align matrix'   1 950  -1 -10  17          0
+Affc 'reserved'   1  90  -1   2   1          0
+Affc 'reserved'   1  90  -1   7  18          0
+Affc 'reserved'   1  90  -1   7  19          0
+End
+
+#O
+Vnum 40065
+Enchanted
+Nest 0
+Name jewelcrafted emerald silver earring~
+ShD  a {Ws{Di{Wl{Dv{We{Dr{x earring with an {gem{Ger{ga{Gl{gd{x solitaire~
+Desc a {Ws{Di{Wl{Dv{We{Dr{x earring with an {gem{Ger{ga{Gl{gd{x solitaire lies here.~
+ExtF 1493172224
+WeaF 1048577
+Cond 100
+Owner Altahr~
+Wear 24
+Cost 100
+Affc 'align matrix'   1 950  -1 -20  17          0
+Affc 'jewelcraft'   1  90  -1  13  27          0
+Affc 'jewelcraft'   1  90  -1  14  28          0
+End
+
+#O
+Vnum 40065
+Enchanted
+Nest 0
+Name jewelcrafted emerald silver earring~
+ShD  a {Ws{Di{Wl{Dv{We{Dr{x earring with an {gem{Ger{ga{Gl{gd{x solitaire~
+Desc a {Ws{Di{Wl{Dv{We{Dr{x earring with an {gem{Ger{ga{Gl{gd{x solitaire lies here.~
+ExtF 1493172224
+WeaF 1048577
+Cond 100
+Owner Altahr~
+Wear 23
+Cost 100
+Affc 'align matrix'   1 950  -1 -20  17          0
+Affc 'jewelcraft'   1  90  -1  14  27          0
+Affc 'jewelcraft'   1  90  -1  16  28          0
+End
+
+#O
+Vnum 17088
+Enchanted
+Nest 0
+ExtF 1090520064
+Cond 94
+Wear 8
+Cost 100
+Affc 'reserved'   1  90  -1   1   2          0
+Affc 'reserved'   1  90  -1   1   4          0
+Affc 'reserved'   1  90  -1   1   3          0
+Affc 'reserved'   1  90  -1   7  19          0
+Affc 'reserved'   1  90  -1   7  18          0
+Affc 'align matrix'   1 950  -1 -10  17          0
+End
+
+#O
+Vnum 3418
+Nest 0
+Wear 14
+Cost 500
+End
+
+#O
+Vnum 115
+Nest 1
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 115
+Nest 1
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 1635
+Enchanted
+Nest 1
+ExtF 1073742848
+Wear -1
+Cost 250
+Affc 'reserved'   1  90  -1   1   2          0
+Affc 'reserved'   1  90  -1   1   5          0
+Affc 'reserved'   1  90  -1   1   1          0
+Affc 'reserved'   1  90  -1   7  19          0
+Affc 'reserved'   1  90  -1   7  18          0
+Affc 'align matrix'   1 945  -1 -40  17          0
+End
+
+#O
+Vnum 12749
+Enchanted
+Nest 1
+ExtF 1493172224
+Wear -1
+Cost 1000
+Affc 'reserved'   1  90  -1   1   5          0
+Affc 'reserved'   1  90  -1   1   4          0
+Affc 'reserved'   1  90  -1   1   3          0
+Affc 'align matrix'   1 950  -1  22  18          0
+Affc 'align matrix'   1 950  -1  22  19          0
+Affc 'reserved'   1  90  -1   2   1          0
+Affc 'reserved'   1  90  -1   2   2          0
+Affc 'reserved'   1  90  -1  -4  17          0
+End
+
+#O
+Vnum 1665
+Nest 0
+Wear 0
+Cost 0
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 58072
+Enchanted
+Nest 0
+ExtF 1074003968
+Wear 1
+Cost 0
+Affc 'reserved'   1  90  -1  10  18          0
+Affc 'reserved'   1  90  -1  10  19          0
+Affc 'reserved'   1  90  -1  75  13          0
+Affc 'align matrix'   1 950  -1 -10  17          0
+End
+
+#O
+Vnum 44
+Nest 0
+Owner Saurison~
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 3122
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3137
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3121
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24
+Nest 0
+Name quest sceptre~
+ShD  the Sceptre of Courage~
+Desc {G(Quest obj){x The Sceptre of Courage is lieing here, waiting to be returned to its owner.~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 903
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8441
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8440
+Nest 0
+Wear -1
+Cost 97
+End
+
+#O
+Vnum 40040
+Nest 0
+Owner Sylvin~
+Wear 10
+Cost 4000
+End
+
+#O
+Vnum 17011
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 40048
+Enchanted
+Nest 0
+ExtF 1224736768
+Owner Saurison~
+Wear 19
+Cost 7000
+Affc 'align matrix'   1 1039  -1 -10  17          0
+Affc 'reserved'   1  90  -1  15  18          0
+Affc 'reserved'   1  90  -1  15  19          0
+Affc 'reserved'   1  90  -1 500  13          0
+Affc 'reserved'   1  90  -1 500  12          0
+End
+
+#O
+Vnum 40034
+Enchanted
+Nest 0
+ExtF 1208221696
+Owner Sylvin~
+Wear 2
+Cost 4000
+Affc 'reserved'   1  90  -1  10  19          0
+Affc 'reserved'   1  90  -1  10  18          0
+Affc 'align matrix'   1 1039  -1 -35  17          0
+Affc 'reserved'   1  90  -1   1   1          0
+Affc 'reserved'   1  90  -1   1   3          0
+End
+
+#O
+Vnum 40046
+Enchanted
+Nest 0
+ExtF 1224736768
+Owner Iocho~
+Wear 16
+Cost 4000
+Affc 'reserved'   1  90  -1   6  19          0
+Affc 'align matrix'   1 1039  -1 -35  17          0
+Affc 'reserved'   1  90  -1 100  13          0
+Affc 'reserved'   1  90  -1   6  18          0
+Affc 'reserved'   1  90  -1   1   1          0
+Affc 'reserved'   1  90  -1   1   2          0
+Affc 'reserved'   1  90  -1  50  12          0
+End
+
+#O
+Vnum 40045
+Enchanted
+Nest 0
+ExtF 1208221696
+Owner Sylvin~
+Wear 15
+Cost 5000
+Affc 'align matrix'   1 1039  -1 -35  17          0
+Affc 'reserved'   1  90  -1   1   2          0
+Affc 'reserved'   1  90  -1   1   3          0
+Affc 'reserved'   1  90  -1   1   5          0
+Affc 'reserved'   1  90  -1  10  19          0
+Affc 'reserved'   1  90  -1  10  18          0
+Affc 'reserved'   1  90  -1  50  12          0
+Affc 'reserved'   1  90  -1  50  13          0
+End
+
+#O
+Vnum 40030
+Enchanted
+Nest 0
+ExtF 1208221696
+Cond 92
+Owner Sylvin~
+Wear 25
+Cost 4000
+Affc 'reserved'   1  90  -1   7  18          0
+Affc 'reserved'   1  90  -1   7  19          0
+Affc 'align matrix'   1 1039  -1 -35  17          0
+Affc 'reserved'   1  90  -1 100  12          0
+Affc 'reserved'   1  90  -1 100  13          0
+Affc 'reserved'   1  90  -1   1   3          0
+Affc 'reserved'   1  90  -1   1   4          0
+Affc 'reserved'   1  90  -1   1   5          0
+End
+
+#O
+Vnum 40037
+Nest 0
+Cond 92
+Owner Saurison~
+Wear 7
+Cost 6000
+End
+
+#O
+Vnum 8473
+Nest 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 8492
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 436
+Nest 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 24
+Nest 0
+Name quest gauntlet~
+ShD  the Gauntlets of Strength~
+Desc {G(Quest obj){x The Gauntlets of Strength are lieing here, waiting to be returned to its owner.~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 40067
+Enchanted
+Nest 0
+Name crafted weapon sword~
+ShD  a {Cmastercrafted{x pure {Di{wro{Dn{x sword~
+Desc a {Cmastercrafted{x pure {Di{wro{Dn{x sword lies here.~
+ExtF 1493172224
+Owner Altahr~
+Wear 20
+Cost 0
+Val  1 15 15 3 8
+Affc 'align matrix'   0 1039  -1  10  18          0
+Affc 'align matrix'   1 1039  -1  60  19          0
+End
+
+#O
+Vnum 17027
+Nest 0
+Wear -1
+Cost 55
+End
+
+#O
+Vnum 26015
+Nest 0
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 26020
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 26022
+Nest 0
+Wear -1
+Cost 45000
+End
+
+#O
+Vnum 26080
+Nest 0
+Wear -1
+Cost 440
+End
+
+#O
+Vnum 26078
+Nest 0
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 26079
+Nest 0
+Wear -1
+Cost 450
+End
+
+#END

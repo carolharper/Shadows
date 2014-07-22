@@ -1,0 +1,454 @@
+#PLAYER
+Name Fiaran~
+Email dragon72650@yahoo.com~
+Id   1376663594
+LogO 1378320273
+Vers 5
+Desc You see before you a young man of obvious Saldaean bloodlines. He stands tall with an aire of confidence about him. His eyes scanning all that he sees calculating, emotionless, yet they seem to pull you to him. As he notices you staring at him he looks back at you....
+~
+Prom [{R%h{x/{R%H{xhp {G%m{x/{G%M{xen {W%p{x/{W%P{xop] ~
+Race saldaean~
+DFName Demorian~
+DFLevel 9
+Quest_Curr    89
+Quest_Accum  2089
+QuestNext   4
+Lastlog Wed Sep  4 11:17:21 2013
+~
+Lastsite adsl-70-232-45-179.dsl.ltrkar.sbcglobal.net~
+Sex  1
+Cla  0
+Levl 90
+ELevl 74
+Bounty 0
+Sec  0
+Plyd 111602
+RolePlayed 0
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 5890
+HMV  5422 5422 4059 8064
+HLoc 1792 1337 898 2704 1797 1349
+Target 2
+Gold 5175
+Silv 13060
+Gold_bank 16040
+Silv_bank 25500
+Exp  1910
+Act  CDEFILQTb
+AutoAct  ABCDG
+App  A
+ChanFlag  AB
+Comm JPQ
+Comm2 0
+Pos  8
+Alig  0
+ArrCnt  0
+Hit   68
+Dam   66
+ACs -491 -485 -515 -419
+Attr 15 23 20 15 15
+AMod 2 16 13 7 8
+CSphere  161 27 156 91 18
+Sphere 161 27 156 91 18
+Burnout 0
+MaxBurnout 20
+MSphere 0
+Holding 0
+Autoholding 0
+Merits D
+Talents HM
+Pass FiOhVjKDgCHuM~
+Appearance A slender scar-faced young man~
+HAppearance A shifty hooded figure~
+Titl  wants to wrap the world in wind!~
+Pnts 10
+TSex 1
+LLev 9
+Home 0
+ICLocRecall 8
+HMVP 5177 6966
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 1378217887 General 1377800373 Ideas 1377556737 Personal 0 Guild 1378265720 Stories 1378305257 Bugs 0 Permanent 1364229276 Admin 0 PK 0 Immortal 1376869190 Newplayers 0 
+Sk 69 'blindness'
+Sk 63 'call lightning'
+Sk 1 'create spring'
+Sk 1 'reveal'
+Sk 47 'fireball'
+Sk 1 'levitate'
+Sk 66 'gate'
+Sk 1 'heal'
+Sk 1 'heat metal'
+Sk 47 'invisibility'
+Sk 66 'lightning bolt'
+Sk 41 'mass invis'
+Sk 41 'sleep'
+Sk 95 'dagger'
+Sk 1 'sword'
+Sk 1 'disarm'
+Sk 85 'dodge'
+Sk 87 'dual wield'
+Sk 85 'enhanced damage'
+Sk 1 'kick'
+Sk 83 'parry'
+Sk 1 'trip'
+Sk 85 'second attack'
+Sk 85 'third attack'
+Sk 1 'fast healing'
+Sk 1 'haggle'
+Sk 2 'hide'
+Sk 85 'lore'
+Sk 72 'meditation'
+Sk 4 'peek'
+Sk 64 'pick lock'
+Sk 21 'sneak'
+Sk 1 'steal'
+Sk 1 'riding'
+Sk 61 'push'
+Sk 75 'seize'
+Sk 81 'tying'
+Sk 70 'shielding'
+Sk 1 'blade of flame'
+Sk 12 'grow berries'
+Sk 1 'inferno'
+Sk 65 'blast of air'
+Sk 1 'waterball'
+Sk 70 'wrap'
+Sk 1 'critical strike'
+Sk 90 'awareness'
+Sk 91 'observation'
+Sk 85 'alertness'
+Sk 49 'dreamgate'
+Sk 41 'gag'
+Sk 3 'wall of fire'
+Sk 41 'wall of air'
+Sk 71 'link'
+Sk 61 'slice'
+Sk 1 'dream ward'
+Sk 1 'shadowspawn ward'
+Sk 42 'mirror of mists'
+Sk 42 'giant size'
+Sk 2 'duelling'
+Sk 41 'skimming'
+Sk 81 'bind'
+Sk 21 'escape'
+Sk 1 'gemcut'
+Sk 41 'air dome'
+Sk 1 'arrows of fire'
+Sk 85 'tornado'
+Know 1376660626 'Gilarn'
+BMtime 1377512428
+Backup 1377736506
+World A
+Webvote 1377995004
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 3734
+Nest 0
+Wear 6
+Cost 50
+End
+
+#O
+Vnum 3740
+Nest 0
+Wear 24
+Cost 50
+End
+
+#O
+Vnum 3727
+Nest 0
+Cond 93
+Wear 12
+Cost 50
+End
+
+#O
+Vnum 3732
+Nest 0
+Cond 97
+Wear 25
+Cost 5
+End
+
+#O
+Vnum 65044
+Nest 0
+Cond 97
+Wear 8
+Cost 90
+End
+
+#O
+Vnum 65042
+Nest 0
+Wear 10
+Cost 90
+End
+
+#O
+Vnum 854
+Nest 0
+Wear 0
+Cost 15000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 64173
+Nest 0
+Wear 15
+Cost 60
+End
+
+#O
+Vnum 3421
+Nest 0
+Wear 5
+Cost 300
+End
+
+#O
+Vnum 63464
+Nest 0
+Cond 95
+Wear 9
+Cost 45
+End
+
+#O
+Vnum 39651
+Nest 0
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 39642
+Nest 0
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 39645
+Nest 0
+Wear 16
+Cost 50
+End
+
+#O
+Vnum 28020
+Nest 0
+Cond 96
+Wear 7
+Cost 1000
+End
+
+#O
+Vnum 3715
+Nest 0
+Wear -1
+Cost 10
+Val  200 1 0 200 50
+End
+
+#O
+Vnum 35502
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 35503
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 405
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 405
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9700
+Nest 1
+Cond 98
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 21245
+Nest 0
+Wear 4
+Cost 5000
+End
+
+#O
+Vnum 3415
+Nest 0
+Wear 23
+Cost 0
+End
+
+#O
+Vnum 3417
+Nest 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 21245
+Nest 0
+Wear 3
+Cost 5000
+End
+
+#O
+Vnum 58423
+Nest 0
+Wear 11
+Cost 10
+End
+
+#O
+Vnum 58424
+Nest 0
+Wear 18
+Cost 10
+End
+
+#O
+Vnum 58424
+Nest 0
+Wear 17
+Cost 10
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 12473
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 12587
+Nest 0
+ExtF 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16906
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16905
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16905
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16906
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6328
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 538
+Nest 0
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 8719
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 58406
+Nest 0
+Wear 20
+Cost 1500
+End
+
+#O
+Vnum 8670
+Nest 0
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 8671
+Nest 0
+Wear -1
+Cost 160
+End
+
+#O
+Vnum 9700
+Nest 0
+Cond 99
+Wear 21
+Cost 2000
+End
+
+#END

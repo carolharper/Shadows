@@ -1,0 +1,900 @@
+#PLAYER
+Name Lancel~
+Email illusion@illusion.com~
+Id   1377223433
+LogO 1378154374
+Vers 5
+Prom [{R%h{x/{R%H{xhp {G%m{x/{G%M{xen] ~
+Race murandian~
+Quest_Curr    0
+Quest_Accum  0
+Lastlog Mon Sep  2 13:04:20 2013
+~
+Lastsite 49.sub-70-215-130.myvzw.com~
+Sex  1
+Cla  1
+Levl 90
+ELevl 30
+Bounty 0
+Sec  0
+Plyd 48174
+RolePlayed 0
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 42209
+HMV  6243 6245 5960 5991
+HLoc 2081 1554 1040 3096 2081 1560
+Gold 24
+Silv 18552
+Gold_bank 0
+Silv_bank 0
+Exp  1012
+Act  CDEFGILQTb
+AutoAct  ABCG
+ChanFlag  AB
+AfBy HV
+Comm JPQ
+Comm2 0
+Pos  8
+Trai 11
+Alig  0
+ArrCnt  0
+Hit   76
+Dam   77
+ACs -408 -403 -404 -318
+Wimp  600
+Attr 21 14 14 27 12
+AMod 4 1 1 5 0
+CSphere  0 0 0 0 0
+Sphere 0 0 0 0 0
+Burnout 0
+MaxBurnout 20
+MSphere -1
+Holding 0
+Autoholding 0
+Merits BJKL
+Flaws E
+Pass LagPP8TRI0bdI~
+Appearance A small, blond-haired young man~
+Titl  probably wants to change his title.~
+Pnts 10
+TSex 1
+LLev 13
+Home 0
+ICLocRecall 8
+HMVP 6215 6061
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 1377555528 General 1377814529 Ideas 1377556737 Personal 1377809421 Guild 1377571575 Stories 1378075914 Bugs 1377583187 Permanent 1364229276 Admin 0 PK 1378071966 Immortal 1377806612 Newplayers 1378007749 
+Sk 20 'arrow'
+Sk 80 'bow'
+Sk 85 'dagger'
+Sk 95 'assassinate'
+Sk 90 'backstab'
+Sk 90 'circle'
+Sk 1 'dirt kicking'
+Sk 24 'dodge'
+Sk 90 'dual wield'
+Sk 98 'enhanced damage'
+Sk 62 'parry'
+Sk 90 'second attack'
+Sk 90 'third attack'
+Sk 76 'fast healing'
+Sk 27 'hide'
+Sk 22 'lore'
+Sk 45 'meditation'
+Sk 20 'pick lock'
+Sk 25 'sneak'
+Sk 95 'critical strike'
+Sk 94 'armor use'
+Sk 3 'awareness'
+Sk 89 'observation'
+Sk 2 'duelling'
+Sk 90 'fourth attack'
+Sk 90 'flamevoid'
+Sk 90 'iron will'
+Affc 'air dome'   0 163   4 -35  17        128 1377361409
+Affc 'giant strength'   0  90  55   4   1          0 1377223433
+Affc 'haste'   0  91   5   4   2    2097152 1377223433
+BMtime 1377623270
+Backup 1378142453
+World A
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 58087
+Nest 0
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 7282
+Nest 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 58087
+Nest 0
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 63617
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 3734
+Nest 0
+Wear 5
+Cost 50
+End
+
+#O
+Vnum 63617
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 8661
+Nest 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 14397
+Nest 0
+Wear 0
+Cost 139
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 7513
+Nest 0
+ExtF 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 58406
+Nest 0
+Wear 21
+Cost 1500
+End
+
+#O
+Vnum 7511
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7520
+Nest 0
+Wear 11
+Cost 300
+End
+
+#O
+Vnum 7519
+Nest 0
+Wear 10
+Cost 300
+End
+
+#O
+Vnum 7515
+Nest 0
+Wear 14
+Cost 300
+End
+
+#O
+Vnum 7514
+Nest 0
+Cond 98
+Wear 8
+Cost 300
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 0
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 63617
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63616
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 0
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 58406
+Nest 0
+Wear 20
+Cost 1500
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 6329
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 39653
+Nest 0
+Cond 97
+Wear 9
+Cost 75
+End
+
+#O
+Vnum 39654
+Nest 0
+Cond 99
+Wear 7
+Cost 85
+End
+
+#O
+Vnum 39656
+Nest 0
+Cond 98
+Wear 12
+Cost 100
+End
+
+#O
+Vnum 64173
+Nest 0
+Wear 15
+Cost 60
+End
+
+#O
+Vnum 39660
+Nest 0
+Wear 17
+Cost 250
+End
+
+#O
+Vnum 39643
+Nest 0
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 39644
+Nest 0
+Wear 23
+Cost 150
+End
+
+#O
+Vnum 39645
+Nest 0
+Wear 16
+Cost 50
+End
+
+#O
+Vnum 39638
+Nest 0
+Wear 3
+Cost 250
+End
+
+#O
+Vnum 39639
+Nest 0
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 39660
+Nest 0
+Wear 18
+Cost 250
+End
+
+#O
+Vnum 39644
+Nest 0
+Wear 24
+Cost 150
+End
+
+#O
+Vnum 39638
+Nest 0
+Wear 4
+Cost 250
+End
+
+#END

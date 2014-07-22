@@ -1,0 +1,133 @@
+Thu Apr 10 20:40:01 2014 :: Creating table of skills of length 261, tama~no 16704
+Thu Apr 10 20:40:01 2014 :: Creating race_table of length 52, tama~no 6032
+Thu Apr 10 20:40:01 2014 :: Table of races loaded.
+Thu Apr 10 20:40:01 2014 :: Creating cmd_table of length 635, tama~no 10160
+Thu Apr 10 20:40:01 2014 :: Table of commands loaded.
+Thu Apr 10 20:40:01 2014 :: creating social_table of length 296, tama~no 10656
+Thu Apr 10 20:40:01 2014 :: Table of socials loaded.
+Thu Apr 10 20:40:01 2014 :: Loading guild data file ../data/guild.dat
+Thu Apr 10 20:40:01 2014 :: Loaded 8 guilds successfully.
+Thu Apr 10 20:40:01 2014 :: Loading SGuild data file ../data/sguild.dat
+Thu Apr 10 20:40:01 2014 :: Loaded 4 SGuilds successfully.
+Thu Apr 10 20:40:01 2014 :: Loading TGuild data file ../data/tguild.dat
+Thu Apr 10 20:40:01 2014 :: Loaded 2 TGuilds successfully.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Read: (null)
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Read: 0
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Read: 0
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4122:0 -> 4124:2 -> 4127.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4122:1 -> 4125:3 -> 4125.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4124:1 -> 4129:3 -> 4127.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4124:2 -> 4127:0 -> 4125.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4124:3 -> 4128:1 -> 4121.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4125:3 -> 4125:1 -> 4121.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4126:0 -> 4127:2 -> 4127.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4126:1 -> 4124:3 -> 4128.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4126:3 -> 4129:1 -> 4122.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4127:1 -> 4122:3 -> 4130.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4127:2 -> 4127:0 -> 4125.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4127:3 -> 4121:1 -> 4123.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4128:0 -> 4128:2 -> 4123.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4128:1 -> 4121:3 -> 4125.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4129:1 -> 4122:3 -> 4130.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4129:2 -> 4127:0 -> 4125.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4129:3 -> 4127:1 -> 4122.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4130:0 -> 4130:2 -> 4131.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4130:3 -> 4130:1 -> 4122.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 57:0 -> 91:2 -> 92.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 57:1 -> 92:3 -> 91.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 57:3 -> 92:1 -> 91.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 58:1 -> 92:3 -> 91.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 59:3 -> 92:1 -> 91.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 64:0 -> 92:2 -> 91.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 65:1 -> 91:3 -> 92.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 65:3 -> 92:1 -> 91.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 66:3 -> 91:1 -> 92.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 84:2 -> 84:0 -> 85.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 84:3 -> 84:1 -> 83.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 90:0 -> 91:2 -> 92.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 90:1 -> 92:3 -> 91.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 90:3 -> 91:1 -> 92.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 93:1 -> 91:3 -> 92.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 93:2 -> 92:0 -> 91.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 93:3 -> 91:1 -> 92.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 94:0 -> 91:2 -> 92.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 94:1 -> 92:3 -> 91.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 94:2 -> 91:0 -> 92.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 95:0 -> 92:2 -> 91.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 95:1 -> 91:3 -> 92.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 95:2 -> 92:0 -> 91.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 96:1 -> 91:3 -> 92.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 96:2 -> 91:0 -> 92.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 96:3 -> 92:1 -> 91.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 97:0 -> 91:2 -> 92.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 97:1 -> 92:3 -> 91.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 97:2 -> 91:0 -> 92.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 31013:1 -> 31012:3 -> 31010.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 31013:3 -> 31011:1 -> 31010.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 489:1 -> 490:3 -> 491.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 490:3 -> 491:1 -> 492.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 491:1 -> 492:3 -> 493.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 491:3 -> 456:1 -> 489.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 492:3 -> 493:1 -> 494.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 492:5 -> 495:4 -> 490.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 493:1 -> 494:3 -> 489.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 493:3 -> 456:1 -> 489.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 494:3 -> 489:1 -> 490.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 29169:1 -> 29183:3 -> 29184.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 27511:5 -> 40464:4 -> 57503.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 37776:2 -> 14516:0 -> 14515.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 37997:1 -> 55982:3 -> 55981.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 5450:3 -> 5450:1 -> 5462.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 5454:3 -> 5454:1 -> 5457.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 5460:1 -> 5460:3 -> 5459.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 5460:2 -> 5460:0 -> 5461.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 28241:1 -> 28242:3 -> 28242.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 28241:3 -> 28242:1 -> 28242.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 28253:0 -> 28182:2 -> 28181.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 30432:5 -> 30439:4 -> 30336.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 18156:3 -> 18152:1 -> 18154.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 18164:2 -> 18153:0 -> 18151.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 18166:3 -> 18165:1 -> 18153.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 3831:5 -> 3837:4 -> 3839.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 3839:4 -> 3831:5 -> 3837.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 5894:1 -> 5895:3 -> 5827.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 5895:1 -> 5850:3 -> 5870.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 5895:2 -> 5833:0 -> 5825.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 5895:3 -> 5827:1 -> 5826.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4083:0 -> 4084:2 -> 4085.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4084:2 -> 4085:0 -> 4086.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4085:0 -> 4086:2 -> 4087.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4085:2 -> 4082:0 -> 4083.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4086:2 -> 4087:0 -> 4088.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_exits: 4087:2 -> 4082:0 -> 4083.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_mobprogs: code vnum 40201 not found.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Fix_mobprogs: code vnum 40200 not found.
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Equip_char: already equipped (5).
+Thu Apr 10 20:40:01 2014 :: Err: obj {DA {Rleader {Bsword{x (3798) -- 1, mob a training dummy (3768) -- 90
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Equip_char: already equipped (19).
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Equip_char: already equipped (19).
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Equip_char: already equipped (20).
+Thu Apr 10 20:40:01 2014 :: [*****] BUG: Equip_char: already equipped (5).
+Thu Apr 10 20:40:01 2014 :: Err: obj a {Ys{yi{Wgn{ye{Yt r{yin{Yg{x (39574) -- 50, mob a hawker (39520) -- 40
+Thu Apr 10 20:40:01 2014 :: Err: obj a {Ys{yi{Wgn{ye{Yt r{yin{Yg{x (39574) -- 50, mob a hawker (39520) -- 40
+Thu Apr 10 20:40:01 2014 :: Err: obj a {Wc{wo{Wtt{wo{Wn a{yp{wr{yo{Wn{x (39567) -- 40, mob mistress of the house (39514) -- 30
+Thu Apr 10 20:40:01 2014 :: Err: obj a {Wc{wo{Wtt{wo{Wn a{yp{wr{yo{Wn{x (39567) -- 40, mob mistress of the house (39514) -- 30
+Thu Apr 10 20:40:01 2014 :: Loading board ../notes/Announce
+Thu Apr 10 20:40:01 2014 :: Loading board ../notes/General
+Thu Apr 10 20:40:01 2014 :: Loading board ../notes/Ideas
+Thu Apr 10 20:40:01 2014 :: Loading board ../notes/Personal
+Thu Apr 10 20:40:01 2014 :: Loading board ../notes/Guild
+Thu Apr 10 20:40:01 2014 :: Loading board ../notes/Stories
+Thu Apr 10 20:40:01 2014 :: Loading board ../notes/Bugs
+Thu Apr 10 20:40:01 2014 :: Loading board ../notes/Permanent
+Thu Apr 10 20:40:01 2014 :: Loading board ../notes/Admin
+Thu Apr 10 20:40:01 2014 :: Loading board ../notes/PK
+Thu Apr 10 20:40:01 2014 :: Loading board ../notes/Immortal
+Thu Apr 10 20:40:01 2014 :: Loading board ../notes/Newplayers
+Thu Apr 10 20:40:01 2014 :: Loaded 12 boards sucessfully.
+Thu Apr 10 20:40:01 2014 :: Looking for Keepers
+Thu Apr 10 20:40:01 2014 :: Error loading Keepers: No Keepers found
+Thu Apr 10 20:40:01 2014 :: Looking for Vehicles
+Thu Apr 10 20:40:01 2014 :: Error loading Vehicles: No Vehicles found
+Thu Apr 10 20:40:01 2014 :: Shadows is ready to rock on port 4000.
+Thu Apr 10 21:12:06 2014 :: [*****] BUG: Equip_char: already equipped (19).

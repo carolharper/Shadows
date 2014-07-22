@@ -1,0 +1,166 @@
+#PLAYER
+Name Vandimar~
+Email john.williams_82@yahoo.com~
+Id   1376883188
+LogO 1377286230
+Vers 5
+Prom [{R%h{x/{R%H{xhp {G%m{x/{G%M{xen {W%p{x/{W%P{xop] ~
+Race shienaran~
+Quest_Curr    0
+Quest_Accum  0
+Lastlog Fri Aug 23 11:50:39 2013
+~
+Lastsite oh-74-5-160-189.dhcp.embarqhsd.net~
+Sex  1
+Cla  0
+Levl 4
+Bounty 0
+Sec  0
+Plyd 15477
+RolePlayed 0
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 3776
+HMV  696 696 632 632
+HLoc 232 174 116 348 232 174
+Gold 0
+Silv 110
+Gold_bank 0
+Silv_bank 0
+Exp  2000
+Act  DEFLOQT
+AutoAct  ABCG
+ChanFlag  AB
+Comm JPQ
+Comm2 0
+Pos  8
+Trai 60
+Alig  0
+ArrCnt  0
+Hit   1
+Dam   1
+ACs 92 90 96 96
+Attr 17 21 18 15 17
+AMod 1 1 2 0 0
+CSphere  103 30 147 152 33
+Sphere 11 5 8 8 2
+Burnout 0
+MaxBurnout 20
+MSphere 3
+Holding 0
+Autoholding 0
+Merits DFJ
+Pass Va6ZYmU4jYFdo~
+Appearance A short, lean fellow~
+Titl  is back~
+Pnts 10
+TSex 1
+LLev 4
+Home 0
+ICLocRecall 8
+HMVP 696 632
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 0 General 0 Ideas 0 Personal 0 Guild 0 Stories 0 Bugs 0 Permanent 0 Admin 0 PK 0 Immortal 0 Newplayers 0 
+Sk 64 'sword'
+Sk 1 'hand to hand'
+Sk 1 'seize'
+World A
+Webvote 1376892162
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3702
+Nest 0
+Wear 20
+Cost 10
+End
+
+#O
+Vnum 3704
+Nest 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3729
+Nest 0
+Wear 8
+Cost 25
+End
+
+#O
+Vnum 3729
+Nest 0
+Wear -1
+Cost 25
+End
+
+#O
+Vnum 3742
+Nest 0
+Wear 4
+Cost 50
+End
+
+#O
+Vnum 3742
+Nest 0
+Wear 3
+Cost 50
+End
+
+#O
+Vnum 3730
+Nest 0
+Wear 14
+Cost 50
+End
+
+#O
+Vnum 3743
+Nest 0
+Wear 7
+Cost 50
+End
+
+#O
+Vnum 3727
+Nest 0
+Wear 12
+Cost 50
+End
+
+#O
+Vnum 3737
+Nest 0
+Wear 1
+Cost 50
+End
+
+#O
+Vnum 3744
+Nest 0
+Wear -1
+Cost 20
+End
+
+#END

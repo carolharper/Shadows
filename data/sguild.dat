@@ -1,0 +1,67 @@
+
+Guild	AesSedai~
+Who	{BA{Ge{Ws{yS{De{Yd{Ra{Bi{x~
+Rooms	14415	0	0
+Rank	1	{BA{Gm{Wy{yr{Dl{Yi{Rn{W Seat{x~
+Rank	2	{BK{Ge{We{yp{De{Rr{x of the {WChronicles{x~
+Rank	3	{WSitter{x~
+Rank	4	{BJu{bni{Bor {bSi{Btt{Ber{x~
+Rank	5	{WMistress of Novices{x~
+Rank	6	{WSenior {BA{Ge{Ws {yS{De{Yd{Ra{Bi{x~
+Rank	7	{WTraveling {BA{Ge{Ws {yS{De{Yd{Ra{Bi{x~
+Rank	8	{BA{Ge{Ws {yS{De{Yd{Ra{Bi{x~
+Rank	9	{WNewly Raised {BA{Ge{Ws {yS{De{Yd{Ra{Bi{x~
+ML	1  1  1  1
+Flags 0 
+
+
+Guild	Towerguard~
+Who	{cT{Co{Ww{Ce{cr G{Cu{Wa{Cr{cd{x~
+Rooms	15494	0	0
+Rank	1	{cH{Cig{ch C{Cap{Wt{Cai{cn{x~
+Rank	2	{cF{Ci{Wr{Cs{ct C{Cap{Wt{Cai{cn{w~
+Rank	3	{cC{Cap{Wt{Cai{cn{x~
+Rank	4	{cS{Ce{Wco{Cn{cd C{Cap{Wt{Cai{cn{x~
+Rank	5	{gW{Garde{gr{w~
+Rank	6	{cLi{Ceu{Wte{Cna{cnt{w~
+Rank	7	{cU{Cn{Wd{Ce{cr Li{Ceu{Wte{Cna{cnt{w~
+Rank	8	{cB{Can{Wner{Cma{cn{w~
+Rank	9	{cR{Cec{Wr{Cui{ct{w~
+ML	1  1  1  1
+Flags 0 
+
+
+Guild	WarderGaidin~
+Who	Warder/Gaidin~
+Rooms	14415	0	0
+Rank	1	{WM{Da{Ws{Dt{We{Dr {Wo{Df {WG{Da{Wi{Dd{Wi{Dn{x~
+Rank	2	{WV{De{Wt{De{Wr{Da{Wn {DG{Wa{Di{Wd{Di{Wn{x~
+Rank	3	{WS{De{Wn{Di{Wo{Dr {WG{Da{Wi{Dd{Wi{Dn{x~
+Rank	4	{WG{Da{Wi{Dd{Wi{Dn{x~
+Rank	5	{WR{De{Wt{Di{Wr{De{Wd {DG{Wa{Di{Wd{Di{Wn{x~
+Rank	6	{WS{De{Wn{Di{Wo{Dr {WW{Da{Wr{Dd{We{Dr{x~
+Rank	7	{WW{Da{Wr{Dd{We{Dr{x~
+Rank	8	{WJ{Du{Wn{Di{Wo{Dr {WW{Da{Wr{Dd{We{Dr{x~
+Rank	9	{WW{Da{Wr{Dd{We{Dr {WT{Dr{Wa{Di{Wn{De{We{x~
+Skill	1	empty~
+ML	0  0  0  0
+Flags 0 
+
+
+Guild	Kin~
+Who	Kin~
+Rooms	0	0	0
+Rank	1	Empty~
+Rank	2	Empty~
+Rank	3	Empty~
+Rank	4	Empty~
+Rank	5	Empty~
+Rank	6	Empty~
+Rank	7	Empty~
+Rank	8	Empty~
+Rank	9	Empty~
+ML	1  1  1  1
+Flags 0 
+
+
+End

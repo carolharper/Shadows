@@ -1,0 +1,571 @@
+#PLAYER
+Name Blackwind~
+Email prestidigitators@yahoo.ca~
+Id   1362788867
+LogO 1377735072
+Vers 5
+ShD  {DBr{wea{Wk{wwi{Dnd{x~
+Prom < {g%h/%H {G%m/%M {C%x/%X{x (%e) %p/%P ~
+Race tarvaloner~
+Quest_Curr    0
+Quest_Accum  0
+Lastlog Wed Aug 28 17:10:23 2013
+~
+Lastsite d75-158-164-105.abhsia.telus.net~
+Sex  1
+Cla  0
+Levl 101
+Bounty 0
+Sec  10
+Plyd 1775990
+RolePlayed 0
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 9999
+HMV  26468 26468 26713 26713
+HLoc 8822 6617 4411 13234 8822 6617
+Gold 1
+Silv 3021
+Gold_bank 0
+Silv_bank 0
+Exp  0
+Act  DEFGHLNQTb
+AutoAct  ABCD
+ChanFlag  AB
+Comm JPQ
+Comm2 0
+Wizn ACDMORS
+Pos  8
+Trai 4006
+Alig  -41
+ArrCnt  0
+Hit   205
+Dam   223
+ACs -1490 -1476 -1497 -1399
+Attr 16 20 20 16 16
+AMod 18 10 11 12 13
+CSphere  520 520 520 520 520
+Sphere 520 520 520 520 520
+Burnout 0
+MaxBurnout 20
+MSphere 3
+Holding 0
+Autoholding 100
+Merits BDIJ
+Talents ABCGHIJMS
+ForceInsanity 1
+ForceSpark 1
+Pass ArZM3oZblxk8E~
+Bin  A stark wind suddenly begins to howl as dark clouds appear, twisting into a cyclone of inky blackness before vanishing to reveal {DBl{xac{Wk{xwi{Dnd{x standing calmly.~
+Bout {DBl{xac{Wk{xwi{Dnd{x makes a small gesture with his hand before vanishing from sight, nothing but a few leaves stirred up by the wind marking his passage.~
+Appearance A tall man with ebony tresses~
+Titl  "...are you like a crazy person, Valen?"~
+ImmInfo {DCo-O{ww{Wn{we{Dr{x~
+Pnts 8
+TSex 1
+LLev 420
+Home 0
+ICLocRecall 8
+HMVP 24268 24313
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     013 006 002 011 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 017 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Disguise Calandra~
+Boards       12 Announce 1377555528 General 1377402083 Ideas 1377556737 Personal 1377412276 Guild 1377571575 Stories 1377716841 Bugs 1377583187 Permanent 1364229276 Admin 0 PK 1377234110 Immortal 1377645589 Newplayers 1377563701 
+Sk 301 'reserved'
+Sk 301 'blindness'
+Sk 301 'call lightning'
+Sk 301 'calm'
+Sk 1 'compulsion'
+Sk 1 'control weather'
+Sk 301 'create spring'
+Sk 301 'cure disease'
+Sk 301 'cure poison'
+Sk 301 'demonfire'
+Sk 301 'earthquake'
+Sk 301 'enchant armor'
+Sk 301 'enchant weapon'
+Sk 301 'reveal'
+Sk 301 'fireball'
+Sk 301 'fireproof'
+Sk 301 'levitate'
+Sk 301 'gate'
+Sk 301 'giant strength'
+Sk 301 'harm'
+Sk 301 'haste'
+Sk 301 'heal'
+Sk 301 'heat metal'
+Sk 301 'identify'
+Sk 1 'invisibility'
+Sk 301 'lightning bolt'
+Sk 301 'mass invis'
+Sk 301 'refresh'
+Sk 301 'sanctuary'
+Sk 301 'sleep'
+Sk 301 'slow'
+Sk 301 'stone skin'
+Sk 301 'weaken'
+Sk 301 'arrow'
+Sk 301 'axe'
+Sk 301 'bow'
+Sk 301 'dagger'
+Sk 301 'flail'
+Sk 301 'lance'
+Sk 301 'mace'
+Sk 301 'polearm'
+Sk 301 'shield block'
+Sk 301 'spear'
+Sk 301 'sword'
+Sk 301 'whip'
+Sk 301 'bash'
+Sk 301 'bash door'
+Sk 301 'disarm'
+Sk 301 'dodge'
+Sk 301 'dual wield'
+Sk 301 'enhanced damage'
+Sk 301 'blademaster'
+Sk 301 'hand to hand'
+Sk 301 'kick'
+Sk 301 'parry'
+Sk 301 'rescue'
+Sk 301 'trip'
+Sk 301 'throw'
+Sk 301 'second attack'
+Sk 301 'third attack'
+Sk 301 'fast healing'
+Sk 301 'haggle'
+Sk 301 'hide'
+Sk 301 'lore'
+Sk 301 'meditation'
+Sk 301 'peek'
+Sk 301 'pick lock'
+Sk 301 'sneak'
+Sk 301 'steal'
+Sk 301 'recall'
+Sk 301 'riding'
+Sk 301 'sharpen'
+Sk 301 'sap'
+Sk 301 'push'
+Sk 301 'balefire'
+Sk 301 'seize'
+Sk 301 'embrace'
+Sk 301 'tying'
+Sk 301 'shielding'
+Sk 301 'staff'
+Sk 1 'shimmer'
+Sk 1 'still'
+Sk 1 'heal still'
+Sk 301 'token'
+Sk 301 'blade of flame'
+Sk 301 'grow berries'
+Sk 301 'create flame'
+Sk 301 'bar of fire'
+Sk 301 'inferno'
+Sk 301 'rolling ring'
+Sk 301 'flying rocks'
+Sk 301 'blast of air'
+Sk 301 'stream of water'
+Sk 301 'waterball'
+Sk 301 'blizzard'
+Sk 301 'wrap'
+Sk 301 'pinch'
+Sk 301 'minor heal'
+Sk 301 'major heal'
+Sk 301 'critical strike'
+Sk 301 'awareness'
+Sk 301 'observation'
+Sk 301 'alertness'
+Sk 301 'dreaming'
+Sk 301 'delve'
+Sk 301 'gag'
+Sk 301 'speardancer'
+Sk 301 'wall of fire'
+Sk 301 'wall of air'
+Sk 301 'disguise'
+Sk 301 'gust of wind'
+Sk 301 'thunderclap'
+Sk 301 'create rain'
+Sk 301 'link'
+Sk 301 'slice'
+Sk 1 'create angreal'
+Sk 301 'invert weave'
+Sk 301 'dream ward'
+Sk 301 'remove residues'
+Sk 301 'shadowspawn ward'
+Sk 301 'eavesdrop'
+Sk 301 'eavesdrop ward'
+Sk 301 'suffocate'
+Sk 1 'keep'
+Sk 1 'mirror of mists'
+Sk 301 'giant size'
+Sk 301 'duelling'
+Sk 301 'bind'
+Sk 301 'escape'
+Sk 301 'plant'
+Sk 301 'light ward'
+Sk 301 'mining'
+Sk 301 'gemmine'
+Sk 301 'mine'
+Sk 301 'smelt'
+Sk 301 'gemcut'
+Sk 301 'armorcraft'
+Sk 301 'jewelcraft'
+Sk 301 'axemaster'
+Sk 301 'staffmaster'
+Sk 301 'whipmaster'
+Sk 301 'flailmaster'
+Sk 301 'flamevoid'
+Sk 301 'martial arts'
+Sk 301 'spinning earthfire'
+Sk 301 'hurricane'
+Sk 301 'debilitate'
+Sk 301 'air dome'
+Sk 301 'mind crush'
+Sk 301 'arrows of fire'
+Sk 301 'tornado'
+Sk 301 'tidal wave'
+Sk 301 'earthen grasp'
+Sk 301 'macemaster'
+Backup 1377735015
+CAtime 1363224583
+CA24time 1363303783
+CA24amount 1
+World A
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 40032
+Nest 0
+Wear 0
+Cost 4000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 40033
+Nest 0
+Wear 1
+Cost 4000
+End
+
+#O
+Vnum 40030
+Nest 0
+Cond 88
+Wear 25
+Cost 4000
+End
+
+#O
+Vnum 40031
+Nest 0
+Wear 24
+Cost 3000
+End
+
+#O
+Vnum 40031
+Nest 0
+Wear 23
+Cost 3000
+End
+
+#O
+Vnum 40034
+Nest 0
+Wear 2
+Cost 4000
+End
+
+#O
+Vnum 40036
+Nest 0
+Wear 6
+Cost 4000
+End
+
+#O
+Vnum 40036
+Nest 0
+Wear 5
+Cost 4000
+End
+
+#O
+Vnum 40037
+Nest 0
+Cond 96
+Wear 7
+Cost 6000
+End
+
+#O
+Vnum 40038
+Nest 0
+Cond 88
+Wear 8
+Cost 5000
+End
+
+#O
+Vnum 40039
+Nest 0
+Cond 87
+Wear 9
+Cost 5000
+End
+
+#O
+Vnum 40040
+Nest 0
+Wear 10
+Cost 4000
+End
+
+#O
+Vnum 40041
+Nest 0
+Wear 11
+Cost 4000
+End
+
+#O
+Vnum 40042
+Nest 0
+Cond 90
+Wear 12
+Cost 5000
+End
+
+#O
+Vnum 40043
+Nest 0
+Wear 13
+Cost 6000
+End
+
+#O
+Vnum 40044
+Nest 0
+Wear 14
+Cost 6000
+End
+
+#O
+Vnum 40045
+Nest 0
+Wear 15
+Cost 5000
+End
+
+#O
+Vnum 40046
+Nest 0
+Wear 16
+Cost 4000
+End
+
+#O
+Vnum 40047
+Nest 0
+Wear 18
+Cost 2500
+End
+
+#O
+Vnum 40047
+Nest 0
+Wear 17
+Cost 2500
+End
+
+#O
+Vnum 40048
+Nest 0
+Wear -1
+Cost 7000
+End
+
+#O
+Vnum 14881
+Nest 0
+Wear 4
+Cost 200
+End
+
+#O
+Vnum 14881
+Nest 0
+Wear 3
+Cost 200
+End
+
+#O
+Vnum 30291
+Nest 0
+Wear -1
+Cost 0
+Val  301 79 247 56 54
+Spell 1 'sanctuary'
+Spell 2 'air dome'
+Spell 3 'haste'
+End
+
+#O
+Vnum 37037
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3418
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 1667
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5880
+Nest 0
+Owner Shaelyn~
+Wear -1
+Cost 1000000
+End
+
+#O
+Vnum 9999
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 65060
+Nest 0
+Wear 19
+Cost 1000000
+End
+
+#O
+Vnum 40051
+Nest 0
+Wear -1
+Cost 8500
+End
+
+#O
+Vnum 8012
+Nest 0
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 62631
+Nest 0
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 9905
+Nest 0
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 9948
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9948
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9904
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9948
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9799
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9905
+Nest 0
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 9799
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9941
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9904
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 62508
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 40051
+Nest 0
+Wear 20
+Cost 8500
+End
+
+#END

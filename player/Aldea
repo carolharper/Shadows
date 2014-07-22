@@ -1,0 +1,458 @@
+#PLAYER
+Name Aldea~
+Email carol.harper@gmail.com~
+Id   1379342694
+LogO 1403711540
+Vers 5
+ShD  {gA{Gl{Yd{Ge{ga{x~
+Prom %r vnum:[{R%R{x] in area {C%z{x  Exits (%e) ~
+Race andoran~
+Minion 1379342694
+Mname Morrigan's minion~
+Mrank 0
+Quest_Curr    3750
+Quest_Accum  5000
+Lastlog Sat Jun 21 15:53:15 2014
+~
+Lastsite 10.0.0.2~
+Sex  2
+Cla  0
+Levl 101
+BondedSex 1~
+BondCount 1~
+Bounty 0
+Sec  10
+Plyd 5332877
+RolePlayed 75
+Scro 68
+PKCount 0
+PKDiedCount 0
+Room 9996
+HMV  3980 3980 4287 4287
+HLoc 1326 995 663 1990 1326 995
+Gold 798
+Silv 56
+Gold_bank 0
+Silv_bank 0
+Exp  0
+Act  DEFILNQTb
+AutoAct  ABC
+ChanFlag  AB
+AfBy FV
+Comm JNPQ
+Comm2 0
+Wizn ACDEFLMOPRVXYZ
+Pos  8
+Trai 1609
+Alig  0
+ArrCnt  0
+Hit   1009
+Dam   1011
+ACs -11096 -11096 -11096 -11060
+Attr 25 25 25 25 25
+AMod 0 0 1 2 1
+CSphere  990 1000 1000 1000 1010
+Sphere 16990 9000 9000 9000 9010
+Burnout 0
+MaxBurnout 20
+MSphere -1
+Holding 0
+Autoholding 0
+Spheretrain 1
+Merits A
+ForceSpark 1
+Pass Mosc/wp5puxpk~
+Bin  {DMo{wr{Wri{wg{Dan{x sneaks up behind you.~
+Bout {DMo{wr{Wri{wg{Dan{x points behind you.~
+Appearance A woman with short, walnut-brown hair~
+Titl  {x~
+ImmInfo {DO{xw{Wn{xe{Dr{x~
+Polls 1~
+Pnts 8
+TSex 2
+LLev 230
+Home 9996
+ICLocRecall 8
+HMVP 3930 4237
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     015 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 1383252745 General 1381551478 Ideas 1384634766 Personal 1382828095 Guild 1382575565 Stories 1384797803 Bugs 1379733625 Permanent 1382152099 Admin 0 PK 1383233704 Immortal 1382972200 Newplayers 1385807117 
+Sk 300 'reserved'
+Sk 300 'blindness'
+Sk 300 'call lightning'
+Sk 300 'calm'
+Sk 300 'create spring'
+Sk 300 'cure poison'
+Sk 300 'demonfire'
+Sk 300 'earthquake'
+Sk 300 'enchant armor'
+Sk 300 'enchant weapon'
+Sk 300 'reveal'
+Sk 300 'fireball'
+Sk 300 'fireproof'
+Sk 300 'levitate'
+Sk 300 'giant strength'
+Sk 300 'harm'
+Sk 300 'haste'
+Sk 300 'heal'
+Sk 300 'heat metal'
+Sk 300 'identify'
+Sk 300 'lightning bolt'
+Sk 300 'mass invis'
+Sk 300 'refresh'
+Sk 300 'sanctuary'
+Sk 300 'sleep'
+Sk 300 'slow'
+Sk 300 'stone skin'
+Sk 300 'weaken'
+Sk 300 'arrow'
+Sk 300 'axe'
+Sk 300 'bow'
+Sk 300 'dagger'
+Sk 300 'flail'
+Sk 300 'lance'
+Sk 300 'mace'
+Sk 300 'polearm'
+Sk 300 'shield block'
+Sk 300 'spear'
+Sk 300 'sword'
+Sk 300 'whip'
+Sk 300 'bash'
+Sk 300 'disarm'
+Sk 300 'dodge'
+Sk 300 'dual wield'
+Sk 300 'enhanced damage'
+Sk 300 'blademaster'
+Sk 300 'hand to hand'
+Sk 300 'kick'
+Sk 300 'parry'
+Sk 300 'rescue'
+Sk 300 'trip'
+Sk 300 'throw'
+Sk 300 'second attack'
+Sk 300 'third attack'
+Sk 300 'fast healing'
+Sk 300 'haggle'
+Sk 300 'hide'
+Sk 300 'lore'
+Sk 300 'meditation'
+Sk 300 'peek'
+Sk 300 'pick lock'
+Sk 300 'sneak'
+Sk 300 'steal'
+Sk 300 'recall'
+Sk 300 'riding'
+Sk 300 'sharpen'
+Sk 300 'sap'
+Sk 300 'push'
+Sk 300 'seize'
+Sk 300 'embrace'
+Sk 300 'tying'
+Sk 300 'shielding'
+Sk 300 'staff'
+Sk 300 'token'
+Sk 300 'blade of flame'
+Sk 300 'grow berries'
+Sk 300 'create flame'
+Sk 300 'bar of fire'
+Sk 300 'inferno'
+Sk 300 'rolling ring'
+Sk 300 'flying rocks'
+Sk 300 'blast of air'
+Sk 300 'stream of water'
+Sk 300 'waterball'
+Sk 300 'blizzard'
+Sk 300 'wrap'
+Sk 300 'pinch'
+Sk 1 'shadowtravel'
+Sk 300 'minor heal'
+Sk 300 'major heal'
+Sk 300 'critical strike'
+Sk 301 'awareness'
+Sk 300 'observation'
+Sk 300 'alertness'
+Sk 300 'dreaming'
+Sk 300 'delve'
+Sk 300 'gag'
+Sk 300 'speardancer'
+Sk 300 'wall of fire'
+Sk 300 'wall of air'
+Sk 300 'disguise'
+Sk 300 'gust of wind'
+Sk 300 'thunderclap'
+Sk 300 'link'
+Sk 300 'slice'
+Sk 300 'invert weave'
+Sk 300 'dream ward'
+Sk 300 'remove residues'
+Sk 300 'shadowspawn ward'
+Sk 300 'eavesdrop'
+Sk 300 'eavesdrop ward'
+Sk 300 'suffocate'
+Sk 300 'giant size'
+Sk 300 'duelling'
+Sk 300 'bind'
+Sk 300 'escape'
+Sk 300 'plant'
+Sk 300 'light ward'
+Sk 300 'mining'
+Sk 300 'gemmine'
+Sk 300 'mine'
+Sk 300 'smelt'
+Sk 300 'gemcut'
+Sk 300 'armorcraft'
+Sk 300 'jewelcraft'
+Sk 300 'axemaster'
+Sk 300 'staffmaster'
+Sk 300 'whipmaster'
+Sk 300 'flailmaster'
+Sk 300 'flamevoid'
+Sk 300 'martial arts'
+Sk 300 'spinning earthfire'
+Sk 300 'hurricane'
+Sk 300 'debilitate'
+Sk 300 'air dome'
+Sk 300 'mind crush'
+Sk 300 'arrows of fire'
+Sk 300 'tornado'
+Sk 300 'tidal wave'
+Sk 300 'earthen grasp'
+Sk 300 'macemaster'
+Sk 300 'blast door'
+Sk 1 'mend'
+Backup 1399475371
+World A
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 3718
+Nest 0
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 9943
+Nest 0
+ExtF 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 102
+Nest 0
+Wear -1
+Cost 0
+Spell 1 'heal'
+Spell 2 'refresh'
+End
+
+#O
+Vnum 30291
+Nest 0
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+Spell 2 'stone skin'
+Spell 3 'haste'
+End
+
+#O
+Vnum 3080
+Nest 0
+Wear -1
+Cost 800
+Spell 1 'heal'
+End
+
+#O
+Vnum 65060
+Nest 0
+Wear -1
+Cost 1000000
+End
+
+#O
+Vnum 9902
+Nest 0
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 64263
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19
+Nest 0
+ShD  a hand-written note~
+Desc A note is here, sealed with the crest of Firesong.~
+Wear -1
+Cost 5
+Val  0 1 1 0 0
+ExDe ~ You are a butthead.
+ 
+Love,
+{RF{rireson{Rg{x
+~
+End
+
+#O
+Vnum 41
+Nest 0
+Name mine~
+ShD  a simple {Ds{ww{Wo{wr{Dd{x capped with the {rF{Rl{Ya{Rm{re{x of {WTar Valon{x{x~
+Wear 26
+Cost 1000
+End
+
+#O
+Vnum 5876
+Nest 0
+Wear -1
+Cost 3000
+End
+
+#O
+Vnum 9994
+Nest 0
+Wear -1
+Cost 0
+Spell 1 'bless'
+Spell 2 'stone skin'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9999
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 22119
+Nest 0
+Wear -1
+Cost 100
+Val  21 3 5 0 0
+End
+
+#O
+Vnum 9910
+Nest 0
+Wear 14
+Cost 0
+Val  999999 17 17 0 0
+End
+
+#O
+Vnum 12278
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 39642
+Nest 0
+Name fancloth cloak~
+ShD  a fancloth cloak~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 64173
+Nest 0
+ShD  a fancloth cloak~
+Wear 15
+Cost 60
+End
+
+#O
+Vnum 39649
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 41
+Nest 0
+Name mine~
+ShD  a simple {Ds{ww{Wo{wr{Dd{x capped with the {rF{Rl{Ya{Rm{re{x of {WTar Valon{x{x~
+Wear 27
+Cost 1000
+End
+
+#O
+Vnum 3772
+Nest 0
+Wear 21
+Cost 10
+End
+
+#O
+Vnum 3719
+Nest 0
+Wear 20
+Cost 10
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem diamond flawless~
+ShD  a diamond gem of flawless quality~
+Desc A diamond gem of flawless quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  2 2 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 0
+Name ore copper excellent~
+ShD  a lump of copper ore of excellent quality~
+Desc A lump of copper ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 0
+Name gem ruby flawed~
+ShD  a ruby gem of flawed quality~
+Desc A ruby gem of flawed quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 1 0 0 0
+End
+
+#O
+Vnum 16976
+Nest 0
+Name chair~
+Wear -1
+Cost 150
+End
+
+#END

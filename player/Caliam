@@ -1,0 +1,1405 @@
+#PLAYER
+Name Caliam~
+Email carol.harper@gmail.com~
+Id   1380026793
+LogO 1404439939
+Vers 5
+Desc Bright green eyes look out from a tanned face that is framed by neatly
+cut, dark hair.  Squint-lines bracket the corners of his eyes and
+laugh-lines bracket his mouth.  Together, they suggest both age and
+innocence, a combination made unlikely given the uniform he wears.  His
+features are even, save for a ridge that suggests a broken nose at some time
+in the past.  Below his left eye is the line of a healing cut.  
+
+He is dressed in the black coat and cape of the Tower Guard, each with the
+{rF{Rl{Ya{Rm{re{x of {WTar Valon{x emblazoned on them, white shirt, dark trousers, and
+highly polished black leather boots.  A scabbard marked by the {rF{Rl{Ya{Rm{re{x hangs
+from his belt and bears a sword similarly capped by the symbol of the White
+Tower.  Pinned to the shoulders of his coat are the rank knots of a
+Lieutenant.  
+~
+WoundDesc A straight-line cut mars the area just below his left eye.  The cut is
+not very deep and has been cleaned.  That there is no bruising around the
+cut suggests it was made by a sharp instrument.  
+
+The knuckles of his right hand are bruised and bear minor nicks, all cleaned
+and cared for.  
+
+A shallow cut across his chest has also been cleaned and stitched in a
+couple locations that are deeper than most of the cut.  
+
+~
+Prom {R%h/%H {G%m/%M {C%x/%X {Y%gg {W%ss{x (%e) vnum:{Y%R{x ~
+Race tuathan~
+Clan WhiteTower~
+Rank 5
+Gtitle {cT{Co{Ww{Ce{cr G{Cu{Wa{Cr{cd{x~
+Sguild Towerguard~
+Srank 5
+Stitle {cLi{Ceu{Wte{Cna{cnt{w~
+Minion 1380026793
+Mname Caliam's minion~
+Mrank 0
+Quest_Curr    1574
+Quest_Accum  143574
+Lastlog Thu Jul  3 19:08:33 2014
+~
+Lastsite 10.0.0.2~
+Sex  1
+Cla  2
+Levl 90
+ELevl 1874
+Bounty 0
+Sec  0
+Plyd 3782145
+RolePlayed 217042
+Scro 0
+PKCount 0
+PKDiedCount 0
+Room 14450
+HMV  7033 7033 11071 11071
+HLoc 2344 1758 1172 3516 2344 1758
+Target 2
+Gold 525
+Silv 19509
+Gold_bank 35400
+Silv_bank 0
+Exp  589
+Act  CDEFGHILQTb
+AutoAct  ABCD
+ChanFlag  AB
+Comm JNPQ
+Comm2 0
+Pos  8
+Trai 149
+Alig  0
+ArrCnt  -4
+Hit   230
+Dam   252
+ACs -1359 -1358 -1361 -1306
+Wimp  700
+Attr 19 18 18 15 18
+AMod 16 13 15 19 18
+CSphere  0 0 0 0 0
+Sphere 0 0 0 0 0
+Burnout 0
+MaxBurnout 20
+MSphere -1
+Holding 0
+Autoholding 0
+Merits BDFJ
+Pass CaAOgS.o9knYA~
+Appearance A tall man with dark hair~
+Titl  test~
+Polls 2~
+Pnts 8
+TSex 1
+LLev 216
+Home 0
+ICLocRecall 14450
+HMVP 5458 9271
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 014
+Colourb     005 006 012 011 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Alias qrec recall whiteb;enter e;n;d;e~
+Boards       12 Announce 1396362596 General 1394062416 Ideas 1393523228 Personal 1396622063 Guild 1395446276 Stories 1396579677 Bugs 1393892817 Permanent 1393260575 Admin 0 PK 1392438178 Immortal 1380691162 Newplayers 1392229433 
+Sk 138 'arrow'
+Sk 95 'axe'
+Sk 95 'bow'
+Sk 95 'dagger'
+Sk 95 'mace'
+Sk 95 'spear'
+Sk 302 'sword'
+Sk 95 'bash'
+Sk 95 'dirt kicking'
+Sk 31 'disarm'
+Sk 300 'dodge'
+Sk 111 'dual wield'
+Sk 180 'enhanced damage'
+Sk 182 'blademaster'
+Sk 51 'hand to hand'
+Sk 90 'kick'
+Sk 300 'parry'
+Sk 95 'rescue'
+Sk 30 'trip'
+Sk 41 'throw'
+Sk 200 'second attack'
+Sk 196 'third attack'
+Sk 95 'fast healing'
+Sk 98 'haggle'
+Sk 212 'hide'
+Sk 95 'lore'
+Sk 300 'meditation'
+Sk 45 'pick lock'
+Sk 226 'sneak'
+Sk 95 'riding'
+Sk 36 'push'
+Sk 95 'staff'
+Sk 202 'critical strike'
+Sk 200 'armor use'
+Sk 201 'awareness'
+Sk 201 'observation'
+Sk 207 'alertness'
+Sk 95 'guard'
+Sk 95 'block'
+Sk 189 'fourth attack'
+Sk 172 'fifth attack'
+Sk 235 'armorcraft'
+Sk 235 'jewelcraft'
+Sk 119 'axemaster'
+Sk 201 'flamevoid'
+Sk 95 'whirlwind'
+Sk 100 'iron will'
+Sk 97 'martial arts'
+Sk 168 'weaponsmith'
+Sk 95 'mend'
+Know 1393897863 'Maelle'
+Know 1392227458 'Lazlo'
+Know 1381640094 'Raechell'
+Know 1376416729 'Jomissa'
+Know 1378351697 'Vira'
+Know 1376449448 'Iero'
+Know 1382546552 'Blaer'
+BMtime 1392635747
+Backup 1399475154
+World A
+Wvnum 9990
+Webvote 1396227241
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 40037
+Nest 0
+ShD  a {Wshining{x breastplate{x~
+Cond 11
+Owner Caliam~
+Wear 7
+Cost 6000
+End
+
+#O
+Vnum 40045
+Nest 0
+Name coat~
+ShD  a {Dblack{x coat emblazoned with the {rF{Rl{Ya{Rm{re{x of {WTar Valon{x{x~
+Owner Caliam~
+Wear 15
+Cost 5000
+End
+
+#O
+Vnum 40044
+Nest 0
+Name cloak~
+ShD  a {Dblack{x cloak emblazoned with the {rF{Rl{Ya{Rm{re{x of {WTar Valon{x{x~
+Owner Caliam~
+Wear 14
+Cost 6000
+End
+
+#O
+Vnum 40039
+Nest 0
+Name trousers~
+ShD  a pair of sturdy {Dwoolen{x trousers{x~
+Cond 97
+Owner Caliam~
+Wear 9
+Cost 5000
+End
+
+#O
+Vnum 40038
+Nest 0
+ShD  a {Wshining{x helmet with {Dfa{wceba{Drs{x{x~
+Cond 79
+Owner Jomissa~
+Wear 8
+Cost 5000
+End
+
+#O
+Vnum 40040
+Nest 0
+ShD  a pair of {Dblack{x leather boots{x~
+Owner Caliam~
+Wear 10
+Cost 4000
+End
+
+#O
+Vnum 40033
+Nest 0
+Owner Caliam~
+Wear 1
+Cost 4000
+End
+
+#O
+Vnum 40034
+Nest 0
+Owner Caliam~
+Wear 2
+Cost 4000
+End
+
+#O
+Vnum 40032
+Nest 0
+Owner Caliam~
+Wear 0
+Cost 4000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 40042
+Nest 0
+Cond 76
+Owner Caliam~
+Wear 12
+Cost 5000
+End
+
+#O
+Vnum 40030
+Nest 0
+Cond 24
+Owner Caliam~
+Wear 25
+Cost 4000
+End
+
+#O
+Vnum 40046
+Nest 0
+ShD  a {Dblack{x leather belt{x~
+Owner Caliam~
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 39666
+Nest 0
+Name keyring~
+ShD  a keyring{x~
+Wear -1
+Cost 75
+End
+
+#O
+Vnum 8549
+Nest 1
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 8550
+Nest 1
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 8470
+Nest 1
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 8489
+Nest 1
+Wear -1
+Cost 40
+End
+
+#O
+Vnum 8492
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8479
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8478
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8465
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 3121
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9710
+Nest 1
+Wear -1
+Cost 60
+End
+
+#O
+Vnum 21239
+Nest 1
+ExtF 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17018
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 21210
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8627
+Nest 1
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 39649
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 17071
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 444
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 39649
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8672
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 144
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3137
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3122
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24134
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8560
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8669
+Nest 1
+ExtF 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 444
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 16975
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 8440
+Nest 1
+Wear -1
+Cost 96
+End
+
+#O
+Vnum 8441
+Nest 1
+Wear -1
+Cost 66
+End
+
+#O
+Vnum 8679
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9709
+Nest 1
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 884
+Nest 1
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 884
+Nest 1
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 768
+Nest 1
+Wear -1
+Cost 8
+End
+
+#O
+Vnum 3606
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24134
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 12475
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 12756
+Nest 1
+ExtF 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12751
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 26020
+Nest 1
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 24134
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8492
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8560
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8679
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21240
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21243
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21146
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 40036
+Nest 0
+Owner Caliam~
+Wear 5
+Cost 4000
+End
+
+#O
+Vnum 40036
+Nest 0
+Owner Caliam~
+Wear 6
+Cost 4000
+End
+
+#O
+Vnum 40047
+Nest 0
+Owner Caliam~
+Wear 18
+Cost 2500
+End
+
+#O
+Vnum 3418
+Nest 0
+Name pocket~
+ShD  his pocket{x~
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 24
+Nest 1
+Name quest gauntlet~
+ShD  the Gauntlets of Strength~
+Desc {G(Quest obj){x The Gauntlets of Strength are lieing here, waiting to be returned to its owner.~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 40047
+Nest 0
+Owner Caliam~
+Wear 17
+Cost 2500
+End
+
+#O
+Vnum 40031
+Nest 0
+Owner Caliam~
+Wear 24
+Cost 3000
+End
+
+#O
+Vnum 9996
+Nest 0
+Name frost pouch small beaded~
+ShD  a small {Cb{clue{x pouch, covered in {Ch{coar {Cf{crost{x{x~
+Desc A small pouch, covered in frost lies here.{x~
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 63619
+Nest 1
+Wear -1
+Cost 150
+Val  100 83 -1 -1 -1
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 63619
+Nest 1
+Wear -1
+Cost 150
+Val  100 83 -1 -1 -1
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 100
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  100 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  100 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  100 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  100 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  100 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  100 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  100 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  100 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  100 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  100 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  100 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  100 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  100 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  100 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 63617
+Nest 1
+Wear -1
+Cost 150
+Val  100 56 52 -1 -1
+Spell 1 'haste'
+Spell 2 'frenzy'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 12407
+Nest 1
+Wear -1
+Cost 83
+Spell 1 'cure poison'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63619
+Nest 1
+Wear -1
+Cost 150
+Val  100 83 -1 -1 -1
+Spell 1 'stone skin'
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore copper perfect~
+ShD  a lump of copper ore of perfect quality~
+Desc A lump of copper ore of perfect quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 8 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron perfect~
+ShD  a lump of iron ore of perfect quality~
+Desc A lump of iron ore of perfect quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 8 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron perfect~
+ShD  a lump of iron ore of perfect quality~
+Desc A lump of iron ore of perfect quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 8 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron excellent~
+ShD  a lump of iron ore of excellent quality~
+Desc A lump of iron ore of excellent quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 4 0 0 0
+End
+
+#O
+Vnum 40064
+Nest 1
+Name gem emerald perfect~
+ShD  a emerald gem of perfect quality~
+Desc A emerald gem of perfect quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  4 8 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore copper perfect~
+ShD  a lump of copper ore of perfect quality~
+Desc A lump of copper ore of perfect quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  1 8 0 0 0
+End
+
+#O
+Vnum 40063
+Nest 1
+Name ore iron perfect~
+ShD  a lump of iron ore of perfect quality~
+Desc A lump of iron ore of perfect quality is lying on the ground.~
+Wear -1
+Cost 5
+Val  8 8 0 0 0
+End
+
+#O
+Vnum 14881
+Nest 0
+Wear 4
+Cost 200
+End
+
+#O
+Vnum 41
+Nest 0
+Name mine~
+ShD  a simple {Ds{ww{Wo{wr{Dd{x capped with the {rF{Rl{Ya{Rm{re{x of {WTar Valon{x{x~
+Wear 20
+Cost 1000
+End
+
+#O
+Vnum 49
+Nest 0
+Wear 26
+Cost 1000
+End
+
+#O
+Vnum 407
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 40065
+Nest 0
+Name jewelcrafted ruby gold ring~
+ShD  a {rr{Rub{ry{x seven-stone {Yg{yol{Yd{yen{x ring~
+Desc a {rr{Rub{ry{x seven-stone {Yg{yol{Yd{yen{x ring lies here.~
+WeaF 3
+Owner Caliam~
+Wear -1
+Cost 100
+Affc 'jewelcraft'   1  90  -1  40  18          0
+End
+
+#O
+Vnum 40065
+Nest 0
+Name jewelcrafted emerald gold earring~
+ShD  an {gem{Ger{ga{Gl{gdearring seven-stone {Yg{yol{Yd{yen{x earring~
+Desc an {gem{Ger{ga{Gl{gdearring seven-stone {Yg{yol{Yd{yen{x earring lies here.~
+WeaF 1048577
+Owner Caliam~
+Wear 23
+Cost 100
+Affc 'jewelcraft'   1  90  -1  18  18          0
+Affc 'jewelcraft'   1  90  -1  26  19          0
+End
+
+#O
+Vnum 14881
+Nest 0
+Wear 3
+Cost 200
+End
+
+#O
+Vnum 40062
+Nest 0
+Name mfhand gloves~
+ShD  {Dblack{x leather gloves{x~
+Wear 11
+Cost 1000
+End
+
+#O
+Vnum 8524
+Nest 0
+Wear -1
+Cost 955
+End
+
+#O
+Vnum 471
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8472
+Nest 0
+ExtF 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3418
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3421
+Nest 1
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 24
+Nest 0
+Name quest gauntlet~
+ShD  the Gauntlets of Strength~
+Desc {G(Quest obj){x The Gauntlets of Strength are lying here, waiting to be returned to its owner.~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9910
+Nest 0
+Owner Caliam~
+Wear 16
+Cost 0
+Val  999997 18 18 0 0
+End
+
+#O
+Vnum 32
+Nest 0
+Wear -1
+Lev  1
+Cost 0
+Val  10 18 18 2 8
+End
+
+#O
+Vnum 32
+Nest 0
+Wear -1
+Lev  1
+Cost 0
+Val  10 18 18 2 8
+End
+
+#O
+Vnum 12749
+Nest 0
+ShD  a very ornate sword with a jewelled hilt{x~
+Wear 21
+Cost 1000
+End
+
+#O
+Vnum 8679
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 58107
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 58107
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 58107
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 58107
+Nest 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 58107
+Nest 0
+ShD  a hand-written note~
+Desc A note is here, sealed with the crest of Caliam.~
+Wear -1
+Cost 5
+Val  0 1 1 0 0
+ExDe ~ Raechell,
+ 
+Please meet me where I found you following your testing.
+ 
+Caliam
+~
+End
+
+#O
+Vnum 32
+Nest 0
+ShD  a blue arrow~
+Wear -1
+Lev  1
+Cost 0
+Val  10 18 18 2 8
+End
+
+#O
+Vnum 16976
+Nest 0
+Name chair~
+ShD  an uncomfortable chair~
+Desc An uncomfortable chair sit here looking disreputable and slightly seedy.~
+Wear -1
+Cost 150
+End
+
+#END

@@ -1,0 +1,2499 @@
+#AREADATA
+Name Morgan's Area~
+Builders Morgan~
+VNUMs 66000 66999
+Credits Morgan~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#66000
+plate mac cheese~
+a plate of gooey, {yc{Yh{yee{Ys{yy{x mac 'n cheese~
+A large plate piled high with loads of gooey, {yc{Yh{yee{Ys{yy{x mac 'n cheese.~
+cheese noodles butter love~
+food AG A
+1000 1000 0 0 0
+0 0 0 100
+#66001
+gauntlet witchblade~
+an eldritch gauntlet with a gleaming {rc{Rr{ri{Dm{rs{Ro{rn{x eye~
+An eldritch gauntlet with a gleaming {rc{Rr{ri{Dm{rs{Ro{rn{x eye lies here, forgotten.~
+silver eldritch~
+weapon AGYbc AN
+exotic 10 40 'punch' ABCDGH
+90 2 1000 100
+A
+18 50
+A
+19 50
+A
+1 5
+#66002
+sprite fae spirit~
+blah~
+blah~
+cuendillar~
+angreal I AU
+0 0 999 0 0
+1 1 0 100
+#66010
+lantern lamp light streelight~
+a tall {Dwrought{w-{Wi{Dr{Wo{Dn{x street lamp~
+A series of tall, {Dwrought{w-{Wi{Dr{Wo{Dn{x street lamps line the street, clearly illuminating the streets.~
+iron~
+light A 0
+0 0 999 0 0
+1 25000 0 100
+#66011
+brazier fire~
+a large brazier of sculpted {ws{Dt{wo{Dn{we{x and {Dwrought{w-{Wi{Dr{Wo{Dn{x~
+Set within the tree, a large brazier of sculpted {ws{Dt{wo{Dn{we{x and {Dwrought{w-{Wi{Dr{Wo{Dn{x crackles and blazes with {rw{Ya{wrm{Yt{rh{x and {Rl{Yi{Wg{Yh{Rt{x.~
+stone iron~
+furniture 0 0
+10 100000 E 10 10
+1 1000 10000 100
+#0
+
+
+
+#ROOMS
+#66000
+before the north gate~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 66001
+S
+#66001
+Within the gates.~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66081
+D1
+~
+~
+4097 4097
+1 0 66087
+D2
+~
+~
+0 0
+0 0 66000
+D3
+~
+~
+4097 4097
+1 0 66093
+S
+#66002
+South street - West of the main gates.~
+The southern road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66081
+D3
+~
+~
+0 0
+0 0 66003
+S
+#66003
+South street - Along the walls.~
+The southern road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66002
+D3
+~
+~
+0 0
+0 0 66004
+S
+#66004
+South street - Along the walls.~
+The southern road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66003
+D3
+~
+~
+0 0
+0 0 66005
+S
+#66005
+South street - Along the walls.~
+The southern road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66004
+D3
+~
+~
+0 0
+0 0 66006
+S
+#66006
+South street - Along the walls.~
+The southern road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66005
+D3
+~
+~
+0 0
+0 0 66007
+S
+#66007
+South street - Along the walls.~
+The southern road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66006
+D3
+~
+~
+0 0
+0 0 66008
+S
+#66008
+South street - Along the walls.~
+The southern road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66007
+D3
+~
+~
+0 0
+0 0 66009
+S
+#66009
+South street - Along the walls.~
+The southern road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66008
+D3
+~
+~
+0 0
+0 0 66010
+S
+#66010
+South street - Nearing an intersection.~
+The southern road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Creating a zig-zag pattern along the
+street, lanterns sit atop iron poles that rise four heads higher than any
+man in the city.  Well lit for obvious reasons, the outer streets of the
+city are wide enough for two horse-drawn carriages to travel abreast with
+room for pedestrians.  Raised a step above the cobblestones, a smooth stone
+walkway lines the sides of the street.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66009
+D3
+~
+~
+0 0
+0 0 66011
+S
+#66011
+Intersection of South and West - The southwest corner.~
+Meeting at the southwestern corner of the lower bailey are two streets,
+North and West.  Largely unadorned, the corners of the outer wall feature a
+bas-relief of a tree in full flower
+
+Off in the distance to the east are the battlements of the Main gate while
+to the north the banners marking the Western gate can be seen.  In the
+distance to the northeast, the spires and turrets of the Keep soar above the
+other structures with its flags waving proudly.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66012
+D1
+~
+~
+0 0
+0 0 66010
+S
+#66012
+West street - Nearing an intersection.~
+The western road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66013
+D2
+~
+~
+0 0
+0 0 66011
+S
+#66013
+West street - Along the walls~
+The western road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66014
+D2
+~
+~
+0 0
+0 0 66012
+S
+#66014
+West street - Along the walls.~
+The western road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66015
+D2
+~
+~
+0 0
+0 0 66013
+S
+#66015
+West street - Along the walls.~
+The western road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66016
+D2
+~
+~
+0 0
+0 0 66014
+S
+#66016
+West street - Along the walls.~
+The western road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66017
+D2
+~
+~
+0 0
+0 0 66015
+S
+#66017
+West street - Along the walls.~
+The western road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66018
+D2
+~
+~
+0 0
+0 0 66016
+S
+#66018
+West street - Along the walls.~
+The western road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66019
+D2
+~
+~
+0 0
+0 0 66017
+S
+#66019
+West street - Along the walls.~
+The western road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66020
+D2
+~
+~
+0 0
+0 0 66018
+S
+#66020
+West street - Nearing an intersection.~
+The western road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66021
+D2
+~
+~
+0 0
+0 0 66019
+S
+#66021
+Intersection of Sun and West - Before the Western gates.~
+The western road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+
+Heading east is {YSun{x road which cuts a clear path through the urban lanscape
+towards the {WK{we{We{wp{x itself.  In the distance, the sound of children can be
+heard amidst the ringing of hammers upon anvils, tromping boots of soldiers
+and belting calls of merchants hawking their wares.  
+
+To the west is the Western gate, barred by a porticullis of heavy
+{Dwrought{w-{Wi{Dr{Wo{Dn{x.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66022
+D1
+~
+~
+7 7
+2 0 66086
+D2
+~
+~
+0 0
+0 0 66020
+D3
+~
+~
+0 0
+0 0 66085
+S
+#66022
+West street - Nearing an intersection.~
+The western road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66023
+D2
+~
+~
+0 0
+0 0 66021
+S
+#66023
+West street - Along the walls.~
+The western road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66024
+D2
+~
+~
+0 0
+0 0 66022
+S
+#66024
+West street - Along the walls.~
+The western road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66025
+D2
+~
+~
+0 0
+0 0 66023
+S
+#66025
+West street - Along the walls.~
+The western road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66026
+D2
+~
+~
+0 0
+0 0 66024
+S
+#66026
+West street - Along the walls.~
+The western road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66027
+D2
+~
+~
+0 0
+0 0 66025
+S
+#66027
+West street - Along the walls.~
+The western road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66028
+D2
+~
+~
+0 0
+0 0 66026
+S
+#66028
+West street - Along the walls.~
+The western road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66029
+D2
+~
+~
+0 0
+0 0 66027
+S
+#66029
+West street - Along the walls.~
+The western road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66030
+D2
+~
+~
+0 0
+0 0 66028
+S
+#66030
+West street - Along the walls.~
+The western road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66031
+D2
+~
+~
+0 0
+0 0 66029
+S
+#66031
+~
+Meeting at the northwestern corner of the lower bailey are two streets,
+North and West.  Largely unadorned, the corners of the outer wall feature a
+bas-relief of a tree in full flower.  Set within the stony trunk is a
+sizable brazier to help people keep warm when out and about.  
+
+Off in the distance to the east are the battlements of the Northern gate
+while to the south the banners marking the Western gate can be seen.  In the
+distance to the southeast, the spires and turrets of the Keep soar above the
+other structures with its flags waving proudly.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66032
+D2
+~
+~
+0 0
+0 0 66030
+S
+#66032
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66033
+D3
+~
+~
+0 0
+0 0 66031
+S
+#66033
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66034
+D3
+~
+~
+0 0
+0 0 66032
+S
+#66034
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66035
+D3
+~
+~
+0 0
+0 0 66033
+S
+#66035
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66036
+D3
+~
+~
+0 0
+0 0 66034
+S
+#66036
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66037
+D3
+~
+~
+0 0
+0 0 66035
+S
+#66037
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66038
+D3
+~
+~
+0 0
+0 0 66036
+S
+#66038
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66039
+D3
+~
+~
+0 0
+0 0 66037
+S
+#66039
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66040
+D3
+~
+~
+0 0
+0 0 66038
+S
+#66040
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66041
+D3
+~
+~
+0 0
+0 0 66039
+S
+#66041
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66042
+D3
+~
+~
+0 0
+0 0 66040
+S
+#66042
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66043
+D3
+~
+~
+0 0
+0 0 66041
+S
+#66043
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66044
+D3
+~
+~
+0 0
+0 0 66042
+S
+#66044
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66045
+D3
+~
+~
+0 0
+0 0 66043
+S
+#66045
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66046
+D3
+~
+~
+0 0
+0 0 66044
+S
+#66046
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66047
+D3
+~
+~
+0 0
+0 0 66045
+S
+#66047
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66048
+D3
+~
+~
+0 0
+0 0 66046
+S
+#66048
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66049
+D3
+~
+~
+0 0
+0 0 66047
+S
+#66049
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66050
+D3
+~
+~
+0 0
+0 0 66048
+S
+#66050
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66051
+D3
+~
+~
+0 0
+0 0 66049
+S
+#66051
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 66052
+D3
+~
+~
+0 0
+0 0 66050
+S
+#66052
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66051
+D2
+~
+~
+0 0
+0 0 66053
+S
+#66053
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66052
+D2
+~
+~
+0 0
+0 0 66054
+S
+#66054
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66053
+D2
+~
+~
+0 0
+0 0 66055
+S
+#66055
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66054
+D2
+~
+~
+0 0
+0 0 66056
+S
+#66056
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66055
+D2
+~
+~
+0 0
+0 0 66057
+S
+#66057
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66056
+D2
+~
+~
+0 0
+0 0 66058
+S
+#66058
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66057
+D2
+~
+~
+0 0
+0 0 66059
+S
+#66059
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66058
+D2
+~
+~
+0 0
+0 0 66060
+S
+#66060
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66059
+D2
+~
+~
+0 0
+0 0 66061
+S
+#66061
+Intersection of Sun and East - Before the Eastern gate.~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66060
+D1
+~
+~
+0 0
+0 0 66082
+D2
+~
+~
+0 0
+0 0 66062
+S
+#66062
+East street - Along the walls.~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66061
+D2
+~
+~
+0 0
+0 0 66063
+S
+#66063
+East street - Along the walls.~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66062
+D2
+~
+~
+0 0
+0 0 66064
+S
+#66064
+East street - Along the walls.~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66063
+D2
+~
+~
+0 0
+0 0 66065
+S
+#66065
+East street - Along the walls.~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66064
+D2
+~
+~
+0 0
+0 0 66066
+S
+#66066
+East street - Along the walls.~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66065
+D2
+~
+~
+0 0
+0 0 66067
+S
+#66067
+East street - Along the walls.~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66066
+D2
+~
+~
+0 0
+0 0 66068
+S
+#66068
+East street - Along the walls.~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66067
+D2
+~
+~
+0 0
+0 0 66069
+S
+#66069
+East street - Along the walls.~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66068
+D2
+~
+~
+0 0
+0 0 66070
+S
+#66070
+East street - Nearing an intersection.~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66069
+D2
+~
+~
+0 0
+0 0 66071
+S
+#66071
+Intersection of South and East - Southeast Corner.~
+Off in the distance to the west are the battlements of the Main gate
+while to the north the banners marking the Eastern gate can be seen.  In the
+distance to the northwest, the spires and turrets of the Keep soar above the
+other structures with its flags waving proudly.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66070
+D3
+~
+~
+0 0
+0 0 66072
+S
+#66072
+South street - Nearing an intersection.~
+The southern road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66071
+D3
+~
+~
+0 0
+0 0 66073
+S
+#66073
+South street - Along the walls.~
+The southern road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66072
+D3
+~
+~
+0 0
+0 0 66074
+S
+#66074
+South street - Along the walls.~
+The southern road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66073
+D3
+~
+~
+0 0
+0 0 66075
+S
+#66075
+South street - Along the walls.~
+The southern road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66074
+D3
+~
+~
+0 0
+0 0 66076
+S
+#66076
+South street - Along the walls.~
+The southern road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66075
+D3
+~
+~
+0 0
+0 0 66077
+S
+#66077
+South street - Along the walls.~
+The southern road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66076
+D3
+~
+~
+0 0
+0 0 66078
+S
+#66078
+South street - Along the walls.~
+The southern road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66077
+D3
+~
+~
+0 0
+0 0 66079
+S
+#66079
+South street - Nearing the Main gates.~
+The southern road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66078
+D3
+~
+~
+0 0
+0 0 66080
+S
+#66080
+South street - East of the main gates.~
+The southern road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66079
+D3
+~
+~
+0 0
+0 0 66081
+S
+#66081
+Intersection of Moon and South - Before the Main gate.~
+The southern road is wide and made from {Dc{wo{Db{wb{Dl{we{Ds{wt{Do{wn{De{ws{x that are well
+maintained and frequently serviced.  Hanging every ten paces from a
+{Dwrought{w-{Wi{Dr{Wo{Dn{x hook is an iron lantern, casting a wide circle of {Wli{Yg{Wht{x. 
+Creating a zig-zag pattern along the street, lanterns sit atop iron poles
+that rise four heads higher than any man in the city.  Well lit for obvious
+reasons, the outer streets of the city are wide enough for two horse-drawn
+carriages to travel abreast with room for pedestrians.  Raised a step above
+the cobblestones, a smooth stone walkway lines the sides of the street.  
+
+Heading north is {cM{Woo{cn{x road which cuts a clear path through the urban
+lanscape towards the {WK{we{We{wp{x itself.  In the distance, the sound of children
+can be heard amidst the ringing of hammers upon anvils, tromping boots of
+soldiers and belting calls of merchants hawking their wares.  
+
+To the south is the Main gate, barred by a porticullis of heavy
+{Dwrought{w-{Wi{Dr{Wo{Dn{x.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66084
+D1
+~
+~
+0 0
+0 0 66080
+D2
+~
+~
+0 0
+0 0 66001
+D3
+~
+~
+0 0
+0 0 66002
+S
+#66082
+East gates - Within the gates.~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66083
+D3
+~
+~
+0 0
+0 0 66061
+S
+#66083
+Before the Eastern gates.~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 66082
+S
+#66084
+Moon Street - Nearing an intersection.~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 66081
+S
+#66085
+Within the Western gates.~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 66117
+D1
+~
+~
+0 0
+0 0 66021
+D2
+~
+~
+3 3
+1 0 66118
+S
+#66086
+Sun street - Nearing an intersection.~
+~
+0
+0 0
+D3
+~
+~
+7 7
+2 0 66021
+S
+#66087
+At the foot of a spiral staircase.~
+~
+0
+0 0
+D3
+~
+~
+4097 4097
+1 0 66001
+D4
+~
+~
+0 0
+0 0 66088
+S
+#66088
+Upon the spiral stairs.~
+~
+0
+0 0
+D4
+~
+~
+0 0
+0 0 66089
+D5
+~
+~
+0 0
+0 0 66087
+S
+#66089
+Atop the spiral stairs to the tower.~
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 66090
+D5
+~
+~
+0 0
+0 0 66088
+S
+#66090
+Within the guard tower.~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 66096
+D1
+~
+~
+3 3
+1 0 66089
+D2
+~
+~
+0 0
+0 0 66092
+D3
+~
+~
+3 3
+1 0 66095
+S
+#66091
+~
+~
+0
+C 0
+S
+#66092
+Archer's loops~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66090
+S
+#66093
+At the foot of a spiral staircase.~
+~
+0
+0 0
+D1
+~
+~
+4097 4097
+1 0 66001
+D4
+~
+~
+0 0
+0 0 66094
+S
+#66094
+Upon the spiral stairs.~
+~
+0
+0 0
+D4
+~
+~
+0 0
+0 0 66095
+D5
+~
+~
+0 0
+0 0 66093
+S
+#66095
+Atop the spiral stairs to the tower.~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 66090
+D5
+~
+~
+0 0
+0 0 66094
+S
+#66096
+Atop the battlements outside a tower.~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66106
+D2
+~
+~
+3 3
+1 0 66090
+D3
+~
+~
+0 0
+0 0 66097
+S
+#66097
+Atop the battlements nearing a tower.~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66096
+D3
+~
+~
+0 0
+0 0 66103
+S
+#66098
+~
+~
+0
+C 0
+S
+#66099
+~
+~
+0
+C 0
+S
+#66100
+~
+~
+0
+C 0
+S
+#66101
+~
+~
+0
+C 0
+S
+#66102
+~
+~
+0
+C 0
+S
+#66103
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66097
+D3
+~
+~
+0 0
+0 0 66104
+S
+#66104
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66103
+D3
+~
+~
+0 0
+0 0 66105
+S
+#66105
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66104
+D3
+~
+~
+0 0
+0 0 66115
+S
+#66106
+Atop the battlements nearing a tower.~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66107
+D3
+~
+~
+0 0
+0 0 66096
+S
+#66107
+Along the southern battlements.~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66109
+D3
+~
+~
+0 0
+0 0 66106
+S
+#66108
+Along the southern battlements.~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66111
+D2
+~
+~
+0 0
+0 0 66116
+S
+#66109
+Along the southern battlements.~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66110
+D3
+~
+~
+0 0
+0 0 66107
+S
+#66110
+Along the southern battlements.~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 66114
+D3
+~
+~
+0 0
+0 0 66109
+S
+#66111
+Along the southern battlements.~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66112
+D2
+~
+~
+0 0
+0 0 66108
+S
+#66112
+Along the southern battlements.~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66113
+D2
+~
+~
+0 0
+0 0 66111
+S
+#66113
+Along the southern battlements.~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 66112
+S
+#66114
+Atop the battlements - Southeastern corner.~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 66110
+S
+#66115
+Atop the battlements - Southwestern corner.~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66116
+D1
+~
+~
+0 0
+0 0 66105
+S
+#66116
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66108
+D2
+~
+~
+0 0
+0 0 66115
+S
+#66117
+~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 66085
+D4
+~
+~
+0 0
+0 0 66119
+S
+#66118
+~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 66085
+D4
+~
+~
+0 0
+0 0 66121
+S
+#66119
+~
+~
+0
+0 0
+D4
+~
+~
+0 0
+0 0 66120
+D5
+~
+~
+0 0
+0 0 66117
+S
+#66120
+~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 66123
+D5
+~
+~
+0 0
+0 0 66119
+S
+#66121
+~
+~
+0
+0 0
+D4
+~
+~
+0 0
+0 0 66122
+D5
+~
+~
+0 0
+0 0 66118
+S
+#66122
+~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 66123
+D5
+~
+~
+0 0
+0 0 66121
+S
+#66123
+~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 66120
+D1
+~
+~
+3 3
+1 0 66125
+D2
+~
+~
+3 3
+1 0 66122
+D3
+~
+~
+3 3
+1 0 66124
+S
+#66124
+~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 66123
+S
+#66125
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 66127
+D3
+~
+~
+3 3
+1 0 66123
+S
+#66126
+~
+~
+0
+C 0
+S
+#66127
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66125
+D2
+~
+~
+0 0
+0 0 66128
+S
+#66128
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66127
+D2
+~
+~
+0 0
+0 0 66129
+S
+#66129
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66128
+D2
+~
+~
+0 0
+0 0 66130
+S
+#66130
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 66129
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 66021 1 2
+D 0 66085 0 1
+D 0 66085 2 1
+D 0 66086 3 2
+D 0 66089 3 1
+D 0 66090 0 1
+D 0 66090 1 1
+D 0 66090 3 1
+D 0 66095 1 1
+D 0 66096 2 1
+D 0 66117 2 1
+D 0 66118 0 1
+D 0 66120 2 1
+D 0 66122 0 1
+D 0 66123 0 1
+D 0 66123 1 1
+D 0 66123 2 1
+D 0 66123 3 1
+D 0 66124 1 1
+D 0 66125 3 1
+O 0 66010 0 66010
+O 0 66011 0 66011
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

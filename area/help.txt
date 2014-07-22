@@ -1,0 +1,1407 @@
+[ 9999] Arren: bryan
+[ 5895] Caliam: bryanducttapehislink
+[ 9999] Bryan: slice
+[ 9999] Bryan: slicing
+[ 9999] Bryan: slic
+[ 9999] Bryan: sli
+[ 9999] Bryan: unite
+[39702] Morgan: requests
+[    0] Samal: align_matrix
+[    0] Samal: illusion
+[    0] Samal: illusion
+[    0] Samal: illusion
+[35506] Samal: cash
+[35506] Samal: monety
+[ 3744] Samal: form
+[ 3744] Samal: forms
+[ 9999] Arren: mine
+[ 9999] Arren: notused
+[ 9999] Arren: notused
+[62307] Luciende: burnout
+[39836] Nicaen: eavesdrop
+[    0] Dave: effi
+[    0] Dave: concentratoin
+[67000] James: asave
+[67001] James: viewaura
+[67032] James: oprog
+[67032] James: mprog
+[67032] James: mpprog
+[67032] James: prog
+[67032] James: recite
+[ 9999] Arren: notused
+[ 9999] Arren: notused
+[ 9999] Arren: blast
+[ 9999] Arren: stream
+[ 9999] Arren: rocks
+[ 9999] Arren: bar
+[ 9995] James: mpedit
+[ 9995] Bryan: mpedit
+[ 9995] Bryan: mob
+[ 9995] James: auradescription
+[ 9995] James: aura
+[ 9995] James: brandish
+[ 9995] James: rename
+[ 9995] James: prefix
+[ 9995] James: prefix
+[ 9995] James: rename
+[62620] Bryan: string char
+[    0] Caerid: tarvaloner
+[ 3768] Caerid: pra
+[    0] Rezlin: create_angreal
+[    0] Rezlin: create_angreal
+[    0] Rezlin: quick_learner
+[    0] Rezlin: create
+[    0] Rezlin: quick
+[    0] Rezlin: align_matrix
+[    0] Rezlin: illusion
+[    0] Rezlin: illusion
+[35501] Athain: notes
+[35501] Athain: rezlin
+[35501] Athain: arren
+[35501] Athain: stats
+[35501] Rezlin: config
+[35501] Athain: config
+[35512] Rezlin: cloaked
+[ 3781] Arren: enter
+[ 3781] Arren: ic
+[ 3781] Athain: ooc
+[ 3781] Athain: ic
+[ 3767] Rezlin: assign
+[ 3767] Rezlin: asign
+[ 3767] Rezlin: hotkey
+[47815] Rezlin: movement
+[47815] Rezlin: movement
+[47815] Rezlin: area
+[47815] Athain: movement
+[  115] Rezlin: dream
+[  119] Rezlin: damage
+[44906] Matsumara: blightwatch
+[44906] Matsumara: borderguard
+[ 3756] Athain: basdh
+[ 3768] Rezlin: dream
+[ 3768] Athain: dream
+[  321] Athain: intuition
+[  321] Athain: stats
+[ 3782] Morgan: companion
+[  148] Faer: dual
+[62307] Luciende: crafting
+[62307] Luciende: blacksmith
+[62620] Matsumara: borderguard
+[62620] Matsumara: blightwatch
+[    0] Tobiah: healing
+[    0] Tobiah: heal
+[    0] Tobiah: Healing
+[    0] Tobiah: create_angreal
+[    0] Tobiah: create
+[ 3782] Tobiah: murder
+[ 3782] Tobiah: dead
+[ 3782] Tobiah: subdue
+[ 3722] Tobiah: bar
+[ 3722] Tobiah: slash
+[ 3722] Tobiah: op
+[ 3722] Tobiah: burnout
+[ 3722] Tobiah: burn
+[ 3756] Tobiah: meditiation
+[ 5821] Luciende: macro
+[    0] Ferah: align_matrix
+[    0] Ferah: illusion
+[    0] Ferah: illusion
+[    0] Ferah: healing
+[    0] Ferah: healing
+[    0] Ferah: create
+[    0] Ferah: slow_reflexe
+[    0] Ferah: one-arm
+[ 3767] Ferah: multi
+[    0] Ferah: tar
+[ 3750] Ferah: graduate
+[35501] Tobiah: hint
+[ 3750] Tobiah: spells
+[ 3762] Tobiah: dream
+[ 3786] Tobiah: meditate
+[47815] Tobiah: enter
+[ 8455] Tobiah: background
+[ 3722] Tobiah: delves
+[ 8408] Faer: hit
+[ 8408] Faer: damage
+[ 8408] Faer: attack
+[ 8408] Faer: kill
+[ 3756] Faer: observatiom
+[ 5862] Luciende: world
+[ 5862] Luciende: qp
+[  547] Luciende: smote
+[66011] Morgan: ITEM_FURNITURE
+[66011] Morgan: ITEM_FURNITURE
+[66011] Morgan: ITEM_FURNITURE
+[66011] Morgan: ITEM_FURNITURE
+[66011] Morgan: ITEM_FURNITURE
+[ 3756] Athelian: flame void
+[ 3756] Athelian: glamevoid
+[ 9999] Arren: mlevel
+[  365] Quinn: mount
+[  184] Caitiri: aiel war
+[  184] Caitiri: war
+[  184] Caitiri: laman
+[  547] Luciende: guil
+[  547] Luciende: sguild
+[  547] Luciende: ssguild
+[  547] Luciende: rank
+[ 5895] Caliam: color set
+[ 3708] Isril: master
+[ 3708] Isril: form
+[ 3708] Isril: forms
+[ 9999] Arren: finger
+[  547] Luciende: guildcommands
+[    0] Cuoris: tarvaloner
+[ 3751] Cuoris: defend
+[63011] Cuoris: remort
+[62360] Cuoris: trianer
+[62360] Cuoris: trainer
+[62372] Cuoris: trollorwarfare
+[ 3722] Eric: eaesdrop
+[ 3722] Eric: 'light ward'
+[ 3722] Eric: light
+[35511] Giacomo: hint
+[62392] Giacomo: combat
+[62392] Giacomo: combat_pprompt
+[62309] Giacomo: dream
+[62309] Giacomo: ability
+[62324] Giacomo: story
+[62324] Giacomo: icly
+[62306] Giacomo: finger
+[62306] Giacomo: damage
+[62306] Giacomo: idea
+[50218] Giacomo: newbie school
+[    0] Vision: align_matrix
+[    0] Vision: align_matrix
+[    0] Vision: cloud_dancing
+[    0] Vision: illusion
+[35501] Vision: create_angreal
+[35501] Vision: wiseone
+[ 3756] Vision: sieze
+[ 3756] Vision: remort
+[ 3756] Vision: align the matrix
+[49490] Giacomo: area
+[49490] Giacomo: ares
+[49490] Giacomo: aeras
+[14510] Giacomo: tar valon
+[14510] Giacomo: city map
+[14513] Giacomo: singwood
+[14513] Giacomo: tree-singing
+[14443] Giacomo: IC
+[ 3768] Boru: hp
+[ 3768] Boru: enter
+[ 3768] Boru: camp
+[35501] Boru: four kings
+[ 3750] Boru: validated
+[ 3750] Boru: validate
+[ 3750] Boru: unvalidated
+[ 3761] Boru: movement
+[ 3756] Boru: weaponmaster
+[ 3761] Boru: graduate
+[ 3751] Boru: validate
+[ 3751] Boru: validation
+[ 3751] Boru: validation
+[ 3751] Boru: validate
+[ 3751] Boru: validated
+[ 3751] Boru: graduate
+[ 3751] Boru: val
+[ 3751] Boru: news
+[ 3751] Boru: story
+[ 3751] Boru: news
+[ 3751] Boru: validate
+[ 3776] Boru: v
+[ 3769] Boru: go
+[ 3769] Boru: gods
+[ 3764] Boru: valid
+[ 3764] Boru: register
+[ 3768] Boru: warrior skills
+[ 3762] Boru: dirt kick
+[62349] Boru: caemlyn
+[62300] Boru: prac
+[62440] Boru: where
+[  331] Boru: bedroll
+[  338] Boru: book
+[  338] Boru: study
+[  338] Boru: book
+[  365] Boru: questmaster
+[  365] Boru: recall shaido hold
+[  365] Boru: hp
+[  365] Boru: hit
+[  365] Boru: quest points
+[ 3750] Boru: imp
+[ 3756] Boru: dual
+[ 8546] Boru: sense
+[ 3768] Boru: flags
+[ 3768] Boru: n
+[ 3750] Boru: noote
+[ 9785] Boru: deposit
+[ 3750] Boru: stuck
+[ 3750] Boru: eq
+[ 8405] Boru: hint
+[ 9759] Boru: repair
+[ 8405] Boru: news
+[24107] Boru: end
+[24106] Boru: bedroll
+[24106] Boru: snore
+[14457] Boru: style
+[14457] Boru: defend
+[30241] Boru: bribe
+[ 8405] Boru: news
+[ 3768] Boru: dream
+[ 9710] Boru: frenzy
+[ 9710] Boru: haste
+[ 8538] Boru: repair
+[    0] Zerith: arafellin
+[    0] Zerith: fast
+[62308] Zerith: sedding
+[62308] Zerith: caemlyn
+[62308] Zerith: tsofu
+[ 8459] Boru: where
+[  365] Ezra: masterform
+[  365] Ezra: weaponmaster
+[  365] Bryan: rename
+[  365] Bryan: weight
+[    8] Bekka: guildlead
+[62620] Bekka: op
+[62620] Aster: quest token
+[    0] Sarin: healing
+[    0] Sarin: illusion
+[    0] Sarin: create_angreal
+[    0] Sarin: align_matric
+[    0] Sarin: align_matrix
+[    0] Sarin: cloud_dancing
+[ 5895] Aster: looked startled at her words. "You, you are the messenger?" He couldn't 
+[ 5895] Aster: but laugh after he gave her the correct reply to her code. "The 
+[    0] Chen: wolfskin
+[    0] Kysahn: tuathan
+[    0] Kysahn: cairhienin
+[    0] Kysahn: Cairhienin
+[    0] Kysahn: tauthan
+[    0] Valgaard: fast_learning
+[62308] Gnaa: ways
+[62620] Gnaa: world
+[    0] Rowa: quick
+[    0] Rowa: quick_ref
+[    0] Rowa: one
+[29192] Gnaa: trollocwarfare
+[    0] Rowa: align_matrix
+[    0] Rowa: align_matrix
+[    0] Rowa: create
+[    0] Rowa: create_angreal
+[    0] Rowa: cloud_dancing
+[    0] Rowa: slow_leaner
+[    0] Isobel: clooud_dancing
+[    0] Isobel: cloud_dancing
+[    0] Isobel: cloud_dancing
+[    0] Isobel: healing
+[    0] Quint: align_matrix
+[    0] Quint: align_matrix
+[    0] Quint: illusion
+[    0] Quint: efficiency
+[ 3768] Quint: tra
+[  135] Gnaa: key
+[ 3763] Quint: weaving
+[ 3763] Quint: casting
+[ 3756] Quint: aware
+[ 3737] Quint: using weaves
+[ 3756] Gnaa: hp
+[ 3756] Gnaa: hitpoint
+[    8] Isobel: healing
+[    8] Isobel: talent heal
+[14532] Rian: wirlwind
+[ 9997] Bryan: security
+[14471] Bekka: weave 'air dome'
+[14471] Bekka: 'air dome'
+[39608] Arren: plist
+[39608] Arren: clear
+[39608] Arren: create
+[39608] Arren: trans
+[ 5895] Bekka: weave heal
+[    0] Calex: tarvalon
+[    0] Calex: tarvaloner
+[14588] Aster: concussion blow
+[14588] Aster: 'concussion blow'
+[14588] Aster: 'concussion blow'
+[14588] Aster: concussion blow
+[14588] Aster: concussion
+[    0] Salamon: align_matrix
+[    0] Salamon: align_matrix
+[    0] Salamon: create_angreal
+[    0] Salamon: illusion
+[ 3722] Salamon: files aren't too helpful.  Do we create our own weaves based on our elements?  Also, what are the channeler rooms for in mud school?  Thanks for any help :-)
+[ 3782] Salamon: hint
+[ 9999] Arren: concussion
+[62620] Bekka: questtokens
+[62620] Bekka: quest_tokens
+[62620] Bekka: quest token
+[ 3767] Riftwind: remort
+[ 3767] Riftwind: reinc
+[ 3767] Riftwind: class
+[    0] Riftwind: cloud_dancing
+[ 3767] Riftwind: create_angreal;
+[ 3767] Riftwind: create_angreal
+[ 3767] Riftwind: angrel
+[ 3766] Riftwind: cloud_dancing
+[62377] Riftwind: level cap
+[62775] Riftwind: evolve
+[ 3722] Riftwind: bar
+[62457] Riftwind: meditate
+[ 3767] Riftwind: craft
+[ 3767] Riftwind: forge
+[ 3767] Riftwind: potion
+[62309] Riftwind: spar
+[62309] Riftwind: ma[
+[ 5855] Riftwind: sean
+[ 5856] Riftwind: class
+[ 5856] Riftwind: classes
+[    0] Darius: ambidex
+[ 3767] Darius: strength
+[ 3767] Darius: str
+[ 3767] Darius: stat
+[ 3767] Darius: stats
+[ 3767] Darius: soul
+[ 3767] Darius: necro
+[ 3767] Darius: form
+[ 3767] Darius: dance
+[ 5834] Riftwind: statistics
+[ 5834] Riftwind: statistic
+[ 5834] Riftwind: stat
+[ 5834] Riftwind: stats
+[ 5834] Riftwind: constitution
+[ 5834] Riftwind: con
+[ 5834] Riftwind: explore
+[ 5821] Riftwind: spark
+[ 3768] Riftwind: burnout
+[ 3768] Riftwind: burn
+[ 3722] Riftwind: stream
+[ 3722] Riftwind: streamof water
+[24804] Riftwind: world map
+[24804] Riftwind: todayuse
+[24804] Riftwind: studyres
+[24804] Riftwind: studyresidue
+[44786] Riftwind: fish
+[62308] Alipan: new
+[62308] Alipan: newbie info
+[ 3752] Alipan: int
+[ 3752] Alipan: str
+[ 3752] Alipan: stat
+[ 3752] Alipan: dexterity
+[ 3764] Alipan: levels
+[ 3787] Alipan: end
+[ 3787] Alipan: hp
+[ 3750] Alipan: bag
+[ 3750] Alipan: containers
+[ 3768] Alipan: awarness
+[ 3768] Alipan: awarness
+[ 3761] Alipan: dirt kick
+[62311] Alipan: stuckin
+[62311] Alipan: stuck in
+[62311] Alipan: slot
+[62358] Alipan: recalss
+[62358] Alipan: reborn
+[62358] Alipan: class
+[62359] Alipan: hp
+[62359] Alipan: hitpoint
+[62336] Alipan: remort
+[62336] Alipan: reclass
+[62336] Alipan: max level
+[62336] Alipan: levels
+[  310] Alipan: septs
+[  310] Alipan: sept
+[ 3768] Alipan: books
+[63683] Bekka: questtokens
+[63683] Bekka: quest_tokens
+[    0] Trenton: tarvaloner
+[    0] Trenton: tarval
+[    0] Trenton: cairh
+[    0] Trenton: cairhienin
+[    0] Trenton: Cairhienin
+[ 3755] Trenton: quest_token
+[ 3762] Trenton: quest_token
+[ 3767] Bekka: validate
+[62620] Trenton: quest_token
+[ 5895] Darnys: con
+[ 5895] Darnys: concussion
+[ 9999] Arren: olist
+[ 9999] Arren: owhere
+[ 8401] Riftwind: dream
+[21368] James: mastery
+[21368] James: master
+[21368] James: masteries
+[21368] James: 90
+[ 9995] James: plevel
+[62308] Caliam: sheathwhere
+[62308] Caliam: shethewherename
+[62308] Caliam: sheathewherename
+[ 9999] Arren: raedit
+[ 9995] James: users
+[    8] Darnys: oload
+[ 3722] Riftwind: talnet
+[ 9999] Arren: debilitate
+[ 3722] Riftwind: shadowspawn ward
+[ 3722] Riftwind: ward
+[ 3722] Riftwind: spinning
+[ 3722] Riftwind: spinning earthfire
+[ 3722] Riftwind: air dome
+[ 3722] Riftwind: dome
+[ 3722] Riftwind: debilitate
+[ 5895] Rian: quest_tokens
+[14508] Riftwind: gat
+[14588] Rossidar: iron
+[ 5895] Darnys: color set
+[ 9999] Arren: mpstat
+[56507] Arren: enter
+[ 9999] Arren: whotitle
+[    8] Aster: mapwho
+[30434] Shaelyn: obs
+[ 3750] Kyle: hint
+[ 3763] Kyle: guild_immortal
+[ 3739] Kyle: new
+[12259] Beric: air dome
+[ 9999] Arren: multiplay
+[ 9999] Arren: smelting
+[ 9999] Arren: craft
+[ 9999] Arren: tornato
+[ 3768] Aster: multyplay
+[ 3768] Aster: multieplay
+[ 3768] Aster: play
+[35501] Valen: quest_token
+[35501] Valen: token_reward
+[35501] Valen: quest_reward
+[ 3756] Sharlienne: stats
+[ 3756] Sharlienne: spell
+[ 3756] Sharlienne: spell
+[    8] Sharlienne: status
+[ 9999] Arren: helper
+[ 3768] Stohl: max
+[ 3768] Stohl: hp
+[ 3768] Stohl: hitpoint
+[    0] Chanice: altar
+[    0] Chanice: taire
+[ 3758] Mocky: combat
+[ 3748] Mocky: spells
+[ 3755] Mocky: max level
+[ 3749] Mocky: jarra
+[ 3762] Mocky: hero
+[ 3762] Mocky: hg
+[ 3762] Mocky: true source
+[65001] Mocky: shop
+[65001] Mocky: s
+[62306] Mocky: idea
+[62306] Mocky: outer
+[62228] Mocky: area
+[62228] Mocky: where
+[62302] Mocky: thieftaker
+[45830] Mocky: jog
+[55798] Mocky: enter
+[62326] Mocky: chan
+[62484] Mocky: caemlyn
+[ 3756] Mocky: webvote
+[ 3756] Mocky: window
+[  111] Mocky: meditatoin
+[ 5863] Mocky: untarget
+[ 5863] Mocky: rremove
+[ 5865] Mocky: area
+[  111] Mocky: awaren
+[47190] Mocky: setapp
+[64267] Mocky: hunger
+[ 3755] Aster: stats
+[ 3755] Aster: wisdom
+[ 9997] Firesong: prefix
+[ 9995] James: rename
+[65002] Tritone: colo
+[ 9995] Deadpool: rename
+[ 9997] Firesong: command
+[ 3754] Ryn: describe
+[    0] Praetor: illusion
+[    0] Praetor: illusion
+[ 9995] Frost: recite
+[    0] Mocky: channel
+[    0] Mocky: aessiedai
+[  115] Ryn: mud
+[    0] Mocky: align_matrix
+[    0] Mocky: cloud_dancing
+[    0] Mocky: create_angreal
+[ 3761] Mocky: op
+[ 3722] Mocky: chan
+[ 3750] Jomissa: multiplay
+[ 3774] Mocky: bar
+[ 3774] Mocky: op
+[ 3722] Mocky: chang
+[62395] Mocky: burnout
+[62395] Mocky: burn
+[62395] Mocky: burn out
+[62311] Mocky: master
+[62311] Mocky: forms
+[62311] Mocky: hooded
+[62311] Mocky: cloaked
+[  113] Sylvin: awar
+[  114] Praetor: sei
+[ 9997] Firesong: skedit
+[67001] Frost: auradescription
+[    8] Ryn: valid
+[ 9993] Tritone: healing
+[ 8586] Sylvin: concussion
+[ 9993] Firesong: imm
+[ 9993] Firesong: immlist
+[ 9993] Firesong: imm
+[ 8586] Sylvin: concussion
+[ 3489] Jomissa: color set
+[ 3489] Jomissa: color 2
+[ 9993] Firesong: concuss
+[  747] Jomissa: colors2
+[24837] Jacen: fireproof
+[24842] Jacen: fireproof
+[14588] Jacen: jewel
+[39685] Milara: debilitate
+[39685] Milara: mind
+[    8] Jacen: quest_reward
+[ 3768] Ryn: conc
+[ 3768] Ryn: concussion blow
+[63563] Ryn: trollocwarfare
+[14588] Rossidar: concussion
+[ 9993] Firesong: concussion
+[ 9999] Blackwind: notused
+[ 9999] Blackwind: concussion
+[67001] Frost: mpedit
+[ 9999] Blackwind: concussion blow
+[ 9999] Blackwind: multi
+[ 8401] Valen: smith
+[21060] Jacen: create angreal
+[21060] Jacen: create_angreal
+[21060] Jacen: 'create angreal'
+[ 8780] Valen: questrewards
+[ 9995] Frost: mset
+[ 9997] Firesong: owhere
+[21247] Ryn: concussion
+[    8] Sirene: copyin
+[ 3002] Arlie: whirl
+[62322] Mocky: donation
+[ 9997] Firesong: copyin
+[ 9999] Firesong: mw
+[ 9995] Frost: newbie_helper
+[ 3756] Fiaran: sieze
+[ 5895] Jomissa: n
+[49155] Valen: iron
+[67001] Frost: skedit
+[67001] Frost: sla
+[67001] Frost: raedit
+[ 3756] Fiaran: awreness
+[ 9997] Firesong: spec
+[63855] Ryn: vendor
+[ 9997] Firesong: guildcommands
+[ 5895] Jomissa: axemaster
+[ 8403] Fiaran: observe
+[    0] Taywin: cairhienin
+[    0] Taywin: tarvaloner
+[ 9997] Firesong: halocyn
+[ 9997] Firesong: halo
+[ 8411] Fiaran: dueling
+[ 8411] Fiaran: duel master
+[ 8411] Fiaran: weaponmaster
+[65005] Fiaran: kris
+[65005] Fiaran: ambi
+[ 9997] Firesong: sal
+[ 9999] Firesong: ber
+[44906] Fiaran: cairhein
+[    0] Vandimar: align_matrix
+[ 3722] Fiaran: spinning earthfire
+[ 3722] Fiaran: spinning
+[ 3722] Fiaran: earthfire
+[ 3722] Fiaran: gust
+[ 3722] Fiaran: gust of wind
+[ 3722] Fiaran: 'gust
+[ 3722] Fiaran: "gust
+[ 3722] Fiaran: 'gust of wind
+[ 3722] Fiaran: air dome
+[ 3722] Fiaran: dream ward
+[ 3722] Fiaran: 'dream ward
+[ 3722] Fiaran: air dome
+[ 9999] Blackwind: air dome
+[ 3722] Fiaran: air dome
+[ 3722] Fiaran: light
+[ 3722] Fiaran: light ward
+[ 3722] Fiaran: dream ward
+[ 9999] Blackwind: notused
+[ 3722] Fiaran: mirror of mists
+[ 3722] Fiaran: skimming
+[ 3722] Fiaran: giant size
+[ 9999] Blackwind: ward
+[ 9999] Blackwind: dream ward
+[ 9999] Blackwind: dream
+[ 3722] Fiaran: skimming
+[ 3722] Fiaran: giant size
+[ 3756] Fiaran: flmaevoid
+[67002] Frost: sco
+[ 5855] Mocky: masterform
+[ 5855] Mocky: master
+[ 9997] Firesong: twhere
+[ 9997] Firesong: speardancer
+[ 9997] Firesong: scatter
+[12413] Raesan: hide channel
+[    8] Blaer: chan
+[ 9997] Firesong: unrestore
+[ 9997] Firesong: incog
+[    8] Milara: racet
+[    8] Milara: racetalk
+[ 9993] Tritone: p
+[65002] Firesong: break
+[ 9997] Firesong: unaffect
+[21019] Firesong: heccho
+[ 9997] Firesong: mass healing
+[    0] Gnaa: ambidex
+[    0] Gnaa: acute_senser
+[ 9920] Firesong: scatter
+[21285] Fiaran: mind fire
+[21285] Fiaran: mind
+[21285] Fiaran: quiet
+[21285] Fiaran: blind
+[21285] Fiaran: mirror
+[21285] Fiaran: 'mirror of mist'
+[21285] Fiaran: mist
+[21285] Fiaran: dream gate
+[21285] Fiaran: dream gate
+[21285] Fiaran: dream gate
+[21285] Fiaran: 'dream gate'
+[21285] Fiaran: dream
+[ 3722] Fiaran: haste
+[ 3722] Fiaran: 'light ward'
+[ 3722] Fiaran: light ward
+[ 3722] Fiaran: ward
+[21285] Fiaran: tar
+[21285] Fiaran: ta
+[16870] Fiaran: critical strke
+[16870] Fiaran: critical
+[42186] Ryn: questtokken
+[ 9999] Blackwind: ward
+[    8] Jomissa: ward
+[29199] Firesong: trollocwarfare
+[ 5895] Fiaran: hum
+[ 5895] Fiaran: vampiric sharp
+[12000] Fiaran: call
+[ 5895] Fiaran: 'mirror of mists'
+[ 5895] Fiaran: illusion
+[ 5895] Fiaran: shol arbela
+[14415] Iero: join
+[ 9999] Blackwind: gledit
+[49155] Fiaran: 'wall of air'
+[49155] Fiaran: 'wall of air'
+[29169] Tritone: cancel
+[42185] Milara: addkey
+[42185] Milara: gatelist
+[ 1611] Milara: rremove
+[67003] Frost: mpedit
+[ 9997] Firesong: lost
+[44906] Iocho: quick relfex
+[ 9995] Frost: copyin
+[ 9995] Frost: plist
+[ 9995] Frost: disable
+[    0] Xork: tairan 
+[    0] Xork: tairin
+[ 9997] Firesong: sob
+[ 9997] Firesong: foretel
+[ 9997] Firesong: fortell
+[ 9999] Firesong: hint
+[12000] Frost: owhere
+[ 9993] Tritone: cloud_dancing
+[    0] Altahr: cloud_dancing
+[63689] Altahr: spark
+[ 8845] Altahr: earthen
+[ 8845] Altahr: delv
+[  120] Delorin: t
+[  189] Delorin: mahydrall
+[  189] Delorin: myh
+[  189] Delorin: my
+[ 9997] Firesong: legion
+[ 9997] Firesong: legion
+[ 9997] Firesong: debilitate
+[ 9704] Raesan: debilitate
+[ 9999] Blackwind: area
+[12092] Aster: create angreal
+[12092] Aster: 'create angreal'
+[12092] Aster: weave 'create angreal'
+[48981] Raesan: tokenrewars
+[65001] Tritone: shop
+[44906] Altahr: skim
+[  365] Iocho: recal
+[  365] Iocho: local recall
+[  365] Altahr: key
+[  365] Altahr: gatelist
+[  365] Altahr: key
+[  365] Altahr: keylist
+[ 9993] Tritone: key
+[  112] Valen: addkey
+[ 8449] Raesan: stance
+[ 9740] Tritone: mprog
+[ 3721] Candra: spin
+[    0] Farin: cloud_dancing
+[    0] Farin: lost
+[    0] Farin: healing
+[    0] Farin: heal
+[    0] Farin: healing
+[ 5895] Fiaran: int
+[ 5895] Fiaran: intuition
+[ 5895] Fiaran: wosdom
+[ 5895] Fiaran: wisdom
+[ 9995] Frost: marry
+[ 3719] Candra: sali
+[ 3722] Fiaran: eavesdrop
+[ 3722] Fiaran: 'eavesdrop'
+[ 9999] Blackwind: eavesdrop
+[49154] Lancel: shoot
+[65000] Frost: type
+[ 5895] Fiaran: masterforms
+[ 5895] Fiaran: dueling
+[    8] Jomissa: quest token
+[53538] Valen: area
+[51232] Frost: mpstat
+[ 3721] Candra: 'create angreal'
+[ 3721] Candra: weave 'create angreal'
+[28255] Lancel: shoot
+[67009] Frost: area
+[44906] Altahr: armorc
+[44906] Sylvin: ic
+[ 9999] Blackwind: lugard
+[ 3768] Valen: mount
+[48445] Valen: haste
+[14003] Kuma: flush
+[ 9997] Firesong: rename
+[12371] Firesong: throw spear
+[46228] Fiaran: mao
+[67012] Frost: spinning
+[67012] Frost: 'spinning earthfire'
+[67012] Frost: spinning earthfire
+[67012] Frost: earthfire
+[67012] Frost: spin
+[51965] Aster: sadar
+[51965] Aster: satar
+[ 3110] Aster: felmale channie
+[12015] Ryn: shop lore
+[ 5895] Ryn: account
+[ 5895] Ryn: banmk
+[ 9997] Firesong: nobilitylist
+[ 9997] Firesong: noble list
+[ 1744] Ryn: weave cost
+[ 1744] Ryn: weave_cost
+[ 1650] Frost: mud
+[ 1650] Frost: TSW
+[67014] Frost: dest
+[62620] Iocho: recal
+[62620] Iocho: ic
+[44906] Kuma: craft
+[    0] Severus: tuathan
+[    0] Severus: tuathan
+[    0] Severus: lost
+[    0] Severus: sense
+[    0] Severus: illusion
+[    0] Severus: illusion
+[    0] Severus: compulsioon
+[    0] Severus: fast
+[    0] Severus: acute
+[ 3750] Arlie: helper
+[35501] Severus: name
+[35501] Severus: history
+[ 3750] Arlie: validation
+[    0] Ardela: arafell
+[ 9997] Firesong: reward
+[44906] Lancel: bo
+[ 9997] Firesong: area
+[ 9997] Firesong: hecho
+[ 8498] Loneron: sheathwhere
+[48755] Solara: lugard
+[ 9999] Darkwind: bashdoor
+[ 9997] Firesong: timer
+[ 9997] Firesong: reward
+[ 9997] Firesong: rpreward
+[ 9997] Firesong: rpbonus
+[ 9997] Firesong: bonus
+[ 9997] Firesong: repair
+[ 9997] Firesong: fix
+[65001] Firesong: wear-loc
+[65001] Firesong: shop
+[44906] Iocho: mou
+[44906] Iocho: rid
+[ 9999] Firesong: unrestore
+[ 9999] Firesong: unrestore
+[   20] Valen: key
+[ 5895] Fiaran: keys
+[ 8697] Fiaran: track
+[ 8697] Fiaran: sniff
+[ 8712] Fiaran: df
+[ 8712] Fiaran: df
+[ 8712] Fiaran: df
+[ 5895] Fiaran: dscription
+[ 9997] Firesong: pass door
+[ 9997] Firesong: pass
+[ 5895] Jomissa: false
+[ 9993] Tritone: greyman
+[ 9993] Tritone: grey
+[ 9993] Tritone: gray
+[62620] Aster: qutest_token
+[30416] Iocho: border
+[30416] Iocho: blightwatch
+[30416] Iocho: blightwatch
+[48980] Raesan: df
+[28257] Arlie: debilitate
+[    0] Renwyth: healing
+[    0] Renwyth: healing
+[ 9999] Firesong: addlag
+[ 9999] Firesong: addlag
+[24153] Keron: curse
+[39529] Vira: cairhienin
+[49155] Firesong: tokens
+[49155] Firesong: tokenreward
+[    0] Legaeth: arafellin
+[    0] Legaeth: tuathan
+[    0] Legaeth: Tuathan
+[58510] Jomissa: tokenreward
+[ 3768] Jomissa: bandage
+[ 3768] Jomissa: first
+[ 9995] Frost: raedit
+[ 9995] Frost: skedit
+[67016] Frost: flush
+[44906] Ryn: newbie_helper
+[ 9999] Darkwind: profile
+[ 5895] Aster: appear
+[ 9995] Frost: oload
+[ 9995] Frost: camoflage
+[ 9995] Frost: mpdump
+[ 9999] Firesong: tokenreward
+[ 9999] Darkwind: tokenreward
+[ 9999] Firesong: incog
+[ 9997] Firesong: quest token
+[ 5895] Maire: quest rquest
+[ 9997] Morrigan: multiplay
+[ 9999] Darkwind: disguise
+[21376] Jomissa: pigeon
+[21376] Jomissa: clearcom
+[ 9997] Morrigan: color set
+[ 9997] Morrigan: colorset
+[ 9997] Morrigan: incog
+[ 9997] Firesong: pedit
+[ 8546] Milara: blast door
+[ 8546] Milara: blast door
+[ 8546] Milara: "blast door"
+[ 8546] Milara: blast
+[27425] Valen: 'blast door'
+[ 9997] Firesong: timer
+[ 9997] Firesong: set obj
+[29166] Firesong: wall of air
+[29166] Firesong: wall of air
+[29166] Iocho: pmischan
+[16945] Tomas: craft
+[16945] Tomas: crafting
+[ 9997] Firesong: emporer
+[ 9997] Firesong: hurricane
+[ 9997] Firesong: hurricane
+[ 9997] Testogier: singwood
+[ 9997] Testogier: sing
+[ 9997] Testogier: singwood
+[ 9997] Firesong: singwood
+[44906] Ryn: idle
+[44906] Ryn: void
+[ 9995] Firesong: tokenreward
+[24100] Aster: house
+[    8] Vira: room
+[    8] Vira: house
+[    8] Vira: home
+[ 9997] Firesong: home
+[ 9997] Firesong: house
+[ 9997] Morrigan: advanced
+[14450] Vira: advanced color
+[14450] Vira: colorwheel 2
+[14450] Vira: colorwheel 2
+[ 9997] Morrigan: advanced
+[14088] Keron: advancedcolors
+[ 9997] Morrigan: newb
+[44906] Ryn: master
+[44906] Ryn: mastery
+[62620] Aster: appear
+[ 9997] Firesong: security
+[ 9997] Mocari: colorlist
+[ 9997] Firesong: mutter
+[ 9997] Darkwind: setidle
+[ 9997] Mocari: colorlist
+[ 3110] Aster: tealthy
+[  979] Firesong: disable
+[ 9997] Firesong: sgledit
+[ 9997] Firesong: rank
+[ 9997] Firesong: df
+[ 9997] Firesong: dfrank
+[ 9998] Irinth: dftell
+[ 5895] Ryn: advancedcklor
+[21019] Ryn: sa
+[ 5895] Ryn: fast
+[ 9996] Morrigan: mlist
+[67024] Frost: brandish
+[67019] Frost: craft
+[ 9996] Morrigan: home
+[44906] Kuma: autoblindfold
+[67019] Frost: gledit
+[25432] Mocari: flags
+[ 5895] Aster: sadar
+[ 5895] Valen: token rewards
+[62620] Aster: rac
+[ 5895] Aster: teamspeak
+[ 9996] Firesong: trans
+[ 5895] Valen: pll
+[ 9996] Morrigan: speed
+[48629] Valen: whirl
+[ 3774] Aeric: dual
+[ 9999] Firesong: ginvis
+[ 9999] Firesong: gleader
+[  365] Sylvin: aware
+[ 5895] Valen: haste
+[ 3756] Morrigan: mpedit
+[ 3756] Morrigan: pedit
+[ 9996] Morrigan: new
+[ 9996] Morrigan: newb
+[ 9996] Morrigan: hp
+[ 9996] Morrigan: hit
+[ 9996] Morrigan: hitpoint
+[ 9996] Firesong: cmdedit
+[35501] Dameon: clan list
+[35501] Dameon: clist
+[ 9999] Firesong: metal
+[ 9999] Firesong: jewel
+[ 9999] Firesong: shoot
+[ 9999] Morrigan: wol
+[ 9993] Tritone: chann
+[    0] Saurison: quick_refle
+[ 9999] Morrigan: story
+[ 9999] Firesong: seeking
+[ 9999] Firesong: razor
+[ 9999] Firesong: razer
+[ 9999] Darkwind: veildescription
+[46542] Saurison: toekn
+[46542] Saurison: arrows
+[46542] Saurison: spinning earth
+[46542] Saurison: earthfire
+[    8] Saurison: skim
+[    8] Saurison: skimming
+[40464] Altahr: key
+[40464] Altahr: study
+[40464] Altahr: gate list
+[40464] Altahr: gatelist
+[40464] Altahr: key
+[40464] Altahr: gatelist
+[40464] Altahr: travling
+[40464] Altahr: gatekey
+[62620] Altahr: gat
+[62620] Altahr: key
+[62620] Altahr: study
+[62620] Altahr: room
+[62620] Altahr: room key
+[ 9993] Tritone: sald
+[ 9993] Tritone: skim
+[  365] Saurison: quest token
+[ 9996] Firesong: maskchan
+[ 9993] Tritone: suffocate
+[ 9993] Tritone: spinning earth
+[ 9993] Tritone: legion
+[ 5888] Caliam: ridding
+[ 5895] Caliam: tokenreward
+[ 8845] Saurison: wall of fire
+[ 8845] Saurison: wall of fire
+[ 8845] Saurison: wall_of_fire
+[ 8845] Saurison: eavesdr
+[ 7547] Saurison: mount
+[  365] Saurison: webvote
+[ 9993] Tritone: ambi
+[ 9993] Tritone: quest token
+[ 9996] Darkwind: forceinsanity
+[ 8845] Saurison: heat
+[ 9996] Firesong: beep
+[ 9996] Firesong: beep
+[  365] Saurison: quest token
+[  365] Saurison: insanity
+[  365] Saurison: burn
+[62620] Saurison: concnetra
+[  365] Saurison: update
+[ 9996] Darkwind: notused
+[ 9996] Darkwind: jewelcrafting
+[ 9996] Darkwind: jewel
+[ 9996] Darkwind: mining
+[ 9993] Tritone: update
+[62620] Saurison: insanity
+[62620] Saurison: insanity point
+[62620] Saurison: male chann
+[62620] Saurison: chann
+[62620] Saurison: insanity
+[ 9996] Morrigan: pedit
+[ 9996] Darkwind: notused
+[ 9996] Darkwind: major
+[ 9996] Darkwind: notused
+[ 9996] Darkwind: notused
+[ 9996] Darkwind: giant strength
+[ 4553] Ardela: gain skill
+[ 9996] Morrigan: rm
+[ 9996] Firesong: whoi
+[ 9993] Tritone: mc
+[ 9993] Tritone: male
+[ 9993] Tritone: insanity
+[ 9996] Firesong: male
+[48805] Valen: call
+[ 5895] Caliam: advanced
+[ 9993] Tritone: weekl
+[ 9996] Morrigan: sguild
+[ 9996] Morrigan: sguild
+[ 9996] Morrigan: ssguild
+[ 9996] Firesong: insanity
+[ 9996] Firesong: insane
+[ 9996] Firesong: christmas
+[ 9996] Firesong: dreamapp
+[ 9996] Firesong: olcx
+[ 9996] Firesong: mend
+[ 9996] Firesong: pose
+[ 9996] Darkwind: insanity
+[ 9996] Darkwind: insan
+[ 9996] Darkwind: male
+[ 9996] Firesong: guild_command
+[ 9996] Firesong: sguild
+[ 9996] Firesong: mortalleader
+[ 9996] Morrigan: olcx
+[ 9996] Firesong: play
+[ 9996] Firesong: story
+[ 9996] Firesong: story
+[ 9996] Firesong: sset
+[ 9996] Firesong: twhere
+[ 9996] Firesong: vmapdesc
+[ 3756] Blaer: combat
+[ 3749] Jamil: war
+[    0] Kalar: cloud_dancing
+[    0] Kalar: lost
+[    0] Kalar: illusion
+[    0] Kalar: illusion
+[    0] Kalar: healing
+[    0] Kalar: healing
+[ 3756] Kelan: grow
+[ 3721] Kelan: emba
+[ 3721] Kelan: chann
+[ 3781] Kelan: op
+[ 3730] Kelan: eq
+[ 3730] Kelan: equip
+[ 3730] Kelan: toggle
+[ 3721] Kelan: webvote
+[ 3721] Kelan: bar of
+[ 3721] Kelan: grow
+[ 3756] Kelan: tyin
+[ 3756] Kelan: int
+[ 3756] Kelan: wisdom
+[ 3756] Kelan: stats
+[ 3756] Kelan: stat
+[ 3747] Kalen: keep
+[ 3747] Kalen: create angreal
+[65002] Jamil: sheathe
+[ 3791] Kalen: chang
+[ 3721] Kalen: blind
+[ 3786] Kalen: tyin
+[ 9996] Firesong: sguild
+[ 3751] Jamil: webvote
+[ 3756] Kalen: med
+[ 3756] Kalen: meditat
+[62377] Jamil: increase
+[ 3761] Kalen: cure poison
+[ 3761] Kalen: cure poison
+[ 3749] Kalen: hint
+[ 3751] Jamil: sheathe
+[62470] Jamil: dead
+[ 3721] Kalen: leviate
+[ 3721] Kalen: lightning
+[ 3721] Kalen: minor hela
+[62767] Kalen: study
+[62460] Kalen: key
+[62460] Kalen: study
+[62460] Kalen: study
+[63000] Kalen: rolling
+[63000] Kalen: burnout
+[63001] Kalen: sustain
+[63081] Kalen: wall of fire
+[63081] Kalen: wall of fire
+[63081] Kalen: mindcrush
+[63081] Kalen: shadowspawn ward
+[63081] Kalen: ward
+[63081] Kalen: evesdrop
+[63081] Kalen: eavesdrop
+[63081] Kalen: dream
+[63081] Kalen: dream ward
+[62421] Kalen: food
+[62328] Kalen: burn
+[62328] Kalen: mirror of mists
+[62328] Kalen: mirror
+[ 1055] Kalen: comp
+[ 3721] Kalen: cal
+[ 9996] Morrigan: ajahtalk
+[ 3751] Jamil: exchangeexchange
+[62308] Jamil: graduate
+[ 8405] Jamil: dual
+[ 3756] Jamil: conction
+[ 3756] Jamil: concussion
+[ 3756] Jamil: endurance
+[ 8459] Jamil: stance
+[ 8459] Jamil: forms
+[62445] Kalen: config
+[62445] Kalen: line
+[62445] Kalen: display
+[62445] Kalen: veilappearance
+[62445] Kalen: wound
+[62445] Kalen: wounddescription
+[64000] Kalen: raf
+[ 3721] Kalen: blast door
+[ 3721] Kalen: blastdoor
+[ 3721] Kalen: blast door
+[ 3721] Kalen: blast_door
+[62466] Kalen: healing
+[64061] Kalen: spells
+[64061] Kalen: wea
+[64120] Kalen: meditat
+[ 3721] Kalen: debilitate
+[ 3721] Kalen: debilitate
+[ 3721] Kalen: eaves
+[ 3721] Kalen: light ward
+[ 3721] Kalen: wall of air
+[ 3721] Kalen: thunder
+[ 3721] Kalen: thunderclap
+[ 3756] Kalen: flame
+[14422] Jamil: armor craft
+[14422] Jamil: craft armor
+[ 3756] Jamil: erbs
+[ 9996] Firesong: leader
+[ 9996] Firesong: colorwheel 2
+[62308] Kalen: caemlyn
+[62308] Kalen: web
+[62308] Kalen: www
+[62308] Kalen: site
+[63477] Jamil: damage
+[63477] Jamil: DAMAGE
+[63477] Jamil: dam
+[  722] Jamil: th
+[ 9996] Firesong: guild_command
+[63080] Kalen: illusion
+[ 9996] Morrigan: account
+[28068] Jamil: grip
+[ 3720] Kalen: alert
+[  968] Kalen: slic
+[ 3721] Kalen: light ward
+[ 3721] Kalen: lightward
+[ 3721] Kalen: light_ward
+[ 3721] Kalen: skimming
+[ 3721] Kalen: skimming
+[   20] Kalen: skim
+[ 3721] Kalen: gust of wind
+[ 9996] Firesong: warpstone
+[ 9996] Firesong: warm
+[ 9996] Firesong: warp
+[    8] Kalen: mind
+[    8] Kalen: keep
+[ 3721] Kalen: spinning
+[ 3721] Kalen: spinning earthfire
+[ 9996] Firesong: jetlag
+[ 9996] Morrigan: background
+[16945] Jomissa: mining
+[ 9996] Firesong: legion
+[ 9996] Firesong: prof
+[ 5895] Caliam: todo
+[14319] Vira: eavesdrop ward
+[14319] Vira: eavesdrop
+[14319] Vira: ward
+[ 9996] Firesong: immlist
+[ 5895] Caliam: questrewards
+[ 3720] Zsearin: emotes
+[62314] Zsearin: alia
+[62314] Zsearin: aecho
+[62314] Zsearin: dream
+[ 3722] Zsearin: create berries
+[ 3722] Zsearin: wkemotes
+[ 3722] Zsearin: wkemote
+[    8] Zsearin: quests
+[    8] Zsearin: pose
+[    8] Zsearin: pose
+[62303] Zsearin: dream
+[ 3756] Zsearin: noexp
+[ 3756] Zsearin: leveling
+[    0] Dodog: arafellin
+[ 9996] Firesong: gledit
+[ 3756] Zsearin: costs
+[ 3756] Zsearin: costs
+[    0] Selene: Arafellin
+[ 3722] Zsearin: blast door
+[ 3722] Zsearin: blast door
+[ 3722] Zsearin: 'blast door'
+[ 3722] Zsearin: blastdoor
+[    8] Zsearin: dream
+[    0] Jhin: ara fellin
+[    0] Jhin: arafellin
+[    0] Jhin: cairhienin
+[    0] Jhin: cairhienin
+[    0] Jhin: shienaren
+[    0] Jhin: tarvaloner
+[    0] Jhin: tarvaloner
+[    0] Jhin: Tarvaloner
+[    0] Jhin: tuathan
+[ 3756] Kithis: ptrain
+[ 3722] Zsearin: blast door
+[ 3722] Zsearin: 'blast door'
+[ 3768] Zsearin: menagerie
+[ 9996] Firesong: setting
+[ 9996] Morrigan: webwho
+[ 8434] Zsearin: fishing
+[ 9996] Firesong: home
+[42589] Zsearin: tame
+[ 3722] Zsearin: light ward
+[ 3722] Zsearin: light ward
+[ 3722] Zsearin: light ward
+[ 3722] Zsearin: 'light ward'
+[ 3722] Zsearin: skimming
+[ 3756] Zsearin: message
+[ 3722] Zsearin: skimming
+[ 3722] Zsearin: skimming
+[ 3722] Zsearin: black tower
+[ 3722] Zsearin: ashaman
+[ 3722] Zsearin: gust of wind
+[ 3722] Zsearin: 'gust of wind'
+[ 3722] Zsearin: gustofwind
+[ 3722] Zsearin: gustofwind
+[ 3722] Zsearin: eavesdrop
+[ 3722] Zsearin: eavesdrop
+[ 3722] Zsearin: eavesdrop
+[ 3722] Zsearin: dreamward
+[ 3722] Zsearin: dream ward
+[ 3722] Zsearin: shadowspawn ward
+[ 3768] Zsearin: burnout
+[ 3768] Zsearin: bur
+[ 5895] Meyun: wk
+[ 5895] Meyun: wolf
+[ 1549] Solara: wkemote
+[ 9996] Firesong: play
+[ 9996] Darkwind: play
+[ 3756] Zsearin: classes
+[14588] Lukas: death cert
+[14588] Lukas: certificate
+[ 3756] Baraim: bah
+[    0] Valgaard: black eyes
+[    0] Valgaard: knife hands
+[    0] Valgaard: stone dogs
+[    0] Valgaard: arafellin
+[    0] Valgaard: shienarian
+[ 3756] Valgaard: ac
+[ 3756] Valgaard: armor_class
+[    0] Bashiue: cairhienin
+[    0] Bashiue: cairhienin
+[    0] Bashiue: cair
+[    0] Bashiue: tarvaloner
+[    0] Bashiue: tuathan
+[    0] Bashiue: tuathan
+[    0] Bashiue: tarvaloner
+[    0] Bashiue: tarv
+[62412] Valgaard: weaver
+[ 3756] Valgaard: observ
+[ 1549] Solara: wkemote
+[62566] Valgaard: shop
+[    0] Sterling: perfect
+[    0] Sterling: perfect__balance
+[39685] Zegrid: wolfk
+[ 3268] Aster: code
+[ 3268] Aster: fix
+[62620] Aster: update
+[62620] Aster: quest_tokens
+[62620] Aster: questtokens
+[62620] Aster: helpers
+[62620] Aster: valadation
+[62620] Aster: validation
+[14232] Lizbet: create_angreal
+[14232] Lizbet: create_angreal
+[    0] Mordok: kand
+[ 3762] Aerick: toughness
+[  101] Aerick: costs
+[  103] Aerick: tidal
+[    0] Maelle: arafellin
+[    0] Maelle: cairhienin
+[    0] Maelle: tuathan
+[    0] Maelle: align_matrix
+[ 3750] Maelle: stats
+[  189] Aerick: prac
+[65008] Aerick: airdome
+[ 9798] Aerick: create angreal
+[ 9798] Aerick: healing
+[ 9798] Aerick: illusion
+[ 9798] Aerick: sense
+[ 9798] Aerick: whoi
+[ 9798] Aerick: whoinvis
+[ 8427] Aerick: view
+[ 3756] Aerick: iron
+[    0] Maelle: costs
+[    0] Maelle: lost
+[ 3767] Maelle: costs
+[27426] Aerick: masterf
+[27426] Aerick: master
+[27426] Aerick: form
+[    8] Aster: questtokens
+[ 8545] Maelle: tel
+[ 8545] Maelle: tel'aran'rhiod
+[ 8448] Maelle: spark
+[ 9733] Maelle: dream
+[ 8457] Maelle: skimming
+[44906] Maelle: skim
+[    8] Aerick: int
+[    8] Aerick: intuition
+[    8] Aerick: create angreal
+[51232] Maelle: control
+[ 3768] Maelle: skim
+[46228] Bryan: skim
+[ 3750] Maelle: thunderclap
+[ 3750] Maelle: thunder
+[ 3768] Maelle: create
+[ 3768] Maelle: create angreal
+[ 3768] Maelle: repair
+[ 3750] Maelle: tinker
+[ 3721] Maelle: arrows
+[ 3721] Maelle: blast door
+[ 3721] Maelle: blast
+[    0] Erebus: trollo
+[    0] Lazlo: altar
+[    0] Lazlo: Shien
+[ 3110] Aster: questtokne
+[63704] Maelle: thunderclap
+[    8] Aster: questtokens
+[    8] Ryn: pose
+[  365] Maelle: dream
+[51232] Lizbet: debilitate
+[51232] Lizbet: weave debilitate
+[ 5895] Ryn: mindcrush
+[  365] Maelle: mastery
+[  365] Maelle: blademast
+[  365] Maelle: whipmaster
+[62620] Lazlo: questtokens
+[  365] Maelle: ebou
+[  365] Maelle: thunderclap
+[ 3750] Lazlo: questtoken
+[    0] Phoibe: dremaing
+[ 3750] Phoibe: questtoken
+[  365] Maelle: craft
+[67001] Frost: mud
+[67001] Frost: totw
+[67001] Frost: users
+[  365] Maelle: damage
+[  365] Maelle: view
+[ 9996] Morrigan: users
+[ 8663] Maelle: ward
+[  365] Maelle: raffect
+[ 9996] Morrigan: sj
+[  365] Maelle: sac
+[  365] Maelle: junk
+[  365] Maelle: tap
+[51232] Maelle: spinning
+[51232] Maelle: earthfire
+[51232] Maelle: haste
+[ 9996] Morrigan: credit
+[35503] Morrigan: config
+[ 9996] Morrigan: build
+[ 9996] Morrigan: build
+[ 9996] Morrigan: mulitplaying
+[ 9996] Morrigan: multiplay
+[ 9996] Morrigan: build
+[ 9996] Morrigan: building_costs
+[ 9996] Morrigan: build_costs
+[ 9996] Morrigan: build
+[ 9996] Morrigan: build

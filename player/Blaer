@@ -1,0 +1,758 @@
+#PLAYER
+Name Blaer~
+Email carol.harper@gmail.com~
+Id   1395245400
+LogO 1396750811
+Vers 5
+Desc The young woman before you is tall, perhaps a bit unusually so for a
+woman, and has long, walnut-brown hair that is carefully restrained and
+hangs a few inches below her shoulders in a smooth curtain.  Her face is
+lightly tanned and decorated by a faint smattering of freckles across the
+bridge of her nose.  Her eyes are light green and are fringed by dark lashes
+and brows, giving them a smoldering look.  Her features are pleasant but
+unremarkable, giving her a somewhat plain appearance.  
+
+She is dressed in a white dress with seven bands of color at the hem and
+cuffs and plain white slippers, both of which are fastidiously clean.  Her
+only adornment is a golden ring on the third finger of her left hand.  
+~
+Prom {R%h/%H {G%m/%M {C%x/%X {Y%gg {W%ss{x (%e) vnum:{Y%R{x %p/%P ~
+Race tuathan~
+Clan WhiteTower~
+Rank 6
+Gtitle {WA{Gc{yc{De{Yp{rt{Be{Wd{w~
+Quest_Curr    3061
+Quest_Accum  31061
+Lastlog Sat Apr  5 19:19:35 2014
+~
+Lastsite 10.0.0.3~
+Sex  2
+Cla  0
+Levl 90
+ELevl 374
+Bounty 0
+Sec  0
+Plyd 705991
+RolePlayed 59123
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 5895
+HMV  6284 6284 9940 10135
+HLoc 2094 1571 1047 3142 2094 1571
+Gold 66
+Silv 65576
+Gold_bank 11300
+Silv_bank 0
+Exp  9718
+Act  CDEFGHILOQTb
+AutoAct  ABCD
+ChanFlag  AB
+AfBy HPQ
+Comm JMNPQ
+Comm2 0
+Pos  8
+Trai 1454
+Alig  0
+ArrCnt  0
+Hit   158
+Dam   164
+ACs -930 -881 -920 -835
+Attr 15 21 16 18 18
+AMod 12 16 19 8 11
+CSphere  97 88 102 137 31
+Sphere 137 128 142 177 71
+Burnout 0
+MaxBurnout 20
+MSphere -1
+Holding 0
+Autoholding 100
+Merits DF
+Talents G
+Pass BlNjjTCaA0JR6~
+Appearance A lanky, dark-haired, young woman~
+Titl  -- {BA{Gc{yc{we{Wp{Yt{Re{Bd{x~
+Pnts 8
+TSex 2
+LLev 15
+Home 0
+ICLocRecall 14228
+HMVP 5484 9545
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 1396362596 General 1394062416 Ideas 1393523228 Personal 1395014361 Guild 1395446276 Stories 1396579677 Bugs 1393892817 Permanent 1393260575 Admin 0 PK 1392438178 Immortal 1394816699 Newplayers 1395246336 
+Sk 1 'blindness'
+Sk 27 'calm'
+Sk 29 'cure poison'
+Sk 20 'earthquake'
+Sk 21 'reveal'
+Sk 44 'levitate'
+Sk 18 'giant strength'
+Sk 9 'harm'
+Sk 28 'identify'
+Sk 49 'refresh'
+Sk 26 'sleep'
+Sk 1 'slow'
+Sk 101 'dagger'
+Sk 102 'dodge'
+Sk 100 'dual wield'
+Sk 102 'enhanced damage'
+Sk 104 'parry'
+Sk 101 'second attack'
+Sk 100 'third attack'
+Sk 67 'fast healing'
+Sk 95 'haggle'
+Sk 61 'hide'
+Sk 95 'meditation'
+Sk 9 'pick lock'
+Sk 95 'sneak'
+Sk 200 'embrace'
+Sk 42 'tying'
+Sk 38 'shielding'
+Sk 35 'token'
+Sk 40 'wrap'
+Sk 30 'major heal'
+Sk 66 'critical strike'
+Sk 95 'awareness'
+Sk 95 'observation'
+Sk 95 'alertness'
+Sk 21 'delve'
+Sk 200 'wall of air'
+Sk 13 'gust of wind'
+Sk 1 'link'
+Sk 90 'slice'
+Sk 34 'dream ward'
+Sk 42 'shadowspawn ward'
+Sk 3 'eavesdrop ward'
+Sk 99 'duelling'
+Sk 21 'light ward'
+Sk 84 'flamevoid'
+Sk 1 'martial arts'
+Sk 82 'debilitate'
+Sk 205 'air dome'
+Sk 184 'mind crush'
+Sk 3 'blast door'
+Sk 1 'mend'
+Affc 'hide'   0  87  82   0   0      65536 1395245400
+Affc 'sneak'   0  88  74   0   0      32768 1395245400
+Affc 'air dome'   0 461   0 -68  17        128 1395245400
+Know 1392227458 'Lazlo'
+Know 1376449448 'Iero'
+Know 1381640094 'Raechell'
+BMtime 1396635200
+Backup 1396737891
+World A
+Webvote 1396227242
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 9996
+Nest 0
+Name small pouch dissonant tone tritone~
+ShD  a small pouch emitting a {Bd{bissonan{Bt {Bt{bon{Be{x{x~
+Desc A small pouch emitting a strange sound is here.{x~
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 8669
+Nest 1
+ExtF 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8672
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8627
+Nest 1
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 8440
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8441
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8549
+Nest 1
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 8550
+Nest 1
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 24805
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 24805
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 903
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24805
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 24805
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3791
+Nest 1
+Cond 48
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3791
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8478
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8465
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 63616
+Nest 1
+Wear -1
+Cost 150
+Spell 1 'giant strength'
+Spell 2 'sanctuary'
+End
+
+#O
+Vnum 8752
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8479
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8547
+Nest 1
+Wear -1
+Cost 90
+End
+
+#O
+Vnum 8548
+Nest 1
+Wear -1
+Cost 180
+End
+
+#O
+Vnum 8549
+Nest 1
+Wear -1
+Cost 245
+End
+
+#O
+Vnum 8550
+Nest 1
+Wear -1
+Cost 296
+End
+
+#O
+Vnum 21239
+Nest 1
+ExtF 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8669
+Nest 1
+ExtF 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21210
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24805
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 24114
+Nest 1
+Cond 93
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 40067
+Nest 1
+Name crafted weapon dagger~
+ShD  a pure {Di{wro{Dn{x dagger~
+Desc a pure {Di{wro{Dn{x dagger lies here.~
+Owner Caliam~
+Wear -1
+Cost 0
+Val  2 10 15 2 8
+Affc 'weaponsmith'   1  90  -1  10  19          0
+End
+
+#O
+Vnum 9709
+Nest 1
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 14881
+Nest 0
+Wear 3
+Cost 200
+End
+
+#O
+Vnum 854
+Nest 0
+Wear 0
+Cost 15000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 39644
+Nest 0
+Wear 24
+Cost 150
+End
+
+#O
+Vnum 39645
+Nest 0
+Wear 16
+Cost 50
+End
+
+#O
+Vnum 8524
+Nest 0
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 58424
+Nest 0
+Wear 18
+Cost 10
+End
+
+#O
+Vnum 58424
+Nest 0
+Wear 17
+Cost 10
+End
+
+#O
+Vnum 58423
+Nest 0
+Wear 11
+Cost 10
+End
+
+#O
+Vnum 14358
+Nest 0
+Wear 10
+Cost 145
+End
+
+#O
+Vnum 39644
+Nest 0
+Wear 23
+Cost 150
+End
+
+#O
+Vnum 3414
+Nest 0
+Cond 41
+Wear 8
+Cost 200
+End
+
+#O
+Vnum 44
+Nest 0
+Owner Varla~
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 40030
+Nest 0
+Cond 43
+Owner Blaer~
+Wear 25
+Cost 4000
+End
+
+#O
+Vnum 40033
+Nest 0
+Owner Blaer~
+Wear 1
+Cost 4000
+End
+
+#O
+Vnum 14881
+Nest 0
+Wear 4
+Cost 200
+End
+
+#O
+Vnum 3410
+Nest 0
+Cond 27
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 44
+Nest 0
+Owner Blaer~
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 40037
+Nest 0
+Cond 98
+Owner Blaer~
+Wear 7
+Cost 6000
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 40045
+Nest 0
+Owner Blaer~
+Wear 15
+Cost 5000
+End
+
+#O
+Vnum 63462
+Nest 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 40044
+Nest 0
+Owner Blaer~
+Wear 14
+Cost 6000
+End
+
+#O
+Vnum 24
+Nest 0
+Name quest sceptre~
+ShD  the Sceptre of Courage~
+Desc {G(Quest obj){x The Sceptre of Courage is lying here, waiting to be returned to its owner.~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 46
+Nest 0
+Name wit~
+ShD  a sharp wit{x~
+Wear 20
+Cost 1000
+End
+
+#O
+Vnum 46
+Nest 0
+Name daggerblank~
+ShD  {Dnothing{x{x~
+Wear 21
+Cost 1000
+End
+
+#O
+Vnum 40039
+Nest 0
+Owner Blaer~
+Wear 9
+Cost 5000
+End
+
+#O
+Vnum 24
+Nest 0
+Name quest gauntlet~
+ShD  the Gauntlets of Strength~
+Desc {G(Quest obj){x The Gauntlets of Strength are lying here, waiting to be returned to its owner.~
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8528
+Nest 0
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 8714
+Nest 0
+Wear -1
+Cost 60000
+End
+
+#END

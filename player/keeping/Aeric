@@ -1,0 +1,138 @@
+#PLAYER
+Name Aeric~
+Email Yo@yoyo.com~
+Id   1380569663
+LogO 1380570747
+Vers 5
+Prom [{R%h{x/{R%H{xhp {G%m{x/{G%M{xen] ~
+Race amadician~
+Quest_Curr    0
+Quest_Accum  0
+Lastlog Mon Sep 30 12:34:22 2013
+~
+Lastsite 144.sub-70-215-133.myvzw.com~
+Sex  1
+Cla  2
+Levl 5
+Bounty 0
+Sec  0
+Plyd 1085
+RolePlayed 0
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 3755
+HMV  562 898 175 478
+HLoc 286 210 141 438 290 214
+Gold 0
+Silv 106
+Gold_bank 0
+Silv_bank 0
+Exp  8474
+Act  DEFLOQTV
+AutoAct  ABCG
+ChanFlag  AB
+Comm JPQUVWX
+Comm2 0
+Pos  8
+Trai 44
+Alig  0
+ArrCnt  0
+Hit   1
+Dam   1
+ACs 96 93 98 98
+Attr 27 11 11 24 15
+AMod 0 1 0 0 0
+CSphere  0 0 0 0 0
+Sphere 0 0 0 0 0
+Burnout 0
+MaxBurnout 20
+MSphere -1
+Holding 0
+Autoholding 0
+Merits BIJL
+Flaws E
+Pass AeKE/6T1M4GcE~
+Appearance A short man with long dark hair~
+Titl , spun out by the Pattern.~
+Pnts 10
+TSex 1
+LLev 0
+Home 0
+ICLocRecall 8
+HMVP 748 478
+Cnd  0 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 1380499136 General 1380466003 Ideas 1380046497 Personal 1379984957 Guild 1380177741 Stories 1380560845 Bugs 1379733625 Permanent 1380493563 Admin 0 PK 1379688643 Immortal 1380433521 Newplayers 1380570181 
+Sk 46 'dagger'
+Backup 1380570528
+World A
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 3716
+Nest 0
+Wear 0
+Cost 0
+Val  0 0 191 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3701
+Nest 0
+Wear 20
+Cost 10
+End
+
+#O
+Vnum 3704
+Nest 0
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 3729
+Nest 0
+Wear 8
+Cost 25
+End
+
+#O
+Vnum 3730
+Nest 0
+Wear 14
+Cost 50
+End
+
+#O
+Vnum 3743
+Nest 0
+Wear 7
+Cost 50
+End
+
+#END

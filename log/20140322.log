@@ -1,0 +1,51 @@
+Sat Mar 22 14:40:20 2014 :: Sock.sinaddr:  10.0.0.3
+Sat Mar 22 14:40:22 2014 :: Loading Aldea.
+Sat Mar 22 14:40:22 2014 :: [*****] BUG: Fread_char: no match.
+Sat Mar 22 14:40:22 2014 :: [*****] BUG: Lastsite
+Sat Mar 22 14:40:22 2014 :: [*****] BUG: Fread_char: no match.
+Sat Mar 22 14:40:22 2014 :: [*****] BUG: ~
+Sat Mar 22 14:40:22 2014 :: [*****] BUG: Fread_char: no match.
+Sat Mar 22 14:40:22 2014 :: [*****] BUG: ~
+Sat Mar 22 14:40:24 2014 :: Aldea@10.0.0.3 has connected.
+Sat Mar 22 14:40:24 2014 :: Can't open cgi.log file
+Sat Mar 22 14:40:34 2014 :: Log Aldea: medit 22013
+Sat Mar 22 14:40:40 2014 :: Log Aldea: medit 22014
+Sat Mar 22 14:40:44 2014 :: Log Aldea: medit create 22014
+Sat Mar 22 14:44:46 2014 :: Room vnum 22057 have empty room name!
+Sat Mar 22 14:44:46 2014 :: Room vnum 22058 have empty room name!
+Sat Mar 22 14:44:46 2014 :: Room vnum 22489 have empty room name!
+Sat Mar 22 14:47:35 2014 :: Log Aldea: medit create 22015
+Sat Mar 22 14:48:47 2014 :: Log Aldea: medit create 22016
+Sat Mar 22 14:51:15 2014 :: Log Aldea: medit create 22017
+Sat Mar 22 14:53:58 2014 :: Room vnum 22057 have empty room name!
+Sat Mar 22 14:53:58 2014 :: Room vnum 22058 have empty room name!
+Sat Mar 22 14:53:58 2014 :: Room vnum 22489 have empty room name!
+Sat Mar 22 14:54:49 2014 :: Log Aldea: medit create 22018
+Sat Mar 22 14:55:38 2014 :: Log Aldea: medit create 22019
+Sat Mar 22 14:55:44 2014 :: Room vnum 22057 have empty room name!
+Sat Mar 22 14:55:44 2014 :: Room vnum 22058 have empty room name!
+Sat Mar 22 14:55:44 2014 :: Room vnum 22489 have empty room name!
+Sat Mar 22 14:57:34 2014 :: Log Aldea: medit create 22020
+Sat Mar 22 14:57:38 2014 :: Room vnum 22057 have empty room name!
+Sat Mar 22 14:57:38 2014 :: Room vnum 22058 have empty room name!
+Sat Mar 22 14:57:38 2014 :: Room vnum 22489 have empty room name!
+Sat Mar 22 15:03:04 2014 :: Log Aldea: medit create 22021
+Sat Mar 22 15:03:08 2014 :: Room vnum 22057 have empty room name!
+Sat Mar 22 15:03:08 2014 :: Room vnum 22058 have empty room name!
+Sat Mar 22 15:03:08 2014 :: Room vnum 22489 have empty room name!
+Sat Mar 22 15:03:08 2014 :: Log Aldea: medit create 22022
+Sat Mar 22 15:03:12 2014 :: Log Aldea: medit create 22023
+Sat Mar 22 15:03:18 2014 :: Room vnum 22057 have empty room name!
+Sat Mar 22 15:03:18 2014 :: Room vnum 22058 have empty room name!
+Sat Mar 22 15:03:18 2014 :: Room vnum 22489 have empty room name!
+Sat Mar 22 15:08:03 2014 :: Log Aldea: medit create 22024
+Sat Mar 22 15:08:07 2014 :: Log Aldea: medit create 22025
+Sat Mar 22 15:09:27 2014 :: Room vnum 22057 have empty room name!
+Sat Mar 22 15:09:27 2014 :: Room vnum 22058 have empty room name!
+Sat Mar 22 15:09:27 2014 :: Room vnum 22489 have empty room name!
+Sat Mar 22 15:13:55 2014 :: Log Aldea: medit create 22026
+Sat Mar 22 15:13:59 2014 :: Log Aldea: medit create 22027
+Sat Mar 22 15:14:04 2014 :: Log Aldea: medit create 22028
+Sat Mar 22 15:14:27 2014 :: Room vnum 22057 have empty room name!
+Sat Mar 22 15:14:27 2014 :: Room vnum 22058 have empty room name!
+Sat Mar 22 15:14:27 2014 :: Room vnum 22489 have empty room name!

@@ -1,0 +1,106 @@
+#PLAYER
+Name Izzy~
+Email none~
+Id   1377222912
+LogO 1377226799
+Vers 5
+Prom [ %e ] %c {M%h{W//{R%H {Y%m{W//{y%M {C%p{W//{B%P {W[{G%x{W][{C%X{W]{x ~
+Race ghealdanin~
+Quest_Curr    0
+Quest_Accum  0
+Lastlog Thu Aug 22 18:55:11 2013
+~
+Lastsite adsl-74-176-236-77.asm.bellsouth.net~
+Sex  1
+Cla  0
+Levl 1
+Bounty 0
+Sec  0
+Plyd 3888
+RolePlayed 0
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 3750
+HMV  500 500 500 500
+HLoc 166 125 83 250 166 125
+Gold 0
+Silv 0
+Gold_bank 0
+Silv_bank 0
+Exp  0
+Act  DEFGLQT
+AutoAct  ABCG
+ChanFlag  AB
+Comm JPQ
+Comm2 0
+Pos  8
+Alig  0
+ArrCnt  0
+Dam   1
+ACs 97 99 100 100
+Attr 18 18 17 18 17
+AMod 0 0 0 0 0
+CSphere  55 113 154 68 68
+Sphere 3 5 6 3 3
+Burnout 0
+MaxBurnout 20
+MSphere 2
+Holding 0
+Autoholding 0
+Merits EFJ
+Pass Izj/UDXZ4r45w~
+Appearance An elderly man holding a cane~
+Titl  probably wants to change his title.~
+Pnts 10
+TSex 1
+LLev 0
+Home 0
+ICLocRecall 8
+HMVP 500 500
+Cnd  0 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 0 General 0 Ideas 0 Personal 0 Guild 0 Stories 0 Bugs 0 Permanent 0 Admin 0 PK 0 Immortal 0 Newplayers 1377226404 
+Sk 40 'dagger'
+World A
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 3716
+Nest 0
+Wear 0
+Cost 0
+Val  0 0 194 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 3701
+Nest 0
+Wear 20
+Cost 10
+End
+
+#O
+Vnum 3704
+Nest 0
+Wear 13
+Cost 0
+End
+
+#END

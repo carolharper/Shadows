@@ -1,0 +1,643 @@
+#PLAYER
+Name Maelle~
+Email giovanito@gmail.com~
+Id   1391138108
+LogO 1392404800
+Vers 5
+Desc A young woman who stands at five feet and two inches.  Many of her braids
+fall to both sides as if outlining her face in rays of sunlight.  At the end
+of each braid a small bell echoes with a clear ringing sound.  Her sharp
+hazel eyes take in the world as they peer over her petite nose.Her pale
+skin, almost luminescent, seems almost as soft as velvet to the touch. 
+Natural bright red lips curve upwards at the end in a lazy smile as if the
+world would sit at her feet and obey for a kiss.  Her slender frame curves
+gently under her clothing and tapers down to a narrow waist that is
+highlighted by her belt.
+~
+Prom [{R%h{w/{R%Hhp {G%m{w/{G%Men {W%p{w/{W%P{wop] [%xxp] [{Y%gg {y%ss{w] [%e] ~
+Race arafellin~
+Clan WhiteTower~
+Rank 7
+Gtitle {WNovice{w~
+Quest_Curr    301
+Quest_Accum  24801
+Lastlog Fri Feb 14 12:14:29 2014
+~
+Lastsite nat-corp-net22.digitalsafe.net~
+Sex  2
+Cla  0
+Levl 90
+ELevl 132
+Bounty 0
+Sec  0
+Plyd 417368
+RolePlayed 4663
+Scro 22
+PKCount 0
+PKDiedCount 0
+Room 365
+HMV  6279 6279 9070 9070
+HLoc 2093 1569 1046 3139 2093 1569
+Gold 6
+Silv 16123
+Gold_bank 3967
+Silv_bank 0
+Exp  1370
+Act  CDEFGHLQTbc
+AutoAct  ABCDEH
+App  A
+ChanFlag  AB
+Comm JNPQ
+Comm2 0
+Pos  4
+Trai 1863
+Alig  0
+ArrCnt  0
+Hit   156
+Dam   156
+ACs -701 -696 -727 -641
+Attr 10 27 18 15 18
+AMod 9 1 4 11 6
+CSphere  120 57 57 163 56
+Sphere 160 97 97 203 96
+Burnout 0
+MaxBurnout 20
+MSphere 3
+Holding 0
+Autoholding 100
+Merits F
+Flaws E
+Talents BJM
+Pass MagdTQ9Gsqub2~
+Appearance A short, fair-haired woman~
+Titl  Cherilyn, Arafellin Menace~
+Pnts 10
+TSex 2
+LLev 114
+Home 0
+ICLocRecall 8
+HMVP 5359 8350
+Cnd  -1 -1 -1 -1
+Coloura     005 013 003 016 013
+Colourb     005 006 002 001 002
+Colourc     002 007 007 007 007
+Colourd     017 017 017 011 002
+Coloure     003 001 017 012 011
+Colourf     013 015 011 0010 014
+Colourg     014 016 011
+Colourh     015 000 000 000 000
+Boards       12 Announce 1383252745 General 1391136960 Ideas 0 Personal 1391820266 Guild 0 Stories 1392349750 Bugs 0 Permanent 1382152099 Admin 0 PK 0 Immortal 0 Newplayers 1391138136 
+Sk 1 'blindness'
+Sk 108 'control weather'
+Sk 132 'gate'
+Sk 98 'shield block'
+Sk 95 'whip'
+Sk 100 'dodge'
+Sk 95 'parry'
+Sk 103 'embrace'
+Sk 95 'shielding'
+Sk 95 'study residue'
+Sk 124 'dreamgate'
+Sk 117 'thunderclap'
+Sk 95 'slice'
+Sk 112 'skimming'
+Sk 23 'whipmaster'
+Sk 103 'hurricane'
+Sk 104 'mind crush'
+Know 1376449448 'Iero'
+BMtime 1392364372
+Backup 1392270692
+World A
+Webvote 1392261646
+RPTimer 0
+RPBonus 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Wear -1
+Cost 10
+Val  200 1 0 200 50
+End
+
+#O
+Vnum 21146
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 64171
+Nest 1
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 8547
+Nest 1
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 8548
+Nest 1
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 8549
+Nest 1
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 8550
+Nest 1
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 21210
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8560
+Nest 1
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 8627
+Nest 1
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 21239
+Nest 1
+ExtF 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24805
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 17018
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 17011
+Nest 1
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 3137
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3122
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 866
+Nest 1
+Wear -1
+Cost 120
+Spell 1 'cure poison'
+Spell 2 'cure poison'
+End
+
+#O
+Vnum 866
+Nest 1
+Wear -1
+Cost 120
+Spell 1 'cure poison'
+Spell 2 'cure poison'
+End
+
+#O
+Vnum 866
+Nest 1
+Wear -1
+Cost 120
+Spell 1 'cure poison'
+Spell 2 'cure poison'
+End
+
+#O
+Vnum 866
+Nest 1
+Wear -1
+Cost 120
+Spell 1 'cure poison'
+Spell 2 'cure poison'
+End
+
+#O
+Vnum 866
+Nest 1
+Wear -1
+Cost 120
+Spell 1 'cure poison'
+Spell 2 'cure poison'
+End
+
+#O
+Vnum 866
+Nest 1
+Wear -1
+Cost 120
+Spell 1 'cure poison'
+Spell 2 'cure poison'
+End
+
+#O
+Vnum 866
+Nest 1
+Wear -1
+Cost 120
+Spell 1 'cure poison'
+Spell 2 'cure poison'
+End
+
+#O
+Vnum 866
+Nest 1
+Wear -1
+Cost 120
+Spell 1 'cure poison'
+Spell 2 'cure poison'
+End
+
+#O
+Vnum 866
+Nest 1
+Wear -1
+Cost 120
+Spell 1 'cure poison'
+Spell 2 'cure poison'
+End
+
+#O
+Vnum 866
+Nest 1
+Wear -1
+Cost 120
+Spell 1 'cure poison'
+Spell 2 'cure poison'
+End
+
+#O
+Vnum 866
+Nest 1
+Wear -1
+Cost 120
+Spell 1 'cure poison'
+Spell 2 'cure poison'
+End
+
+#O
+Vnum 866
+Nest 1
+Wear -1
+Cost 120
+Spell 1 'cure poison'
+Spell 2 'cure poison'
+End
+
+#O
+Vnum 866
+Nest 1
+Wear -1
+Cost 120
+Spell 1 'cure poison'
+Spell 2 'cure poison'
+End
+
+#O
+Vnum 866
+Nest 1
+Wear -1
+Cost 120
+Spell 1 'cure poison'
+Spell 2 'cure poison'
+End
+
+#O
+Vnum 866
+Nest 1
+Wear -1
+Cost 120
+Spell 1 'cure poison'
+Spell 2 'cure poison'
+End
+
+#O
+Vnum 866
+Nest 1
+Wear -1
+Cost 120
+Spell 1 'cure poison'
+Spell 2 'cure poison'
+End
+
+#O
+Vnum 866
+Nest 1
+Wear -1
+Cost 120
+Spell 1 'cure poison'
+Spell 2 'cure poison'
+End
+
+#O
+Vnum 866
+Nest 1
+Wear -1
+Cost 120
+Spell 1 'cure poison'
+Spell 2 'cure poison'
+End
+
+#O
+Vnum 5864
+Nest 0
+Wear -1
+Cost 150
+Val  20 1 0 25 -1
+End
+
+#O
+Vnum 21245
+Nest 1
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 5865
+Nest 1
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 5868
+Nest 1
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 14187
+Nest 1
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 309
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24806
+Nest 1
+Wear -1
+Cost 15
+End
+
+#O
+Vnum 6340
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1665
+Nest 0
+Wear 0
+Cost 0
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 28020
+Nest 0
+Cond 37
+Wear 7
+Cost 1000
+End
+
+#O
+Vnum 65042
+Nest 0
+Wear 10
+Cost 90
+End
+
+#O
+Vnum 39656
+Nest 0
+Cond 48
+Wear 12
+Cost 100
+End
+
+#O
+Vnum 58072
+Nest 0
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 7515
+Nest 0
+Wear 14
+Cost 300
+End
+
+#O
+Vnum 39643
+Nest 0
+Cond 40
+Wear 25
+Cost 0
+End
+
+#O
+Vnum 39645
+Nest 0
+Wear 16
+Cost 50
+End
+
+#O
+Vnum 39644
+Nest 0
+Wear 24
+Cost 150
+End
+
+#O
+Vnum 64173
+Nest 0
+Wear 15
+Cost 60
+End
+
+#O
+Vnum 14881
+Nest 0
+ShD  {wa {yg{Yo{wl{Yd{yen {ys{Re{yrp{re{ynt {wring{x~
+Wear 4
+Cost 200
+End
+
+#O
+Vnum 14881
+Nest 0
+ShD  {wa {yg{Yo{wl{Yd{yen s{re{yrp{Re{ynt {wring{x{x~
+Wear 3
+Cost 200
+End
+
+#O
+Vnum 65040
+Nest 0
+Cond 84
+Wear 9
+Cost 90
+End
+
+#O
+Vnum 44
+Nest 0
+Owner Maelle~
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 6341
+Nest 0
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 17038
+Nest 0
+Wear 13
+Cost 100
+End
+
+#O
+Vnum 44
+Nest 0
+Owner Maelle~
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 1661
+Nest 0
+Cond 97
+Wear 8
+Cost 60
+End
+
+#O
+Vnum 40031
+Nest 0
+Owner Maelle~
+Wear 23
+Cost 3000
+End
+
+#O
+Vnum 65043
+Nest 0
+Wear 11
+Cost 90
+End
+
+#O
+Vnum 39578
+Nest 0
+Wear 20
+Cost 50
+End
+
+#O
+Vnum 16976
+Nest 0
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 65100
+Nest 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 40048
+Nest 0
+Owner Maelle~
+Wear 19
+Cost 7000
+End
+
+#O
+Vnum 58424
+Nest 0
+Wear 18
+Cost 10
+End
+
+#O
+Vnum 58424
+Nest 0
+Wear 17
+Cost 10
+End
+
+#END
