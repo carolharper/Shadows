@@ -979,7 +979,7 @@ int can_carry_n( CHAR_DATA *ch )
     if ( IS_NPC(ch) && IS_SET(ch->act, ACT_PET) )
 	return 0;
 
-    return MAX_WEAR +  2 * get_curr_stat(ch,STAT_DEX) + ch->level;
+    return MAX_WEAR +  2 * get_curr_stat(ch,STAT_STR) + ((ch->level * 3) / 2);
 }
 
 
@@ -995,7 +995,7 @@ int can_carry_w( CHAR_DATA *ch )
     if ( IS_NPC(ch) && IS_SET(ch->act, ACT_PET) )
 	return 0;
 
-    return str_app[get_curr_stat(ch,STAT_STR)].carry * 10 + ch->level * 25;
+    return str_app[get_curr_stat(ch,STAT_STR)].carry * 10 + ch->level * 50;
 }
 
 
@@ -3669,9 +3669,9 @@ bool can_see( CHAR_DATA *ch, CHAR_DATA *victim )
 	return FALSE;
    }
    
-   if (ch->level > victim->invis_level) {
-	return TRUE;
-	}
+   // if (ch->level > victim->invis_level) {
+	// return TRUE;
+	// }
    
    if ( (!IS_NPC(ch) && IS_SET(ch->act, PLR_HOLYLIGHT)) 
 	   ||   (IS_NPC(ch) && IS_IMMORTAL(ch)))
@@ -3726,7 +3726,7 @@ bool can_see( CHAR_DATA *ch, CHAR_DATA *victim )
 	int chance;
 	chance = get_skill(ch,gsn_observation)/2 + get_skill(ch,gsn_awareness);
 	chance -= (number_percent() / 2);
-	chance -= (get_skill(victim,gsn_hide) + get_skill(victim,gsn_camouflage) )/ 2;
+	chance -= get_skill(victim,gsn_hide); // + get_skill(victim,gsn_camouflage) )/ 2  //camouflage is currently disabled as a skill for morts, so removing it from the computation
 	
 	if (IS_SET(victim->merits, MERIT_STEALTHY)) {
 	   chance -= 20;

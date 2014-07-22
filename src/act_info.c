@@ -54,7 +54,7 @@ int find_exit( CHAR_DATA *ch, char *arg );          /* act_move.c */
 
 char *	const	where_name	[] =
 {
-    "floating as light  ",
+   "floating as light  ",
     "floating nearby    ",
     "tattoo             ",
     "worn on finger     ",
@@ -2066,12 +2066,12 @@ void do_colorcloak(CHAR_DATA *ch, char *argument)
   if (IS_SET(ch->app,APP_COLORCLOAKED)) {
     send_to_char("You open the fancloth cloak and remove your abilities to blend into the surroundings.\n\r",ch);
     REMOVE_BIT(ch->app,APP_COLORCLOAKED);
-    act("$n opens $s color-shifting cloak and reveal $m self.", ch, NULL, NULL, TO_ROOM);
+    act("$n opens $s color-shifting cloak and reveals $mself.", ch, NULL, NULL, TO_ROOM);
   }
   else {
     send_to_char("You spread the fancloth cloak around your self and your equipment, and blend into the surroundings.\n\r", ch);
     SET_BIT(ch->app,APP_COLORCLOAKED);
-    act("$n closes $s color-shifting cloak and blend into the surroundings.", ch, NULL, NULL, TO_ROOM);
+    act("$n closes $s color-shifting cloak and blends into the surroundings.", ch, NULL, NULL, TO_ROOM);
   }
 }
 
@@ -2795,7 +2795,7 @@ void do_look( CHAR_DATA *ch, char *argument )
 	   }
 
 	 send_to_char("{O",ch);
-	 show_list_to_char( ch->in_room->contents, ch, FALSE, FALSE, FALSE, TRUE );
+	 show_list_to_char( ch->in_room->contents, ch, FALSE, FALSE, FALSE, FALSE );
 	 send_to_char("{P",ch);
 	 show_char_to_char( ch->in_room->people,   ch, FALSE );
 	 send_to_char("{x",ch);
@@ -2810,7 +2810,7 @@ void do_look( CHAR_DATA *ch, char *argument )
          {
           send_to_char(pdesc, ch);
          }
-         show_list_to_char(obj->contains, ch, FALSE, FALSE, FALSE, TRUE);
+         show_list_to_char(obj->contains, ch, FALSE, FALSE, FALSE, FALSE);
          show_char_to_char(ch->in_room->people, ch, TRUE);
          return;
        }
@@ -2877,7 +2877,7 @@ void do_look( CHAR_DATA *ch, char *argument )
     char_from_room( ch );
     char_to_room( ch, original);
 
-    show_list_to_char( location->contents, ch, FALSE, FALSE, FALSE, TRUE );
+    show_list_to_char( location->contents, ch, FALSE, FALSE, FALSE, FALSE );
     show_char_to_char( location->people,   ch, FALSE);
     return;
     break;
@@ -2885,15 +2885,13 @@ void do_look( CHAR_DATA *ch, char *argument )
 	case ITEM_QUIVER:
 			if (obj->value[0] <= 0)
 			{
-				sprintf(buffer, "The quiver is out of arrows.\n\r");
-				send_to_char(buffer,ch);
+				send_to_char(ch, "The quiver is out of arrows.\n\r");
 				break;
 			}
 
 			if (obj->value[0] == 1)
 			{
-			    sprintf(buffer, "The quiver has 1 arrow remaining in it.\n\r");
-				send_to_char(buffer,ch);
+				send_to_char(ch, "The quiver has 1 arrow remaining in it.\n\r");
 				break;
 			}
 
@@ -3286,7 +3284,7 @@ void do_search( CHAR_DATA *ch, char *argument )
 	   }
 
 	 send_to_char("{O",ch);
-	 show_list_to_char( ch->in_room->contents, ch, FALSE, FALSE, FALSE, TRUE );
+	 show_list_to_char( ch->in_room->contents, ch, FALSE, FALSE, FALSE, FALSE );
 	 send_to_char("{P",ch);
 	 show_char_to_char( ch->in_room->people,   ch, FALSE );
 	 send_to_char("{x",ch);
@@ -3301,7 +3299,7 @@ void do_search( CHAR_DATA *ch, char *argument )
          {
           send_to_char(pdesc, ch);
          }
-         show_list_to_char(obj->contains, ch, FALSE, FALSE, FALSE, TRUE);
+         show_list_to_char(obj->contains, ch, FALSE, FALSE, FALSE, FALSE);
          show_char_to_char(ch->in_room->people, ch, TRUE);
          return;
        }
@@ -3367,7 +3365,7 @@ void do_search( CHAR_DATA *ch, char *argument )
     char_from_room( ch );
     char_to_room( ch, original);
 
-    show_list_to_char( location->contents, ch, FALSE, FALSE, FALSE, TRUE );
+    show_list_to_char( location->contents, ch, FALSE, FALSE, FALSE, FALSE );
     show_char_to_char( location->people,   ch, FALSE);
     return;
     break;
@@ -3960,7 +3958,7 @@ void do_score( CHAR_DATA *ch, char *argument )
   }
   
   if ( is_tguild(ch) ) {
-    sprintf( buf, "TGuild: %23s  Rank: %2d  Title: %s{x\n\r",
+    sprintf( buf, "SSGuild: %23s  Rank: %2d  Title: %s{x\n\r",
 		   player_tguild(ch), ch->tguild_rank+1, ch->tguild_title ? ch->tguild_title : player_tguild_rank(ch));
     send_to_char(buf, ch);
   }
@@ -4963,7 +4961,7 @@ void do_time( CHAR_DATA *ch, char *argument )
 	     day, suf,
 	     month_name[time_info.month]);
     send_to_char(buf,ch);
-    sprintf(buf,"{DShadows{x of the {WWheel{x started up at %s"
+    sprintf(buf,"{RAge of Illusion{x started up at %s"
 	    "The system time is %s", str_boot_time,
 	    (char *) ctime(&current_time));
     send_to_char( buf, ch );
@@ -5520,7 +5518,7 @@ void do_who( CHAR_DATA *ch, char *argument )
    secs    = (up_time % 60);
 	
    /* Build the string */
-   sprintf( buf2, "{DShadows{x of the {WWheel{x has been running for ");
+   sprintf( buf2, "{RAge of Illusion{x has been running for ");
 
    if (use_christmas_layout()) {
       sprintf(buf, "[{G%02d{xd:{G%02d{xh:{G%02d{xm:{G%02d{xs] ", days, hours, mins, secs);
@@ -5643,7 +5641,7 @@ void do_webwho()
     fillers = (18 - colorstrlen(pcs[i]->pcdata->imm_info));
     
     if (pcs[i]->level >= LEVEL_HERO) {	
-       sprintf( buf, "{w[<font=\"courier\">%s%*s{w][{W%s%s%s%s%s%s%s%s%s%s%s{w]{x %s%s{x<BR></font>",
+       sprintf( buf, "{w[%s%*s{w][{W%s%s%s%s%s%s%s%s%s%s%s{w]{x %s%s{x<BR>",
 		IS_NPC(pcs[i])                             ? ""  : pcs[i]->pcdata->imm_info,
 		fillers, "",
 		IS_SET(pcs[i]->comm,COMM_AFK)              ? "A" : " ",
@@ -5665,14 +5663,14 @@ void do_webwho()
 	  strcat(out_buf_imm, buf);
      }
      else {
-       sprintf( buf, "{w[<font=\"courier\">{W%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s{w]{x %s%s{x<BR><\font>",
+       sprintf( buf, "{w[{W%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s{w]{x %s%s{x<BR>",
 		IS_SET(pcs[i]->comm,COMM_AFK)           ? "A" : " ",
 		IS_SET(pcs[i]->comm,COMM_NOCHAT)        ? "C" : " ",
 	//Don't show mortal dreamers to the web
-	
+	/*
          (IS_SET(pcs[i]->world, WORLD_TAR_FLESH) ||
           IS_SET(pcs[i]->world, WORLD_TAR_DREAM)) ? "D" : " ",
-	
+	*/
 	  " ",
           pcs[i]->editor                          ? "E" : " ",
 	  //No reason to show people levelling
@@ -5684,7 +5682,7 @@ void do_webwho()
 	//	pcs[i]->timer > 3                       ? "I" : " ",
 	" ",
 	//Don't show linkdead to the web
-          pcs[i]->desc == NULL                    ? "L" : " ",
+        //  pcs[i]->desc == NULL                    ? "L" : " ",
 	" ",
 	//Don't show who is writing notes to the web
 	//pcs[i]->pcdata->in_progress             ? "N" : " ",
@@ -5715,7 +5713,7 @@ void do_webwho()
    /* Will store max_on_ever to a file if larger */
    set_counterhistory();
    
-   sprintf( buf2, "\n<br><b>{xPlayers found: {y%d{x."
+   sprintf( buf2, "\n{xPlayers found: {y%d{x."
 		  "  Best count this startup: {y%d{x.  Ever: {y%d{x.<BR>", nMatch, max_on, max_on_ever);
    strcat(out_buf_mort, buf2);
 
@@ -5727,7 +5725,7 @@ void do_webwho()
    secs    = (up_time % 60);
    
    /* Build the string */
-   sprintf( buf2, "{WShadows of the Wheel{x has been running for ");
+   sprintf( buf2, "{WAge of Illusion{x has been running for ");
    
    sprintf(buf, "[{y%02d{xd:{y%02d{xh:{y%02d{xm:{y%02d{xs] ", days, hours, mins, secs);
    strcat(buf2, buf);
@@ -5738,34 +5736,27 @@ void do_webwho()
 
 
    /* Send to char the buffers */
-   sprintf(filename, "%s%s.html", WEB_DIR, "who");
-  // sprintf(filename, "../../public_html/%s.html", "who");
-  // sprintf(buf,"<%s> written.", filename);
-  //log_string(buf);
+   //sprintf(filename, "%s%s.html", WEB_DIR, "who");
+   sprintf(filename, "../../public_html/%s.html", "who");
    if ((wfp = fopen(filename, "w")) == NULL) {
 	sprintf(buf, "Unable to open <%s> for write.", filename);
 	log_string(buf);
 	return;
    }
-   fprintf(wfp,"<!DOCTYPE html>\n");
-   fprintf(wfp,"<html>\n<link rel=\"stylesheet\" type=\"text\/css\" href=\"shadows.css\">\n");
- //  fprintf(wfp, "<BODY TEXT=\"darkgray\" BGCOLOR=\"black\" LINK=\"darkgray\">");
-//   fprintf(wfp, "<FONT FACE=\"Courier\"><B>\n");
-//   fprintf(wfp, "<PRE><H1>Shadows of the Wheel Online players</H1>");
-
+   
+   fprintf(wfp, "<BODY TEXT=\"darkgray\" BGCOLOR=\"black\" LINK=\"darkgray\">");
+   fprintf(wfp, "<FONT FACE=\"Courier\"><B>\n");
+   fprintf(wfp, "<PRE><H1>Age of Illusion Online players</H1>");
+   fprintf(wfp, "Created with webwho Copyright &copy; 1995-2013 by Age of Illusion\n");
    sprintf(buf, "%s",  (char *) ctime(&current_time));
    buf[strlen(buf)-1] = '\0';
-   fprintf(wfp, "<pre><h3>Last update at <FONT COLOR=\"goldenrod\">%s</FONT> [next update in <FONT=\"consolas\" COLOR=\"goldenrod\">%d</FONT> minutes]<br>", buf, (PULSE_WEB/PULSE_PER_SECOND)/60);
+   fprintf(wfp, "Last update at <FONT COLOR=\"goldenrod\">%s</FONT> [next update in <FONT COLOR=\"goldenrod\">%d</FONT> minutes]\n", buf, (PULSE_WEB/PULSE_PER_SECOND)/60);
 
    immptr  = strdup(out_buf_imm);
    mortptr = strdup(out_buf_mort);
    
    fprintf(wfp, color2web(immptr));
    fprintf(wfp, color2web(mortptr));
-   fprintf(wfp, "</h3>");
-   fprintf(wfp, "<h4>Created with webwho Copyright &copy; 2014 by Shadows of the Wheel</h4><br>");
-   fprintf(wfp,"</body>\n");
-   fprintf(wfp,"</html>");
    fclose(wfp);
   
    return;
@@ -5789,11 +5780,11 @@ void do_whoinvis( CHAR_DATA *ch, char *argument )
 	return;
    }
 
-   if (!IS_IMMORTAL(ch))
+   /*if (!IS_IMMORTAL(ch))
    {
    send_to_char("Only immortals can be whoinvis.\r\n",ch);
    }
-   
+   */
    
    if ( ch->incog_level) {
       ch->incog_level = 0;
@@ -6418,8 +6409,8 @@ void do_title( CHAR_DATA *ch, char *argument )
     return;
   }
   
-  if ( colorstrlen(argument) > 55 ) {    
-    send_to_char("Titles must be less than 55 characters long (not including color codes).\n\r", ch);
+  if ( colorstrlen(argument) > 75 ) {    
+    send_to_char("Titles must be less than 75 characters long (not including color codes).\n\r", ch);
     return;
   }
   
@@ -6725,8 +6716,7 @@ void do_wounddescription( CHAR_DATA *ch, char *argument )
     }
     
     if ( strlen(buf) >= 1024) {
-	 sprintf(buf, "Wound description too long.\n\r");
-	 send_to_char(buf, ch );
+	 send_to_char( "Wound description too long.\n\r", ch );
 	 return;
     }
     
@@ -7876,7 +7866,7 @@ bool vote_click_check(CHAR_DATA *ch)
   
   // File name
   //sprintf(filename, "%s%s", WEB_DIR, "logs/logfile.txt");
-  sprintf(filename, "../../public_html/shadows/logs/cgi.log");
+  sprintf(filename, "../../public_html/log/cgi.log");
   
   // Open file for read
   if ((fp = fopen(filename, "r")) == NULL) {

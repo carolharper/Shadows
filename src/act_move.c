@@ -2557,6 +2557,7 @@ void do_sneak( CHAR_DATA *ch, char *argument )
 	affect_to_char( ch, &af );
     }
     else
+	send_to_char("You aren't as sneaky as you think you are.\n\r",ch);
 	check_improve(ch,gsn_sneak,FALSE,3);
 
     return;
@@ -2728,7 +2729,7 @@ void do_graduate(CHAR_DATA *ch, char *argument)
 
   act( "$n graduates from newbie school.", ch, NULL, NULL, TO_ROOM );
   send_to_char("\nCongratulation! You graduate from Newbie School.\n\r", ch);
-  send_to_char("You may now start to explore the realms of the Shadows of the Wheel.\n\r", ch);
+  send_to_char("You may now start to explore the realms of the {RAge of Illusions{x.\n\r", ch);
   send_to_char("Please try to have fun.\n\n\r", ch);
 
   char_from_room( ch );
@@ -2801,7 +2802,7 @@ void do_recall( CHAR_DATA *ch, char *argument )
 		location = get_room_index( ROOM_VNUM_RECALL );
          }
 	 else
-	 	 if (!str_prefix(argument,"osenrein"))
+	 if (!str_prefix(argument,"osenrein"))
 	 {
 		location = get_room_index(ROOM_VNUM_RECALL_OSENREIN );
 	 }
@@ -2868,8 +2869,9 @@ void do_recall( CHAR_DATA *ch, char *argument )
 	 if (!str_prefix(argument,"sholarbella"))
 	 {
 		location = get_room_index( ROOM_VNUM_RECALL_SHOLARBELLA );
-         }
-	 else */ {
+         } 
+    */
+	 else {
 		location = find_city(ch,argument);
          }
 	 if ( ( location == NULL )) {

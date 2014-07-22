@@ -1257,18 +1257,18 @@ void do_envenom(CHAR_DATA *ch, char *argument)
 
     if (obj->item_type == ITEM_WEAPON)
     {
-        if (IS_WEAPON_STAT(obj,WEAPON_FLAMING)
-        ||  IS_WEAPON_STAT(obj,WEAPON_FROST)
-        ||  IS_WEAPON_STAT(obj,WEAPON_VAMPIRIC)
-        //||  IS_WEAPON_STAT(obj,WEAPON_SHARP)
-        ||  IS_WEAPON_STAT(obj,WEAPON_VORPAL)
-        ||  IS_WEAPON_STAT(obj,WEAPON_SHOCKING)
-        ||  IS_OBJ_STAT(obj,ITEM_BLESS) 
-		|| IS_OBJ_STAT(obj,ITEM_BURN_PROOF))
-        {
-            act("You can't seem to envenom $p.",ch,obj,NULL,TO_CHAR);
-            return;
-        }
+        // if (IS_WEAPON_STAT(obj,WEAPON_FLAMING)
+        // ||  IS_WEAPON_STAT(obj,WEAPON_FROST)
+        // ||  IS_WEAPON_STAT(obj,WEAPON_VAMPIRIC)
+        // ||  IS_WEAPON_STAT(obj,WEAPON_SHARP)
+        // ||  IS_WEAPON_STAT(obj,WEAPON_VORPAL)
+        // ||  IS_WEAPON_STAT(obj,WEAPON_SHOCKING)
+        // ||  IS_OBJ_STAT(obj,ITEM_BLESS) 
+		// || IS_OBJ_STAT(obj,ITEM_BURN_PROOF))
+        // {
+            // act("You can't seem to envenom $p.",ch,obj,NULL,TO_CHAR);
+            // return;
+        // }
 
 	if (obj->value[3] < 0 
 	||  attack_table[obj->value[3]].damage == DAM_BASH)
@@ -5665,7 +5665,7 @@ void do_swap (CHAR_DATA *ch, char *argument)
 			equip_char(ch, wield2, WEAR_WIELD);
 			SET_BIT(wield1->extra_flags, ITEM_NOREMOVE);
 			equip_char(ch, wield1, WEAR_SECOND_WIELD);
-			send_to_char("You toss your weapons into the air in a tricy manuever and swap from hand to hand.\n\r",ch);
+			send_to_char("You toss your weapons into the air in a tricky manuever and swap from hand to hand.\n\r",ch);
 			return;
 		} 
 		
@@ -5677,7 +5677,7 @@ void do_swap (CHAR_DATA *ch, char *argument)
 			SET_BIT(wield2->extra_flags, ITEM_NOREMOVE);
 			equip_char(ch, wield2, WEAR_WIELD);
 			equip_char(ch, wield1, WEAR_SECOND_WIELD);
-			send_to_char("You toss your weapons into the air in a tricy manuever and swap from hand to hand.\n\r",ch);
+			send_to_char("You toss your weapons into the air in a tricky manuever and swap from hand to hand.\n\r",ch);
 			return;
 		}
 		
@@ -5691,7 +5691,7 @@ void do_swap (CHAR_DATA *ch, char *argument)
 			equip_char(ch, wield2, WEAR_WIELD);
 			SET_BIT(wield1->extra_flags, ITEM_NOREMOVE);
 			equip_char(ch, wield1, WEAR_SECOND_WIELD);
-			send_to_char("You toss your weapons into the air in a tricy manuever and swap from hand to hand.\n\r",ch);
+			send_to_char("You toss your weapons into the air in a tricky manuever and swap from hand to hand.\n\r",ch);
 			return;
 			
 		}
@@ -5700,7 +5700,7 @@ void do_swap (CHAR_DATA *ch, char *argument)
 			remove_obj(ch, WEAR_WIELD, TRUE);
 			equip_char(ch, wield2, WEAR_WIELD);
 			equip_char(ch, wield1, WEAR_SECOND_WIELD);
-			send_to_char("You toss your weapons into the air in a tricy manuever and swap from hand to hand.\n\r",ch);
+			send_to_char("You toss your weapons into the air in a tricky manuever and swap from hand to hand.\n\r",ch);
 			return;
 		}
     }

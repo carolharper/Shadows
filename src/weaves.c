@@ -327,7 +327,7 @@ void spell_create_angreal( int sn, int level, CHAR_DATA *ch, void *vo,int target
 
   // If no modifiers, it's destroyed
   if (!isAngreal) {
-    sprintf(buf, "You focus greatly on $p as you combine the flows of %s, but somehow when the pattern snap in place %s break into dust!", (char *)flow_text(sn, ch), angreal->short_descr);
+    sprintf(buf, "You focus greatly on $p as you combine the flows of %s, but when the pattern snaps in place %s crumbles into dust!", (char *)flow_text(sn, ch), angreal->short_descr);
     act(buf, ch, angreal, NULL, TO_CHAR);
     
     act("$n seems to concentrate deeply on $p for a long time then it suddenly break into dust!.", ch, angreal, NULL, TO_ROOM);
@@ -2345,7 +2345,7 @@ void spell_minor_heal( int sn, int level, CHAR_DATA *ch, void *vo,int target )
   // It's a object with weave affect, like a pill
   // Since ch == victim is not a legal cast for this
   if (ch == victim)
-     ch_flows = level*2;
+     ch_flows += ch->level*2;
 
   if (!IS_NPC(ch)) {
     if (IS_SET(ch->talents, skill_table[sn].talent_req)) {
@@ -2405,7 +2405,8 @@ void spell_heal( int sn, int level, CHAR_DATA *ch, void *vo,int target )
   CHAR_DATA *victim = (CHAR_DATA *) vo;
   long ch_flows = 0;
   int i = 0;
-
+	//level = ch->level;
+  
   if (ch->fighting == victim) {
      send_to_char("You are not able to concentrate enough to heal someone you are fighting.\n\r", ch);
      return;	
@@ -2420,7 +2421,7 @@ void spell_heal( int sn, int level, CHAR_DATA *ch, void *vo,int target )
   // It's a object with weave affect, like a pill
   // Since ch == victim is not a legal cast for this
   if (ch == victim)
-     ch_flows = level*2;
+     ch_flows += ch->level*2;
   
   if (!IS_NPC(ch)) {
     if (IS_SET(ch->talents, skill_table[sn].talent_req)) {
@@ -2481,6 +2482,8 @@ void spell_major_heal( int sn, int level, CHAR_DATA *ch, void *vo,int target )
   long ch_flows = 0;
   int i = 0;
 
+	level = ch->level;
+	
   if (ch->fighting == victim) {
      send_to_char("You are not able to concentrate enough to heal someone you are fighting.\n\r", ch);
      return;	
@@ -2499,7 +2502,7 @@ void spell_major_heal( int sn, int level, CHAR_DATA *ch, void *vo,int target )
   // It's a object with weave affect, like a pill
   // Since ch == victim is not a legal cast for this
   if (ch == victim)
-     ch_flows = level*2;  
+     ch_flows = ch->level*2;  
   
   victim->hit = UMIN( victim->hit + (ch_flows*2), victim->max_hit );
   victim->hit_loc[LOC_LA] = UMIN( victim->hit_loc[LOC_LA] + ((ch_flows*2)/LOC_MOD_LA), get_max_hit_loc(victim, LOC_LA));
@@ -5905,9 +5908,9 @@ void spell_spinning_earthfire( int sn, int level, CHAR_DATA *ch, void *vo,int ta
     rdam = number_range(dam/2, dam);
     rdam = (rdam * 5) / 4;
     damage(ch, victim, rdam, sn, DAM_FIRE, TRUE);
-    act("Roaring {rf{Yl{ra{Ym{re{Ys{x suddenly burst from the {ye{Da{yr{Dt{yh{x and spin {Rviolently{x around $N!", ch, NULL, victim, TO_NOTVICT);
-    act("You make roaring {rf{Yl{ra{Ym{re{Ys{x suddenly burst from the {ye{Da{yr{Dt{yh{x and spin {Rviolently{x around $N!", ch, NULL, victim, TO_CHAR);
-    act("Roaring {rf{Yl{ra{Ym{re{Ys{x suddenly burst from the {ye{Da{yr{Dt{yh{x and spin {Rviolently{x around you!", ch, NULL, victim, TO_VICT);
+//    act("Roaring {rf{Yl{ra{Ym{re{Ys{x suddenly burst from the {ye{Da{yr{Dt{yh{x and spin {Rviolently{x around $N!", ch, NULL, victim, TO_NOTVICT);
+ //   act("You make roaring {rf{Yl{ra{Ym{re{Ys{x suddenly burst from the {ye{Da{yr{Dt{yh{x and spin {Rviolently{x around $N!", ch, NULL, victim, TO_CHAR);
+//    act("Roaring {rf{Yl{ra{Ym{re{Ys{x suddenly burst from the {ye{Da{yr{Dt{yh{x and spin {Rviolently{x around you!", ch, NULL, victim, TO_VICT);
   }
 
   for ( vch = char_list; vch != NULL; vch = vch_next ) {
@@ -5935,9 +5938,9 @@ void spell_spinning_earthfire( int sn, int level, CHAR_DATA *ch, void *vo,int ta
 			  if (vch->position == POS_DEAD)
 				  continue;
 			  if (rings > 1 && number_chance(10*i)) {
-				  act("Roaring {rf{Yl{ra{Ym{re{Ys{x suddenly burst from the {ye{Da{yr{Dt{yh{x and spin {Rviolently{x around $N!", ch, NULL, vch, TO_NOTVICT);
-				  act("You make roaring {rf{Yl{ra{Ym{re{Ys{x suddenly burst from the {ye{Da{yr{Dt{yh{x and spin {Rviolently{x around $N!", ch, NULL, vch, TO_CHAR);
-				  act("Roaring {rf{Yl{ra{Ym{re{Ys{x suddenly burst from the {ye{Da{yr{Dt{yh{x and spin {Rviolently{x around you!", ch, NULL, vch, TO_VICT);
+//				  act("Roaring {rf{Yl{ra{Ym{re{Ys{x suddenly burst from the {ye{Da{yr{Dt{yh{x and spin {Rviolently{x around $N!", ch, NULL, vch, TO_NOTVICT);
+//				  act("You make roaring {rf{Yl{ra{Ym{re{Ys{x suddenly burst from the {ye{Da{yr{Dt{yh{x and spin {Rviolently{x around $N!", ch, NULL, vch, TO_CHAR);
+//				  act("Roaring {rf{Yl{ra{Ym{re{Ys{x suddenly burst from the {ye{Da{yr{Dt{yh{x and spin {Rviolently{x around you!", ch, NULL, vch, TO_VICT);
 				  rdam = number_range(dam/2, dam);
 				  rdam = (rdam * 4) / 3;
 				  damage(ch, vch, rdam, sn, DAM_FIRE, TRUE);
@@ -5987,9 +5990,9 @@ void spell_spinning_earthfire( int sn, int level, CHAR_DATA *ch, void *vo,int ta
 		  }
 	  } else {
 		  if (number_percent() > 50 )  {
-			  act("Roaring {rf{Yl{ra{Ym{re{Ys{x suddenly burst from the {ye{Da{yr{Dt{yh{x and spin {Rviolently{x around $N!", ch, NULL, vch, TO_NOTVICT);
-			  act("You make roaring {rf{Yl{ra{Ym{re{Ys{x suddenly burst from the {ye{Da{yr{Dt{yh{x and spin {Rviolently{x around $N!", ch, NULL, vch, TO_CHAR);
-			  act("Roaring {rf{Yl{ra{Ym{re{Ys{x suddenly burst from the {ye{Da{yr{Dt{yh{x and spin {Rviolently{x around you!", ch, NULL, vch, TO_VICT);
+//			  act("Roaring {rf{Yl{ra{Ym{re{Ys{x suddenly burst from the {ye{Da{yr{Dt{yh{x and spin {Rviolently{x around $N!", ch, NULL, vch, TO_NOTVICT);
+//			  act("You make roaring {rf{Yl{ra{Ym{re{Ys{x suddenly burst from the {ye{Da{yr{Dt{yh{x and spin {Rviolently{x around $N!", ch, NULL, vch, TO_CHAR);
+//			  act("Roaring {rf{Yl{ra{Ym{re{Ys{x suddenly burst from the {ye{Da{yr{Dt{yh{x and spin {Rviolently{x around you!", ch, NULL, vch, TO_VICT);
 			  if (vch->position == POS_DEAD)
 				  continue;
 			  rdam = number_range(dam/2, dam);
@@ -6046,9 +6049,9 @@ void spell_mind_crush( int sn, int level, CHAR_DATA *ch, void *vo, int target )
     rdam = number_range(dam/2, dam);
     rdam = (rdam * 5) / 4;
     damage(ch, victim, rdam, sn, DAM_HOLY, TRUE);
-    act ("$N screams as $E is overcome with excruciating {Rp{Dai{Rn{x!", ch, NULL, victim, TO_NOTVICT);
-    act ("$N screams as $E is overcome with excruciating {Rp{Dai{Rn{x from your {YMind Crush!{x", ch, NULL, victim, TO_CHAR);
-    act ("You scream as you are overcome with excruciating {Rp{Dai{Rn{x!", ch, NULL, victim, TO_VICT);
+ //   act ("$N screams as $E is overcome with excruciating {Rp{Dai{Rn{x!", ch, NULL, victim, TO_NOTVICT);
+ //   act ("$N screams as $E is overcome with excruciating {Rp{Dai{Rn{x from your {YMind Crush!{x", ch, NULL, victim, TO_CHAR);
+//   act ("You scream as you are overcome with excruciating {Rp{Dai{Rn{x!", ch, NULL, victim, TO_VICT);
   }
 
   return;
@@ -6098,9 +6101,9 @@ void spell_arrows_of_fire( int sn, int level, CHAR_DATA *ch, void *vo, int targe
     rdam = number_range(dam/2, dam);
     rdam = (rdam * 5) / 4;
     damage(ch, victim, rdam, sn, DAM_FIRE, TRUE);
-    act ("$N shudders as $n's arrows of {rf{Yir{re{x pierces through $M!", ch, NULL, victim, TO_NOTVICT);
-    act ("$N shudders as your arrows of {rf{Yir{re{x pierces through $M!", ch, NULL, victim, TO_CHAR);
-    act ("You shudder as $n's arrows of {rf{Yir{re{x pierce through you!", ch, NULL, victim, TO_VICT);
+//    act ("$N shudders as $n's arrows of {rf{Yir{re{x pierces through $M!", ch, NULL, victim, TO_NOTVICT);
+//    act ("$N shudders as your arrows of {rf{Yir{re{x pierces through $M!", ch, NULL, victim, TO_CHAR);
+ //   act ("You shudder as $n's arrows of {rf{Yir{re{x pierce through you!", ch, NULL, victim, TO_VICT);
   }
 
   return;
@@ -6191,9 +6194,9 @@ void spell_earthen_grasp( int sn, int level, CHAR_DATA *ch, void *vo, int target
     rdam = number_range(dam/2, dam);
     rdam = (rdam * 5) / 4;
     damage(ch, victim, rdam, sn, DAM_PIERCE, TRUE);
-    act ("$N bellows as $E is swallowed by the {yea{Yr{yth{x!", ch, NULL, victim, TO_NOTVICT);
-    act ("$N bellows as $E is swallowed by the {yea{Yr{yth{x!", ch, NULL, victim, TO_CHAR);
-    act ("You bellow as you are swallowed by the {yea{Yr{yth{x!", ch, NULL, victim, TO_VICT);
+//    act ("$N bellows as $E is swallowed by the {yea{Yr{yth{x!", ch, NULL, victim, TO_NOTVICT);
+ //   act ("$N bellows as $E is swallowed by the {yea{Yr{yth{x!", ch, NULL, victim, TO_CHAR);
+//    act ("You bellow as you are swallowed by the {yea{Yr{yth{x!", ch, NULL, victim, TO_VICT);
   }
 
   return;
@@ -6287,9 +6290,9 @@ void spell_hurricane( int sn, int level, CHAR_DATA *ch, void *vo,int target )
     rdam = number_range(dam/2, dam);
     rdam = (rdam * 5) / 4;
     damage(ch, victim, rdam, sn, DAM_LIGHTNING, TRUE);
-    act("A raging tempest of {Cw{ci{Cn{cd{x and {Yl{yig{wh{Wt{wn{yin{Yg{x suddenly begins to form around $N!", ch, NULL, victim, TO_NOTVICT);
-    act("You make a raging tempest of {Cw{ci{Cn{cd{x and {Yl{yig{wh{Wt{wn{yin{Yg{x form around $N!", ch, NULL, victim, TO_CHAR);
-    act("A raging tempest of {Cw{ci{Cn{cd{x and {Yl{yig{wh{Wt{wn{yin{Yg{x suddenly begins to form around you!", ch, NULL, victim, TO_VICT);
+ //   act("A raging tempest of {Cw{ci{Cn{cd{x and {Yl{yig{wh{Wt{wn{yin{Yg{x suddenly begins to form around $N!", ch, NULL, victim, TO_NOTVICT);
+  //  act("You make a raging tempest of {Cw{ci{Cn{cd{x and {Yl{yig{wh{Wt{wn{yin{Yg{x form around $N!", ch, NULL, victim, TO_CHAR);
+ //   act("A raging tempest of {Cw{ci{Cn{cd{x and {Yl{yig{wh{Wt{wn{yin{Yg{x suddenly begins to form around you!", ch, NULL, victim, TO_VICT);
   }
 
   for ( vch = char_list; vch != NULL; vch = vch_next ) {
@@ -6317,9 +6320,9 @@ void spell_hurricane( int sn, int level, CHAR_DATA *ch, void *vo,int target )
 			  if (vch->position == POS_DEAD)
 				  continue;
 			  if (rings > 1 && number_chance(10*i)) {
-				  act("A raging tempest of {Cw{ci{Cn{cd{x and {Yl{yig{wh{Wt{wn{yin{Yg{x suddenly forms around $N!", ch, NULL, vch, TO_NOTVICT);
-				  act("You make a raging tempest of {Cw{ci{Cn{cd{x and {Yl{yig{wh{Wt{wn{yin{Yg{x form around $N!", ch, NULL, vch, TO_CHAR);
-				  act("A raging tempest of {Cw{ci{Cn{cd{x and {Yl{yig{wh{Wt{wn{yin{Yg{x suddenly begins to form around you!", ch, NULL, vch, TO_VICT);
+//				  act("A raging tempest of {Cw{ci{Cn{cd{x and {Yl{yig{wh{Wt{wn{yin{Yg{x suddenly forms around $N!", ch, NULL, vch, TO_NOTVICT);
+//				  act("You make a raging tempest of {Cw{ci{Cn{cd{x and {Yl{yig{wh{Wt{wn{yin{Yg{x form around $N!", ch, NULL, vch, TO_CHAR);
+//				  act("A raging tempest of {Cw{ci{Cn{cd{x and {Yl{yig{wh{Wt{wn{yin{Yg{x suddenly begins to form around you!", ch, NULL, vch, TO_VICT);
 				  rdam = number_range(dam/2, dam);
 				  rdam = (rdam * 4) / 3;
 				  damage(ch, vch, rdam, sn, DAM_LIGHTNING, TRUE);
@@ -6329,9 +6332,9 @@ void spell_hurricane( int sn, int level, CHAR_DATA *ch, void *vo,int target )
 			  DAZE_STATE(vch, number_range(1,2) * PULSE_VIOLENCE);
 	  } else {
 		  if (number_percent() > 50 )  {
-			  act("A raging tempest of {Cw{ci{Cn{cd{x and {Yl{yig{wh{Wt{wn{yin{Yg{x suddenly forms around $N!", ch, NULL, vch, TO_NOTVICT);
-			  act("You make a raging tempest of {Cw{ci{Cn{cd{x and {Yl{yig{wh{Wt{wn{yin{Yg{x form around $N!", ch, NULL, vch, TO_CHAR);
-			  act("A raging tempest of {Cw{ci{Cn{cd{x and {Yl{yig{wh{Wt{wn{yin{Yg{x suddenly begins to form around you!", ch, NULL, vch, TO_VICT);
+//			  act("A raging tempest of {Cw{ci{Cn{cd{x and {Yl{yig{wh{Wt{wn{yin{Yg{x suddenly forms around $N!", ch, NULL, vch, TO_NOTVICT);
+//			  act("You make a raging tempest of {Cw{ci{Cn{cd{x and {Yl{yig{wh{Wt{wn{yin{Yg{x form around $N!", ch, NULL, vch, TO_CHAR);
+//			  act("A raging tempest of {Cw{ci{Cn{cd{x and {Yl{yig{wh{Wt{wn{yin{Yg{x suddenly begins to form around you!", ch, NULL, vch, TO_VICT);
 			  if (vch->position == POS_DEAD)
 				  continue;
 			  rdam = number_range(dam/2, dam);
@@ -6385,7 +6388,7 @@ void spell_air_dome( int sn, int level, CHAR_DATA *ch, void *vo,int target)
 
     affect_to_char( victim, &af );
     act( "$n is surrounded by a {Cd{co{Wm{Ce{x of {Ca{Wi{Cr{x.", victim, NULL, NULL, TO_ROOM );
-    send_to_char( "You are surrounded by a {Cd{co{Wm{Ce{x of {Ca{Wi{Cr{x.\n\r", victim );
+ //   send_to_char( "You are surrounded by a {Cd{co{Wm{Ce{x of {Ca{Wi{Cr{x.\n\r", victim );
     return;	
 	
 }
@@ -6443,7 +6446,7 @@ void spell_mind_flay( int sn, int level, CHAR_DATA *ch, void *vo, int target)
     affect_to_char( victim, &af );
 
     send_to_char( "You clutch your head and scream loudly!\n\r", victim );
-    act("$n clutches $s head and screams loudly!",victim,NULL,NULL,TO_ROOM);
+//    act("$n clutches $s head and screams loudly!",victim,NULL,NULL,TO_ROOM);
     return;
 }
 

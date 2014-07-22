@@ -516,6 +516,8 @@ char *color2web(char *text)
   return ptr;
 }
 
+#define WEBHELP_DIR "../webhelp/"
+
 void do_help2web(CHAR_DATA *ch, char *argument)
 {
   char buf[MIL];
@@ -552,12 +554,12 @@ void do_help2web(CHAR_DATA *ch, char *argument)
     
     fp =  fopen(filename, "w");
     
-    fprintf(fp, "<!DOCTYPE html>\n<html>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"../shadows.css\">\n");
-//    fprintf(fp, "<FONT FACE=\"Courier\"><B>\n");
+    fprintf(fp, "<BODY TEXT=\"darkgray\" BGCOLOR=\"black\">");
+    fprintf(fp, "<FONT FACE=\"Courier\"><B>\n");
     fprintf(fp, "<PRE><H1>%s</H1>", pHelp->keyword);
     fprintf(fp, "%s\n", color2web(pHelp->text));  
     fprintf(fp, "</FONT></B></PRE>\n");
-    fprintf(fp, "</BODY>\n</html>");   
+    fprintf(fp, "</BODY>\n");   
     fclose(fp);
   }
 
@@ -565,10 +567,10 @@ void do_help2web(CHAR_DATA *ch, char *argument)
   sprintf(index_filename, "%s%s.html", WEBHELP_DIR, "index");
   ifp = fopen(index_filename, "w");
   
-  fprintf(ifp, "<!DOCTYPE html>\n<html>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"../shadows.css\">\n");
-//  fprintf(ifp, "<FONT FACE=\"Courier\"><B>\n");
-  fprintf(ifp, "<PRE><H1>Shadows of the Wheel Help files</H1>");
-  fprintf(ifp, "Created with help2web Copyright &copy; 2014 Shadows of the Wheel\n");
+  fprintf(ifp, "<BODY TEXT=\"darkgray\" BGCOLOR=\"black\" LINK=\"darkgray\">");
+  fprintf(ifp, "<FONT FACE=\"Courier\"><B>\n");
+  fprintf(ifp, "<PRE><H1><c red>Age of Illusion</c> Help files</H1>");
+  fprintf(ifp, "Created with help2web Copyright &copy; 1995-2014 by Age of Illusion\n");
   fprintf(ifp, "Last updated at <FONT COLOR=\"goldenrod\">%s</FONT>\n", (char *) ctime(&current_time));
   
   // Loop through, make Index for each starting char A-Z
@@ -591,11 +593,11 @@ void do_help2web(CHAR_DATA *ch, char *argument)
 	   icnt++;
 	   ptr = strtok(_keyword, " ");
 	   if (ptr != NULL)
-		sprintf(filename, "%s.html", ptr);
+		sprintf(filename, "%s%s.html", WEBHELP_DIR, ptr);
 	   else
-		sprintf(filename, "%s.html", pHelp->keyword);
+		sprintf(filename, "%s%s.html", WEBHELP_DIR, pHelp->keyword);
 	   
-	   sprintf(buf, "<a href=%s\ STYLE=\"TEXT-DECORATION:NONE\">%-26.26s</a>%s", filename, _keyword, icnt % 4 == 3? "\n" : "  ");
+	   sprintf(buf, "<a href=\"http:/webhelp/%s\" STYLE=\"TEXT-DECORATION:NONE\">%-26.26s</a>%s", filename, _keyword, icnt % 4 == 3? "\n" : "  ");
 	   fprintf(ifp, buf);
 	 }	 
     }

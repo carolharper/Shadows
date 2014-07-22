@@ -1,28 +1,28 @@
 /***************************************************************************
- *  Original Diku Mud copyright (C) 1990, 1991 by Sebastian Hammer,	   *
+ *  Original Diku Mud copyright (C) 1990, 1991 by Sebastian Hammer,	       *
  *  Michael Seifert, Hans Henrik St{rfeldt, Tom Madsen, and Katja Nyboe.   *
- *									   *
- *  Merc Diku Mud improvments copyright (C) 1992, 1993 by Michael	   *
- *  Chastain, Michael Quan, and Mitchell Tse.				   *
- *									   *
+ *									                                       *
+ *  Merc Diku Mud improvments copyright (C) 1992, 1993 by Michael	       *
+ *  Chastain, Michael Quan, and Mitchell Tse.				               *
+ *																		   *
  *  In order to use any part of this Merc Diku Mud, you must comply with   *
  *  both the original Diku license in 'license.doc' as well the Merc	   *
  *  license in 'license.txt'.  In particular, you may not remove either of *
- *  these copyright notices.						   *
- *									   *
- *  Much time and thought has gone into this software and you are	   *
+ *  these copyright notices.											   *
+ *																		   *
+ *  Much time and thought has gone into this software and you are		   *
  *  benefitting.  We hope that you share your changes too.  What goes	   *
- *  around, comes around.						   *
+ *  around, comes around.												   *
  ***************************************************************************/
  
 /***************************************************************************
-*	ROM 2.4 is copyright 1993-1998 Russ Taylor			   *
-*	ROM has been brought to you by the ROM consortium		   *
-*	    Russ Taylor (rtaylor@hypercube.org)				   *
-*	    Gabrielle Taylor (gtaylor@hypercube.org)			   *
-*	    Brian Moore (zump@rom.org)					   *
-*	By using this code, you have agreed to follow the terms of the	   *
-*	ROM license, in the file Rom24/doc/rom.license			   *
+*	ROM 2.4 is copyright 1993-1998 Russ Taylor							   *
+*	ROM has been brought to you by the ROM consortium					   *
+*	    Russ Taylor (rtaylor@hypercube.org)								   *
+*	    Gabrielle Taylor (gtaylor@hypercube.org)						   *
+*	    Brian Moore (zump@rom.org)					 					   *
+*	By using this code, you have agreed to follow the terms of the		   *
+*	ROM license, in the file Rom24/doc/rom.license			 			   *
 ***************************************************************************/
 
 #if defined(macintosh)
@@ -1792,7 +1792,7 @@ void check_improve( CHAR_DATA *ch, int sn, bool success, int multiplier )
   if (success) {
     if (IS_DR(ch) || IS_FORSAKEN(ch)|| IS_CODER(ch))
     {
-	chance=50;
+	chance=80;
     }
    else
     {
@@ -1811,7 +1811,7 @@ void check_improve( CHAR_DATA *ch, int sn, bool success, int multiplier )
   else {
     if (IS_DR(ch) || IS_FORSAKEN(ch)|| IS_CODER(ch))
     {
-	chance=50;
+	chance=80;
     }
    else
     {
@@ -3502,9 +3502,9 @@ void do_mine(CHAR_DATA *ch, char *argument)
 	{
 		if (rQuality >= 99)
 			nQuality = MINING_QUALITY_PERFECT;
-		else if (rQuality >= 95) 
+		else if (rQuality >= 85) 
 			nQuality = MINING_QUALITY_EXCELLENT;
-		else if (rQuality >= 50)
+		else if (rQuality >= 30)
 			nQuality = MINING_QUALITY_FLAWLESS;
 		else
 			nQuality = MINING_QUALITY_FLAWED;
@@ -3704,9 +3704,9 @@ void do_gemmine(CHAR_DATA *ch, char *argument)
 	{
 		if (rQuality >= 99)
 			nQuality = MINING_QUALITY_PERFECT;
-		else if (rQuality >= 89) 
+		else if (rQuality >= 85) 
 			nQuality = MINING_QUALITY_EXCELLENT;
-		else if (rQuality >= 35)
+		else if (rQuality >= 30)
 			nQuality = MINING_QUALITY_FLAWLESS;
 		else
 			nQuality = MINING_QUALITY_FLAWED;
@@ -4530,17 +4530,17 @@ void do_jewelcraft(CHAR_DATA *ch, char *argument)
 
         if (!str_prefix(gem2, "ruby")) {
                 nGem2Type = MINING_GEM_RUBY;
-		strcpy(stone, "a {rr{Rub{ry{x");
+		sprintf(stone, "a {rr{Rub{ry{x");
         }
         else
         if (!str_prefix(gem2, "diamond")) {
                 nGem2Type = MINING_GEM_DIAMOND;
-		strcpy(stone, "a {Wd{wi{Wa{wm{Wond{x");
+		sprintf(stone, "a {Wd{wi{Wa{wm{Wond{x ");
         }
         else
         if (!str_prefix(gem2, "emerald")) {
                 nGem2Type = MINING_GEM_EMERALD;
-		strcpy(stone, "an {gem{Ger{ga{Gl{gd{x");
+		sprintf(stone, "an {gem{Ger{ga{Gl{gd{x ");
         }
         else
         {
@@ -4551,19 +4551,19 @@ void do_jewelcraft(CHAR_DATA *ch, char *argument)
 	if (!str_prefix(slot,"ear")) 
 	{
 		SET_BIT(nSlot,  ITEM_WEAR_EAR);
-		strcpy(type, "earring");
+		sprintf(type, "earring");
 	}
 	else
 	if (!str_prefix(slot,"finger")) 
 	{
 		SET_BIT(nSlot,  ITEM_WEAR_FINGER);
-		strcpy(type, "ring");
+		sprintf(type, "ring");
 	}
 	else
 	if (!str_prefix(slot,"neck")) 
 	{
 		SET_BIT(nSlot,  ITEM_WEAR_NECK);
-		strcpy(type, "necklace");
+		sprintf(type, "necklace");
 	}
 	else
 	{
@@ -4827,13 +4827,13 @@ void do_jewelcraft(CHAR_DATA *ch, char *argument)
 	SET_BIT(newItem->wear_flags, nSlot);
 
 	if (nOre1Type == MINING_ORE_SILVER) {
-		sprintf(short_desc,"a {Ws{Di{Wl{Dv{We{Dr{x %s with %s solitaire",type, stone);
+		sprintf(short_desc,"a {Ws{Di{Wl{Dv{We{Dr{x %s {xwith %s {xsolitaire", type, stone);
 	}
 	else if (nOre1Type == MINING_ORE_COPPER) {
-		sprintf(short_desc,"%s double row {rc{Rop{rp{Re{rr{x %s",stone, type);
+		sprintf(short_desc,"%s double row {rc{Rop{rp{Re{rr{x %s{x", stone, type);
 	}
 	else if (nOre1Type == MINING_ORE_GOLD) {
-		sprintf(short_desc,"%s seven-stone {Yg{yol{Yd{yen{x %s",stone, type);
+		sprintf(short_desc,"%s {xseven-stone {Yg{yol{Yd{yen{x %s{x", stone, type);
 	}
 	sprintf(long_desc,"%s lies here.",short_desc);
 	sprintf(name, "jewelcrafted %s %s %s", flag_string(gem_types,nGem2Type), flag_string(ore_types, nOre1Type), type) ;
@@ -5749,7 +5749,7 @@ void do_flamevoid (CHAR_DATA *ch, char *argument){
 	}
 	chance = get_skill(ch, gsn_flamevoid);
 	if(number_percent() > chance){
-		act( "$n's serene expression faulters.", ch, NULL, NULL, TO_ROOM );
+		act( "$n's serene expression falters.", ch, NULL, NULL, TO_ROOM );
 		send_to_char("You enter the void, visualizing a flame, but it breaks into a thousand pieces.\n\r", ch);
 		return;
 	}

@@ -2410,13 +2410,13 @@ case (11): // stomp
 	 }
 	 
 	 /* weaken the poison if it's temporary */
-	 if (poison != NULL) {
-	   poison->level = UMAX(0,poison->level - 2);
-	   poison->duration = UMAX(0,poison->duration - 1);
+	 // if (poison != NULL) {
+	   // poison->level = UMAX(0,poison->level - 2);
+	   // poison->duration = UMAX(0,poison->duration - 1);
 	   
-	   if (poison->level == 0 || poison->duration == 0)
-		act("The poison on $p has worn off.",ch,wield,NULL,TO_CHAR);
-	 }
+	   // if (poison->level == 0 || poison->duration == 0)
+		// act("The poison on $p has worn off.",ch,wield,NULL,TO_CHAR);
+	 // }
     }
     
     if (ch->fighting == victim && IS_WEAPON_STAT(wield,WEAPON_VAMPIRIC)) {
@@ -5233,7 +5233,7 @@ void dam_message( CHAR_DATA *ch, CHAR_DATA *victim,int dam,int dt,bool immune, i
 			    dam_type == DAM_CRIT ? "{r*C*{x " : "", 
 			    hit_flags[hit_location].name, 
 			    dam == 0 ? "but" : "and", 
-			    vp, 
+			    vs, 
 			    punct, 
 			    dam);
 		
@@ -5257,7 +5257,7 @@ void dam_message( CHAR_DATA *ch, CHAR_DATA *victim,int dam,int dt,bool immune, i
 			    attack,
 			    hit_flags[hit_location].name, 
 			    dam == 0 ? "but" : "and", 
-			    vp, 
+			    vs, 
 			    punct, 
 			    dam);
 		
@@ -5282,7 +5282,7 @@ void dam_message( CHAR_DATA *ch, CHAR_DATA *victim,int dam,int dt,bool immune, i
 			    dam_type == DAM_CRIT ? "{r*C*{x " : "", 
 			    hit_flags[hit_location].name, 
 			    dam == 0 ? "but" : "and", 
-			    vp, 
+			    vs, 
 			    punct);
 		
 		sprintf( buf3, "%s$n makes a %s attack against you, %s {4%s{x it%c{x", 
@@ -5305,7 +5305,7 @@ void dam_message( CHAR_DATA *ch, CHAR_DATA *victim,int dam,int dt,bool immune, i
 			    attack,
 			    hit_flags[hit_location].name, 
 			    dam == 0 ? "but" : "and", 
-			    vp, 
+			    vs, 
 			    punct);
 		
 		sprintf( buf3, "%s$n %s at your %s, %s {4%s{x you%c{x",  
@@ -5336,7 +5336,7 @@ void dam_message( CHAR_DATA *ch, CHAR_DATA *victim,int dam,int dt,bool immune, i
 	 sprintf( buf1, "$n's %s {3%s{x $N's %s%c", attack, vp, hit_flags[hit_location].name, punct);
 	 
 	 if (IS_SET(ch->merits, MERIT_ACUTESENSES) || IS_IMMORTAL(ch))
-	   sprintf( buf2, "Your %s {2%s{x $N's %s%c {W({y%d{W){x", attack, vp, hit_flags[hit_location].name, punct, dam);
+	   sprintf( buf2, "Your %s {2%s{x $N's %s%c {W({y%d{W){x", attack, vs, hit_flags[hit_location].name, punct, dam);
 	 else
 	   sprintf( buf2, "Your %s {2%s{x $N's %s%c{x", attack, vp, hit_flags[hit_location].name, punct);
 	 
@@ -6648,11 +6648,11 @@ void do_assassinate( CHAR_DATA *ch, char *argument )
   }
   
   if (IS_SET(victim->imm_flags,IMM_ASSASSINATE) || (((ch->race == race_lookup("trolloc") && !IS_NPC(victim))) && (number_percent() < 50))  ) {
-    act("You try to to slip your $p in through $N's back, but $E reacts quickly and twists $p out of your hand!", ch, obj, victim, TO_CHAR);
+    act("You try to to slip $p in through $N's back, but $E reacts quickly and twists $p out of your hand!", ch, obj, victim, TO_CHAR);
     
-    act("$n try to slip $s $p into you, but you react quickly and twist $p out of $s hand!", ch, NULL, victim, TO_VICT);				
+    act("$n tries to slip $s $p into you, but you react quickly and twist $p out of $s hand!", ch, NULL, victim, TO_VICT);				
     
-    act("$N reacts quickly and twists $p out of $n's hand as he try to sink it into $M!", ch, obj, victim, TO_NOTVICT);    	
+    act("$N reacts quickly and twists $p out of $n's hand as he tries to sink it into $M!", ch, obj, victim, TO_NOTVICT);    	
     
     obj_from_char( obj );
     if ( IS_OBJ_STAT(obj,ITEM_NODROP) || IS_OBJ_STAT(obj,ITEM_INVENTORY) )
@@ -6714,7 +6714,7 @@ void do_assassinate( CHAR_DATA *ch, char *argument )
 	 
 	 //send_to_char("A slight gurgle escapes your lips as you succumb to the weapon in your back!\r\n", victim);
 	 
-	 act("You slip your $p in through $N's back to pierce $S {Rheart{x. Without a sound $E dies!", ch, obj, victim, TO_CHAR);
+	 act("You slip $p in through $N's back to pierce $S {Rheart{x. Without a sound $E dies!", ch, obj, victim, TO_CHAR);
 	 
 	 act("A slight gurgle escapes your lips as you succumb to the weapon in your back!", ch, NULL, victim, TO_VICT);				
 	 
@@ -8082,8 +8082,8 @@ bool check_critical(CHAR_DATA *ch, CHAR_DATA *victim)
   obj = get_eq_char(ch,WEAR_WIELD);
   
   if (( get_eq_char(ch,WEAR_WIELD) == NULL ) || 
-	 ( get_skill(ch,gsn_critical)  <  1 ) ||
-	 ( get_weapon_skill(ch,get_weapon_sn(ch)) <  90 ) ||
+	 ( get_skill(ch,gsn_critical)  <= 1 ) ||
+	 ( get_weapon_skill(ch,get_weapon_sn(ch)) <=  90 ) ||
 	 ( number_range(0,100) > get_skill(ch,gsn_critical) )
 	 )
     return FALSE;
@@ -8495,7 +8495,7 @@ void do_charge( CHAR_DATA *ch, char *argument )
 	   }
 	   
 	   act("You ride into a {Cwall of air{x and are knocked off the horse!", ch, NULL, NULL, TO_CHAR);
-	   act("$n ride into the {Cwall of air{x and is knocked off the horse!", ch, NULL, NULL, TO_ROOM);
+	   act("$n rides into the {Cwall of air{x and is knocked off the horse!", ch, NULL, NULL, TO_ROOM);
 	   
 	   // Throw off horse
 	   ch->riding = FALSE;
@@ -8757,11 +8757,11 @@ void do_guard( CHAR_DATA *ch, char *argument )
   if (ch == victim) {
   	if (IS_GUARDING(ch)) {
   		remove_guard(ch, TRUE);
-  		send_to_char("You return to only make sure you are the healthy one.\r\n", ch);
+  		send_to_char("You return to only making sure you are the healthy one.\r\n", ch);
   		return;
   	}
   	else {
-  		send_to_char("You already have the focus at your self!\r\n", ch);
+  		send_to_char("You already have the focus on yourself!\r\n", ch);
   		return;
   	}
   }

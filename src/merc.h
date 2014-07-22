@@ -31,7 +31,6 @@
 #include <syslog.h>
 #include <time.h>
 #include <stdio.h>
-#include <string.h>  //added for compatibility with Ubuntu
 
 #define LOG_BUILDER LOG_LOCAL1
 #define LOG_PLAYER  LOG_LOCAL2
@@ -96,11 +95,6 @@ typedef unsigned char			bool;
 #define GSN(x)	extern sh_int x;
 #include "gsn.h"
 #undef GSN
-
-// #define bcopy(from,to,len)      memmove(to,from,len)
-// #define bzero(mem,len)          memset(mem,0,len)
-// #define bcmp(a,b,len)           memcmp(a,b,len)
-
 
 /*
  * Structure types.
@@ -289,7 +283,7 @@ typedef int	LOOKUP_F	args( ( const char * ) );
  * Increase the max'es if you add more of something.
  * Adjust the pulse numbers to suit yourself.
  */
-#define MAX_SOCIALS		  256
+#define MAX_SOCIALS		  500
 extern int MAX_SKILL;
 extern int MAX_GROUP;
 #define MAX_IN_GROUP        45
@@ -3342,7 +3336,7 @@ bool is_fade_granted args( (CHAR_DATA *ch) );
 
 #define IS_WOLFKIN(ch)  (IS_SET(ch->talents, TALENT_WOLFKIN) && ch->level >= 20 && IS_SET(ch->affected_by, AFF_INFRARED))
 
-#define IS_CODER(ch)    (!str_cmp (ch->name, "Solara") || !str_cmp (ch->name, "Brianthas") || !str_cmp (ch->name, "Iero") || !str_cmp(ch->name, "Vira") || !str_cmp(ch->name,"Caliam"))
+#define IS_CODER(ch)    (!str_cmp (ch->name, "Solara") || !str_cmp (ch->name, "Lukas") || !str_cmp (ch->name, "Ashara") || !str_cmp(ch->name, "Vira") || !str_cmp(ch->name,"Arietta"))
 
 #define CAN_CHANNEL(ch)  ((get_skill(ch, gsn_seize) != 0) || (get_skill(ch, gsn_embrace) != 0))
 #define CAN_DREAM(ch) ((get_skill(ch,find_spell(ch,"dreamgate")) >= 150 ) || (get_skill(ch,gsn_dream) > 0) || IS_IMMORTAL(ch))
@@ -3672,7 +3666,7 @@ extern int control;
 #define DATA_DIR	"../data/"
 #define PROG_DIR	"../data/progs/"
 #define LOG_DIR    	 "../log/"
-#define LOG_RP_DIR    	 "/var/www/shadows/logged_rp/current/"
+#define LOG_RP_DIR    	 "/home/bryan/public_html/logged_rp/current/"
 #define PKRANK_FILE	"pkrank.txt"
 #define BUG_FILE        "bugs.txt"     /* For 'bug' and bug()*/
 #define TYPO_FILE       "typos.txt"    /* For 'typo'*/
@@ -3685,8 +3679,8 @@ extern int control;
 #define DISABLED_FILE	"disabled.txt"  /* disabled commands */
 #define HELP_FILE       "help.txt"       /* For undefined helps */
 #define COUNTER_FILE    "counter.dat"    /* for persistent counters */
-#define WEB_DIR     "/var/www/shadows/"
-#define WEBHELP_DIR "/var/www/shadows/webhelp/"
+#define WEB_DIR     "/home/bryan/public_html/"
+// #define WEBHELP_DIR  	"/home/bryan/public_html/webhelp/"
 
 /*
  * Our function prototypes.

@@ -28,8 +28,8 @@
 #if defined(macintosh)
 #include <types.h>
 #else
-#include <linux/types.h>
-#include <time.h>
+#include <sys/types.h>
+#include <sys/time.h>
 #endif
 #include <stdio.h>
 #include <string.h>
@@ -2911,7 +2911,7 @@ void reward_rp (CHAR_DATA *ch)
 		    if (i > 750)
 				i = 1000;
 		    i *= 3;
-			qp = number_range(125,150);   /* awards random amount of quest points as well as exp */
+			qp = number_range(250,500);   /* awards random amount of quest points as well as exp */
 			
 			if (ch->pcdata->last_web_vote+3600 >= current_time) {
 				i = i*2;
@@ -4304,7 +4304,7 @@ void do_quit( CHAR_DATA *ch, char *argument )
   remove_sustained_weaves(ch);
   
   send_to_char( 
-			"\nThank you for playing on {DShadows{x of the {WWheel{x.\n\r",ch);
+			"\nThank you for playing on {RAge of Illusions{x.\n\r",ch);
   act( "$n has left the game.", ch, NULL, NULL, TO_ROOM );
   sprintf( log_buf, "%s has quit.", ch->name );
   log_string( log_buf );
@@ -7309,7 +7309,7 @@ void do_mymail( CHAR_DATA *ch, char *argument )
   }
   
   if (IS_NULLSTR(argument)) {  
-     sprintf(buf, "You have provided Shadows of the Wheel with the following Email address: [%s]\n\r", ch->pcdata->email);
+     sprintf(buf, "You have provided Age of Illusion with the following Email address: [%s]\n\r", ch->pcdata->email);
      send_to_char(buf, ch);
      return;
   }
@@ -7507,7 +7507,7 @@ void do_whochannels(CHAR_DATA *ch, char *argument)
   /* sort PCS array */  
   qsort (pcs, cnt, sizeof(wch), compare_char_names);
 
-  sprintf(buf, "%-16s      {fChat    {jGame    {8Guild   {NOGuild  {TGuild  {UTGuild {zNewbie  {dGossip  {aAuction {eMusic   {vRace    {kTells    {RQuiet{x\n\r",
+  sprintf(buf, "%-16s      {fChat    {jGame    {8Guild   {NOGuild  {SSGuild  {UTGuild {zNewbie  {dGossip  {aAuction {eMusic   {vRace    {kTells    {RQuiet{x\n\r",
 		"{yPlayer{x:");
   add_buf(output, buf);
   

@@ -459,7 +459,7 @@ int main( int argc, char **argv )
 #if defined(macintosh) || defined(MSDOS)
     boot_db();
     initmasterformslookup();    
-    log_string( "Shadows is ready to rock." );
+    log_string( "TSW is ready to rock." );
     game_loop_mac_msdos( );
 #endif
 
@@ -471,7 +471,7 @@ int main( int argc, char **argv )
     init_signals(); /* For the use of the signal handler. -Ferric */
     boot_db();
     initmasterformslookup();
-    sprintf( log_buf, "Shadows is ready to rock on port %d.", port );
+    sprintf( log_buf, "AoI is ready to rock on port %d.", port );
     log_string( log_buf );
     
     if (fCopyOver)
@@ -774,9 +774,9 @@ void game_loop_unix( int control )
 	 * Poll all active descriptors.
 	 */
 	if (port == 1065)
-     		openlog("shadowslog",0,LOG_PLAYER);
+     		openlog("tswlog",0,LOG_PLAYER);
 	else
-     		openlog("shadowslog",0,LOG_BUILDER);
+     		openlog("tswlog",0,LOG_BUILDER);
 	FD_ZERO( &in_set  );
 	FD_ZERO( &out_set );
 	FD_ZERO( &exc_set );
@@ -1058,7 +1058,7 @@ void init_descriptor( int control )
 	write_to_descriptor( desc,
 	    "Your site has been banned from this mud.\n\r", 0 );
 	write_to_descriptor( desc,
-	    "If you are reading this you have done something repeatedly that is\n\rdetrimental to the game.  The Administrative staff have reviewed the past\n\ractivities and have decided that it is in the best interest of the game as a\n\rwhole for you to seek your entertainment elsewhere.\n\r\n\rIf you feel that you are seeing this message in error, please send an email\n\rto admin@shadowsofthewheel.com\n\r\n\rIf this message is showing up intentionally, we kindly invite you to find a\n\rnew mud to enjoy your gaming experience.",0);
+	    "If you are reading this you have done something repeatedly that is\n\rdetrimental to the game.  The Administrative staff have reviewed the past\n\ractivities and have decided that it is in the best interest of the game as a\n\rwhole for you to seek your entertainment elsewhere.\n\r\n\rIf you feel that you are seeing this message in error, please send an email\n\rto admin@turningwheel.org\n\r\n\rIf this message is showing up intentionally, we kindly invite you to find a\n\rnew mud to enjoy your gaming experience.",0);
 
 
 	close( desc );
@@ -2411,11 +2411,11 @@ void bust_a_prompt( CHAR_DATA *ch )
     send_to_char(buf2, ch);  	
   }  
 
-  /* SSGuild invis flag                                */
+  /* TGuild invis flag                                */
   /*--------------------------------------------------*/
   if (is_tguild(ch) && ch->tguild_invis == TRUE) {	
     buf2[0] = '\0';
-    sprintf(buf2, "({Y%s{x)","tgi");
+    sprintf(buf2, "({Y%s{x)","ssgi");
     send_to_char(buf2, ch);  	
   }  
   
@@ -3825,7 +3825,7 @@ case CON_GET_FLAWS:
 	   }
         }
 
-	write_to_buffer( d, "\n\rWelcome to Shadows of the Wheel.  Please do not feed the mobiles.\n\n\r",
+	write_to_buffer( d, "\n\rWelcome to Age of Illusions.  Please do not feed the mobiles.\n\n\r",
 	    0 );
 	ch->next	= char_list;
 	char_list	= ch;
@@ -4163,7 +4163,7 @@ bool check_parse_name( char *name )
      * Reserved words.
      */
     if (is_exact_name(name,
-	"all auto immortal self someone something the you loner none"))
+	"all auto immortal self someone something the you loner none death wizard lord killer"))
     {
 	return FALSE;
     }

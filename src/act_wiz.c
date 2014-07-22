@@ -3921,12 +3921,12 @@ void do_restore( CHAR_DATA *ch, char *argument )
 	   continue;
 	 
 	 if (victim->in_room != NULL) {
-	   sprintf(buf, "$n has restored all PCs that start with a %c.", UPPER(argument[0]));
+	   sprintf(buf, "$n has restored all PCs whose names start with a %c.", UPPER(argument[0]));
 	   act_old(buf, ch, NULL, d->character, TO_VICT,POS_SLEEPING );
 	}
     }
 
-    sprintf(buf, "All PCs that start with a %c restored.\r\n", UPPER(argument[0]));
+    sprintf(buf, "All PCs whose names start with a %c restored.\r\n", UPPER(argument[0]));
     send_to_char(buf, ch);
     return;
   }  
@@ -3971,12 +3971,12 @@ void do_restore( CHAR_DATA *ch, char *argument )
 	   continue;
 	 
 	 if (victim->in_room != NULL) {
-	   sprintf(buf, "$n has restored all PCs that end with a %c.", UPPER(argument[0]));
+	   sprintf(buf, "$n has restored all PCs whose names end with a %c.", UPPER(argument[0]));
 	   act_old(buf, ch, NULL, d->character, TO_VICT,POS_SLEEPING );
 	}
     }
 
-    sprintf(buf, "All PCs that end with a %c restored.\r\n", UPPER(argument[0]));
+    sprintf(buf, "All PCs whose names end with a %c restored.\r\n", UPPER(argument[0]));
     send_to_char(buf, ch);
     return;
   }
@@ -4030,7 +4030,7 @@ void do_restore( CHAR_DATA *ch, char *argument )
 	   continue;
 	 
 	 if (victim->in_room != NULL) {
-	   sprintf(buf, "$n has restored all %s PCs .", argument);
+	   sprintf(buf, "$n has restored all %s PCs.", argument);
 	   act_old(buf, ch, NULL, d->character, TO_VICT,POS_SLEEPING );
 	}
     }
@@ -4082,12 +4082,12 @@ void do_restore( CHAR_DATA *ch, char *argument )
 	   continue;
 	 
 	 if (victim->in_room != NULL) {
-	   sprintf(buf, "$n has restored all PCs that has set their title.");
+	   sprintf(buf, "$n has restored all PCs who have set their title.");
 	   act_old(buf, ch, NULL, d->character, TO_VICT,POS_SLEEPING );
 	}
     }
 
-    sprintf(buf, "All PCs that has set their title restored.\r\n");
+    sprintf(buf, "All PCs who have set their title restored.\r\n");
     send_to_char(buf, ch);
     return;
   }   
@@ -4193,12 +4193,12 @@ void do_restore( CHAR_DATA *ch, char *argument )
 	   continue;
 	 
 	 if (victim->in_room != NULL) {
-	   sprintf(buf, "$n has restored all PCs that are not in RP mode.");
+	   sprintf(buf, "$n has restored all PCs who are not in RP mode.");
 	   act_old(buf, ch, NULL, d->character, TO_VICT,POS_SLEEPING );
 	}
     }
 
-    sprintf(buf, "All PCs that are not in RP mode restored.\r\n");
+    sprintf(buf, "All PCs who are not in RP mode restored.\r\n");
     send_to_char(buf, ch);
     return;
   }
@@ -4244,12 +4244,12 @@ void do_restore( CHAR_DATA *ch, char *argument )
 	   continue;
 	 
 	 if (victim->in_room != NULL) {
-	   sprintf(buf, "$n has restored all PCs that are not whoinvis.");
+	   sprintf(buf, "$n has restored all PCs who are not whoinvis.");
 	   act_old(buf, ch, NULL, d->character, TO_VICT,POS_SLEEPING );
 	}
     }
 
-    sprintf(buf, "All PCs that are not whoinvis restored.\r\n");
+    sprintf(buf, "All PCs who are not whoinvis restored.\r\n");
     send_to_char(buf, ch);
     return;
   }
@@ -6689,7 +6689,7 @@ void do_warmboot (CHAR_DATA *ch, char * argument)
 	   colourconv( pbuff, buf, ch );  
 	   write_to_descriptor (d->descriptor, buffer, 0);
 	   write_to_descriptor (d->descriptor, "Saving...\r\n", 0);
-	   write_to_descriptor (d->descriptor, "{DHold on to your helmets, folks!  We're going in!!\r\n", 0); 
+	   write_to_descriptor (d->descriptor, "{Damnit Firesong, what are you doing?!\r\n", 0); 
 	 }
 	 else {
 	   write_to_descriptor (d->descriptor, buf, 0);
@@ -6786,7 +6786,7 @@ void do_copyinboot (CHAR_DATA *ch, char * argument)
       colourconv( pbuff, buf, ch );  
       write_to_descriptor (d->descriptor, buffer, 0);
       write_to_descriptor (d->descriptor, "Saving...\r\n", 0);
-      write_to_descriptor (d->descriptor, "Hang on to your helmet, folks!  We're going in!!\r\n", 0); 
+      write_to_descriptor (d->descriptor, "Damnit Firesong, what are you doing?!\r\n", 0); 
     }
     else {
       write_to_descriptor (d->descriptor, buf, 0);
@@ -8904,7 +8904,7 @@ void do_review( CHAR_DATA *ch, char *argument )
      }     
 
      if (is_tguild(victim)) {
-       sprintf( buf, "TGuil     : %s\r\n",player_tguild(victim));
+       sprintf( buf, "SSGuil     : %s\r\n",player_tguild(victim));
        send_to_char(buf, ch);
        sprintf( buf, " + Rank    : %d\r\n", victim->tguild_rank+1);
        send_to_char(buf, ch);
@@ -9161,7 +9161,7 @@ void do_whoguild(CHAR_DATA *ch, char *argument)
   qsort (pcs, cnt, sizeof(wch), compare_char_names);
 
   sprintf(buf, "%-16s      %-16s      %-16s      %-16s      %-16s      %-18s      %-16s\r\n",
-		"{yPlayer{x:", "{8Guild{x:", "{NOGuild{x:", "{TGuild{x:", "{UTGuild{x:", "{hMinion{x:", "{XDF{x:");
+		"{yPlayer{x:", "{8Guild{x:", "{NOGuild{x:", "{SSGuild{x:", "{UTGuild{x:", "{hMinion{x:", "{XDF{x:");
   add_buf(output, buf);
   
   sprintf(buf, "%-16s  %-16s  %-16s  %-16s  %-16s  %-18s  %-16s\r\n",
@@ -9903,7 +9903,7 @@ void do_retire_imm(CHAR_DATA * ch, char * argument) {
 	// char arg1[MAX_STRING_LENGTH];
 
  	if (IS_NULLSTR(argument)) {
-		send_to_char("Syntax: retireimm <password>\r\n\tThis command retires your immortal character from active duty.  Use this when you feel that you have done what you desire to do as an Immortal at {DShadows{x of the {WWheel, yet still want to keep your character pfile around for general chatting.  It is a way of stepping out nicely without any hard feelings either way.  You will not be asked why you did it, nor will you be asked to return to active duty.  Neither should you ask to return to active duty once you have retired.  The stipulation of not leading a guild will no longer apply, as you will no longer be actively participating in running the game.\r\n",ch);
+		send_to_char("Syntax: retireimm <password>\r\n\tThis command retires your immortal character from active duty.  Use this when you feel that you have done what you desire to do as an Immortal at Age of Illusion, yet still want to keep your character pfile around for general chatting.  It is a way of stepping out nicely without any hard feelings either way.  You will not be asked why you did it, nor will you be asked to return to active duty.  Neither should you ask to return to active duty once you have retired.  The stipulation of not leading a guild will no longer apply, as you will no longer be actively participating in running the game.\r\n",ch);
 		return;
         }
 
